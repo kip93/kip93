@@ -1,17 +1,23 @@
+# Workflow to automatically update my profile README
+# Based on https://github.com/lowlighter/metrics/
+
 name: GitHub profile README generator
-on:
-  schedule: [{cron: "0 */4 * * *"}]
-  push: {branches: ["main"]}
-concurrency:
+on:  # When to run the workflow
+  schedule: [{cron: "0 */4 * * *"}]  # Every 4 hours
+  push: {branches: ["main"]}  # When pushing to main
+
+concurrency:  # Queue workflows rather than overlap them
   group: metrics
+
 jobs:
-  resources:
+  resources:  # Generate the SVGs that will be used in the README
     name: Generate resources
     runs-on: ubuntu-latest
     steps:
       - name: Update stats.svg
         uses: lowlighter/metrics@latest
         with:
+          # Common config
           user: kip93
           token: ${{ secrets.TOKEN }}
           output_action: commit
@@ -19,21 +25,24 @@ jobs:
           committer_message: Update ${filename} - [GitHub Action]
           config_timezone: Etc/UTC
 
+          # Output file
           template: classic
           config_display: large
           filename: stats.svg
           config_output: svg
 
-          base: "activity, community, repositories"
-          plugin_lines: yes
-          plugin_traffic: yes
-          extras_css: |
+          # Output info
+          base: "activity, community, repositories"  # Which stats to show
+          plugin_lines: yes  # Include total added & removed lines
+          plugin_traffic: yes  # Views in the last 2 weeks
+          extras_css: |  # Make it prettier
             * { font-size: 15px; }
             h2 { margin: 2px 5px 6px !important; }
 
       - name: Update languages.svg
         uses: lowlighter/metrics@latest
         with:
+          # Common config
           user: kip93
           token: ${{ secrets.TOKEN }}
           output_action: commit
@@ -41,19 +50,21 @@ jobs:
           committer_message: Update ${filename} - [GitHub Action]
           config_timezone: Etc/UTC
 
+          # Output file
           template: classic
           config_display: large
           filename: languages.svg
           config_output: svg
 
+          # Output info
           base: ""
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_categories: data, markup, programming, prose  # all
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8  # max
-          plugin_languages_threshold: 0%
-          extras_css: |
+          plugin_languages: yes  # Show language bar
+          plugin_languages_sections: most-used  # Most used languages
+          plugin_languages_categories: data, markup, programming, prose  # All categories
+          plugin_languages_details: percentage  # Show percentages, with 2 decimals of precision
+          plugin_languages_limit: 8  # Max
+          plugin_languages_threshold: 0%  # Don't filter
+          extras_css: |  # Make it prettier
             * { font-size: 16px; }
             h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
             .row { justify-content: center; }
@@ -63,6 +74,7 @@ jobs:
       - name: Update achievements.svg
         uses: lowlighter/metrics@latest
         with:
+          # Common config
           user: kip93
           token: ${{ secrets.TOKEN }}
           output_action: commit
@@ -70,28 +82,31 @@ jobs:
           committer_message: Update ${filename} - [GitHub Action]
           config_timezone: Etc/UTC
 
+          # Output file
           template: classic
           config_display: large
           filename: achievements.svg
           config_output: svg
 
+          # Output info
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: yes
-          plugin_achievements_limit: 0  # all
-          plugin_achievements_display: compact
-          extras_css: |
+          plugin_achievements: yes  # Show achievements
+          plugin_achievements_threshold: C  # Show all unlocked achievements
+          plugin_achievements_secrets: yes  # Include secret achievements
+          plugin_achievements_limit: 0  # All that can fit
+          plugin_achievements_display: compact  # Compact layout
+          extras_css: |  # Make it prettier
             h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
 
-  readme:
+  readme:  # Use the template and generated resources to update the README
     name: Generate README
-    needs: [resources]
+    needs: [resources]  # Run after the previous job is finished
     runs-on: ubuntu-latest
     steps:
       - name: Update README.md
         uses: lowlighter/metrics@latest
         with:
+          # Common config
           user: kip93
           token: ${{ secrets.TOKEN }}
           output_action: commit
@@ -99,15 +114,18 @@ jobs:
           committer_message: Update ${filename} - [GitHub Action]
           config_timezone: Etc/UTC
 
+          # Input file
+          markdown: https://raw.githubusercontent.com/kip93/kip93/main/TEMPLATE.md
+
+          # Output file
           template: markdown
           filename: README.md
           config_output: markdown
 
-          markdown: https://raw.githubusercontent.com/kip93/kip93/main/TEMPLATE.md
-
-          plugin_activity: yes
-          plugin_activity_days: 0
-          plugin_activity_limit: 4
-          plugin_activity_visibility: public
-          plugin_activity_filter: all
-          plugin_activity_timestamps: yes
+          # Output info
+          plugin_activity: yes  # Show latest activity
+          plugin_activity_days: 0  # Any age
+          plugin_activity_limit: 4  # Up to 4 entries
+          plugin_activity_visibility: public  # Only public activity
+          plugin_activity_filter: all  # Any type
+          plugin_activity_timestamps: yes  # Include timestamps

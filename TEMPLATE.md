@@ -1,6 +1,6 @@
 <!-- README template, populated using this https://github.com/kip93/kip93/blob/main/.github/workflows/readme.yml. -->
 
-<h1 align="center">👋 Hello world! I'm @{{ LOGIN }}</h1>
+<h1 align="center">👋 Hello world! I'm @{{ LOGIN }}</h1> <!-- LOGIN => username -->
 
 ### 👤 About me
 
@@ -10,7 +10,7 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 * 📅 Coding since 2013.
 * 💼 Currently working @ [MuleSoft](https://github.com/mulesoft/).
-* 👨‍💻 [Python](https://github.com/search?q=user%3A{{ LOGIN }}&l=python) is ❤️.
+* 👨‍💻 [Python](https://github.com/search?q=user%3A{{ LOGIN }}&l=python) is ❤️. <!-- LOGIN => username -->
 * 💻 [NixOS](https://github.com/NixOS/) / [Awesome](https://github.com/awesomeWM/) / [kitty](https://github.com/kovidgoyal/kitty/) / [xonsh](https://github.com/xonsh/).
 * 🌐 I have a [portfolio website](https://kip93.net/) with some more information.
 * 📝 Checkout my [résumé](https://kip93.net/resume/) for even more detail.
@@ -23,7 +23,7 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 ![](./stats.svg)
 
-### 📚 Most used languages
+### 📚 Most used languages <!-- by percentage, in decreasing order -->
 
 ![](./languages.svg)
 
@@ -33,10 +33,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<%- await include(`partials/activity.ejs`) %>
+<%- await include(`partials/activity.ejs`) %> <!-- Last activity -->
 
 
 <h6 align="right"><em>
-    Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v{{ VERSION }}</a> 🛠️<br>
-    Last updated @ {{ meta.generated }} / All times UTC ⌚
+    Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v{{ VERSION }}</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
+    Last updated @ {{ meta.generated }} / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

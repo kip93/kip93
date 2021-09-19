@@ -15,7 +15,7 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * 🌐 I have a [portfolio website](https://kip93.net/) with some more information.
 * 📝 Checkout my [résumé](https://kip93.net/resume/) for even more detail.
 * 📫 Reach me @ [leandro.kip93@gmail.com](mailto:leandro.kip93@gmail.com).
-* 🎲 Fun fact: My first line of code was not a "Hello World".
+* 🎲 Fun fact: My first program was not a "Hello World" (it was simple R/W in an [HC11 µC](https://en.wikipedia.org/wiki/68HC11) emulator).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

@@ -35,6 +35,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
+  * [#edf12cf](https://github.com/kip93/kip93/commit/edf12cf) Lowered achievement threshold, added comments
+  * *On 19/09/2021, 15:16*
+* ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
   * [#dc347f7](https://github.com/kip93/kip93/commit/dc347f7) Add some comments to template
   * *On 19/09/2021, 15:04*
 * ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
@@ -43,13 +46,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
   * [#0266032](https://github.com/kip93/kip93/commit/0266032) Add action
   * *On 19/09/2021, 06:04*
-* ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
-  * [#61e9626](https://github.com/kip93/kip93/commit/61e9626) Add template
-  * *On 19/09/2021, 06:03*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.13.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19/09/2021, 15:07 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19/09/2021, 16:13 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

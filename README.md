@@ -34,22 +34,23 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[📰 Recent activity](https://github.com/kip93)**
-* ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
-  * [#44c79f9](https://github.com/kip93/kip93/commit/44c79f9) Expand on fun fact
-  * *On 19/09/2021, 16:41*
-* ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
-  * [#edf12cf](https://github.com/kip93/kip93/commit/edf12cf) Lowered achievement threshold, added comments
-  * *On 19/09/2021, 15:16*
-* ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
-  * [#dc347f7](https://github.com/kip93/kip93/commit/dc347f7) Add some comments to template
-  * *On 19/09/2021, 15:04*
-* ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
-  * [#ac10fe9](https://github.com/kip93/kip93/commit/ac10fe9) Update template
-  * *On 19/09/2021, 14:55*
+* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
+  * [#023274f](https://github.com/kip93/kip93.net/commit/023274f) Add (temporary) manual trigger
+  * *On 20/09/2021, 13:05*
+* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
+  * [#9e3674f](https://github.com/kip93/kip93.net/commit/9e3674f) Add PageSpeed token
+  * *On 20/09/2021, 12:58*
+* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
+  * [#f615a17](https://github.com/kip93/kip93.net/commit/f615a17) Add GitHub action
+  * *On 20/09/2021, 12:52*
+* ➡️ Pushed 2 commits in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
+  * [#f4c3352](https://github.com/kip93/kip93.net/commit/f4c3352) Add template
+  * [#af445df](https://github.com/kip93/kip93.net/commit/af445df) Prepare for GitHub action
+  * *On 20/09/2021, 12:50*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.13.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 20/09/2021, 12:18 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 20/09/2021, 16:14 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

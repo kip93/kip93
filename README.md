@@ -35,22 +35,21 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#023274f](https://github.com/kip93/kip93.net/commit/023274f) Add (temporary) manual trigger
-  * *On 20/09/2021, 13:05*
+  * [#102c291](https://github.com/kip93/kip93.net/commit/102c291) Add links to audits
+  * *On 20/09/2021, 22:53*
 * ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#9e3674f](https://github.com/kip93/kip93.net/commit/9e3674f) Add PageSpeed token
-  * *On 20/09/2021, 12:58*
+  * [#020be19](https://github.com/kip93/kip93.net/commit/020be19) Remove manual trigger
+  * *On 20/09/2021, 22:11*
 * ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#f615a17](https://github.com/kip93/kip93.net/commit/f615a17) Add GitHub action
-  * *On 20/09/2021, 12:52*
-* ➡️ Pushed 2 commits in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#f4c3352](https://github.com/kip93/kip93.net/commit/f4c3352) Add template
-  * [#af445df](https://github.com/kip93/kip93.net/commit/af445df) Prepare for GitHub action
-  * *On 20/09/2021, 12:50*
+  * [#9a65f62](https://github.com/kip93/kip93.net/commit/9a65f62) Fix CSS (again)
+  * *On 20/09/2021, 22:05*
+* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
+  * [#230664d](https://github.com/kip93/kip93.net/commit/230664d) Add audits to template
+  * *On 20/09/2021, 22:00*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.13.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 20/09/2021, 20:11 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 21/09/2021, 00:29 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

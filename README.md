@@ -34,6 +34,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 2 commits in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
+  * [#a3d7e60](https://github.com/kip93/kip93.net/commit/a3d7e60) Add logs format to HTTP endpoint
+  * [#03ef23f](https://github.com/kip93/kip93.net/commit/03ef23f) Move analysis to a script
+  * *On 25/09/2021, 03:30*
 * ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
   * [#102c291](https://github.com/kip93/kip93.net/commit/102c291) Add links to audits
   * *On 20/09/2021, 22:53*
@@ -43,13 +47,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
   * [#9a65f62](https://github.com/kip93/kip93.net/commit/9a65f62) Fix CSS (again)
   * *On 20/09/2021, 22:05*
-* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#230664d](https://github.com/kip93/kip93.net/commit/230664d) Add audits to template
-  * *On 20/09/2021, 22:00*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.13.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 25/09/2021, 00:32 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 25/09/2021, 04:12 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

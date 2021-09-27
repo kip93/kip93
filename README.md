@@ -34,22 +34,20 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [kitao/pyxel](https://github.com/kitao/pyxel)
+  * *On 27/09/2021, 03:38*
+* 🌟 Starred [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+  * *On 27/09/2021, 03:36*
 * 🌟 Starred [lark-parser/lark](https://github.com/lark-parser/lark)
   * *On 25/09/2021, 19:18*
 * ➡️ Pushed 2 commits in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
   * [#a3d7e60](https://github.com/kip93/kip93.net/commit/a3d7e60) Add logs format to HTTP endpoint
   * [#03ef23f](https://github.com/kip93/kip93.net/commit/03ef23f) Move analysis to a script
   * *On 25/09/2021, 03:30*
-* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#102c291](https://github.com/kip93/kip93.net/commit/102c291) Add links to audits
-  * *On 20/09/2021, 22:53*
-* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#020be19](https://github.com/kip93/kip93.net/commit/020be19) Remove manual trigger
-  * *On 20/09/2021, 22:11*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.13.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 27/09/2021, 00:30 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 27/09/2021, 04:13 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

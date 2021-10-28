@@ -38,19 +38,19 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#4a9eb04](https://github.com/kip93/kip93.net/commit/4a9eb04) Improve analysis script
  * Better comments
  * Minor HTML report changes
-  * *On 04/10/2021, 03:02*
+  * *On 4 Oct 2021, 03:02:34*
 * ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
   * [#75d8821](https://github.com/kip93/kip93.net/commit/75d8821) Improve analysis script
 Now it fetches all log files, not just the latest
-  * *On 04/10/2021, 02:22*
+  * *On 4 Oct 2021, 02:22:39*
 * 🌟 Starred [kitao/pyxel](https://github.com/kitao/pyxel)
-  * *On 27/09/2021, 03:38*
+  * *On 27 Sept 2021, 03:38:57*
 * 🌟 Starred [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-  * *On 27/09/2021, 03:36*
+  * *On 27 Sept 2021, 03:36:05*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
-    Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.14.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 28/10/2021, 04:13 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.15.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
+    Last updated @ 28 Oct 2021, 08:12:51 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

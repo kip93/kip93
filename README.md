@@ -34,6 +34,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
+  * *On 29 Oct 2021, 04:53:24*
+* 🌟 Starred [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
+  * *On 29 Oct 2021, 04:52:26*
 * ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
   * [#4a9eb04](https://github.com/kip93/kip93.net/commit/4a9eb04) Improve analysis script
  * Better comments
@@ -43,14 +47,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#75d8821](https://github.com/kip93/kip93.net/commit/75d8821) Improve analysis script
 Now it fetches all log files, not just the latest
   * *On 4 Oct 2021, 02:22:39*
-* 🌟 Starred [kitao/pyxel](https://github.com/kitao/pyxel)
-  * *On 27 Sept 2021, 03:38:57*
-* 🌟 Starred [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-  * *On 27 Sept 2021, 03:36:05*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.15.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 29 Oct 2021, 04:14:02 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 29 Oct 2021, 08:13:25 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

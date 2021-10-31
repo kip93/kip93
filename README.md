@@ -34,6 +34,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [skeeto/endlessh](https://github.com/skeeto/endlessh)
+  * *On 31 Oct 2021, 18:51:39*
 * 🌟 Starred [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
   * *On 29 Oct 2021, 04:53:24*
 * 🌟 Starred [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
@@ -43,14 +45,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
  * Better comments
  * Minor HTML report changes
   * *On 4 Oct 2021, 03:02:34*
-* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#75d8821](https://github.com/kip93/kip93.net/commit/75d8821) Improve analysis script
-Now it fetches all log files, not just the latest
-  * *On 4 Oct 2021, 02:22:39*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.15.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 31 Oct 2021, 16:14:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 31 Oct 2021, 20:11:17 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -34,21 +34,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime)
+  * *On 14 Nov 2021, 09:46:28*
+* 🌟 Starred [pine64/pinecil-firmware-updater](https://github.com/pine64/pinecil-firmware-updater)
+  * *On 14 Nov 2021, 09:46:27*
 * 🌟 Starred [skeeto/endlessh](https://github.com/skeeto/endlessh)
   * *On 31 Oct 2021, 18:51:39*
 * 🌟 Starred [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
   * *On 29 Oct 2021, 04:53:24*
-* 🌟 Starred [aristocratos/bpytop](https://github.com/aristocratos/bpytop)
-  * *On 29 Oct 2021, 04:52:26*
-* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#4a9eb04](https://github.com/kip93/kip93.net/commit/4a9eb04) Improve analysis script
- * Better comments
- * Minor HTML report changes
-  * *On 4 Oct 2021, 03:02:34*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.15.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 14 Nov 2021, 08:13:18 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 14 Nov 2021, 12:15:26 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

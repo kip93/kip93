@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)
+  * *On 2 Jan 2022, 19:03:07*
 * ➡️ Pushed 3 commits in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
   * [#24a44ba](https://github.com/kip93/kip93.net/commit/24a44ba) Fix agate path
   * [#fff77bd](https://github.com/kip93/kip93.net/commit/fff77bd) Change GitHub action schedule
@@ -56,13 +58,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
   * [#4627f47](https://github.com/kip93/kip93.net/commit/4627f47) Increase font cache
   * *On 26 Dec 2021, 16:43:02*
-* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#a47f1d2](https://github.com/kip93/kip93.net/commit/a47f1d2) Set up CODEOWNERS
-  * *On 26 Dec 2021, 15:38:45*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.16.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 2 Jan 2022, 18:55:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 2 Jan 2022, 19:52:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)
+  * *On 3 Jan 2022, 16:50:01*
 * 🌟 Starred [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)
   * *On 2 Jan 2022, 19:03:07*
 * ➡️ Pushed 3 commits in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
@@ -55,13 +57,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
   * [#3ecc701](https://github.com/kip93/kip93/commit/3ecc701) Increase frequency
   * *On 26 Dec 2021, 17:45:22*
-* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#4627f47](https://github.com/kip93/kip93.net/commit/4627f47) Increase font cache
-  * *On 26 Dec 2021, 16:43:02*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.16.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 3 Jan 2022, 15:55:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 3 Jan 2022, 17:11:55 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [zulip/zulip](https://github.com/zulip/zulip)
+  * *On 7 Jan 2022, 18:43:54*
 * 🌟 Starred [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)
   * *On 3 Jan 2022, 16:50:01*
 * 🌟 Starred [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)
@@ -54,13 +56,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#fff77bd](https://github.com/kip93/kip93.net/commit/fff77bd) Change GitHub action schedule
   * [#38814a5](https://github.com/kip93/kip93.net/commit/38814a5) Add endlessh
   * *On 26 Dec 2021, 18:08:26*
-* ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
-  * [#3ecc701](https://github.com/kip93/kip93/commit/3ecc701) Increase frequency
-  * *On 26 Dec 2021, 17:45:22*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.17.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 7 Jan 2022, 17:55:07 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 7 Jan 2022, 18:57:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

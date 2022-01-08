@@ -45,21 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [pystardust/ytfzf](https://github.com/pystardust/ytfzf)
+  * *On 8 Jan 2022, 00:26:36*
 * 🌟 Starred [zulip/zulip](https://github.com/zulip/zulip)
   * *On 7 Jan 2022, 18:43:54*
 * 🌟 Starred [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)
   * *On 3 Jan 2022, 16:50:01*
 * 🌟 Starred [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)
   * *On 2 Jan 2022, 19:03:07*
-* ➡️ Pushed 3 commits in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#24a44ba](https://github.com/kip93/kip93.net/commit/24a44ba) Fix agate path
-  * [#fff77bd](https://github.com/kip93/kip93.net/commit/fff77bd) Change GitHub action schedule
-  * [#38814a5](https://github.com/kip93/kip93.net/commit/38814a5) Add endlessh
-  * *On 26 Dec 2021, 18:08:26*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.17.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 7 Jan 2022, 23:51:48 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 8 Jan 2022, 01:52:41 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

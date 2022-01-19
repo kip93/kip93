@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)
+  * *On 19 Jan 2022, 06:23:46*
 * 🌟 Starred [pystardust/ytfzf](https://github.com/pystardust/ytfzf)
   * *On 8 Jan 2022, 00:26:36*
 * 🌟 Starred [zulip/zulip](https://github.com/zulip/zulip)
   * *On 7 Jan 2022, 18:43:54*
 * 🌟 Starred [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)
   * *On 3 Jan 2022, 16:50:01*
-* 🌟 Starred [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install)
-  * *On 2 Jan 2022, 19:03:07*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.17.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Jan 2022, 05:52:43 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 Jan 2022, 06:55:07 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

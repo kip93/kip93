@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)
+  * *On 22 Jan 2022, 05:12:52*
+* 🌟 Starred [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers)
+  * *On 22 Jan 2022, 05:05:58*
 * 🌟 Starred [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault)
   * *On 19 Jan 2022, 06:23:46*
 * 🌟 Starred [pystardust/ytfzf](https://github.com/pystardust/ytfzf)
   * *On 8 Jan 2022, 00:26:36*
-* 🌟 Starred [zulip/zulip](https://github.com/zulip/zulip)
-  * *On 7 Jan 2022, 18:43:54*
-* 🌟 Starred [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)
-  * *On 3 Jan 2022, 16:50:01*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.18.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 22 Jan 2022, 04:55:38 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 22 Jan 2022, 05:51:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

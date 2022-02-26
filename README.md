@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [foostan/crkbd](https://github.com/foostan/crkbd)
+  * *On 26 Feb 2022, 22:38:41*
 * #️⃣ Closed [#16450 Help with flashing via the command line](https://github.com/qmk/qmk_firmware/issues/16450) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
   * *On 26 Feb 2022, 21:24:51*
 * 💬 Commented on [#16450 Help with flashing via the command line](https://github.com/qmk/qmk_firmware/issues/16450) from [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
   * *On 26 Feb 2022, 21:24:51*
 * #️⃣ Opened [#16450 Help with flashing via the command line](https://github.com/qmk/qmk_firmware/issues/16450) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
   * *On 26 Feb 2022, 06:28:13*
-* ⏺️ Created new branch develop in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd)
-  * *On 26 Feb 2022, 02:51:24*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.20.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 26 Feb 2022, 21:52:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 26 Feb 2022, 22:51:11 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

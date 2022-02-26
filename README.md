@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* #️⃣ Opened [#16450 Help with flashing via the command line](https://github.com/qmk/qmk_firmware/issues/16450) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
+  * *On 26 Feb 2022, 06:28:13*
 * ⏺️ Created new branch develop in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd)
   * *On 26 Feb 2022, 02:51:24*
 * 🌟 Starred [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool)
   * *On 22 Jan 2022, 06:40:44*
 * 🌟 Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)
   * *On 22 Jan 2022, 05:12:52*
-* 🌟 Starred [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers)
-  * *On 22 Jan 2022, 05:05:58*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.20.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 26 Feb 2022, 05:52:03 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 26 Feb 2022, 06:54:43 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

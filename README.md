@@ -45,18 +45,27 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
-* 🌟 Starred [Lusito/forget-me-not](https://github.com/Lusito/forget-me-not)
-  * *On 28 Feb 2022, 18:03:30*
-* 🌟 Starred [bitwarden/desktop](https://github.com/bitwarden/desktop)
-  * *On 28 Feb 2022, 17:54:59*
-* 🌟 Starred [bitwarden/web](https://github.com/bitwarden/web)
-  * *On 28 Feb 2022, 17:54:58*
-* 🌟 Starred [bitwarden/browser](https://github.com/bitwarden/browser)
-  * *On 28 Feb 2022, 17:54:57*
+* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
+  * [#1e4eae7](https://github.com/kip93/kip93.net/commit/1e4eae7) Fix CODEOWNERS
+  * *On 28 Feb 2022, 19:41:48*
+* ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#18af04e](https://github.com/kip93/qmk-crkbd/commit/18af04e) Limit release concurrency
+  * [#3892420](https://github.com/kip93/qmk-crkbd/commit/3892420) Add submodules to release procedure
+  * *On 28 Feb 2022, 19:38:52*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `main`
+  * [#3892420](https://github.com/kip93/qmk-crkbd/commit/3892420) Add submodules to release procedure
+  * *On 28 Feb 2022, 19:29:43*
+* ➡️ Pushed 5 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `main`
+  * [#35f6d11](https://github.com/kip93/qmk-crkbd/commit/35f6d11) Minor changes
+  * [#ee1b11b](https://github.com/kip93/qmk-crkbd/commit/ee1b11b) Move firmware to release
+  * [#47d17e2](https://github.com/kip93/qmk-crkbd/commit/47d17e2) Add local VSCode configs
+  * [#63b2dd0](https://github.com/kip93/qmk-crkbd/commit/63b2dd0) Fix build
+  * [#f819b51](https://github.com/kip93/qmk-crkbd/commit/f819b51) Checkpoint: Try (and fail) to set up qmk using nix
+  * *On 28 Feb 2022, 19:26:29*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.21.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 28 Feb 2022, 18:54:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 28 Feb 2022, 19:54:28 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

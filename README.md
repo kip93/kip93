@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
-* 🌟 Starred [darkreader/darkreader](https://github.com/darkreader/darkreader)
-  * *On 28 Feb 2022, 17:46:46*
-* 🌟 Starred [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
-  * *On 27 Feb 2022, 17:31:12*
-* 🌟 Starred [cachix/cachix](https://github.com/cachix/cachix)
-  * *On 27 Feb 2022, 17:18:14*
-* 🌟 Starred [aristocratos/btop](https://github.com/aristocratos/btop)
-  * *On 27 Feb 2022, 17:01:23*
+* 🌟 Starred [Lusito/forget-me-not](https://github.com/Lusito/forget-me-not)
+  * *On 28 Feb 2022, 18:03:30*
+* 🌟 Starred [bitwarden/desktop](https://github.com/bitwarden/desktop)
+  * *On 28 Feb 2022, 17:54:59*
+* 🌟 Starred [bitwarden/web](https://github.com/bitwarden/web)
+  * *On 28 Feb 2022, 17:54:58*
+* 🌟 Starred [bitwarden/browser](https://github.com/bitwarden/browser)
+  * *On 28 Feb 2022, 17:54:57*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.21.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 28 Feb 2022, 17:51:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 28 Feb 2022, 18:54:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

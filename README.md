@@ -46,6 +46,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#cce3d46](https://github.com/kip93/qmk-crkbd/commit/cce3d46) Fix release action?
+  * *On 28 Feb 2022, 21:52:08*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#0b4e0a2](https://github.com/kip93/qmk-crkbd/commit/0b4e0a2) Add RCs
   * *On 28 Feb 2022, 21:50:39*
 * ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `main`
@@ -55,13 +58,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#c52db2c](https://github.com/kip93/qmk-crkbd/commit/c52db2c) Manual tagging
   * *On 28 Feb 2022, 20:59:53*
-* ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
-  * [#1e4eae7](https://github.com/kip93/kip93.net/commit/1e4eae7) Fix CODEOWNERS
-  * *On 28 Feb 2022, 19:41:48*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.21.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 28 Feb 2022, 21:52:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 28 Feb 2022, 22:52:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

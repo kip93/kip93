@@ -45,21 +45,20 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#3cfde69](https://github.com/kip93/qmk-crkbd/commit/3cfde69) Fix fix release tagging
+  * *On 1 Mar 2022, 18:56:16*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#8577928](https://github.com/kip93/qmk-crkbd/commit/8577928) Fix release tagging
+  * *On 1 Mar 2022, 18:54:21*
   * *On 1 Mar 2022, 18:28:21*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#cce3d46](https://github.com/kip93/qmk-crkbd/commit/cce3d46) Fix release action?
   * *On 28 Feb 2022, 21:52:08*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#0b4e0a2](https://github.com/kip93/qmk-crkbd/commit/0b4e0a2) Add RCs
-  * *On 28 Feb 2022, 21:50:39*
-* ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `main`
-  * [#c52db2c](https://github.com/kip93/qmk-crkbd/commit/c52db2c) Manual tagging
-  * [#18af04e](https://github.com/kip93/qmk-crkbd/commit/18af04e) Limit release concurrency
-  * *On 28 Feb 2022, 21:00:26*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.21.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 1 Mar 2022, 18:52:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 1 Mar 2022, 19:57:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,7 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+  * *On 1 Mar 2022, 18:28:21*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#cce3d46](https://github.com/kip93/qmk-crkbd/commit/cce3d46) Fix release action?
   * *On 28 Feb 2022, 21:52:08*
@@ -55,13 +56,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#c52db2c](https://github.com/kip93/qmk-crkbd/commit/c52db2c) Manual tagging
   * [#18af04e](https://github.com/kip93/qmk-crkbd/commit/18af04e) Limit release concurrency
   * *On 28 Feb 2022, 21:00:26*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#c52db2c](https://github.com/kip93/qmk-crkbd/commit/c52db2c) Manual tagging
-  * *On 28 Feb 2022, 20:59:53*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.21.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 1 Mar 2022, 17:52:02 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 1 Mar 2022, 18:52:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

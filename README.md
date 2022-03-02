@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [asciinema/asciinema](https://github.com/asciinema/asciinema)
+  * *On 2 Mar 2022, 22:11:07*
 * 🌟 Starred [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell)
   * *On 2 Mar 2022, 08:06:14*
 * ➡️ Pushed 8 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `main`
@@ -58,11 +60,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#0b4e0a2](https://github.com/kip93/qmk-crkbd/commit/0b4e0a2) Add RCs
   * *On 2 Mar 2022, 06:22:35*
   * *On 2 Mar 2022, 06:19:56*
-  * *On 2 Mar 2022, 06:19:39*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.21.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 2 Mar 2022, 21:51:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 2 Mar 2022, 22:52:09 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

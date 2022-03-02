@@ -46,6 +46,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#a9a1f4c](https://github.com/kip93/qmk-crkbd/commit/a9a1f4c) Fix changelog tagging?
+  * *On 2 Mar 2022, 05:07:47*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#b713365](https://github.com/kip93/qmk-crkbd/commit/b713365) Fix CTRL+C CTRL+V error
   * *On 2 Mar 2022, 03:29:04*
 * ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
@@ -55,13 +58,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#3cfde69](https://github.com/kip93/qmk-crkbd/commit/3cfde69) Fix fix release tagging
   * *On 1 Mar 2022, 18:56:16*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#8577928](https://github.com/kip93/qmk-crkbd/commit/8577928) Fix release tagging
-  * *On 1 Mar 2022, 18:54:21*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.21.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 2 Mar 2022, 04:56:06 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 2 Mar 2022, 05:52:07 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

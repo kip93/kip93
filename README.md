@@ -46,26 +46,22 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#95f3fc2](https://github.com/kip93/qmk-crkbd/commit/95f3fc2) Reorganise repo
-  * *On 2 Mar 2022, 23:23:55*
-* 🌟 Starred [asciinema/asciinema](https://github.com/asciinema/asciinema)
-  * *On 2 Mar 2022, 22:11:07*
-* 🌟 Starred [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell)
-  * *On 2 Mar 2022, 08:06:14*
-* ➡️ Pushed 8 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `main`
-  * [#a9a1f4c](https://github.com/kip93/qmk-crkbd/commit/a9a1f4c) Fix changelog tagging?
-  * [#b713365](https://github.com/kip93/qmk-crkbd/commit/b713365) Fix CTRL+C CTRL+V error
-  * [#db24e92](https://github.com/kip93/qmk-crkbd/commit/db24e92) Add release changelog
-  * [#f3ea765](https://github.com/kip93/qmk-crkbd/commit/f3ea765) Add manual release trigger
-  * [#3cfde69](https://github.com/kip93/qmk-crkbd/commit/3cfde69) Fix fix release tagging
-  * [#8577928](https://github.com/kip93/qmk-crkbd/commit/8577928) Fix release tagging
-  * [#cce3d46](https://github.com/kip93/qmk-crkbd/commit/cce3d46) Fix release action?
-  * [#0b4e0a2](https://github.com/kip93/qmk-crkbd/commit/0b4e0a2) Add RCs
-  * *On 2 Mar 2022, 06:22:35*
+  * [#35c3da2](https://github.com/kip93/qmk-crkbd/commit/35c3da2) Fix action submodules
+  * *On 3 Mar 2022, 02:37:00*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#4b8e8ed](https://github.com/kip93/qmk-crkbd/commit/4b8e8ed) Fix format
+  * *On 3 Mar 2022, 02:33:21*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#86b6501](https://github.com/kip93/qmk-crkbd/commit/86b6501) Validate QMK
+  * *On 3 Mar 2022, 02:33:07*
+* ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `main`
+  * [#f562cea](https://github.com/kip93/qmk-crkbd/commit/f562cea) Fix indent
+  * [#6652808](https://github.com/kip93/qmk-crkbd/commit/6652808) Auto update QMK
+  * *On 3 Mar 2022, 02:27:20*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.21.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 3 Mar 2022, 02:03:49 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 3 Mar 2022, 03:04:01 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

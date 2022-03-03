@@ -46,22 +46,21 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#969a184](https://github.com/kip93/qmk-crkbd/commit/969a184) Fix cache key hash
+  * *On 3 Mar 2022, 05:14:33*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#6213300](https://github.com/kip93/qmk-crkbd/commit/6213300) Try to speed up builds by setting up a nix cache
+  * *On 3 Mar 2022, 05:07:52*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#35c3da2](https://github.com/kip93/qmk-crkbd/commit/35c3da2) Fix action submodules
   * *On 3 Mar 2022, 02:37:00*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#4b8e8ed](https://github.com/kip93/qmk-crkbd/commit/4b8e8ed) Fix format
   * *On 3 Mar 2022, 02:33:21*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#86b6501](https://github.com/kip93/qmk-crkbd/commit/86b6501) Validate QMK
-  * *On 3 Mar 2022, 02:33:07*
-* ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `main`
-  * [#f562cea](https://github.com/kip93/qmk-crkbd/commit/f562cea) Fix indent
-  * [#6652808](https://github.com/kip93/qmk-crkbd/commit/6652808) Auto update QMK
-  * *On 3 Mar 2022, 02:27:20*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.21.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 3 Mar 2022, 04:55:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 3 Mar 2022, 05:51:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -46,18 +46,20 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#888940d](https://github.com/kip93/qmk-crkbd/commit/888940d) Remove concurrency check
+  * *On 6 Apr 2022, 15:59:18*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#861b1c1](https://github.com/kip93/qmk-crkbd/commit/861b1c1) Set up cachix
+  * *On 6 Apr 2022, 15:56:35*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#79c25df](https://github.com/kip93/qmk-crkbd/commit/79c25df) Add nix-community cache
   * *On 6 Apr 2022, 13:54:39*
 * 🌟 Starred [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)
   * *On 6 Apr 2022, 13:01:39*
-* 🌟 Starred [larsenwork/monoid](https://github.com/larsenwork/monoid)
-  * *On 28 Mar 2022, 08:17:51*
-* 🌟 Starred [jollheef/appvm](https://github.com/jollheef/appvm)
-  * *On 27 Mar 2022, 19:05:27*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.22.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 6 Apr 2022, 15:53:17 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 6 Apr 2022, 17:03:24 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

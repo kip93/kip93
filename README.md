@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)
+  * *On 6 Apr 2022, 13:01:39*
 * 🌟 Starred [larsenwork/monoid](https://github.com/larsenwork/monoid)
   * *On 28 Mar 2022, 08:17:51*
 * 🌟 Starred [jollheef/appvm](https://github.com/jollheef/appvm)
   * *On 27 Mar 2022, 19:05:27*
 * 🌟 Starred [ipython/xkcd-font](https://github.com/ipython/xkcd-font)
   * *On 7 Mar 2022, 05:44:31*
-* 🌟 Starred [rubjo/victor-mono](https://github.com/rubjo/victor-mono)
-  * *On 7 Mar 2022, 05:41:45*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.22.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 6 Apr 2022, 11:52:08 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 6 Apr 2022, 13:15:31 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

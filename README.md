@@ -45,18 +45,19 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#79c25df](https://github.com/kip93/qmk-crkbd/commit/79c25df) Add nix-community cache
+  * *On 6 Apr 2022, 13:54:39*
 * 🌟 Starred [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)
   * *On 6 Apr 2022, 13:01:39*
 * 🌟 Starred [larsenwork/monoid](https://github.com/larsenwork/monoid)
   * *On 28 Mar 2022, 08:17:51*
 * 🌟 Starred [jollheef/appvm](https://github.com/jollheef/appvm)
   * *On 27 Mar 2022, 19:05:27*
-* 🌟 Starred [ipython/xkcd-font](https://github.com/ipython/xkcd-font)
-  * *On 7 Mar 2022, 05:44:31*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.22.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 6 Apr 2022, 13:53:54 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 6 Apr 2022, 14:51:34 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

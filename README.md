@@ -45,23 +45,14 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#6a0ba99](https://github.com/kip93/qmk-crkbd/commit/6a0ba99) Let cachix check what should be pushed
-Plus, size estimation was way off
-  * *On 6 Apr 2022, 17:46:20*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#fe3a7c4](https://github.com/kip93/qmk-crkbd/commit/fe3a7c4) Skip cachix auto push
-  * *On 6 Apr 2022, 17:15:30*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#888940d](https://github.com/kip93/qmk-crkbd/commit/888940d) Remove concurrency check
-  * *On 6 Apr 2022, 15:59:18*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#861b1c1](https://github.com/kip93/qmk-crkbd/commit/861b1c1) Set up cachix
-  * *On 6 Apr 2022, 15:56:35*
+  * *On 7 Apr 2022, 15:31:04*
+  * *On 7 Apr 2022, 15:31:02*
+  * *On 7 Apr 2022, 15:31:00*
+  * *On 7 Apr 2022, 15:30:58*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.22.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 7 Apr 2022, 14:53:05 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 7 Apr 2022, 15:55:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -46,6 +46,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#6cc5cf4](https://github.com/kip93/qmk-crkbd/commit/6cc5cf4) Enhance setup script
+  * *On 7 Apr 2022, 20:58:16*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#6c0569e](https://github.com/kip93/qmk-crkbd/commit/6c0569e) Small fixes
   * *On 7 Apr 2022, 20:40:29*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
@@ -54,13 +57,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#eb7923b](https://github.com/kip93/qmk-crkbd/commit/eb7923b) Add check workflow
   * *On 7 Apr 2022, 20:32:08*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#2c57e86](https://github.com/kip93/qmk-crkbd/commit/2c57e86) Fix release (again)
-  * *On 7 Apr 2022, 16:02:17*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.22.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 7 Apr 2022, 20:52:35 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 7 Apr 2022, 21:52:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

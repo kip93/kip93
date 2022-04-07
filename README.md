@@ -45,14 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#2c57e86](https://github.com/kip93/qmk-crkbd/commit/2c57e86) Fix release (again)
+  * *On 7 Apr 2022, 16:02:17*
+  * *On 7 Apr 2022, 16:01:50*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#3818bbb](https://github.com/kip93/qmk-crkbd/commit/3818bbb) Fix release
+  * *On 7 Apr 2022, 15:57:36*
   * *On 7 Apr 2022, 15:31:04*
-  * *On 7 Apr 2022, 15:31:02*
-  * *On 7 Apr 2022, 15:31:00*
-  * *On 7 Apr 2022, 15:30:58*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.22.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 7 Apr 2022, 15:55:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 7 Apr 2022, 17:03:23 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

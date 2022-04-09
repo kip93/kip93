@@ -46,6 +46,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#164bc48](https://github.com/kip93/qmk-crkbd/commit/164bc48) Only release on relevant changes
+  * *On 9 Apr 2022, 16:29:24*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#8957cfd](https://github.com/kip93/qmk-crkbd/commit/8957cfd) Fix format
 Configuration was not being detected, and qmk filters some files
   * *On 9 Apr 2022, 14:29:13*
@@ -56,13 +59,10 @@ And reformat code to comply
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#6cc5cf4](https://github.com/kip93/qmk-crkbd/commit/6cc5cf4) Enhance setup script
   * *On 7 Apr 2022, 20:58:16*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#6c0569e](https://github.com/kip93/qmk-crkbd/commit/6c0569e) Small fixes
-  * *On 7 Apr 2022, 20:40:29*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.22.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 9 Apr 2022, 15:52:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 9 Apr 2022, 17:03:09 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

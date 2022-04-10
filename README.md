@@ -46,22 +46,23 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#735a887](https://github.com/kip93/qmk-crkbd/commit/735a887) Fix expression?
-  * *On 10 Apr 2022, 10:38:50*
-* ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#250c230](https://github.com/kip93/qmk-crkbd/commit/250c230) Try to make final check more readable
-  * [#9d78304](https://github.com/kip93/qmk-crkbd/commit/9d78304) Shorten comment
-  * *On 10 Apr 2022, 10:38:19*
+  * [#7d9f304](https://github.com/kip93/qmk-crkbd/commit/7d9f304) Set up better default man pager
+  * *On 10 Apr 2022, 11:53:03*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#c9fcc46](https://github.com/kip93/qmk-crkbd/commit/c9fcc46) Make linter readable
-  * *On 10 Apr 2022, 10:28:18*
+  * [#a012089](https://github.com/kip93/qmk-crkbd/commit/a012089) Fix shell import to match convention
+  * *On 10 Apr 2022, 11:31:37*
+* ➡️ Pushed 3 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#45048d4](https://github.com/kip93/qmk-crkbd/commit/45048d4) Rework initialisation
+  * [#ff1c738](https://github.com/kip93/qmk-crkbd/commit/ff1c738) Add some more words to the dictionary
+  * [#3cda934](https://github.com/kip93/qmk-crkbd/commit/3cda934) Use script&#39;s own update process
+  * *On 10 Apr 2022, 11:22:29*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#353f095](https://github.com/kip93/qmk-crkbd/commit/353f095) Fix cache push
-  * *On 10 Apr 2022, 10:14:50*
+  * [#bc4d629](https://github.com/kip93/qmk-crkbd/commit/bc4d629) Fix style
+  * *On 10 Apr 2022, 10:56:29*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.22.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Apr 2022, 10:51:23 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Apr 2022, 11:53:41 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

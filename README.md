@@ -46,21 +46,22 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#a832be6](https://github.com/kip93/qmk-crkbd/commit/a832be6) Fix the validation
-  * *On 10 Apr 2022, 09:54:00*
+  * [#735a887](https://github.com/kip93/qmk-crkbd/commit/735a887) Fix expression?
+  * *On 10 Apr 2022, 10:38:50*
+* ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#250c230](https://github.com/kip93/qmk-crkbd/commit/250c230) Try to make final check more readable
+  * [#9d78304](https://github.com/kip93/qmk-crkbd/commit/9d78304) Shorten comment
+  * *On 10 Apr 2022, 10:38:19*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#fac8bae](https://github.com/kip93/qmk-crkbd/commit/fac8bae) Maybe I overcomplicated things
-  * *On 10 Apr 2022, 09:27:32*
+  * [#c9fcc46](https://github.com/kip93/qmk-crkbd/commit/c9fcc46) Make linter readable
+  * *On 10 Apr 2022, 10:28:18*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#e891ea1](https://github.com/kip93/qmk-crkbd/commit/e891ea1) Try even harder
-  * *On 10 Apr 2022, 09:22:41*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#c8d15b2](https://github.com/kip93/qmk-crkbd/commit/c8d15b2) Try to fix expressions
-  * *On 10 Apr 2022, 09:19:55*
+  * [#353f095](https://github.com/kip93/qmk-crkbd/commit/353f095) Fix cache push
+  * *On 10 Apr 2022, 10:14:50*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.22.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Apr 2022, 09:56:48 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Apr 2022, 10:51:23 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

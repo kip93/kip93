@@ -45,14 +45,20 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `main`
+  * [#f68c892](https://github.com/kip93/qmk-crkbd/commit/f68c892) Fix release process? (#2)
+  * *On 10 Apr 2022, 13:07:31*
+* 🔃 Merged [#2 Release](https://github.com/kip93/qmk-crkbd/pull/2) in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd)
+  * 1 file changed `++1 --1`
+  * *On 10 Apr 2022, 13:07:31*
+* 🔃 Opened [#2 Release](https://github.com/kip93/qmk-crkbd/pull/2) in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd)
+  * 1 file changed `++1 --1`
+  * *On 10 Apr 2022, 13:06:50*
   * *On 10 Apr 2022, 12:56:52*
-  * *On 10 Apr 2022, 12:56:51*
-  * *On 10 Apr 2022, 12:56:49*
-  * *On 10 Apr 2022, 12:56:48*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.22.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Apr 2022, 13:06:13 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Apr 2022, 13:52:16 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

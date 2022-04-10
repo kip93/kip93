@@ -46,19 +46,25 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `main`
-  * [#f68c892](https://github.com/kip93/qmk-crkbd/commit/f68c892) Fix release process? (#2)
-  * *On 10 Apr 2022, 13:07:31*
-* 🔃 Merged [#2 Release](https://github.com/kip93/qmk-crkbd/pull/2) in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd)
-  * 1 file changed `++1 --1`
-  * *On 10 Apr 2022, 13:07:31*
-* 🔃 Opened [#2 Release](https://github.com/kip93/qmk-crkbd/pull/2) in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd)
-  * 1 file changed `++1 --1`
-  * *On 10 Apr 2022, 13:06:50*
-  * *On 10 Apr 2022, 12:56:52*
+  * [#52e7455](https://github.com/kip93/qmk-crkbd/commit/52e7455) Release (#3)
+
+* Fix release process?
+
+* Fix QMK update process
+  * *On 10 Apr 2022, 15:14:14*
+* 🔃 Merged [#3 Release](https://github.com/kip93/qmk-crkbd/pull/3) in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd)
+  * 2 files changed `++5 --5`
+  * *On 10 Apr 2022, 15:14:14*
+* 🔃 Opened [#3 Release](https://github.com/kip93/qmk-crkbd/pull/3) in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd)
+  * 2 files changed `++5 --5`
+  * *On 10 Apr 2022, 15:14:03*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#85feaf3](https://github.com/kip93/qmk-crkbd/commit/85feaf3) Fix QMK update process
+  * *On 10 Apr 2022, 15:07:38*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.22.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Apr 2022, 14:52:03 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Apr 2022, 15:52:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

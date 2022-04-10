@@ -45,24 +45,14 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#7d9f304](https://github.com/kip93/qmk-crkbd/commit/7d9f304) Set up better default man pager
-  * *On 10 Apr 2022, 11:53:03*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#a012089](https://github.com/kip93/qmk-crkbd/commit/a012089) Fix shell import to match convention
-  * *On 10 Apr 2022, 11:31:37*
-* ➡️ Pushed 3 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#45048d4](https://github.com/kip93/qmk-crkbd/commit/45048d4) Rework initialisation
-  * [#ff1c738](https://github.com/kip93/qmk-crkbd/commit/ff1c738) Add some more words to the dictionary
-  * [#3cda934](https://github.com/kip93/qmk-crkbd/commit/3cda934) Use script&#39;s own update process
-  * *On 10 Apr 2022, 11:22:29*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#bc4d629](https://github.com/kip93/qmk-crkbd/commit/bc4d629) Fix style
-  * *On 10 Apr 2022, 10:56:29*
+  * *On 10 Apr 2022, 12:56:52*
+  * *On 10 Apr 2022, 12:56:51*
+  * *On 10 Apr 2022, 12:56:49*
+  * *On 10 Apr 2022, 12:56:48*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.22.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Apr 2022, 11:53:41 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Apr 2022, 13:06:13 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [zenghongtu/vscode-asciiflow2](https://github.com/zenghongtu/vscode-asciiflow2)
+  * *On 30 Apr 2022, 10:54:36*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#455ad39](https://github.com/kip93/qmk-crkbd/commit/455ad39) Fix binary find
   * *On 29 Apr 2022, 17:25:34*
@@ -59,13 +61,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 * Fix QMK update process
   * *On 10 Apr 2022, 15:14:14*
-* 🔃 Merged [#3 Release](https://github.com/kip93/qmk-crkbd/pull/3) in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd)
-  * 2 files changed `++5 --5`
-  * *On 10 Apr 2022, 15:14:14*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.23.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 30 Apr 2022, 10:49:32 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 30 Apr 2022, 11:48:19 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

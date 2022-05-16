@@ -45,6 +45,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#be56fcc](https://github.com/kip93/qmk-crkbd/commit/be56fcc) Major rework
+  * *On 16 May 2022, 11:41:59*
 * 🌟 Starred [zenghongtu/vscode-asciiflow2](https://github.com/zenghongtu/vscode-asciiflow2)
   * *On 30 Apr 2022, 10:54:36*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
@@ -54,17 +57,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#406b5e2](https://github.com/kip93/qmk-crkbd/commit/406b5e2) VSCode settings
   * [#d634659](https://github.com/kip93/qmk-crkbd/commit/d634659) Minor shell.nix fixes
   * *On 29 Apr 2022, 17:13:19*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `main`
-  * [#52e7455](https://github.com/kip93/qmk-crkbd/commit/52e7455) Release (#3)
-
-* Fix release process?
-
-* Fix QMK update process
-  * *On 10 Apr 2022, 15:14:14*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.23.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 16 May 2022, 10:50:19 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 16 May 2022, 11:48:11 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -46,6 +46,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#59ba7a5](https://github.com/kip93/qmk-crkbd/commit/59ba7a5) Fix script&#39;s shell
+  * *On 16 May 2022, 13:06:20*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#48268fd](https://github.com/kip93/qmk-crkbd/commit/48268fd) Minor fixes
   * *On 16 May 2022, 12:38:55*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
@@ -53,13 +56,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 16 May 2022, 11:41:59*
 * 🌟 Starred [zenghongtu/vscode-asciiflow2](https://github.com/zenghongtu/vscode-asciiflow2)
   * *On 30 Apr 2022, 10:54:36*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#455ad39](https://github.com/kip93/qmk-crkbd/commit/455ad39) Fix binary find
-  * *On 29 Apr 2022, 17:25:34*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.23.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 16 May 2022, 13:03:20 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 16 May 2022, 13:57:43 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

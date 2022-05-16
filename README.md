@@ -45,6 +45,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#9abab68](https://github.com/kip93/qmk-crkbd/commit/9abab68) Recolour keymap preview to match my setup
+Plus, minor fixes on the SVG
+  * *On 16 May 2022, 23:19:52*
 * ➡️ Pushed 5 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#73ab17a](https://github.com/kip93/qmk-crkbd/commit/73ab17a) Extend check timeout
   * [#30091e1](https://github.com/kip93/qmk-crkbd/commit/30091e1) Fix env file path
@@ -58,13 +62,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#48268fd](https://github.com/kip93/qmk-crkbd/commit/48268fd) Minor fixes
   * *On 16 May 2022, 12:38:55*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#be56fcc](https://github.com/kip93/qmk-crkbd/commit/be56fcc) Major rework
-  * *On 16 May 2022, 11:41:59*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.23.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 16 May 2022, 22:49:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 16 May 2022, 23:51:38 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

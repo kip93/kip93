@@ -45,6 +45,13 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 5 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#73ab17a](https://github.com/kip93/qmk-crkbd/commit/73ab17a) Extend check timeout
+  * [#30091e1](https://github.com/kip93/qmk-crkbd/commit/30091e1) Fix env file path
+  * [#252b6e9](https://github.com/kip93/qmk-crkbd/commit/252b6e9) Change fail check
+  * [#a6dc5a7](https://github.com/kip93/qmk-crkbd/commit/a6dc5a7) Minor style fixes
+  * [#667030e](https://github.com/kip93/qmk-crkbd/commit/667030e) Add dependencies
+  * *On 16 May 2022, 21:53:22*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#59ba7a5](https://github.com/kip93/qmk-crkbd/commit/59ba7a5) Fix script&#39;s shell
   * *On 16 May 2022, 13:06:20*
@@ -54,12 +61,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#be56fcc](https://github.com/kip93/qmk-crkbd/commit/be56fcc) Major rework
   * *On 16 May 2022, 11:41:59*
-* 🌟 Starred [zenghongtu/vscode-asciiflow2](https://github.com/zenghongtu/vscode-asciiflow2)
-  * *On 30 Apr 2022, 10:54:36*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.23.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 16 May 2022, 21:48:35 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 16 May 2022, 22:49:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

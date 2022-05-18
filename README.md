@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux)
+  * *On 18 May 2022, 21:33:51*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#ca2887e](https://github.com/kip93/qmk-crkbd/commit/ca2887e) Increase step timeout
   * *On 17 May 2022, 17:18:49*
@@ -59,13 +61,10 @@ Plus, minor fixes on the SVG
   * [#a6dc5a7](https://github.com/kip93/qmk-crkbd/commit/a6dc5a7) Minor style fixes
   * [#667030e](https://github.com/kip93/qmk-crkbd/commit/667030e) Add dependencies
   * *On 16 May 2022, 21:53:22*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#59ba7a5](https://github.com/kip93/qmk-crkbd/commit/59ba7a5) Fix script&#39;s shell
-  * *On 16 May 2022, 13:06:20*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.23.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 18 May 2022, 20:49:34 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 18 May 2022, 21:49:41 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

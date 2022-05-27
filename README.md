@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* #️⃣ Opened [#174934 Test errors when building git from source on armv7l-linux](https://github.com/NixOS/nixpkgs/issues/174934) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 27 May 2022, 13:02:35*
 * 🌟 Starred [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux)
   * *On 18 May 2022, 21:33:51*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
@@ -54,17 +56,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#9abab68](https://github.com/kip93/qmk-crkbd/commit/9abab68) Recolour keymap preview to match my setup
 Plus, minor fixes on the SVG
   * *On 16 May 2022, 23:19:52*
-* ➡️ Pushed 5 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#73ab17a](https://github.com/kip93/qmk-crkbd/commit/73ab17a) Extend check timeout
-  * [#30091e1](https://github.com/kip93/qmk-crkbd/commit/30091e1) Fix env file path
-  * [#252b6e9](https://github.com/kip93/qmk-crkbd/commit/252b6e9) Change fail check
-  * [#a6dc5a7](https://github.com/kip93/qmk-crkbd/commit/a6dc5a7) Minor style fixes
-  * [#667030e](https://github.com/kip93/qmk-crkbd/commit/667030e) Add dependencies
-  * *On 16 May 2022, 21:53:22*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.23.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 27 May 2022, 13:02:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 27 May 2022, 13:57:52 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

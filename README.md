@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 💬 Commented on [#174934 Test errors when building git from source on armv7l-linux](https://github.com/NixOS/nixpkgs/issues/174934) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 30 May 2022, 12:55:25*
 * #️⃣ Opened [#174934 Test errors when building git from source on armv7l-linux](https://github.com/NixOS/nixpkgs/issues/174934) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 27 May 2022, 13:02:35*
 * 🌟 Starred [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux)
@@ -52,14 +54,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#ca2887e](https://github.com/kip93/qmk-crkbd/commit/ca2887e) Increase step timeout
   * *On 17 May 2022, 17:18:49*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#9abab68](https://github.com/kip93/qmk-crkbd/commit/9abab68) Recolour keymap preview to match my setup
-Plus, minor fixes on the SVG
-  * *On 16 May 2022, 23:19:52*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.23.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 30 May 2022, 11:48:29 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 30 May 2022, 13:03:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,20 +45,22 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#122fefc](https://github.com/kip93/qmk-crkbd/commit/122fefc) Fix sub-actions&#39; secrets
+  * *On 2 Jun 2022, 00:25:58*
+* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#65d1e8e](https://github.com/kip93/qmk-crkbd/commit/65d1e8e) Try to modularise actions
+  * *On 2 Jun 2022, 00:14:41*
+* 🌟 Starred [qmk/qmk_cli](https://github.com/qmk/qmk_cli)
+  * *On 1 Jun 2022, 23:24:17*
 * ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#d2be545](https://github.com/kip93/qmk-crkbd/commit/d2be545) Fix QMK update?
   * [#54254f5](https://github.com/kip93/qmk-crkbd/commit/54254f5) Fix nixpkgs path
   * *On 1 Jun 2022, 18:06:52*
-* 💬 Commented on [#174934 Test errors when building git from source on armv7l-linux](https://github.com/NixOS/nixpkgs/issues/174934) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 30 May 2022, 12:55:25*
-* #️⃣ Opened [#174934 Test errors when building git from source on armv7l-linux](https://github.com/NixOS/nixpkgs/issues/174934) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 27 May 2022, 13:02:35*
-* 🌟 Starred [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux)
-  * *On 18 May 2022, 21:33:51*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.24.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 1 Jun 2022, 23:50:15 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 2 Jun 2022, 01:09:25 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

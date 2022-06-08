@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [numtide/flake-utils](https://github.com/numtide/flake-utils)
+  * *On 8 Jun 2022, 21:04:51*
 * 🌟 Starred [ryantm/agenix](https://github.com/ryantm/agenix)
   * *On 8 Jun 2022, 13:14:47*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
@@ -53,12 +55,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#65d1e8e](https://github.com/kip93/qmk-crkbd/commit/65d1e8e) Try to modularise actions
   * *On 2 Jun 2022, 00:14:41*
-* 🌟 Starred [qmk/qmk_cli](https://github.com/qmk/qmk_cli)
-  * *On 1 Jun 2022, 23:24:17*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.24.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 8 Jun 2022, 21:48:20 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 8 Jun 2022, 22:48:22 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

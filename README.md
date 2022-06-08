@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [ryantm/agenix](https://github.com/ryantm/agenix)
+  * *On 8 Jun 2022, 13:14:47*
 * ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#122fefc](https://github.com/kip93/qmk-crkbd/commit/122fefc) Fix sub-actions&#39; secrets
   * *On 2 Jun 2022, 00:25:58*
@@ -53,14 +55,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 2 Jun 2022, 00:14:41*
 * 🌟 Starred [qmk/qmk_cli](https://github.com/qmk/qmk_cli)
   * *On 1 Jun 2022, 23:24:17*
-* ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#d2be545](https://github.com/kip93/qmk-crkbd/commit/d2be545) Fix QMK update?
-  * [#54254f5](https://github.com/kip93/qmk-crkbd/commit/54254f5) Fix nixpkgs path
-  * *On 1 Jun 2022, 18:06:52*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.24.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 8 Jun 2022, 13:01:48 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 8 Jun 2022, 13:55:55 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

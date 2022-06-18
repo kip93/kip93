@@ -45,19 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [nix-community/NUR](https://github.com/nix-community/NUR)
+  * *On 18 Jun 2022, 09:06:33*
 * 🌟 Starred [nix-community/home-manager](https://github.com/nix-community/home-manager)
   * *On 15 Jun 2022, 13:21:04*
 * 🌟 Starred [numtide/flake-utils](https://github.com/numtide/flake-utils)
   * *On 8 Jun 2022, 21:04:51*
 * 🌟 Starred [ryantm/agenix](https://github.com/ryantm/agenix)
   * *On 8 Jun 2022, 13:14:47*
-* ➡️ Pushed 1 commit in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#122fefc](https://github.com/kip93/qmk-crkbd/commit/122fefc) Fix sub-actions&#39; secrets
-  * *On 2 Jun 2022, 00:25:58*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.24.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 18 Jun 2022, 08:49:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 18 Jun 2022, 09:47:53 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [syncthing/syncthing](https://github.com/syncthing/syncthing)
+  * *On 21 Jun 2022, 20:29:03*
 * 🌟 Starred [awesomeWM/awesome](https://github.com/awesomeWM/awesome)
   * *On 19 Jun 2022, 11:39:55*
 * 🌟 Starred [netdata/netdata](https://github.com/netdata/netdata)
   * *On 18 Jun 2022, 13:30:21*
 * 🌟 Starred [truenas/middleware](https://github.com/truenas/middleware)
   * *On 18 Jun 2022, 13:29:19*
-* 🌟 Starred [nix-community/NUR](https://github.com/nix-community/NUR)
-  * *On 18 Jun 2022, 09:06:33*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.24.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 21 Jun 2022, 21:47:41 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 21 Jun 2022, 22:48:28 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

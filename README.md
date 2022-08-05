@@ -45,6 +45,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
+  * [#d95b2ba](https://github.com/kip93/qmk-crkbd/commit/d95b2ba) Update TODO list
+  * [#71bbdae](https://github.com/kip93/qmk-crkbd/commit/71bbdae) Fix git prompt
+  * *On 5 Aug 2022, 19:23:11*
 * ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
   * [#c46e303](https://github.com/kip93/kip93/commit/c46e303) Update e-mail
   * *On 4 Jul 2022, 21:33:44*
@@ -52,12 +56,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 21 Jun 2022, 20:29:03*
 * 🌟 Starred [awesomeWM/awesome](https://github.com/awesomeWM/awesome)
   * *On 19 Jun 2022, 11:39:55*
-* 🌟 Starred [netdata/netdata](https://github.com/netdata/netdata)
-  * *On 18 Jun 2022, 13:30:21*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.26.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 5 Aug 2022, 18:52:50 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 5 Aug 2022, 19:49:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

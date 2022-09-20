@@ -54,12 +54,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 4 Jul 2022, 21:33:44*
 * 🌟 Starred [syncthing/syncthing](https://github.com/syncthing/syncthing)
   * *On 21 Jun 2022, 20:29:03*
-* 🌟 Starred [awesomeWM/awesome](https://github.com/awesomeWM/awesome)
-  * *On 19 Jun 2022, 11:39:55*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.28.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Sept 2022, 23:52:24 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 20 Sept 2022, 01:11:14 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -52,12 +52,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
   * [#c46e303](https://github.com/kip93/kip93/commit/c46e303) Update e-mail
   * *On 4 Jul 2022, 21:33:44*
-* 🌟 Starred [syncthing/syncthing](https://github.com/syncthing/syncthing)
-  * *On 21 Jun 2022, 20:29:03*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.28.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 22 Sept 2022, 01:12:45 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 22 Sept 2022, 02:37:35 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

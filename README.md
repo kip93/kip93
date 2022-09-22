@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* #️⃣ Opened [#3249 bug: bash&#39;s historyIgnore breaks when using spaces](https://github.com/nix-community/home-manager/issues/3249) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+  * *On 22 Sept 2022, 12:17:55*
 * ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
   * [#d95b2ba](https://github.com/kip93/qmk-crkbd/commit/d95b2ba) Update TODO list
   * [#71bbdae](https://github.com/kip93/qmk-crkbd/commit/71bbdae) Fix git prompt
@@ -57,5 +59,5 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.28.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 22 Sept 2022, 11:48:52 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 22 Sept 2022, 13:04:13 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

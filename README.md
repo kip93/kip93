@@ -46,19 +46,17 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * 🍽️ Forked [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) to [kip93/nixpkgs](https://github.com/kip93/nixpkgs)
+  * *On 22 Oct 2022, 09:46:04*
+* 💬 Commented on [#111467 Desktop menu entries are missing from many desktop applications](https://github.com/NixOS/nixpkgs/issues/111467) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 22 Oct 2022, 09:42:07*
+* 🍽️ Forked [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) to [kip93/nixpkgs](https://github.com/kip93/nixpkgs)
   * *On 15 Oct 2022, 12:06:32*
 * 🌟 Starred [elitak/nixos-infect](https://github.com/elitak/nixos-infect)
   * *On 11 Oct 2022, 11:16:15*
-* #️⃣ Opened [#3249 bug: bash&#39;s historyIgnore breaks when using spaces](https://github.com/nix-community/home-manager/issues/3249) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
-  * *On 22 Sept 2022, 12:17:55*
-* ➡️ Pushed 2 commits in [kip93/qmk-crkbd](https://github.com/kip93/qmk-crkbd) on branch `develop`
-  * [#d95b2ba](https://github.com/kip93/qmk-crkbd/commit/d95b2ba) Update TODO list
-  * [#71bbdae](https://github.com/kip93/qmk-crkbd/commit/71bbdae) Fix git prompt
-  * *On 5 Aug 2022, 19:23:11*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.28.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 22 Oct 2022, 08:54:58 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 22 Oct 2022, 09:52:32 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

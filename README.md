@@ -45,20 +45,20 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [nixcon/Paris2022Content](https://github.com/nixcon/Paris2022Content)
+  * *On 25 Oct 2022, 21:33:16*
+* 🔃 Opened [#1 Initial structure](https://github.com/nixcon/Paris2022Content/pull/1) in [nixcon/Paris2022Content](https://github.com/nixcon/Paris2022Content)
+  * 28 files changed `++114 --3`
+  * *On 25 Oct 2022, 21:29:13*
+* ➡️ Pushed 1 commit in [kip93/Paris2022Content](https://github.com/kip93/Paris2022Content) on branch `main`
+  * [#2d61af0](https://github.com/kip93/Paris2022Content/commit/2d61af0) Initial structure init
+  * *On 25 Oct 2022, 21:28:06*
 * 🍽️ Forked [nixcon/Paris2022Content](https://github.com/nixcon/Paris2022Content) to [kip93/Paris2022Content](https://github.com/kip93/Paris2022Content)
   * *On 25 Oct 2022, 20:47:41*
-* 🔃 Opened [#197247 Documentation: add vmTools](https://github.com/NixOS/nixpkgs/pull/197247) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * 2 files changed `++117 --0`
-  * *On 22 Oct 2022, 16:38:25*
-* ➡️ Pushed 1 commit in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `vmTools-docs`
-  * [#172fe68](https://github.com/kip93/nixpkgs/commit/172fe68) Remove unused reference
-  * *On 22 Oct 2022, 16:36:24*
-* ⏺️ Created new branch vmTools-docs in [kip93/nixpkgs](https://github.com/kip93/nixpkgs)
-  * *On 22 Oct 2022, 16:27:49*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.28.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 25 Oct 2022, 20:53:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 25 Oct 2022, 21:52:51 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

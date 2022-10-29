@@ -45,6 +45,12 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🔃 Opened [#2 Add slides for &#34;Nix: A space odyssey&#34;](https://github.com/nixcon/Paris2022Content/pull/2) in [nixcon/Paris2022Content](https://github.com/nixcon/Paris2022Content)
+  * 3 files changed `++6 --0`
+  * *On 29 Oct 2022, 17:06:56*
+* ➡️ Pushed 1 commit in [kip93/Paris2022Content](https://github.com/kip93/Paris2022Content) on branch `main`
+  * [#56f6a06](https://github.com/kip93/Paris2022Content/commit/56f6a06) Nix: a space odyssey - slides
+  * *On 29 Oct 2022, 17:05:50*
 * ➡️ Pushed 2 commits in [kip93/Paris2022Content](https://github.com/kip93/Paris2022Content) on branch `main`
   * [#66704db](https://github.com/kip93/Paris2022Content/commit/66704db) Add files via upload
   * [#33eca2f](https://github.com/kip93/Paris2022Content/commit/33eca2f) Merge pull request #1 from kip93/main
@@ -53,16 +59,10 @@ Initial structure
   * *On 26 Oct 2022, 14:25:28*
 * 🌟 Starred [nixcon/Paris2022Content](https://github.com/nixcon/Paris2022Content)
   * *On 25 Oct 2022, 21:33:16*
-* 🔃 Opened [#1 Initial structure](https://github.com/nixcon/Paris2022Content/pull/1) in [nixcon/Paris2022Content](https://github.com/nixcon/Paris2022Content)
-  * 28 files changed `++114 --3`
-  * *On 25 Oct 2022, 21:29:13*
-* ➡️ Pushed 1 commit in [kip93/Paris2022Content](https://github.com/kip93/Paris2022Content) on branch `main`
-  * [#2d61af0](https://github.com/kip93/Paris2022Content/commit/2d61af0) Initial structure init
-  * *On 25 Oct 2022, 21:28:06*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.28.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 29 Oct 2022, 16:54:37 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 29 Oct 2022, 17:50:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -61,6 +61,6 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 <h6 align="right"><em>
-    Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.28.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 20 Nov 2022, 09:48:41 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.29.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
+    Last updated @ 20 Nov 2022, 10:48:18 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

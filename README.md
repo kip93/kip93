@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
+  * *On 4 Dec 2022, 02:25:55*
 * ➡️ Pushed 1 commit in [kip93/kip93.net](https://github.com/kip93/kip93.net) on branch `main`
   * [#65b60bf](https://github.com/kip93/kip93.net/commit/65b60bf) Split config + update
   * *On 6 Nov 2022, 00:50:59*
@@ -54,13 +56,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/NixConContent](https://github.com/kip93/NixConContent) on branch `main`
   * [#366bada](https://github.com/kip93/NixConContent/commit/366bada) Restructure repo
   * *On 30 Oct 2022, 12:39:17*
-* 🔃 Opened [#2 Add slides for &#34;Nix: A space odyssey&#34;](https://github.com/nixcon/Paris2022Content/pull/2) in [nixcon/Paris2022Content](https://github.com/nixcon/Paris2022Content)
-  * 3 files changed `++6 --0`
-  * *On 29 Oct 2022, 17:06:56*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.29.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 4 Dec 2022, 02:12:22 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 4 Dec 2022, 02:56:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

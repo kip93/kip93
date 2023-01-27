@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [NixOS/bundlers](https://github.com/NixOS/bundlers)
+  * *On 27 Jan 2023, 00:15:33*
 * 🍽️ Forked [NixOS/nix](https://github.com/NixOS/nix) to [kip93/nix](https://github.com/kip93/nix)
   * *On 25 Jan 2023, 21:30:21*
 * 🌟 Starred [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
   * *On 25 Jan 2023, 17:59:52*
 * 🌟 Starred [nix-community/impermanence](https://github.com/nix-community/impermanence)
   * *On 25 Jan 2023, 16:11:47*
-* 🌟 Starred [grafana/grafana](https://github.com/grafana/grafana)
-  * *On 22 Jan 2023, 14:15:32*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.32.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 26 Jan 2023, 23:47:58 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 27 Jan 2023, 01:09:15 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

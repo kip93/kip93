@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
+  * *On 27 Mar 2023, 01:47:56*
 * #️⃣ Opened [#70 Failure when linting `(x: import x)`](https://github.com/Synthetica9/nix-linter/issues/70) in [Synthetica9/nix-linter](https://github.com/Synthetica9/nix-linter)
   * *On 15 Mar 2023, 13:35:12*
 * 🌟 Starred [IJMacD/rfc3339-iso8601](https://github.com/IJMacD/rfc3339-iso8601)
   * *On 14 Feb 2023, 15:43:03*
 * 🌟 Starred [NixOS/bundlers](https://github.com/NixOS/bundlers)
   * *On 27 Jan 2023, 00:15:33*
-* 🍽️ Forked [NixOS/nix](https://github.com/NixOS/nix) to [kip93/nix](https://github.com/kip93/nix)
-  * *On 25 Jan 2023, 21:30:21*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.32.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 27 Mar 2023, 01:09:18 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 27 Mar 2023, 02:09:43 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

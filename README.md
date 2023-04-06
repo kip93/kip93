@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+  * *On 6 Apr 2023, 12:21:50*
 * #️⃣ Opened [#238 Problem rendering age encrypted files](https://github.com/charmbracelet/soft-serve/issues/238) in [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve)
   * *On 2 Apr 2023, 15:38:43*
 * 🌟 Starred [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
   * *On 27 Mar 2023, 01:47:56*
 * #️⃣ Opened [#70 Failure when linting `(x: import x)`](https://github.com/Synthetica9/nix-linter/issues/70) in [Synthetica9/nix-linter](https://github.com/Synthetica9/nix-linter)
   * *On 15 Mar 2023, 13:35:12*
-* 🌟 Starred [IJMacD/rfc3339-iso8601](https://github.com/IJMacD/rfc3339-iso8601)
-  * *On 14 Feb 2023, 15:43:03*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 6 Apr 2023, 11:48:35 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 6 Apr 2023, 12:54:26 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

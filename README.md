@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 💬 Commented on [#197247 Documentation: add vmTools](https://github.com/NixOS/nixpkgs/issues/197247) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 9 Apr 2023, 22:49:09*
 * ➡️ Pushed 1000 commits in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `vmTools-docs`
   * [#4b369e7](https://github.com/kip93/nixpkgs/commit/4b369e7) Merge pull request #224742 from dotlambda/bzip3-1.3.0
 
@@ -209,12 +211,10 @@ See also: https://github.com/archlinux/svntogit-community/commit/783d52696588264
 
 (cherry picked from commit aa27dcf0cbb23dd6193fe8fb7f6428e26f1861d0)
   * *On 9 Apr 2023, 19:50:06*
-* 🌟 Starred [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
-  * *On 6 Apr 2023, 12:21:50*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 9 Apr 2023, 22:48:12 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 9 Apr 2023, 23:48:18 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

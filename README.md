@@ -45,6 +45,36 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 15 commits in [kip93/egui_graphs](https://github.com/kip93/egui_graphs) on branch `master`
+  * [#1f3c70d](https://github.com/kip93/egui_graphs/commit/1f3c70d) Extracted state computed (#31)
+
+Changed framte state to computed state. 
+Extracted computed states for nodes and edges.
+  * [#8996503](https://github.com/kip93/egui_graphs/commit/8996503) Update README.md
+  * [#6bbf2c1](https://github.com/kip93/egui_graphs/commit/6bbf2c1) Update README.md
+  * [#151dd85](https://github.com/kip93/egui_graphs/commit/151dd85) Update README.md
+  * [#e0b51e0](https://github.com/kip93/egui_graphs/commit/e0b51e0) Extracted drawer (#30)
+  * [#5281610](https://github.com/kip93/egui_graphs/commit/5281610) added doc (#29)
+  * [#81277fd](https://github.com/kip93/egui_graphs/commit/81277fd) Changes refactor (#28)
+
+* Make enum for changes
+* Send one by one.
+  * [#7e5f4f8](https://github.com/kip93/egui_graphs/commit/7e5f4f8) Update README.md
+  * [#f8570b9](https://github.com/kip93/egui_graphs/commit/f8570b9) Update README.md
+  * [#16b7c14](https://github.com/kip93/egui_graphs/commit/16b7c14) Update README.md
+  * [#60756f0](https://github.com/kip93/egui_graphs/commit/60756f0) updated readme
+  * [#7c53af9](https://github.com/kip93/egui_graphs/commit/7c53af9) Update README.md
+  * [#0e222fb](https://github.com/kip93/egui_graphs/commit/0e222fb) Changed nodes API. Added interactice example (#27)
+
+-  Dynamic generation selection 
+-  Node.radius is private field
+-  selection depth param in SettingsStyle
+-  primary selection color in SettingsStyle for directly selected node
+-  secondary selection color in SettingsStyle for sub selections
+-  added interactive example
+  * [#31e4942](https://github.com/kip93/egui_graphs/commit/31e4942) Update README.md
+  * [#546cff2](https://github.com/kip93/egui_graphs/commit/546cff2) Update README.md
+  * *On 3 May 2023, 23:36:14*
 * ➡️ Pushed 14 commits in [kip93/egui_graphs](https://github.com/kip93/egui_graphs) on branch `master`
   * [#d0d695b](https://github.com/kip93/egui_graphs/commit/d0d695b) Update README.md
   * [#f723a6d](https://github.com/kip93/egui_graphs/commit/f723a6d) Update README.md
@@ -101,13 +131,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * 🔃 Opened [#21 Fix panic on handle_click](https://github.com/blitzarx1/egui_graphs/pull/21) in [blitzarx1/egui_graphs](https://github.com/blitzarx1/egui_graphs)
   * 1 file changed `++4 --2`
   * *On 29 Apr 2023, 01:47:10*
-* ➡️ Pushed 1 commit in [kip93/egui_graphs](https://github.com/kip93/egui_graphs) on branch `fix/handle_click_panic`
-  * [#08b7368](https://github.com/kip93/egui_graphs/commit/08b7368) Fix panic when node_click &amp; !node_select
-  * *On 29 Apr 2023, 01:45:31*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 3 May 2023, 23:48:29 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 4 May 2023, 01:09:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

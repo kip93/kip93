@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [typst/typst](https://github.com/typst/typst)
+  * *On 5 May 2023, 03:21:54*
 * ➡️ Pushed 15 commits in [kip93/egui_graphs](https://github.com/kip93/egui_graphs) on branch `master`
   * [#1f3c70d](https://github.com/kip93/egui_graphs/commit/1f3c70d) Extracted state computed (#31)
 
@@ -128,13 +130,10 @@ Extracted computed states for nodes and edges.
   * [#11d0edd](https://github.com/kip93/egui_graphs/commit/11d0edd) fixed docs
   * *On 1 May 2023, 11:02:18*
   * *On 29 Apr 2023, 16:04:01*
-* 🔃 Opened [#21 Fix panic on handle_click](https://github.com/blitzarx1/egui_graphs/pull/21) in [blitzarx1/egui_graphs](https://github.com/blitzarx1/egui_graphs)
-  * 1 file changed `++4 --2`
-  * *On 29 Apr 2023, 01:47:10*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 5 May 2023, 02:48:37 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 5 May 2023, 03:48:28 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

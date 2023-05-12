@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [cleverca22/not-os](https://github.com/cleverca22/not-os)
+  * *On 12 May 2023, 07:32:44*
 * 🌟 Starred [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
   * *On 10 May 2023, 14:48:35*
 * 🌟 Starred [typst/typst](https://github.com/typst/typst)
@@ -79,62 +81,10 @@ Extracted computed states for nodes and edges.
   * [#31e4942](https://github.com/kip93/egui_graphs/commit/31e4942) Update README.md
   * [#546cff2](https://github.com/kip93/egui_graphs/commit/546cff2) Update README.md
   * *On 3 May 2023, 23:36:14*
-* ➡️ Pushed 14 commits in [kip93/egui_graphs](https://github.com/kip93/egui_graphs) on branch `master`
-  * [#d0d695b](https://github.com/kip93/egui_graphs/commit/d0d695b) Update README.md
-  * [#f723a6d](https://github.com/kip93/egui_graphs/commit/f723a6d) Update README.md
-  * [#b8d08d1](https://github.com/kip93/egui_graphs/commit/b8d08d1) removed todo
-  * [#c28845b](https://github.com/kip93/egui_graphs/commit/c28845b) Petgraph intergration (#26)
-
-* petgraph + basic demo
-
-* petgraph + interactive compiels, redundant fuctions
-
-* interactive demo add and delete elements
-
-* added changes vis to interactive demo
-
-* restored drag func
-
-* refactored changes and demo
-
-* added tests for changes
-
-* refactored interactive demo, extracted style setting
-
-* fixed docs for GraphView
-
-* Changed readme
-
-* fixed readme
-
-* fixed reamd
-  * [#ddf78d3](https://github.com/kip93/egui_graphs/commit/ddf78d3) refac example
-  * [#08b1271](https://github.com/kip93/egui_graphs/commit/08b1271) Abstracted graph backend (#25)
-
-* Abstracted graph backend
-
-* changed tests names
-  * [#966fcac](https://github.com/kip93/egui_graphs/commit/966fcac) Interactive demo ui improvements (#24)
-
-* repositioned ui interactive demo
-
-* removed max size for side panel
-  * [#9f8fcda](https://github.com/kip93/egui_graphs/commit/9f8fcda) Fixed edge draw bug (#23)
-
-* Fixed edge draw bug
-
-* fixed readme
-  * [#566a7a7](https://github.com/kip93/egui_graphs/commit/566a7a7) bugfix release
-  * [#ce4cb0a](https://github.com/kip93/egui_graphs/commit/ce4cb0a) smal ref
-  * [#3810e5f](https://github.com/kip93/egui_graphs/commit/3810e5f) Fix panic when node_click &amp; !node_select (#21)
-  * [#1ecef01](https://github.com/kip93/egui_graphs/commit/1ecef01) Update README.md
-  * [#65cee23](https://github.com/kip93/egui_graphs/commit/65cee23) Refactored elements and interactive demo (#22)
-  * [#11d0edd](https://github.com/kip93/egui_graphs/commit/11d0edd) fixed docs
-  * *On 1 May 2023, 11:02:18*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 12 May 2023, 06:48:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 12 May 2023, 07:48:32 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

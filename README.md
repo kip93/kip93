@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [kaarmu/typst.vim](https://github.com/kaarmu/typst.vim)
+  * *On 11 Jul 2023, 08:47:24*
+* 🌟 Starred [jgm/pandoc](https://github.com/jgm/pandoc)
+  * *On 11 Jul 2023, 08:41:53*
 * 🌟 Starred [nix-community/disko](https://github.com/nix-community/disko)
   * *On 2 Jun 2023, 08:01:15*
 * 🌟 Starred [cleverca22/not-os](https://github.com/cleverca22/not-os)
   * *On 12 May 2023, 07:32:44*
-* 🌟 Starred [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
-  * *On 10 May 2023, 14:48:35*
-* 🌟 Starred [typst/typst](https://github.com/typst/typst)
-  * *On 5 May 2023, 03:21:54*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 11 Jul 2023, 07:57:37 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 11 Jul 2023, 08:57:56 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

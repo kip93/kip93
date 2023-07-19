@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope)
+  * *On 19 Jul 2023, 18:23:10*
 * 🌟 Starred [kaarmu/typst.vim](https://github.com/kaarmu/typst.vim)
   * *On 11 Jul 2023, 08:47:24*
 * 🌟 Starred [jgm/pandoc](https://github.com/jgm/pandoc)
   * *On 11 Jul 2023, 08:41:53*
 * 🌟 Starred [nix-community/disko](https://github.com/nix-community/disko)
   * *On 2 Jun 2023, 08:01:15*
-* 🌟 Starred [cleverca22/not-os](https://github.com/cleverca22/not-os)
-  * *On 12 May 2023, 07:32:44*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Jul 2023, 17:57:49 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 Jul 2023, 18:56:18 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

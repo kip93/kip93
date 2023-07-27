@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
-* 🌟 Starred [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope)
-  * *On 19 Jul 2023, 18:23:10*
-* 🌟 Starred [kaarmu/typst.vim](https://github.com/kaarmu/typst.vim)
-  * *On 11 Jul 2023, 08:47:24*
-* 🌟 Starred [jgm/pandoc](https://github.com/jgm/pandoc)
-  * *On 11 Jul 2023, 08:41:53*
-* 🌟 Starred [nix-community/disko](https://github.com/nix-community/disko)
-  * *On 2 Jun 2023, 08:01:15*
+* 🌟 Starred [hercules-ci/gitignore.nix](https://github.com/hercules-ci/gitignore.nix)
+  * *On 27 Jul 2023, 22:01:58*
+* 🌟 Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+  * *On 27 Jul 2023, 22:01:52*
+* 🌟 Starred [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos)
+  * *On 27 Jul 2023, 22:00:08*
+* 🌟 Starred [sudofox/melee.sh](https://github.com/sudofox/melee.sh)
+  * *On 27 Jul 2023, 21:59:39*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 27 Jul 2023, 21:57:05 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 27 Jul 2023, 22:57:35 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

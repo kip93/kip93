@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 💬 Commented on [#46 [RFC 0046] Platform Support Tiers](https://github.com/NixOS/rfcs/issues/46) from [NixOS/rfcs](https://github.com/NixOS/rfcs)
+  * *On 1 Aug 2023, 11:09:17*
 * 🌟 Starred [hercules-ci/gitignore.nix](https://github.com/hercules-ci/gitignore.nix)
   * *On 27 Jul 2023, 22:01:58*
 * 🌟 Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
   * *On 27 Jul 2023, 22:01:52*
 * 🌟 Starred [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos)
   * *On 27 Jul 2023, 22:00:08*
-* 🌟 Starred [sudofox/melee.sh](https://github.com/sudofox/melee.sh)
-  * *On 27 Jul 2023, 21:59:39*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 1 Aug 2023, 09:57:05 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 1 Aug 2023, 11:56:54 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

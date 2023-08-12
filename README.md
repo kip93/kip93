@@ -45,6 +45,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [srid/nixci](https://github.com/srid/nixci)
+  * *On 12 Aug 2023, 19:14:57*
+* 🌟 Starred [srid/devour-flake](https://github.com/srid/devour-flake)
+  * *On 12 Aug 2023, 19:13:36*
 * ➡️ Pushed 10000 commits in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `master`
   * [#96d403e](https://github.com/kip93/nixpkgs/commit/96d403e) pythia: 8.309 -&gt; 8.310 (#246455)
   * [#019d9ec](https://github.com/kip93/nixpkgs/commit/019d9ec) aravis: 0.8.27 -&gt; 0.8.28
@@ -97,14 +101,10 @@ vscode-extensions.mkhl.direnv: 0.13.0 -&gt; 0.14.0
   * *On 4 Aug 2023, 22:34:09*
 * 💬 Commented on [#46 [RFC 0046] Platform Support Tiers](https://github.com/NixOS/rfcs/issues/46) from [NixOS/rfcs](https://github.com/NixOS/rfcs)
   * *On 1 Aug 2023, 11:09:17*
-* 🌟 Starred [hercules-ci/gitignore.nix](https://github.com/hercules-ci/gitignore.nix)
-  * *On 27 Jul 2023, 22:01:58*
-* 🌟 Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-  * *On 27 Jul 2023, 22:01:52*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 12 Aug 2023, 18:56:51 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 12 Aug 2023, 19:56:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

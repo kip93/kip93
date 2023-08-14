@@ -45,6 +45,38 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ⏺️ Created new branch chore/fix-pillow in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
+  * *On 14 Aug 2023, 11:07:18*
+* ➡️ Pushed 8 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#afde5d8](https://github.com/OroraTech/nixpkgs/commit/afde5d8) Merge pull request #249070 from fabaff/yfinance-bump
+
+python311Packages.yfinance: 0.2.27 -&gt; 0.2.28
+  * [#d19eed4](https://github.com/OroraTech/nixpkgs/commit/d19eed4) Merge pull request #249083 from fabaff/flux-led-bump
+
+python311Packages.flux-led: 1.0.1 -&gt; 1.0.2
+  * [#d7b7376](https://github.com/OroraTech/nixpkgs/commit/d7b7376) Merge pull request #249084 from fabaff/python-engineio-bump
+
+python311Packages.python-engineio: 4.4.1 -&gt; 4.5.1
+  * [#aca0199](https://github.com/OroraTech/nixpkgs/commit/aca0199) Merge pull request #249055 from K900/fresh-fruit
+
+yuzu: 1515 -&gt; 1522, yuzu-ea: 3788 -&gt; 3805
+  * [#0cb6b7c](https://github.com/OroraTech/nixpkgs/commit/0cb6b7c) python311Packages.python-engineio: 4.4.1 -&gt; 4.5.1
+
+Diff: https://github.com/miguelgrinberg/python-engineio/compare/refs/tags/v4.4.1...v4.5.1
+
+Changelog: https://github.com/miguelgrinberg/python-engineio/blob/v4.5.1/CHANGES.md
+  * [#6bbba9e](https://github.com/OroraTech/nixpkgs/commit/6bbba9e) python311Packages.flux-led: 1.0.1 -&gt; 1.0.2
+
+Diff: https://github.com/Danielhiversen/flux_led/compare/refs/tags/1.0.1...1.0.2
+
+Changelog: https://github.com/Danielhiversen/flux_led/releases/tag/1.0.2
+  * [#56b3d41](https://github.com/OroraTech/nixpkgs/commit/56b3d41) python311Packages.yfinance: 0.2.27 -&gt; 0.2.28
+
+Diff: https://github.com/ranaroussi/yfinance/compare/refs/tags/0.2.27...0.2.28
+
+Changelog: https://github.com/ranaroussi/yfinance/blob/0.2.28/CHANGELOG.rst
+  * [#d8ef88b](https://github.com/OroraTech/nixpkgs/commit/d8ef88b) yuzu: 1515 -&gt; 1522, yuzu-ea: 3788 -&gt; 3805
+  * *On 14 Aug 2023, 10:59:19*
 * ➡️ Pushed 23 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#8b645ba](https://github.com/OroraTech/nixpkgs/commit/8b645ba) Merge pull request #249052 from fabaff/pygithub-bump
 
@@ -105,72 +137,10 @@ Changelog: https://github.com/iterative/dvc-studio-client/releases/tag/0.13.0
   * *On 14 Aug 2023, 10:36:05*
 * ⏺️ Created new branch chore/fix-astropy in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
   * *On 14 Aug 2023, 10:32:35*
-* ⏺️ Created new branch chore/fix-pyerfa in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
-  * *On 14 Aug 2023, 10:31:23*
-* ➡️ Pushed 3649 commits in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `master`
-  * [#4d2389b](https://github.com/kip93/nixpkgs/commit/4d2389b) maintainers: yavko
-  * [#7fd504c](https://github.com/kip93/nixpkgs/commit/7fd504c) Merge pull request #248368 from fabaff/sqlfluff-bump
-
-sqlfluff: 2.2.0 -&gt; 2.2.1
-  * [#bfe04ea](https://github.com/kip93/nixpkgs/commit/bfe04ea) Merge pull request #241656 from mobusoperandi/update-doc-contributing
-
-fix outdated contributing to documentation
-  * [#05ade35](https://github.com/kip93/nixpkgs/commit/05ade35) Merge pull request #248365 from Mic92/lshw
-
-lshw: 02.19 -&gt; unstable-2023-03-20
-  * [#9c85697](https://github.com/kip93/nixpkgs/commit/9c85697) Merge pull request #244060 from Gerg-L/nvidiaDynamicBoost
-
-nixos/nvidia: clean up and add dynamic boost
-  * [#38272dd](https://github.com/kip93/nixpkgs/commit/38272dd) Merge pull request #248350 from GaetanLepage/fix-qgrid
-
-python310Packages.qgrid: fix build
-  * [#29f8e06](https://github.com/kip93/nixpkgs/commit/29f8e06) Merge pull request #248356 from GaetanLepage/mkdnflow
-
-vimPlugins.mkdnflow-nvim: init at 2023-07-05
-  * [#c6b435d](https://github.com/kip93/nixpkgs/commit/c6b435d) semgrep: 1.34.1 -&gt; 1.35.0
-  * [#38f7065](https://github.com/kip93/nixpkgs/commit/38f7065) Merge pull request #247993 from Kiskae/nvidia/535.98
-
-linuxPackages.nvidia_x11_production: 535.86.05-&gt; 535.98
-  * [#46cafa3](https://github.com/kip93/nixpkgs/commit/46cafa3) Merge pull request #248345 from r-ryantm/auto-update/python310Packages.google-cloud-datastore
-
-python310Packages.google-cloud-datastore: 2.16.1 -&gt; 2.17.0
-  * [#14afbbf](https://github.com/kip93/nixpkgs/commit/14afbbf) lshw: 02.19 -&gt; unstable-2023-03-20
-
-The last release is 3 years old and misses many fixes.
-  * [#eb7c854](https://github.com/kip93/nixpkgs/commit/eb7c854) cargo-binstall: 1.1.2 -&gt; 1.2.0
-
-Diff: https://github.com/cargo-bins/cargo-binstall/compare/v1.1.2...v1.2.0
-
-Changelog: https://github.com/cargo-bins/cargo-binstall/releases/tag/v1.2.0
-  * [#731c21d](https://github.com/kip93/nixpkgs/commit/731c21d) Update doc/contributing/contributing-to-documentation.chapter.md
-
-Co-authored-by: Jan Tojnar &lt;jtojnar@gmail.com&gt;
-  * [#37ba768](https://github.com/kip93/nixpkgs/commit/37ba768) Merge pull request #241871 from mobusoperandi/doc-doc-syntax-chapter
-
-doc syntax section into chapter, link from nixos manual
-  * [#2b1bbec](https://github.com/kip93/nixpkgs/commit/2b1bbec) trufflehog: 3.46.3 -&gt; 3.47.0
-
-Diff: https://github.com/trufflesecurity/trufflehog/compare/refs/tags/v3.46.3...v3.47.0
-
-Changelog: https://github.com/trufflesecurity/trufflehog/releases/tag/v3.47.0
-  * [#adb2a4f](https://github.com/kip93/nixpkgs/commit/adb2a4f) wireshark: 4.0.6 -&gt; 4.0.7
-  * [#a1e5ebb](https://github.com/kip93/nixpkgs/commit/a1e5ebb) Merge pull request #246781 from jopejoe1/minecraft-servers
-
-minecraft-server: fix update script and update versions
-  * [#447d788](https://github.com/kip93/nixpkgs/commit/447d788) python3Packages.validators: change homepage
-  * [#c68ccc5](https://github.com/kip93/nixpkgs/commit/c68ccc5) sqlfluff: 2.2.0 -&gt; 2.2.1
-
-Diff: https://github.com/sqlfluff/sqlfluff/compare/refs/tags/2.2.0...2.2.1
-
-Changelog: https://github.com/sqlfluff/sqlfluff/blob/2.2.1/CHANGELOG.md
-  * [#b0509cf](https://github.com/kip93/nixpkgs/commit/b0509cf) Merge pull request #248330 from RaitoBezarius/update/linux-testing
-
-linux_testing: 6.5-rc3 -&gt; 6.5-rc5
-  * *On 14 Aug 2023, 07:15:05*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 14 Aug 2023, 10:57:54 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 14 Aug 2023, 11:57:43 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

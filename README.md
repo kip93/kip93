@@ -45,6 +45,68 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 23 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#8b645ba](https://github.com/OroraTech/nixpkgs/commit/8b645ba) Merge pull request #249052 from fabaff/pygithub-bump
+
+python311Packages.pygithub: 1.59.0 -&gt; 1.59.1
+  * [#841d235](https://github.com/OroraTech/nixpkgs/commit/841d235) Merge pull request #249050 from fabaff/pylibftdi-bump
+
+python311Packages.pylibftdi: 0.20.0 -&gt; 0.21.0
+  * [#efbcc95](https://github.com/OroraTech/nixpkgs/commit/efbcc95) Merge pull request #249048 from fabaff/pyfritzhome-bump
+
+python311Packages.pyfritzhome: 0.6.8 -&gt; 0.6.9
+  * [#de2b8dd](https://github.com/OroraTech/nixpkgs/commit/de2b8dd) Merge pull request #249047 from fabaff/pyathena-bump
+
+python311Packages.pyathena: 2.23.0 -&gt; 3.0.6
+  * [#6eb1531](https://github.com/OroraTech/nixpkgs/commit/6eb1531) Merge pull request #249042 from fabaff/policyuniverse-bump
+
+python311Packages.policyuniverse: 1.5.1.20230725 -&gt; 1.5.1.20230813
+  * [#8a66d20](https://github.com/OroraTech/nixpkgs/commit/8a66d20) Merge pull request #249040 from fabaff/publicsuffixlist-bump
+
+python311Packages.publicsuffixlist: 0.10.0.20230811 -&gt; 0.10.0.20230814
+  * [#3a9f315](https://github.com/OroraTech/nixpkgs/commit/3a9f315) Merge pull request #249039 from fabaff/oauthenticator-bump
+
+python311Packages.oauthenticator: 15.1.0 -&gt; 16.0.4
+  * [#f35cad2](https://github.com/OroraTech/nixpkgs/commit/f35cad2) python311Packages.todoist: 8.1.3 -&gt; 8.1.4
+  * [#db66792](https://github.com/OroraTech/nixpkgs/commit/db66792) python311Packages.pygithub: 1.59.0 -&gt; 1.59.1
+
+Diff: https://github.com/PyGithub/PyGithub/compare/refs/tags/v1.59.0...v1.59.1
+
+Changelog: https://github.com/PyGithub/PyGithub/raw/v1.59.1/doc/changes.rst
+  * [#4f368e0](https://github.com/OroraTech/nixpkgs/commit/4f368e0) python311Packages.pylibftdi: 0.20.0 -&gt; 0.21.0
+
+Changelog: https://github.com/codedstructure/pylibftdi/blob/0.21.00/CHANGES.txt
+  * [#87c7808](https://github.com/OroraTech/nixpkgs/commit/87c7808) python311Packages.pyfritzhome: 0.6.8 -&gt; 0.6.9
+
+Diff: https://github.com/hthiery/python-fritzhome/compare/refs/tags/0.6.8...0.6.9
+  * [#1b4f3a4](https://github.com/OroraTech/nixpkgs/commit/1b4f3a4) python311Packages.pyathena: 2.23.0 -&gt; 3.0.6
+
+Changelog: https://github.com/laughingman7743/PyAthena/releases/tag/v3.0.6
+  * [#f9b90d8](https://github.com/OroraTech/nixpkgs/commit/f9b90d8) python311Packages.publicsuffixlist: 0.10.0.20230811 -&gt; 0.10.0.20230814
+  * [#425df5b](https://github.com/OroraTech/nixpkgs/commit/425df5b) python311Packages.policyuniverse: 1.5.1.20230725 -&gt; 1.5.1.20230813
+  * [#f02103d](https://github.com/OroraTech/nixpkgs/commit/f02103d) python311Packages.oauthenticator: 15.1.0 -&gt; 16.0.4
+
+Changelog: https://github.com/jupyterhub/oauthenticator/blob/16.0.4/docs/source/reference/changelog.md
+  * [#36078c2](https://github.com/OroraTech/nixpkgs/commit/36078c2) python310Packages.dvc: 3.14.0 -&gt; 3.15.2
+
+Changelog: https://github.com/iterative/dvc/releases/tag/3.15.2
+  * [#3352533](https://github.com/OroraTech/nixpkgs/commit/3352533) python311Packages.dvc-azure: 2.22.0 -&gt; 2.22.1
+
+Changelog: https://github.com/iterative/dvc-azure/releases/tag/2.22.1
+  * [#e67b4c1](https://github.com/OroraTech/nixpkgs/commit/e67b4c1) python311Packages.dvc-ssh: 2.22.1 -&gt; 2.22.2
+
+Changelog: https://github.com/iterative/dvc-ssh/releases/tag/2.22.2
+  * [#e9abe69](https://github.com/OroraTech/nixpkgs/commit/e9abe69) python311Packages.dvc-studio-client: 0.12.0 -&gt; 0.13.0
+
+Diff: https://github.com/iterative/dvc-studio-client/compare/refs/tags/0.12.0...0.13.0
+
+Changelog: https://github.com/iterative/dvc-studio-client/releases/tag/0.13.0
+  * [#fe2866a](https://github.com/OroraTech/nixpkgs/commit/fe2866a) pistol: 0.4.1 -&gt; 0.4.2
+  * *On 14 Aug 2023, 10:36:05*
+* ⏺️ Created new branch chore/fix-astropy in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
+  * *On 14 Aug 2023, 10:32:35*
+* ⏺️ Created new branch chore/fix-pyerfa in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
+  * *On 14 Aug 2023, 10:31:23*
 * ➡️ Pushed 3649 commits in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `master`
   * [#4d2389b](https://github.com/kip93/nixpkgs/commit/4d2389b) maintainers: yavko
   * [#7fd504c](https://github.com/kip93/nixpkgs/commit/7fd504c) Merge pull request #248368 from fabaff/sqlfluff-bump
@@ -105,64 +167,10 @@ Changelog: https://github.com/sqlfluff/sqlfluff/blob/2.2.1/CHANGELOG.md
 
 linux_testing: 6.5-rc3 -&gt; 6.5-rc5
   * *On 14 Aug 2023, 07:15:05*
-* 🌟 Starred [srid/nixci](https://github.com/srid/nixci)
-  * *On 12 Aug 2023, 19:14:57*
-* 🌟 Starred [srid/devour-flake](https://github.com/srid/devour-flake)
-  * *On 12 Aug 2023, 19:13:36*
-* ➡️ Pushed 10000 commits in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `master`
-  * [#96d403e](https://github.com/kip93/nixpkgs/commit/96d403e) pythia: 8.309 -&gt; 8.310 (#246455)
-  * [#019d9ec](https://github.com/kip93/nixpkgs/commit/019d9ec) aravis: 0.8.27 -&gt; 0.8.28
-  * [#30e4b01](https://github.com/kip93/nixpkgs/commit/30e4b01) bacon: 2.12.0 -&gt; 2.12.1
-  * [#0d28359](https://github.com/kip93/nixpkgs/commit/0d28359) xfce.xfce4-clipman-plugin: 1.6.3 -&gt; 1.6.4
-
-https://gitlab.xfce.org/panel-plugins/xfce4-clipman-plugin/-/compare/xfce4-clipman-plugin-1.6.3...xfce4-clipman-plugin-1.6.4
-  * [#bafc87e](https://github.com/kip93/nixpkgs/commit/bafc87e) ast-grep: 0.9.2 -&gt; 0.10.0
-  * [#7cf96f8](https://github.com/kip93/nixpkgs/commit/7cf96f8) Merge pull request #223554 from zendo/notes-init
-
-notes: init at 2.2.0
-  * [#0c045f6](https://github.com/kip93/nixpkgs/commit/0c045f6) Merge pull request #246444 from justinlime/farge-fix
-
-farge: fix dependencies &amp; font issue
-  * [#8767a67](https://github.com/kip93/nixpkgs/commit/8767a67) Merge pull request #246252 from adminy/patch-1
-
-libgpiod 2.0.1 -&gt; 2.0.1  change hash to the correct one
-  * [#80d4b03](https://github.com/kip93/nixpkgs/commit/80d4b03) assemblyscript: 0.27.5 -&gt; 0.27.6
-  * [#646b556](https://github.com/kip93/nixpkgs/commit/646b556) azure-storage-azcopy: 10.19.0 -&gt; 10.20.0
-  * [#3070ff8](https://github.com/kip93/nixpkgs/commit/3070ff8) Merge pull request #246446 from schuelermine/maintainers/anselmschueler/pgp
-
-maintainers.anselmschueler: add pgp key
-  * [#eb52d85](https://github.com/kip93/nixpkgs/commit/eb52d85) Merge pull request #246457 from r-ryantm/auto-update/AusweisApp2
-
-AusweisApp2: 1.26.5 -&gt; 1.26.7
-  * [#5361f51](https://github.com/kip93/nixpkgs/commit/5361f51) Merge pull request #246458 from r-ryantm/auto-update/aliyun-cli
-
-aliyun-cli: 3.0.169 -&gt; 3.0.170
-  * [#9ace303](https://github.com/kip93/nixpkgs/commit/9ace303) Merge pull request #246463 from r-ryantm/auto-update/bazarr
-
-bazarr: 1.2.3 -&gt; 1.2.4
-  * [#6306608](https://github.com/kip93/nixpkgs/commit/6306608) Merge pull request #246400 from fabaff/reolink-aio-bump
-
-python311Packages.reolink-aio: 0.7.3 -&gt; 0.7.6
-  * [#299cd48](https://github.com/kip93/nixpkgs/commit/299cd48) Merge pull request #246403 from r-ryantm/auto-update/python310Packages.types-tabulate
-
-python310Packages.types-tabulate: 0.9.0.2 -&gt; 0.9.0.3
-  * [#c076bd2](https://github.com/kip93/nixpkgs/commit/c076bd2) Merge pull request #246410 from fabaff/apkid-bump
-
-apkid: 2.1.4 -&gt; 2.1.5
-  * [#7581c53](https://github.com/kip93/nixpkgs/commit/7581c53) Merge pull request #246411 from fabaff/python-roborock-bump
-
-python311Packages.python-roborock: 0.30.2 -&gt; 0.30.3
-  * [#451e391](https://github.com/kip93/nixpkgs/commit/451e391) Merge pull request #246413 from fabaff/pywemo-bump
-
-python311Packages.pywemo: 1.1.0 -&gt; 1.2.0
-  * [#9711b6c](https://github.com/kip93/nixpkgs/commit/9711b6c) Merge pull request #246419 from NULLx76/vscode-direnv-0.14.0
-
-vscode-extensions.mkhl.direnv: 0.13.0 -&gt; 0.14.0
-  * *On 4 Aug 2023, 22:34:09*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 14 Aug 2023, 09:57:52 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 14 Aug 2023, 10:57:54 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

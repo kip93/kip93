@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [nlewo/nix2container](https://github.com/nlewo/nix2container)
+  * *On 15 Aug 2023, 06:35:13*
 * ➡️ Pushed 45 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#99c6942](https://github.com/OroraTech/nixpkgs/commit/99c6942) CONTRIBUTING.md: Coding conventions -&gt; code conventions
 
@@ -190,13 +192,10 @@ Also reduces overly broad `with`-scoping.
   * *On 14 Aug 2023, 19:00:02*
 * 💬 Commented on [#249136 python3Packages.pillow &amp; python3Packages.pillow-simd: Fix cross compilation](https://github.com/NixOS/nixpkgs/issues/249136) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 14 Aug 2023, 18:58:26*
-* 🔃 Opened [#249157 python3Packages.sphinxHook: Fix cross compilation](https://github.com/NixOS/nixpkgs/pull/249157) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * 2 files changed `++3 --5`
-  * *On 14 Aug 2023, 16:48:09*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 15 Aug 2023, 05:57:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 15 Aug 2023, 06:56:28 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

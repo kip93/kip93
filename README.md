@@ -45,48 +45,22 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 💬 Commented on [#249525 python3Packages.dronecan: init at 1.0.25](https://github.com/NixOS/nixpkgs/pull/249525) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 17 Aug 2023, 08:49:13*
+* 🔍 Reviewed [#249525 python3Packages.dronecan: init at 1.0.25](https://github.com/NixOS/nixpkgs/pull/249525) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 17 Aug 2023, 08:49:14*
+* ➡️ Pushed 3 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-dronecan`
+  * [#6ed36d1](https://github.com/OroraTech/nixpkgs/commit/6ed36d1) python3Packages.dronecan: use SRI hash
+  * [#4b897ba](https://github.com/OroraTech/nixpkgs/commit/4b897ba) python3Packages.dronecan: enable only on python 3.3+
+  * [#b24b4b7](https://github.com/OroraTech/nixpkgs/commit/b24b4b7) python3Packages.dronecan: fix tests
+  * *On 17 Aug 2023, 08:46:39*
 * 🔃 Opened [#249548 yakut: init at 0.13.0](https://github.com/NixOS/nixpkgs/pull/249548) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * 8 files changed `++241 --4`
   * *On 16 Aug 2023, 14:14:00*
-* ⏺️ Created new branch feature/add-yakut in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
-  * *On 16 Aug 2023, 14:10:53*
-* ➡️ Pushed 40 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#f8923be](https://github.com/OroraTech/nixpkgs/commit/f8923be) python310Packages.jupyterhub: 4.0.1 -&gt; 4.0.2
-  * [#e3574a8](https://github.com/OroraTech/nixpkgs/commit/e3574a8) python3.pkgs.certbot-dns-route53: ignore warning in setuptools 67.5.0+
-  * [#116109d](https://github.com/OroraTech/nixpkgs/commit/116109d) python3.pkgs.certbot-dns-rfc2136: ignore warning in setuptools 67.5.0+
-  * [#ddc9ca9](https://github.com/OroraTech/nixpkgs/commit/ddc9ca9) python3.pkgs.certbot-dns-google: ignore warning in setuptools 67.5.0+
-  * [#64c5f8b](https://github.com/OroraTech/nixpkgs/commit/64c5f8b) CODEOWNERS: add members of the dotnet team
-  * [#a36883d](https://github.com/OroraTech/nixpkgs/commit/a36883d) maintainers: add dotnet team
-  * [#7fb04de](https://github.com/OroraTech/nixpkgs/commit/7fb04de) ocamlPackages.torch: minor cleaning
-  * [#9efa6db](https://github.com/OroraTech/nixpkgs/commit/9efa6db) twspace-crawler: 1.12.7 -&gt; 1.12.8
-
-Diff: https://github.com/HitomaruKonpaku/twspace-crawler/compare/bc1626996076f4e73890dc80b2fe99d578a7c641...3909facc10fe0308d425b609675919e1b9d1b06e
-
-Changelog: https://github.com/HitomaruKonpaku/twspace-crawler/blob/3909facc10fe0308d425b609675919e1b9d1b06e/CHANGELOG.md
-  * [#8a46e14](https://github.com/OroraTech/nixpkgs/commit/8a46e14) flexget: 3.8.6 -&gt; 3.8.7
-
-Diff: https://github.com/Flexget/Flexget/compare/refs/tags/v3.8.6...v3.8.7
-
-Changelog: https://github.com/Flexget/Flexget/releases/tag/v3.8.7
-  * [#4904773](https://github.com/OroraTech/nixpkgs/commit/4904773) pantheon.elementary-files: Fix log spam with new GLib
-  * [#46e9940](https://github.com/OroraTech/nixpkgs/commit/46e9940) ocamlPackages.inifiles: fix for OCaml ≥ 5.0
-  * [#fb95457](https://github.com/OroraTech/nixpkgs/commit/fb95457) kicad: 7.0.6 -&gt; 7.0.7
-  * [#00d7065](https://github.com/OroraTech/nixpkgs/commit/00d7065) nixos/systemd-boot: Replace proprietary memtest86 with free memtest86+ in UEFI
-  * [#da6c61c](https://github.com/OroraTech/nixpkgs/commit/da6c61c) nixos/manual: Add chapter about instance unit overrides
-  * [#d995da1](https://github.com/OroraTech/nixpkgs/commit/d995da1) nixos/switch-to-configuration: Fix unit location in toplevel
-  * [#7937c58](https://github.com/OroraTech/nixpkgs/commit/7937c58) nixos/switchTest: Also check for base unit modifications
-  * [#1488a2b](https://github.com/OroraTech/nixpkgs/commit/1488a2b) nixos/grub: Replace proprietary memtest86 with free memtest86+ in UEFI mode
-  * [#f43f4f4](https://github.com/OroraTech/nixpkgs/commit/f43f4f4) python3.pkgs.certbot-dns-cloudflare: ignore warning in setuptools 67.5.0+
-  * [#ec22277](https://github.com/OroraTech/nixpkgs/commit/ec22277) sway-contrib: switch source to new separate repo
-  * [#d073105](https://github.com/OroraTech/nixpkgs/commit/d073105) nixos/switch-to-configuration: fix ignoring of template unit specialization dropins
-  * *On 16 Aug 2023, 13:54:11*
-* 🔃 Opened [#249535 python3Packages.pycyphal: init at 1.15.2](https://github.com/NixOS/nixpkgs/pull/249535) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * 6 files changed `++192 --4`
-  * *On 16 Aug 2023, 13:08:40*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 17 Aug 2023, 07:57:09 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 17 Aug 2023, 08:57:24 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,35 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 257 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#5e6e949](https://github.com/OroraTech/nixpkgs/commit/5e6e949) nixos/opensnitch: add test
+  * [#6331c56](https://github.com/OroraTech/nixpkgs/commit/6331c56) linux_xanmod_latest: 6.4.8 -&gt; 6.4.10
+  * [#9341e9d](https://github.com/OroraTech/nixpkgs/commit/9341e9d) linux_xanmod: 6.1.43 -&gt; 6.1.45
+  * [#d17eedf](https://github.com/OroraTech/nixpkgs/commit/d17eedf) vimPlugins.nabla-nvim: init at 2023-04-22
+  * [#3b36a4c](https://github.com/OroraTech/nixpkgs/commit/3b36a4c) vimPlugins.nvim-search-and-replace: init at 2022-09-06
+  * [#16674df](https://github.com/OroraTech/nixpkgs/commit/16674df) vimPlugins.mind-nvim: init at 2023-03-22
+  * [#fa92941](https://github.com/OroraTech/nixpkgs/commit/fa92941) vimPlugins.nvim-unception: init at 2023-04-11
+  * [#0dbbf2c](https://github.com/OroraTech/nixpkgs/commit/0dbbf2c) vimPlugins.pretty-fold-nvim: init at 2022-07-20
+  * [#ec113b6](https://github.com/OroraTech/nixpkgs/commit/ec113b6) vimPlugins.distant-nvim: init at 2023-07-24
+  * [#2bacf17](https://github.com/OroraTech/nixpkgs/commit/2bacf17) vimPlugins.plantuml-previewer-vim: init at 2023-03-07
+  * [#e2c0dbc](https://github.com/OroraTech/nixpkgs/commit/e2c0dbc) vimPlugins.fold-preview-nvim: init at 2023-01-27
+  * [#85da72d](https://github.com/OroraTech/nixpkgs/commit/85da72d) vimPlugins.markid: init at 2023-07-01
+  * [#e3d87e2](https://github.com/OroraTech/nixpkgs/commit/e3d87e2) vimPlugins.knap: init at 2023-07-25
+  * [#dc00a83](https://github.com/OroraTech/nixpkgs/commit/dc00a83) python3Packages.worldengine: replace dead homepage
+  * [#a037419](https://github.com/OroraTech/nixpkgs/commit/a037419) removed `xorg.libxshmfence` build input
+  * [#b6901e6](https://github.com/OroraTech/nixpkgs/commit/b6901e6) staruml: 4.1.6 -&gt; 5.1.0
+  * [#474577d](https://github.com/OroraTech/nixpkgs/commit/474577d) python310Packages.scikit-build-core: 0.2.0 -&gt; 0.4.8
+
+Changelog: https://github.com/scikit-build/scikit-build-core/releases/tag/v0.4.8
+  * [#64e8c6f](https://github.com/OroraTech/nixpkgs/commit/64e8c6f) klee: use LLVM 12
+
+UBSan would fail otherwise due to LLVM 11&#39;s incompatibility
+with glibc 2.34: https://reviews.llvm.org/D100645
+  * [#6532860](https://github.com/OroraTech/nixpkgs/commit/6532860) python310Packages.scikit-build-core: add meta.changelog
+  * [#3a7597b](https://github.com/OroraTech/nixpkgs/commit/3a7597b) test-driver: add persistent history
+
+across sessions of interactive testing
+  * *On 18 Aug 2023, 07:26:19*
 * ➡️ Pushed 561 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#c5fdad8](https://github.com/OroraTech/nixpkgs/commit/c5fdad8) Merge master into haskell-updates
   * [#7b7f793](https://github.com/OroraTech/nixpkgs/commit/7b7f793) haskellPackages: regenerate package set based on current config
@@ -100,12 +129,10 @@ to.  But we should do it anyways.
   * [#b69aee5](https://github.com/OroraTech/nixpkgs/commit/b69aee5) python3Packages.pkg-about: use SRI hash
   * [#d3dd370](https://github.com/OroraTech/nixpkgs/commit/d3dd370) python3Packages.pkg-about: fix order
   * *On 17 Aug 2023, 09:03:44*
-* 💬 Commented on [#249527 python3Packages.pkg-about: init at 1.0.8](https://github.com/NixOS/nixpkgs/pull/249527) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 17 Aug 2023, 08:54:25*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 18 Aug 2023, 06:57:05 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 18 Aug 2023, 07:58:05 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

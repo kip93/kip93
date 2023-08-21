@@ -45,6 +45,13 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 5 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-libpcap`
+  * [#2bfab12](https://github.com/OroraTech/nixpkgs/commit/2bfab12) python3Packages.libpcap: add pythonImportsCheck
+  * [#574f591](https://github.com/OroraTech/nixpkgs/commit/574f591) python3Packages.libpcap: disable tests
+  * [#bdba002](https://github.com/OroraTech/nixpkgs/commit/bdba002) python3Packages.libpcap: add missing dependency
+  * [#97180af](https://github.com/OroraTech/nixpkgs/commit/97180af) python3Packages.libpcap: use SRI hash
+  * [#6598a77](https://github.com/OroraTech/nixpkgs/commit/6598a77) python3Packages.libpcap: fix order
+  * *On 21 Aug 2023, 08:17:09*
 * ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-cobs`
   * [#7aa121b](https://github.com/OroraTech/nixpkgs/commit/7aa121b) python3Packages.cobs: add pythonImportsCheck
   * *On 21 Aug 2023, 07:16:07*
@@ -100,39 +107,10 @@ cc-wrapper: include fortify-headers before libc includes for musl
 
 umockdev: 0.17.17 -&gt; 0.17.18
   * *On 21 Aug 2023, 06:31:27*
-* ➡️ Pushed 257 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#5e6e949](https://github.com/OroraTech/nixpkgs/commit/5e6e949) nixos/opensnitch: add test
-  * [#6331c56](https://github.com/OroraTech/nixpkgs/commit/6331c56) linux_xanmod_latest: 6.4.8 -&gt; 6.4.10
-  * [#9341e9d](https://github.com/OroraTech/nixpkgs/commit/9341e9d) linux_xanmod: 6.1.43 -&gt; 6.1.45
-  * [#d17eedf](https://github.com/OroraTech/nixpkgs/commit/d17eedf) vimPlugins.nabla-nvim: init at 2023-04-22
-  * [#3b36a4c](https://github.com/OroraTech/nixpkgs/commit/3b36a4c) vimPlugins.nvim-search-and-replace: init at 2022-09-06
-  * [#16674df](https://github.com/OroraTech/nixpkgs/commit/16674df) vimPlugins.mind-nvim: init at 2023-03-22
-  * [#fa92941](https://github.com/OroraTech/nixpkgs/commit/fa92941) vimPlugins.nvim-unception: init at 2023-04-11
-  * [#0dbbf2c](https://github.com/OroraTech/nixpkgs/commit/0dbbf2c) vimPlugins.pretty-fold-nvim: init at 2022-07-20
-  * [#ec113b6](https://github.com/OroraTech/nixpkgs/commit/ec113b6) vimPlugins.distant-nvim: init at 2023-07-24
-  * [#2bacf17](https://github.com/OroraTech/nixpkgs/commit/2bacf17) vimPlugins.plantuml-previewer-vim: init at 2023-03-07
-  * [#e2c0dbc](https://github.com/OroraTech/nixpkgs/commit/e2c0dbc) vimPlugins.fold-preview-nvim: init at 2023-01-27
-  * [#85da72d](https://github.com/OroraTech/nixpkgs/commit/85da72d) vimPlugins.markid: init at 2023-07-01
-  * [#e3d87e2](https://github.com/OroraTech/nixpkgs/commit/e3d87e2) vimPlugins.knap: init at 2023-07-25
-  * [#dc00a83](https://github.com/OroraTech/nixpkgs/commit/dc00a83) python3Packages.worldengine: replace dead homepage
-  * [#a037419](https://github.com/OroraTech/nixpkgs/commit/a037419) removed `xorg.libxshmfence` build input
-  * [#b6901e6](https://github.com/OroraTech/nixpkgs/commit/b6901e6) staruml: 4.1.6 -&gt; 5.1.0
-  * [#474577d](https://github.com/OroraTech/nixpkgs/commit/474577d) python310Packages.scikit-build-core: 0.2.0 -&gt; 0.4.8
-
-Changelog: https://github.com/scikit-build/scikit-build-core/releases/tag/v0.4.8
-  * [#64e8c6f](https://github.com/OroraTech/nixpkgs/commit/64e8c6f) klee: use LLVM 12
-
-UBSan would fail otherwise due to LLVM 11&#39;s incompatibility
-with glibc 2.34: https://reviews.llvm.org/D100645
-  * [#6532860](https://github.com/OroraTech/nixpkgs/commit/6532860) python310Packages.scikit-build-core: add meta.changelog
-  * [#3a7597b](https://github.com/OroraTech/nixpkgs/commit/3a7597b) test-driver: add persistent history
-
-across sessions of interactive testing
-  * *On 18 Aug 2023, 07:26:19*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 21 Aug 2023, 07:57:12 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 21 Aug 2023, 08:56:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,53 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 1169 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#2cf416f](https://github.com/OroraTech/nixpkgs/commit/2cf416f) python310Packages.jupyterlab_server: run tests
+  * [#597f030](https://github.com/OroraTech/nixpkgs/commit/597f030) Merge staging-next into staging
+  * [#bd50b5f](https://github.com/OroraTech/nixpkgs/commit/bd50b5f) graylog-5_1: init at 5.1.4
+  * [#3e7b017](https://github.com/OroraTech/nixpkgs/commit/3e7b017) mercurial: 6.5 -&gt; 6.5.1
+
+Changelog: https://wiki.mercurial-scm.org/Release6.5
+  * [#520a544](https://github.com/OroraTech/nixpkgs/commit/520a544) setup-hooks/strip: Create the log file in &#39;$TMDPIR&#39;
+
+vcunat said
+
+&gt; This invocation of mktemp creates the file in the current directory, which is bad practice. We should add &#34;--tmpdir=$TMPDIR&#34; or make the template absolute.
+
+&gt; I noticed because one package did cd $src during installing, which is a read-only path...
+  * [#19bb460](https://github.com/OroraTech/nixpkgs/commit/19bb460) Merge pull request #247669 from marsam/update-bundler
+
+bundler: 2.4.17 -&gt; 2.4.18
+  * [#9d7b03e](https://github.com/OroraTech/nixpkgs/commit/9d7b03e) Merge staging-next into staging
+  * [#6d54e63](https://github.com/OroraTech/nixpkgs/commit/6d54e63) gnutls: 3.8.0 -&gt; 3.8.1
+
+https://lists.gnupg.org/pipermail/gnutls-help/2023-August/004834.html
+  * [#2a74588](https://github.com/OroraTech/nixpkgs/commit/2a74588) Merge pull request #245513 from lsix/gdb-disable-sim
+
+gdb: disable sim by default
+  * [#1b6e441](https://github.com/OroraTech/nixpkgs/commit/1b6e441) graphviz: 8.0.5 -&gt; 8.1.0
+  * [#1b66a90](https://github.com/OroraTech/nixpkgs/commit/1b66a90) go: Don&#39;t symlink bin-directory but binaries instead to avoid breaking pkgs.symlinkJoin without error-message
+  * [#92e83bf](https://github.com/OroraTech/nixpkgs/commit/92e83bf) Merge pull request #246963 from tjni/python-ninja
+
+python3.pkgs.ninja-python: replace with a stub implementation
+  * [#decf1f8](https://github.com/OroraTech/nixpkgs/commit/decf1f8) python3.pkgs.flit-core: remove passthru tests (#245671)
+
+These tests are run as part of building the &#34;flit&#34; application. There
+are no flit-core specific tests.
+  * [#9e425b9](https://github.com/OroraTech/nixpkgs/commit/9e425b9) Merge #247426: python3Packages.gunicorn: replace setuptools
+
+...into staging
+  * [#3e483a0](https://github.com/OroraTech/nixpkgs/commit/3e483a0) Merge staging-next into staging
+  * [#0395713](https://github.com/OroraTech/nixpkgs/commit/0395713) openexr_3: 3.1.7 -&gt; 3.1.10
+  * [#91d0b75](https://github.com/OroraTech/nixpkgs/commit/91d0b75) roc-toolkit: 0.2.4 -&gt; 0.2.5
+  * [#6311c0f](https://github.com/OroraTech/nixpkgs/commit/6311c0f) Merge staging-next into staging
+  * [#0865f1f](https://github.com/OroraTech/nixpkgs/commit/0865f1f) Merge pull request #219421 from risicle/ris-fortify-headers-auto
+
+cc-wrapper: include fortify-headers before libc includes for musl
+  * [#215e23a](https://github.com/OroraTech/nixpkgs/commit/215e23a) Merge pull request #246816 from r-ryantm/auto-update/umockdev
+
+umockdev: 0.17.17 -&gt; 0.17.18
+  * *On 21 Aug 2023, 06:31:27*
 * ➡️ Pushed 257 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#5e6e949](https://github.com/OroraTech/nixpkgs/commit/5e6e949) nixos/opensnitch: add test
   * [#6331c56](https://github.com/OroraTech/nixpkgs/commit/6331c56) linux_xanmod_latest: 6.4.8 -&gt; 6.4.10
@@ -124,15 +171,10 @@ to.  But we should do it anyways.
 * ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-pkg-about`
   * [#a9adfb7](https://github.com/OroraTech/nixpkgs/commit/a9adfb7) python3Packages.pkg-about: add checks
   * *On 17 Aug 2023, 09:34:12*
-* ➡️ Pushed 3 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-pkg-about`
-  * [#f1e87fc](https://github.com/OroraTech/nixpkgs/commit/f1e87fc) python3Packages.pkg-about: add changelog
-  * [#b69aee5](https://github.com/OroraTech/nixpkgs/commit/b69aee5) python3Packages.pkg-about: use SRI hash
-  * [#d3dd370](https://github.com/OroraTech/nixpkgs/commit/d3dd370) python3Packages.pkg-about: fix order
-  * *On 17 Aug 2023, 09:03:44*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 21 Aug 2023, 05:57:21 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 21 Aug 2023, 06:56:40 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,43 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 384 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#c19e417](https://github.com/OroraTech/nixpkgs/commit/c19e417) apply pr comments
+  * [#697f9ae](https://github.com/OroraTech/nixpkgs/commit/697f9ae) picard: 2.9 -&gt; 2.9.1
+  * [#852288c](https://github.com/OroraTech/nixpkgs/commit/852288c) htslib: 1.17 -&gt; 1.18
+  * [#85e41cb](https://github.com/OroraTech/nixpkgs/commit/85e41cb) steampipe: 0.20.9 -&gt; 0.20.10
+  * [#58ff0b6](https://github.com/OroraTech/nixpkgs/commit/58ff0b6) victoriametrics: 1.92.1 -&gt; 1.93.0
+  * [#ae8aba3](https://github.com/OroraTech/nixpkgs/commit/ae8aba3) doc/stdenv/stdenv.chapter.md: add information about nix-update-script and nixpkgs-update
+  * [#620e868](https://github.com/OroraTech/nixpkgs/commit/620e868) kodiPackages.pvr-iptvsimple: 20.10.1 -&gt; 20.11.0
+  * [#c2625ce](https://github.com/OroraTech/nixpkgs/commit/c2625ce) flyway: 9.21.0 -&gt; 9.21.1
+  * [#93d5da9](https://github.com/OroraTech/nixpkgs/commit/93d5da9) wt4: 4.9.1 -&gt; 4.10.0
+  * [#c2b897e](https://github.com/OroraTech/nixpkgs/commit/c2b897e) python310Packages.sparse: fix tests
+  * [#1bac8f5](https://github.com/OroraTech/nixpkgs/commit/1bac8f5) netbox,netbox_3_3: link netbox-upgrade NixOS test
+  * [#fce8aa1](https://github.com/OroraTech/nixpkgs/commit/fce8aa1) netbox: 3.5.6 -&gt; 3.5.7
+  * [#de8086b](https://github.com/OroraTech/nixpkgs/commit/de8086b) nixos/tests/netbox-upgrade: init
+
+Test that the upgrade from NetBox 3.3 to NetBox 3.5 runs fine
+  * [#d1b0a95](https://github.com/OroraTech/nixpkgs/commit/d1b0a95) nixos/netbox: move migration into the preStart netbox.service, reindex
+
+Now migrations are run only on upgrade / downgrade and first start,
+which makes netbox much faster on a normal start.
+
+add the reindex for NetBox &gt; 3.5.0, to populate the index, preventing
+empty search results.
+
+Migrations were moved out of netbox-migration.service into
+netbox.service, to prevent service dependency issues when upgrading
+NixOS.
+  * [#a57a322](https://github.com/OroraTech/nixpkgs/commit/a57a322) nixos/netbox: add GIT_PATH environment variable
+
+used by the synchronization backend for remote git repositories, in
+&#34;Data Sources&#34;
+  * [#bcdc4d9](https://github.com/OroraTech/nixpkgs/commit/bcdc4d9) nixos/netbox: remove &#34;with lib;&#34;
+  * [#cfa38c5](https://github.com/OroraTech/nixpkgs/commit/cfa38c5) burpsuite: 2023.5.3 -&gt; 2023.7.2
+  * [#40f2137](https://github.com/OroraTech/nixpkgs/commit/40f2137) kodiPackages.libretro-nestopia: init at 1.52.0.41
+  * [#e3682a9](https://github.com/OroraTech/nixpkgs/commit/e3682a9) maintainers: add jmillerpdt
+  * [#879d640](https://github.com/OroraTech/nixpkgs/commit/879d640) nccl-tests: init at 2.13.6
+  * *On 22 Aug 2023, 07:41:59*
 * ➡️ Pushed 6 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-pycyphal`
   * [#4e2e6a4](https://github.com/OroraTech/nixpkgs/commit/4e2e6a4) python3Packages.pyuavcan: add deprecation warning
   * [#e9ff308](https://github.com/OroraTech/nixpkgs/commit/e9ff308) python3Packages.pycyphal: add small comment on disabled tests
@@ -65,15 +102,10 @@ Was only needed for an older version
 * ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-cobs`
   * [#7aa121b](https://github.com/OroraTech/nixpkgs/commit/7aa121b) python3Packages.cobs: add pythonImportsCheck
   * *On 21 Aug 2023, 07:16:07*
-* ➡️ Pushed 3 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-cobs`
-  * [#05b8b3d](https://github.com/OroraTech/nixpkgs/commit/05b8b3d) python3Packages.cobs: fix check phase
-  * [#e50cd4d](https://github.com/OroraTech/nixpkgs/commit/e50cd4d) python3Packages.cobs: use SRI hash
-  * [#0997d24](https://github.com/OroraTech/nixpkgs/commit/0997d24) python3Packages.cobs: fix format
-  * *On 21 Aug 2023, 07:09:47*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 22 Aug 2023, 08:56:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 22 Aug 2023, 09:57:47 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

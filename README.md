@@ -45,6 +45,38 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 461 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#c24fb60](https://github.com/OroraTech/nixpkgs/commit/c24fb60) python310Packages.edk2-pytool-library: 0.16.2 -&gt; 0.17.0
+
+Diff: https://github.com/tianocore/edk2-pytool-library/compare/v0.16.2...v0.17.0
+
+Changelog: https://github.com/tianocore/edk2-pytool-library/releases/tag/v0.17.0
+  * [#9f92f12](https://github.com/OroraTech/nixpkgs/commit/9f92f12) python310Packages.tinyrecord: init at 0.2.0
+  * [#d2ed325](https://github.com/OroraTech/nixpkgs/commit/d2ed325) firebase-tools: use buildNpmPackage
+  * [#470705e](https://github.com/OroraTech/nixpkgs/commit/470705e) python3Packages.tabcmd: init at 2.0.12
+  * [#02c688f](https://github.com/OroraTech/nixpkgs/commit/02c688f) python3Packages.pyinstaller-versionfile: init at 2.1.1
+  * [#a520ba0](https://github.com/OroraTech/nixpkgs/commit/a520ba0) python3Packages.tableauserverclient: init at 0.25
+  * [#18ff191](https://github.com/OroraTech/nixpkgs/commit/18ff191) python3Packages.types-appdirs: init at 1.4.3.5
+  * [#741fa23](https://github.com/OroraTech/nixpkgs/commit/741fa23) python3Packages.types-mock: init at 5.1.0.1
+  * [#57251cf](https://github.com/OroraTech/nixpkgs/commit/57251cf) python310Packages.python-manilaclient: 4.5.0 -&gt; 4.5.1
+  * [#95a0ebb](https://github.com/OroraTech/nixpkgs/commit/95a0ebb) python310Packages.atlassian-python-api: 3.40.0 -&gt; 3.41.0
+  * [#9646cb5](https://github.com/OroraTech/nixpkgs/commit/9646cb5) buildDotnetGlobalTool: fix typo
+  * [#862ba6f](https://github.com/OroraTech/nixpkgs/commit/862ba6f) python310Packages.dm-haiku: fix build
+  * [#8117571](https://github.com/OroraTech/nixpkgs/commit/8117571) zotero-translation-server: init at unstable-2023-07-13
+  * [#6ddcf93](https://github.com/OroraTech/nixpkgs/commit/6ddcf93) diffoscope: 246 -&gt; 247
+  * [#9437e4d](https://github.com/OroraTech/nixpkgs/commit/9437e4d) fetchurl: cleanup a bit by moving the warning into assert
+  * [#9dcecbd](https://github.com/OroraTech/nixpkgs/commit/9dcecbd) fetchzip: cleanup and improve metrics a bit
+  * [#ed60ed3](https://github.com/OroraTech/nixpkgs/commit/ed60ed3) Fix useDotnetFromEnv&#39;s DOTNET_ROOT detection
+  * [#28fbfa4](https://github.com/OroraTech/nixpkgs/commit/28fbfa4) vscode-extensions.ms-python.isort: init at 2023.10.1
+  * [#f945152](https://github.com/OroraTech/nixpkgs/commit/f945152) vscode-extensions.ms-python.black-formatter: init at 2023.4.1
+  * [#d391373](https://github.com/OroraTech/nixpkgs/commit/d391373) nixos/emacs: start emacs service with the graphical-session
+
+If emacs starts before the graphical session is initialised, clients won&#39;t be
+able to open new frames in the session. Start emacs with the graphical session
+to avoid this issue.
+
+Fixes https://github.com/NixOS/nixpkgs/issues/224512
+  * *On 23 Aug 2023, 11:07:12*
 * ➡️ Pushed 384 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#c19e417](https://github.com/OroraTech/nixpkgs/commit/c19e417) apply pr comments
   * [#697f9ae](https://github.com/OroraTech/nixpkgs/commit/697f9ae) picard: 2.9 -&gt; 2.9.1
@@ -99,13 +131,10 @@ Was only needed for an older version
   * [#97180af](https://github.com/OroraTech/nixpkgs/commit/97180af) python3Packages.libpcap: use SRI hash
   * [#6598a77](https://github.com/OroraTech/nixpkgs/commit/6598a77) python3Packages.libpcap: fix order
   * *On 21 Aug 2023, 08:17:09*
-* ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-cobs`
-  * [#7aa121b](https://github.com/OroraTech/nixpkgs/commit/7aa121b) python3Packages.cobs: add pythonImportsCheck
-  * *On 21 Aug 2023, 07:16:07*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 23 Aug 2023, 11:57:33 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 23 Aug 2023, 13:02:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,73 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 389 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#ca2198d](https://github.com/OroraTech/nixpkgs/commit/ca2198d) python310Packages.molecule-plugins: init at 23.4.1
+  * [#8377b96](https://github.com/OroraTech/nixpkgs/commit/8377b96) maintainers: add dawidd6
+  * [#994f256](https://github.com/OroraTech/nixpkgs/commit/994f256) Fix nixBufferBuilders for newer emacs
+  * [#0465502](https://github.com/OroraTech/nixpkgs/commit/0465502) libcifpp: 5.1.0.1 -&gt; 5.1.2
+
+Diff: https://github.com/PDB-REDO/libcifpp/compare/refs/tags/v5.1.0.1...v5.1.2
+
+Changelog: https://github.com/PDB-REDO/libcifpp/releases/tag/refs/tags/v5.1.2
+  * [#1ff383d](https://github.com/OroraTech/nixpkgs/commit/1ff383d) pt2-clone: 1.61 -&gt; 1.62.2
+  * [#db7d495](https://github.com/OroraTech/nixpkgs/commit/db7d495) python3Packages.pillow-simd: Fix cross compilation
+  * [#6bcf6a8](https://github.com/OroraTech/nixpkgs/commit/6bcf6a8) python3Packages.pillow: Fix cross compilation
+
+Fixes the build time error:
+`ModuleNotFoundError: No module named &#39;setuptools&#39;`.
+  * [#44c0e45](https://github.com/OroraTech/nixpkgs/commit/44c0e45) python311Packages.aioquic: 0.9.20 -&gt; 0.9.21
+  * [#c76bb0d](https://github.com/OroraTech/nixpkgs/commit/c76bb0d) nixos/zsh: add enableLsColors
+
+Borrowed from nixos/bash/ls-colors module
+  * [#c77a792](https://github.com/OroraTech/nixpkgs/commit/c77a792) openturns: 1.20 -&gt; 1.21
+
+Diff: https://github.com/openturns/openturns/compare/v1.20...v1.21
+
+Changelog: https://github.com/openturns/openturns/raw/v1.21/ChangeLog
+  * [#5fda11d](https://github.com/OroraTech/nixpkgs/commit/5fda11d) python311Packages.hahomematic: 2023.7.3 -&gt; 2023.8.2
+
+Diff: https://github.com/danielperna84/hahomematic/compare/refs/tags/2023.7.3...2023.8.2
+
+Changelog: https://github.com/danielperna84/hahomematic/releases/tag/2023.8.2
+  * [#ee9d0f2](https://github.com/OroraTech/nixpkgs/commit/ee9d0f2) python311Packages.hahomematic: 2023.7.0 -&gt; 2023.7.3
+
+Changelog: https://github.com/danielperna84/hahomematic/releases/tag/2023.7.3
+  * [#ff1c16c](https://github.com/OroraTech/nixpkgs/commit/ff1c16c) skytemple: 1.4.7 -&gt; 1.5.4
+  * [#13de9df](https://github.com/OroraTech/nixpkgs/commit/13de9df) python3Packages.skytemple-files: 1.4.7 -&gt; 1.5.4
+  * [#9078796](https://github.com/OroraTech/nixpkgs/commit/9078796) python3Packages.explorerscript: 0.1.2 -&gt; 0.1.3
+  * [#0fb2e4d](https://github.com/OroraTech/nixpkgs/commit/0fb2e4d) python3Packages.skytemple-rust: 1.4.0.post0 -&gt; 1.5.3
+  * [#cc78173](https://github.com/OroraTech/nixpkgs/commit/cc78173) python3Packages.notmuch2: use bindingconfig that works on darwin
+
+Instead of using the configure generated _notmuch_config.py, we generate
+our own which correctly references each respective field.
+
+The _notmuch_config.py in notmuch.bindingconfig contained references to
+the build directory. On linux this didn&#39;t break anything due to the
+sandbox always having a build root of /build. But on darwin this would
+be different depending on the derivation being built. So the build
+accidently worked since version.txt would end up in the same place on
+linux.
+
+It seems in practice NOTMUCH_LIB_DIR not containing the built libraries
+did not break the build. Either way after this commit it will point to
+the correct place.
+
+For convenience the _notmuch_config.py from notmuch.bindingconfig is
+viewable here
+https://gist.github.com/keegancsmith/bdc2f0e44425ad68c8b6a85f8ed0b289
+
+We do not remove the bindingconfig output from notmuch in this commit
+since in my local testing that just caused cache invalidations on
+notmuch. But can do that as well.
+  * [#7e26c8d](https://github.com/OroraTech/nixpkgs/commit/7e26c8d) prometheus-exporter-nextcloud: support for auth tokens
+
+Fixes #176849
+  * [#0fcf35a](https://github.com/OroraTech/nixpkgs/commit/0fcf35a) singularity: specify &#34;nvidia-container-cli path&#34;
+  * [#466e154](https://github.com/OroraTech/nixpkgs/commit/466e154) apptainer, singularity: fix wrapper PATH prefix
+
+Fix the missing trailing /bin in f6e7fcc
+  * *On 25 Aug 2023, 14:22:30*
 * 💬 Commented on [#249157 python3Packages.sphinxHook: Fix cross compilation](https://github.com/NixOS/nixpkgs/issues/249157) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 25 Aug 2023, 13:36:55*
 * ➡️ Pushed 4489 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `chore/fix-sphinx-hook`
@@ -99,12 +166,10 @@ dysk: 2.7.2 -&gt; 2.8.0
   * *On 25 Aug 2023, 13:32:05*
 * ⏺️ Created new branch chore/fix-pillow in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
   * *On 25 Aug 2023, 13:23:06*
-* 💬 Commented on [#249136 python3Packages.pillow &amp; python3Packages.pillow-simd: Fix cross compilation](https://github.com/NixOS/nixpkgs/issues/249136) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 25 Aug 2023, 13:22:30*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 25 Aug 2023, 13:57:29 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 25 Aug 2023, 14:58:19 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

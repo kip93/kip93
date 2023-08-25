@@ -45,6 +45,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 💬 Commented on [#249111 python3Packages.pyerfa: Fix cross compilation](https://github.com/NixOS/nixpkgs/issues/249111) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 25 Aug 2023, 11:26:42*
+  * *On 25 Aug 2023, 11:21:20*
 * ➡️ Pushed 4 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#88160d5](https://github.com/OroraTech/nixpkgs/commit/88160d5) Merge pull request #247858 from r-ryantm/auto-update/amdvlk
 
@@ -96,63 +99,10 @@ Changelog: https://github.com/nodejs/llhttp/releases/tag/release/v9.0.1
   * [#2d2a53d](https://github.com/OroraTech/nixpkgs/commit/2d2a53d) iosevka-bin: 26.2.0 -&gt; 26.2.1
   * [#d0c4b57](https://github.com/OroraTech/nixpkgs/commit/d0c4b57) gobgpd: 3.16.0 -&gt; 3.17.0
   * *On 24 Aug 2023, 12:33:31*
-* ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `chore/fix-pyerfa`
-  * [#d6c2f48](https://github.com/OroraTech/nixpkgs/commit/d6c2f48) python3Packages.pyerfa: Fix cross compilation
-
-Fixes the build time error:
-`ModuleNotFoundError: No module named &#39;numpy.core._multiarray_umath&#39;`.
-  * *On 24 Aug 2023, 12:30:13*
-* ➡️ Pushed 10 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#cd723bf](https://github.com/OroraTech/nixpkgs/commit/cd723bf) Merge pull request #251146 from fabaff/pylitterbot
-
-python311Packages.pylitterbot: 2023.4.4 -&gt; 2023.4.5
-  * [#a189282](https://github.com/OroraTech/nixpkgs/commit/a189282) Merge pull request #251147 from fabaff/reolink-aio-bump
-
-python311Packages.reolink-aio: 0.7.7 -&gt; 0.7.8
-  * [#5b80beb](https://github.com/OroraTech/nixpkgs/commit/5b80beb) Merge pull request #251120 from fabaff/devolo-plc-api-bump
-
-python311Packages.devolo-plc-api: 1.3.2 -&gt; 1.4.0
-  * [#b326be5](https://github.com/OroraTech/nixpkgs/commit/b326be5) Merge pull request #239240 from leona-ya/keycloak-features
-
-keycloak: allow enabling and disabling features
-  * [#1c7948a](https://github.com/OroraTech/nixpkgs/commit/1c7948a) Merge pull request #250961 from emilylange/matrix-sliding-sync
-
-matrix-sliding-sync: 0.99.5 -&gt; 0.99.6
-  * [#1387d15](https://github.com/OroraTech/nixpkgs/commit/1387d15) python311Packages.reolink-aio: 0.7.7 -&gt; 0.7.8
-
-Diff: https://github.com/starkillerOG/reolink_aio/compare/refs/tags/0.7.7...0.7.8
-
-Changelog: https://github.com/starkillerOG/reolink_aio/releases/tag/0.7.8
-  * [#121ea4d](https://github.com/OroraTech/nixpkgs/commit/121ea4d) python311Packages.pylitterbot: 2023.4.4 -&gt; 2023.4.5
-
-Diff: https://github.com/natekspencer/pylitterbot/compare/refs/tags/v2023.4.4...v2023.4.5
-
-Changelog: https://github.com/natekspencer/pylitterbot/releases/tag/v2023.4.5
-  * [#4d969c8](https://github.com/OroraTech/nixpkgs/commit/4d969c8) python311Packages.devolo-plc-api: 1.3.2 -&gt; 1.4.0
-
-Diff: https://github.com/2Fake/devolo_plc_api/compare/refs/tags/v1.3.2...v1.4.0
-
-Changelog: https://github.com/2Fake/devolo_plc_api/releases/tag/v1.4.0
-  * [#0941179](https://github.com/OroraTech/nixpkgs/commit/0941179) matrix-sliding-sync: 0.99.5 -&gt; 0.99.6
-
-This release reports the version info inconsistently, because
-the hardcoded version string has not been updated yet.
-
-```
-❯ result/bin/syncv3
-Sync v3 [0.99.5] (v0.99.6)
-```
-
-See https://github.com/matrix-org/sliding-sync/blob/v0.99.6/cmd/syncv3/main.go#L29
-
-https://github.com/matrix-org/sliding-sync/releases/tag/v0.99.6
-diff: https://github.com/matrix-org/sliding-sync/compare/v0.99.5...v0.99.6
-  * [#77ff76f](https://github.com/OroraTech/nixpkgs/commit/77ff76f) keycloak: allow enabling and disabling features
-  * *On 24 Aug 2023, 12:21:32*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 25 Aug 2023, 10:57:31 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 25 Aug 2023, 11:59:16 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

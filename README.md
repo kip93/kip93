@@ -45,6 +45,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-libpcap`
+  * [#e10f914](https://github.com/OroraTech/nixpkgs/commit/e10f914) python311Packages.libpcap: init at 1.11.0b7
+  * *On 29 Aug 2023, 14:32:22*
 * ➡️ Pushed 2014 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-pycyphal`
   * [#a9f91cf](https://github.com/OroraTech/nixpkgs/commit/a9f91cf) python310Packages.djangorestframework-dataclasses: 1.2.0 -&gt; 1.3.0
   * [#5a7c5d7](https://github.com/OroraTech/nixpkgs/commit/5a7c5d7) python311Packages.hahomematic: 2023.8.10 -&gt; 2023.8.11
@@ -150,14 +153,10 @@ zoom-us: 5.15.5.5603 -&gt; 5.15.10.6882
   * [#eadaccf](https://github.com/OroraTech/nixpkgs/commit/eadaccf) clash-meta: 1.15.0 -&gt; 1.15.1
   * *On 29 Aug 2023, 08:59:33*
   * *On 29 Aug 2023, 08:56:36*
-* ➡️ Pushed 2 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-libpcap`
-  * [#001926e](https://github.com/OroraTech/nixpkgs/commit/001926e) python311Packages.libpcap: init at 1.11.0b7
-  * [#b0e9686](https://github.com/OroraTech/nixpkgs/commit/b0e9686) python311Packages.pkg-about: init at 1.0.8
-  * *On 29 Aug 2023, 08:55:08*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 29 Aug 2023, 13:56:49 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 29 Aug 2023, 14:58:40 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

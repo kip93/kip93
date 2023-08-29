@@ -45,6 +45,62 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 1576 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#db6761e](https://github.com/OroraTech/nixpkgs/commit/db6761e) denaro: 2023.6.2 -&gt; 2023.8.1
+  * [#fa08e19](https://github.com/OroraTech/nixpkgs/commit/fa08e19) Merge pull request #251403 from fabaff/types-beautifulsoup4
+
+ python311Packages.types-html5lib: init at 1.1.11.15, python311Packages.types-beautifulsoup4: init at 4.12.0.6
+  * [#77eb86d](https://github.com/OroraTech/nixpkgs/commit/77eb86d) smenu: 1.2.0 -&gt; 1.3.0
+
+Diff: https://github.com/p-gen/smenu/compare/v1.2.0...v1.3.0
+  * [#1974feb](https://github.com/OroraTech/nixpkgs/commit/1974feb) getoptions: disable tests against yash
+  * [#cc515a6](https://github.com/OroraTech/nixpkgs/commit/cc515a6) genemichaels: init at 0.1.21
+  * [#697d179](https://github.com/OroraTech/nixpkgs/commit/697d179) Merge pull request #251399 from r-ryantm/auto-update/k3sup
+
+k3sup: 0.12.14 -&gt; 0.12.15
+  * [#6bc3951](https://github.com/OroraTech/nixpkgs/commit/6bc3951) Merge pull request #251317 from GaetanLepage/rainbow-delimiters
+
+vimPlugins.rainbow-delimiters-nvim: init at 2023-08-25
+  * [#e2df13e](https://github.com/OroraTech/nixpkgs/commit/e2df13e) Merge pull request #251309 from r-ryantm/auto-update/ast-grep
+
+ast-grep: 0.11.0 -&gt; 0.11.1
+  * [#542639f](https://github.com/OroraTech/nixpkgs/commit/542639f) authheaders: add setuptools dependency
+
+&gt; File &#34;/nix/store/4yshsw9xkwfw8ybn7xsr9kg2a5dynawd-python3-3.10.12-env/lib/python3.10/site-packages/authheaders/dmarc_lookup.py&#34;, line 22, in &lt;module&gt;
+&gt;   from pkg_resources import resource_filename  # Part of setuptools
+
+This was previously propagated from gunicorn, but gunicorn no longer
+depends on setuptools.  Fixes the Mailman NixOS test.
+
+Fixes: 2b8a7515d884 (&#34;python3.pkgs.gunicorn: replace setuptools with packaging dependency&#34;)
+  * [#0ca251a](https://github.com/OroraTech/nixpkgs/commit/0ca251a) Merge pull request #251339 from marsam/update-scheme-manpages
+
+scheme-manpages: unstable-2023-06-04 -&gt; unstable-2023-08-13
+  * [#0c06e91](https://github.com/OroraTech/nixpkgs/commit/0c06e91) Merge pull request #251390 from r-ryantm/auto-update/grpc_cli
+
+grpc_cli: 1.56.2 -&gt; 1.57.0
+  * [#60f3de2](https://github.com/OroraTech/nixpkgs/commit/60f3de2) Merge pull request #251332 from marsam/update-millet
+
+millet: 0.12.9 -&gt; 0.13.0
+  * [#f29ffd9](https://github.com/OroraTech/nixpkgs/commit/f29ffd9) Merge pull request #251363 from khaneliman/fastfetch
+
+fastfetch: 2.0.3 -&gt; 2.0.4
+  * [#30b9963](https://github.com/OroraTech/nixpkgs/commit/30b9963) Merge pull request #251396 from r-ryantm/auto-update/netdata
+
+netdata: 1.42.0 -&gt; 1.42.1
+  * [#32b62b0](https://github.com/OroraTech/nixpkgs/commit/32b62b0) python311Packages.types-beautifulsoup4: init at 4.12.0.6
+  * [#019f208](https://github.com/OroraTech/nixpkgs/commit/019f208) python311Packages.types-html5lib: init at 1.1.11.15
+  * [#8af152f](https://github.com/OroraTech/nixpkgs/commit/8af152f) python310Packages.duckduckgo-search: 2.8.5 -&gt; 3.8.5
+
+Version 2.8.5 is very old and doesn&#39;t work anymore.
+  * [#72631d7](https://github.com/OroraTech/nixpkgs/commit/72631d7) Merge pull request #251055 from lheckemann/virt-manager-osx
+
+virt-manager: produce a macos application
+  * [#31d331e](https://github.com/OroraTech/nixpkgs/commit/31d331e) Merge pull request #251186 from skorpy2009/zoom
+
+zoom-us: 5.15.5.5603 -&gt; 5.15.10.6882
+  * [#eadaccf](https://github.com/OroraTech/nixpkgs/commit/eadaccf) clash-meta: 1.15.0 -&gt; 1.15.1
+  * *On 29 Aug 2023, 08:59:33*
   * *On 29 Aug 2023, 08:56:36*
 * ➡️ Pushed 2 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-libpcap`
   * [#001926e](https://github.com/OroraTech/nixpkgs/commit/001926e) python311Packages.libpcap: init at 1.11.0b7
@@ -53,62 +109,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-pkg-about`
   * [#b0e9686](https://github.com/OroraTech/nixpkgs/commit/b0e9686) python311Packages.pkg-about: init at 1.0.8
   * *On 29 Aug 2023, 08:50:01*
-* ➡️ Pushed 1957 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-libpcap`
-  * [#eadaccf](https://github.com/OroraTech/nixpkgs/commit/eadaccf) clash-meta: 1.15.0 -&gt; 1.15.1
-  * [#b07e62c](https://github.com/OroraTech/nixpkgs/commit/b07e62c) Merge pull request #251381 from MoritzBoehme/gum-add-main-program
-  * [#fc29f75](https://github.com/OroraTech/nixpkgs/commit/fc29f75) difftastic: 0.50.0 -&gt; 0.51.1
-
-Diff: https://github.com/wilfred/difftastic/compare/0.50.0...0.51.1
-
-Changelog: https://github.com/Wilfred/difftastic/blob/0.51.1/CHANGELOG.md
-  * [#37587d2](https://github.com/OroraTech/nixpkgs/commit/37587d2) Merge pull request #251067 from cdmistman/cad/update-bun
-
-bun: 0.7.3 -&gt; 0.8.0
-  * [#dd42af6](https://github.com/OroraTech/nixpkgs/commit/dd42af6) chromium: 116.0.5845.96 -&gt; 116.0.5845.110
-
-https://chromereleases.googleblog.com/2023/08/chrome-desktop-stable-update.html
-
-This update includes 5 security fixes.
-
-CVEs:
-CVE-2023-4430 CVE-2023-4429 CVE-2023-4428 CVE-2023-4427 CVE-2023-4431
-  * [#562f874](https://github.com/OroraTech/nixpkgs/commit/562f874) ungoogled-chromium: 116.0.5845.96 -&gt; 116.0.5845.110
-
-https://chromereleases.googleblog.com/2023/08/chrome-desktop-stable-update.html
-
-This update includes 5 security fixes.
-
-CVEs:
-CVE-2023-4430 CVE-2023-4429 CVE-2023-4428 CVE-2023-4427 CVE-2023-4431
-  * [#dafab32](https://github.com/OroraTech/nixpkgs/commit/dafab32) k3sup: 0.12.14 -&gt; 0.12.15
-  * [#1a293f4](https://github.com/OroraTech/nixpkgs/commit/1a293f4) minio: 2023-08-09T23-30-22Z -&gt; 2023-08-16T20-17-30Z
-  * [#ea96bb8](https://github.com/OroraTech/nixpkgs/commit/ea96bb8) Merge pull request #251282 from bobby285271/upd/pantheon
-
-pantheon.elementary-files: 6.4.1 -&gt; 6.5.0
-  * [#103bbcc](https://github.com/OroraTech/nixpkgs/commit/103bbcc) Merge pull request #251359 from r-ryantm/auto-update/iqtree
-
-iqtree: 2.2.2.6 -&gt; 2.2.2.7
-  * [#7eb4df7](https://github.com/OroraTech/nixpkgs/commit/7eb4df7) Merge pull request #251386 from r-ryantm/auto-update/traefik
-
-traefik: 2.10.3 -&gt; 2.10.4
-  * [#b980fb5](https://github.com/OroraTech/nixpkgs/commit/b980fb5) Merge pull request #251372 from 06kellyjac/diffoci
-
-diffoci: init at 0.1.1
-  * [#23d4032](https://github.com/OroraTech/nixpkgs/commit/23d4032) netdata: 1.42.0 -&gt; 1.42.1
-  * [#c7cf24c](https://github.com/OroraTech/nixpkgs/commit/c7cf24c) vimPlugins.nvim-treesitter: update grammars
-  * [#b4c1f7d](https://github.com/OroraTech/nixpkgs/commit/b4c1f7d) vimPlugins: update
-  * [#dc157dc](https://github.com/OroraTech/nixpkgs/commit/dc157dc) vimPlugins.nvim-treesitter-context: update URL
-  * [#d764a59](https://github.com/OroraTech/nixpkgs/commit/d764a59) vimPlugins.rainbow-delimiters-nvim: init at 2023-08-25
-  * [#29a8ee9](https://github.com/OroraTech/nixpkgs/commit/29a8ee9) imgproxy: 3.18.2 -&gt; 3.19.0
-  * [#473e7f0](https://github.com/OroraTech/nixpkgs/commit/473e7f0) riffdiff: 2.25.0 -&gt; 2.25.2
-  * [#ee0e020](https://github.com/OroraTech/nixpkgs/commit/ee0e020) Merge pull request #251373 from figsoda/tally
-
-cargo-tally: 1.0.28 -&gt; 1.0.29
-  * *On 29 Aug 2023, 08:28:30*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 29 Aug 2023, 08:59:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 29 Aug 2023, 09:57:27 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

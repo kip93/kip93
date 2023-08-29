@@ -45,6 +45,54 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 2014 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-pycyphal`
+  * [#a9f91cf](https://github.com/OroraTech/nixpkgs/commit/a9f91cf) python310Packages.djangorestframework-dataclasses: 1.2.0 -&gt; 1.3.0
+  * [#5a7c5d7](https://github.com/OroraTech/nixpkgs/commit/5a7c5d7) python311Packages.hahomematic: 2023.8.10 -&gt; 2023.8.11
+
+Diff: https://github.com/danielperna84/hahomematic/compare/refs/tags/2023.8.10...2023.8.11
+
+Changelog: https://github.com/danielperna84/hahomematic/releases/tag/2023.8.11
+  * [#94d494b](https://github.com/OroraTech/nixpkgs/commit/94d494b) Merge pull request #246851 from anund/noson-pulse
+
+noson: fix pulse audio streaming support
+  * [#fa5a83c](https://github.com/OroraTech/nixpkgs/commit/fa5a83c) Merge pull request #251417 from fabaff/adax-bump
+
+python311Packages.adax: 0.2.0 -&gt; 0.3.0
+  * [#fb6f193](https://github.com/OroraTech/nixpkgs/commit/fb6f193) Merge pull request #248040 from felschr/tor-browser-malloc
+
+tor-browser-bundle-bin: deprecate useHardenedMalloc
+  * [#487eb77](https://github.com/OroraTech/nixpkgs/commit/487eb77)  python311Packages.mdformat: add changelog to meta
+  * [#3d37de3](https://github.com/OroraTech/nixpkgs/commit/3d37de3) python311Packages.mdformat: 0.7.16 -&gt; 0.7.17
+
+Diff: https://github.com/executablebooks/mdformat/compare/0.7.16...0.7.17
+  * [#9bd52fd](https://github.com/OroraTech/nixpkgs/commit/9bd52fd) Merge pull request #250517 from aaronjheng/datadog-agent
+
+datadog-agent: unpin go1.18
+  * [#5fc4687](https://github.com/OroraTech/nixpkgs/commit/5fc4687) Merge pull request #229452 from Leixb/headsetcontrol27
+
+headsetcontrol: 2.6.1 -&gt; 2.7.0
+  * [#4df994d](https://github.com/OroraTech/nixpkgs/commit/4df994d) Merge pull request #248486 from S-NA/updates/deadd-notification-center
+
+deadd-notification-center: 2.0.4 -&gt; 2.1.1
+  * [#c096731](https://github.com/OroraTech/nixpkgs/commit/c096731) Merge pull request #249600 from anthonyroussel/nvtop_3_0_2
+
+nvtop: 3.0.1 -&gt; 3.0.2
+  * [#39e95f3](https://github.com/OroraTech/nixpkgs/commit/39e95f3) Merge pull request #251411 from SuperSandro2000/smenu
+
+smenu: 1.2.0 -&gt; 1.3.0
+  * [#e79f8fd](https://github.com/OroraTech/nixpkgs/commit/e79f8fd) Merge master into staging-next
+  * [#0f0f1d0](https://github.com/OroraTech/nixpkgs/commit/0f0f1d0) python310Packages.pycmarkgfm: 1.2.0 -&gt; 1.2.1
+  * [#5cf3fa6](https://github.com/OroraTech/nixpkgs/commit/5cf3fa6) Merge pull request #251266 from marsam/update-1password
+
+_1password: 2.19.0 -&gt; 2.20.0
+  * [#18c6696](https://github.com/OroraTech/nixpkgs/commit/18c6696) Merge pull request #251256 from NixOS/home-assistant
+
+home-assistant: 2023.8.3 -&gt; 2023.8.4
+  * [#29e72dc](https://github.com/OroraTech/nixpkgs/commit/29e72dc) metasploit: 6.3.30 -&gt; 6.3.31
+  * [#68eb957](https://github.com/OroraTech/nixpkgs/commit/68eb957) Merge #251367: revert &#34;python3Packages.pillow &amp; python3Packages.pillow-simd: Fix cross compilation&#34;
+  * [#19a689a](https://github.com/OroraTech/nixpkgs/commit/19a689a) python311Packages.adax: disable on unsupported Python releases
+  * [#2d4cda1](https://github.com/OroraTech/nixpkgs/commit/2d4cda1) python311Packages.adax: add changelog to meta
+  * *On 29 Aug 2023, 10:47:56*
 * ➡️ Pushed 1576 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#db6761e](https://github.com/OroraTech/nixpkgs/commit/db6761e) denaro: 2023.6.2 -&gt; 2023.8.1
   * [#fa08e19](https://github.com/OroraTech/nixpkgs/commit/fa08e19) Merge pull request #251403 from fabaff/types-beautifulsoup4
@@ -106,13 +154,10 @@ zoom-us: 5.15.5.5603 -&gt; 5.15.10.6882
   * [#001926e](https://github.com/OroraTech/nixpkgs/commit/001926e) python311Packages.libpcap: init at 1.11.0b7
   * [#b0e9686](https://github.com/OroraTech/nixpkgs/commit/b0e9686) python311Packages.pkg-about: init at 1.0.8
   * *On 29 Aug 2023, 08:55:08*
-* ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-pkg-about`
-  * [#b0e9686](https://github.com/OroraTech/nixpkgs/commit/b0e9686) python311Packages.pkg-about: init at 1.0.8
-  * *On 29 Aug 2023, 08:50:01*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 29 Aug 2023, 09:57:27 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 29 Aug 2023, 10:57:08 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

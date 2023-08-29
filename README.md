@@ -45,6 +45,130 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 92 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#cc57329](https://github.com/OroraTech/nixpkgs/commit/cc57329) postgresqlPackages.pgvector: 0.4.4 -&gt; 0.5.0
+
+Diff: https://github.com/pgvector/pgvector/compare/v0.4.4...v0.5.0
+
+Changelog: https://github.com/pgvector/pgvector/raw/v0.5.0/CHANGELOG.md
+  * [#f487088](https://github.com/OroraTech/nixpkgs/commit/f487088) git-branchless: 0.7.1 -&gt; 0.8.0
+
+Diff: https://github.com/arxanas/git-branchless/compare/v0.7.1...0.8.0
+  * [#acafc8e](https://github.com/OroraTech/nixpkgs/commit/acafc8e) flutter.buildFlutterApplication: fix passthru being ignored
+
+Signed-off-by: lucasew &lt;lucas59356@gmail.com&gt;
+  * [#bda4a66](https://github.com/OroraTech/nixpkgs/commit/bda4a66) ispc: 1.19.0 -&gt; 1.20.0
+  * [#3901f0c](https://github.com/OroraTech/nixpkgs/commit/3901f0c) libnvme: add withDocs
+
+The libnvme documentation fails to build when cross compiling, with:
+
+ FAILED: doc/nvme_admin_opcode.2
+ /nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/bin/meson --internal exe --capture doc/nvme_admin_opcode.2 -- /build/source/doc/kernel-doc -module libnvme -man -function nvme_admin_opcode ../doc/../src/nvme/types.h
+ Traceback (most recent call last):
+   File &#34;/nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/bin/meson&#34;, line 6, in &lt;module&gt;
+   File &#34;/nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/lib/python3.10/site-packages/mesonbuild/mesonmain.py&#34;, line 30, in &lt;module&gt;
+     from . import mlog
+ ImportError: cannot import name &#39;mlog&#39; from &#39;mesonbuild&#39; (/nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/lib/python3.10/site-packages/mesonbuild/__init__.py)
+ [703/811] Generating doc/nvme_identify_cns_man with a custom command (wrapped by meson to capture output)
+ FAILED: doc/nvme_identify_cns.2
+ /nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/bin/meson --internal exe --capture doc/nvme_identify_cns.2 -- /build/source/doc/kernel-doc -module libnvme -man -function nvme_identify_cns ../doc/../src/nvme/types.h
+ Traceback (most recent call last):
+   File &#34;/nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/bin/meson&#34;, line 6, in &lt;module&gt;
+   File &#34;/nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/lib/python3.10/site-packages/mesonbuild/mesonmain.py&#34;, line 30, in &lt;module&gt;
+     from . import mlog
+  * [#2872237](https://github.com/OroraTech/nixpkgs/commit/2872237) python3Packages.pytest-recording: 0.12.2 -&gt; 0.13.0
+  * [#4959264](https://github.com/OroraTech/nixpkgs/commit/4959264) cargo-shuttle: 0.24.0 -&gt; 0.25.1
+
+Diff: https://github.com/shuttle-hq/shuttle/compare/v0.24.0...v0.25.1
+
+Changelog: https://github.com/shuttle-hq/shuttle/releases/tag/v0.25.1
+  * [#9a18f86](https://github.com/OroraTech/nixpkgs/commit/9a18f86) heisenbridge 1.14.4 -&gt; 1.14.5
+  * [#77f65ff](https://github.com/OroraTech/nixpkgs/commit/77f65ff) gobble: init at 1.3
+
+https://github.com/EmperorPenguin18/gobble
+  * [#9836685](https://github.com/OroraTech/nixpkgs/commit/9836685) python310Packages.apkit: init at unstable 2022-08-23
+  * [#f949b36](https://github.com/OroraTech/nixpkgs/commit/f949b36) blackfire: 2.20.0 -&gt; 2.21.0
+  * [#65fe58d](https://github.com/OroraTech/nixpkgs/commit/65fe58d) commitizen: 3.5.2 -&gt; 3.7.0
+
+https://github.com/commitizen-tools/commitizen/compare/v3.5.2...3.7.0
+
+https://github.com/commitizen-tools/commitizen/releases/tag/3.7.0
+https://github.com/commitizen-tools/commitizen/releases/tag/3.6.0
+  * [#b86adcb](https://github.com/OroraTech/nixpkgs/commit/b86adcb) swaynotificationcenter: backport PR 296
+  * [#75919c9](https://github.com/OroraTech/nixpkgs/commit/75919c9) flyway: 9.21.1 -&gt; 9.21.2
+  * [#28d93b8](https://github.com/OroraTech/nixpkgs/commit/28d93b8) sioyek: fix build
+  * [#bb9a708](https://github.com/OroraTech/nixpkgs/commit/bb9a708) python311Packages.async-upnp-client: 0.34.1 -&gt; 0.35.0
+
+Diff: https://github.com/StevenLooman/async_upnp_client/compare/refs/tags/0.34.1...0.35.0
+
+Changelog: https://github.com/StevenLooman/async_upnp_client/blob/0.35.0/CHANGES.rst
+  * [#0e5622c](https://github.com/OroraTech/nixpkgs/commit/0e5622c) python311Packages.bluetooth-data-tools: 1.9.0 -&gt; 1.9.1
+
+Diff: https://github.com/Bluetooth-Devices/bluetooth-data-tools/compare/refs/tags/v1.9.0...v1.9.1
+
+Changelog: https://github.com/Bluetooth-Devices/bluetooth-data-tools/blob/v1.9.1/CHANGELOG.md
+  * [#748d749](https://github.com/OroraTech/nixpkgs/commit/748d749) python311Packages.fnv-hash-fast: 0.4.0 -&gt; 0.4.1
+
+Diff: https://github.com/bdraco/fnv-hash-fast/compare/v0.4.0...v0.4.1
+
+Changelog: https://github.com/bdraco/fnv-hash-fast/blob/v0.4.1/CHANGELOG.md
+  * [#1792924](https://github.com/OroraTech/nixpkgs/commit/1792924) rust-traverse: init at 2.0.0
+
+https://github.com/dmcg310/Rust-Traverse
+  * [#c7f827e](https://github.com/OroraTech/nixpkgs/commit/c7f827e) atlas: init at 0.13.3
+  * *On 29 Aug 2023, 15:21:22*
+* ➡️ Pushed 2015 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-yakut`
+  * [#d712f8e](https://github.com/OroraTech/nixpkgs/commit/d712f8e) python311Packages.aioaseko: 0.0.2 -&gt; 0.1.0
+
+Diff: https://github.com/milanmeu/aioaseko/compare/refs/tags/v0.0.2...v0.1.0
+
+Changelog: https://github.com/milanmeu/aioaseko/releases/tag/v0.1.0
+  * [#a9f91cf](https://github.com/OroraTech/nixpkgs/commit/a9f91cf) python310Packages.djangorestframework-dataclasses: 1.2.0 -&gt; 1.3.0
+  * [#5a7c5d7](https://github.com/OroraTech/nixpkgs/commit/5a7c5d7) python311Packages.hahomematic: 2023.8.10 -&gt; 2023.8.11
+
+Diff: https://github.com/danielperna84/hahomematic/compare/refs/tags/2023.8.10...2023.8.11
+
+Changelog: https://github.com/danielperna84/hahomematic/releases/tag/2023.8.11
+  * [#94d494b](https://github.com/OroraTech/nixpkgs/commit/94d494b) Merge pull request #246851 from anund/noson-pulse
+
+noson: fix pulse audio streaming support
+  * [#fa5a83c](https://github.com/OroraTech/nixpkgs/commit/fa5a83c) Merge pull request #251417 from fabaff/adax-bump
+
+python311Packages.adax: 0.2.0 -&gt; 0.3.0
+  * [#fb6f193](https://github.com/OroraTech/nixpkgs/commit/fb6f193) Merge pull request #248040 from felschr/tor-browser-malloc
+
+tor-browser-bundle-bin: deprecate useHardenedMalloc
+  * [#487eb77](https://github.com/OroraTech/nixpkgs/commit/487eb77)  python311Packages.mdformat: add changelog to meta
+  * [#3d37de3](https://github.com/OroraTech/nixpkgs/commit/3d37de3) python311Packages.mdformat: 0.7.16 -&gt; 0.7.17
+
+Diff: https://github.com/executablebooks/mdformat/compare/0.7.16...0.7.17
+  * [#9bd52fd](https://github.com/OroraTech/nixpkgs/commit/9bd52fd) Merge pull request #250517 from aaronjheng/datadog-agent
+
+datadog-agent: unpin go1.18
+  * [#5fc4687](https://github.com/OroraTech/nixpkgs/commit/5fc4687) Merge pull request #229452 from Leixb/headsetcontrol27
+
+headsetcontrol: 2.6.1 -&gt; 2.7.0
+  * [#4df994d](https://github.com/OroraTech/nixpkgs/commit/4df994d) Merge pull request #248486 from S-NA/updates/deadd-notification-center
+
+deadd-notification-center: 2.0.4 -&gt; 2.1.1
+  * [#c096731](https://github.com/OroraTech/nixpkgs/commit/c096731) Merge pull request #249600 from anthonyroussel/nvtop_3_0_2
+
+nvtop: 3.0.1 -&gt; 3.0.2
+  * [#39e95f3](https://github.com/OroraTech/nixpkgs/commit/39e95f3) Merge pull request #251411 from SuperSandro2000/smenu
+
+smenu: 1.2.0 -&gt; 1.3.0
+  * [#e79f8fd](https://github.com/OroraTech/nixpkgs/commit/e79f8fd) Merge master into staging-next
+  * [#0f0f1d0](https://github.com/OroraTech/nixpkgs/commit/0f0f1d0) python310Packages.pycmarkgfm: 1.2.0 -&gt; 1.2.1
+  * [#5cf3fa6](https://github.com/OroraTech/nixpkgs/commit/5cf3fa6) Merge pull request #251266 from marsam/update-1password
+
+_1password: 2.19.0 -&gt; 2.20.0
+  * [#18c6696](https://github.com/OroraTech/nixpkgs/commit/18c6696) Merge pull request #251256 from NixOS/home-assistant
+
+home-assistant: 2023.8.3 -&gt; 2023.8.4
+  * [#29e72dc](https://github.com/OroraTech/nixpkgs/commit/29e72dc) metasploit: 6.3.30 -&gt; 6.3.31
+  * [#68eb957](https://github.com/OroraTech/nixpkgs/commit/68eb957) Merge #251367: revert &#34;python3Packages.pillow &amp; python3Packages.pillow-simd: Fix cross compilation&#34;
+  * [#19a689a](https://github.com/OroraTech/nixpkgs/commit/19a689a) python311Packages.adax: disable on unsupported Python releases
+  * *On 29 Aug 2023, 15:20:40*
 * ➡️ Pushed 2 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-pycyphal`
   * [#ac6bac0](https://github.com/OroraTech/nixpkgs/commit/ac6bac0) python311Packages.pyuavcan: add deprecation warning
   * [#652381a](https://github.com/OroraTech/nixpkgs/commit/652381a) python311Packages.pycyphal: init at 1.15.2
@@ -56,65 +180,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#9d19539](https://github.com/OroraTech/nixpkgs/commit/9d19539) python311Packages.libpcap: init at 1.11.0b7
   * [#b47d5a0](https://github.com/OroraTech/nixpkgs/commit/b47d5a0) python311Packages.pkg-about: init at 1.0.8
   * *On 29 Aug 2023, 14:53:05*
-* ➡️ Pushed 57 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-libpcap`
-  * [#f0a2552](https://github.com/OroraTech/nixpkgs/commit/f0a2552) python310Packages.us: add format
-
-- disable on unsupported Python releases
-  * [#f511087](https://github.com/OroraTech/nixpkgs/commit/f511087) python310Packages.us: 2.0.2 -&gt; 3.1.1
-  * [#cc57329](https://github.com/OroraTech/nixpkgs/commit/cc57329) postgresqlPackages.pgvector: 0.4.4 -&gt; 0.5.0
-
-Diff: https://github.com/pgvector/pgvector/compare/v0.4.4...v0.5.0
-
-Changelog: https://github.com/pgvector/pgvector/raw/v0.5.0/CHANGELOG.md
-  * [#f487088](https://github.com/OroraTech/nixpkgs/commit/f487088) git-branchless: 0.7.1 -&gt; 0.8.0
-
-Diff: https://github.com/arxanas/git-branchless/compare/v0.7.1...0.8.0
-  * [#1e333d2](https://github.com/OroraTech/nixpkgs/commit/1e333d2) termimage: init at 1.2.1
-
-https://github.com/nabijaczleweli/termimage
-  * [#f80a6e1](https://github.com/OroraTech/nixpkgs/commit/f80a6e1) fuc: 1.1.6 -&gt; 1.1.7
-  * [#bda4a66](https://github.com/OroraTech/nixpkgs/commit/bda4a66) ispc: 1.19.0 -&gt; 1.20.0
-  * [#2872237](https://github.com/OroraTech/nixpkgs/commit/2872237) python3Packages.pytest-recording: 0.12.2 -&gt; 0.13.0
-  * [#4959264](https://github.com/OroraTech/nixpkgs/commit/4959264) cargo-shuttle: 0.24.0 -&gt; 0.25.1
-
-Diff: https://github.com/shuttle-hq/shuttle/compare/v0.24.0...v0.25.1
-
-Changelog: https://github.com/shuttle-hq/shuttle/releases/tag/v0.25.1
-  * [#f949b36](https://github.com/OroraTech/nixpkgs/commit/f949b36) blackfire: 2.20.0 -&gt; 2.21.0
-  * [#b86adcb](https://github.com/OroraTech/nixpkgs/commit/b86adcb) swaynotificationcenter: backport PR 296
-  * [#75919c9](https://github.com/OroraTech/nixpkgs/commit/75919c9) flyway: 9.21.1 -&gt; 9.21.2
-  * [#28d93b8](https://github.com/OroraTech/nixpkgs/commit/28d93b8) sioyek: fix build
-  * [#0e5622c](https://github.com/OroraTech/nixpkgs/commit/0e5622c) python311Packages.bluetooth-data-tools: 1.9.0 -&gt; 1.9.1
-
-Diff: https://github.com/Bluetooth-Devices/bluetooth-data-tools/compare/refs/tags/v1.9.0...v1.9.1
-
-Changelog: https://github.com/Bluetooth-Devices/bluetooth-data-tools/blob/v1.9.1/CHANGELOG.md
-  * [#15054fe](https://github.com/OroraTech/nixpkgs/commit/15054fe) mariadb_110: 11.0.2 -&gt; 11.0.3
-
-https://mariadb.com/kb/en/mariadb-11-0-3-release-notes/
-  * [#a6e732f](https://github.com/OroraTech/nixpkgs/commit/a6e732f) mariadb_1011: 10.11.4 -&gt; 10.11.5
-
-https://mariadb.com/kb/en/mariadb-10-11-5-release-notes/
-  * [#b14d7e8](https://github.com/OroraTech/nixpkgs/commit/b14d7e8) mariadb_1010: 10.10.5 -&gt; 10.10.6
-
-https://mariadb.com/kb/en/mariadb-10-10-6-release-notes/
-  * [#79f2db7](https://github.com/OroraTech/nixpkgs/commit/79f2db7) mariadb_106: 10.6.14 -&gt; 10.6.15
-
-https://mariadb.com/kb/en/mariadb-10-6-15-release-notes/
-  * [#ce6608f](https://github.com/OroraTech/nixpkgs/commit/ce6608f) mariadb_105: 10.5.21 -&gt; 10.5.22
-
-https://mariadb.com/kb/en/mariadb-10-5-22-release-notes/
-  * [#01f9a55](https://github.com/OroraTech/nixpkgs/commit/01f9a55) mariadb_104: 10.4.30 -&gt; 10.4.31
-
-https://mariadb.com/kb/en/mariadb-10-4-31-release-notes/
-  * *On 29 Aug 2023, 14:51:51*
-* ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-libpcap`
-  * [#e10f914](https://github.com/OroraTech/nixpkgs/commit/e10f914) python311Packages.libpcap: init at 1.11.0b7
-  * *On 29 Aug 2023, 14:32:22*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 29 Aug 2023, 15:57:16 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 29 Aug 2023, 16:58:28 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

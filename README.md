@@ -45,6 +45,51 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 106 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#854e4a2](https://github.com/OroraTech/nixpkgs/commit/854e4a2) organicmaps: 2023.06.04-13 -&gt; 2023.08.18-8
+  * [#4073d2c](https://github.com/OroraTech/nixpkgs/commit/4073d2c) Re-add broken Darwin
+  * [#9d8520f](https://github.com/OroraTech/nixpkgs/commit/9d8520f) ccl: 1.12 -&gt; 1.12.2
+  * [#cbe6f4e](https://github.com/OroraTech/nixpkgs/commit/cbe6f4e) linux_xanmod_latest: 6.4.11 -&gt; 6.4.12
+  * [#ab51eca](https://github.com/OroraTech/nixpkgs/commit/ab51eca) linux_xanmod: 6.1.46 -&gt; 6.1.47
+  * [#b945eca](https://github.com/OroraTech/nixpkgs/commit/b945eca) exiftool: 12.62 -&gt; 12.65
+
+https://github.com/exiftool/exiftool/compare/12.62...12.65
+  * [#9745182](https://github.com/OroraTech/nixpkgs/commit/9745182) python310Packages.pyiqvia: 2022.10.0 -&gt; 2023.08.1
+  * [#73243f1](https://github.com/OroraTech/nixpkgs/commit/73243f1) python310Packages.bpycv: 0.3.6 -&gt; 0.4.0
+  * [#8b80043](https://github.com/OroraTech/nixpkgs/commit/8b80043) python310Packages.pip-tools: 7.2.0 -&gt; 7.3.0
+  * [#c033c47](https://github.com/OroraTech/nixpkgs/commit/c033c47) vips: 8.14.3 -&gt; 8.14.4
+  * [#9fb1308](https://github.com/OroraTech/nixpkgs/commit/9fb1308) python310Packages.stumpy: 1.11.1 -&gt; 1.12.0
+  * [#e196073](https://github.com/OroraTech/nixpkgs/commit/e196073) birdfont: 2.32.3 -&gt; 2.33.1
+  * [#aee8eed](https://github.com/OroraTech/nixpkgs/commit/aee8eed) libcouchbase: 3.3.7 -&gt; 3.3.8
+  * [#b2386a0](https://github.com/OroraTech/nixpkgs/commit/b2386a0) bluej: 5.1.0 -&gt; 5.2.0
+
+https://bluej.org/versions.html
+  * [#902814d](https://github.com/OroraTech/nixpkgs/commit/902814d) python311Packages.fastapi: 0.95.1 -&gt; 0.95.2
+  * [#18b2685](https://github.com/OroraTech/nixpkgs/commit/18b2685) python311Packages.starlette: 0.26.1 -&gt; 0.27.0
+
+Diff: https://github.com/encode/starlette/compare/refs/tags/0.26.1...0.27.0
+
+Changelog: https://github.com/encode/starlette/releases/tag/0.27.0
+  * [#b2788a6](https://github.com/OroraTech/nixpkgs/commit/b2788a6) ddccontrol: 0.6.1 -&gt; 0.6.2
+  * [#c2cd085](https://github.com/OroraTech/nixpkgs/commit/c2cd085) metabase: 0.46.6.1 -&gt; 0.46.7
+
+Fixes CVE-2023-37470.
+
+Changelogs:
+https://github.com/metabase/metabase/releases/tag/v0.46.7
+https://github.com/metabase/metabase/releases/tag/v0.46.6.4
+https://github.com/metabase/metabase/releases/tag/v0.46.6.3
+https://github.com/metabase/metabase/releases/tag/v0.46.6.2
+  * [#eeb19e9](https://github.com/OroraTech/nixpkgs/commit/eeb19e9) djvulibre: patch multiple CVEs
+
+Signed-off-by: Henri Rosten &lt;henri.rosten@unikie.com&gt;
+  * [#fdb8abb](https://github.com/OroraTech/nixpkgs/commit/fdb8abb) moodle: 4.1.3 -&gt; 4.1.4
+
+Fixes CVE-2023-35131, CVE-2023-35132 and CVE-2023-35133.
+
+Changelog:
+https://moodledev.io/general/releases/4.1/4.1.4
+  * *On 30 Aug 2023, 11:29:53*
 * ➡️ Pushed 289 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#0837ab4](https://github.com/OroraTech/nixpkgs/commit/0837ab4) zrok: 0.4.2 -&gt; 0.4.5
   * [#06366e8](https://github.com/OroraTech/nixpkgs/commit/06366e8) nwg-drawer: 0.3.8 -&gt; 0.3.9
@@ -193,14 +238,10 @@ home-assistant: 2023.8.3 -&gt; 2023.8.4
   * [#68eb957](https://github.com/OroraTech/nixpkgs/commit/68eb957) Merge #251367: revert &#34;python3Packages.pillow &amp; python3Packages.pillow-simd: Fix cross compilation&#34;
   * [#19a689a](https://github.com/OroraTech/nixpkgs/commit/19a689a) python311Packages.adax: disable on unsupported Python releases
   * *On 29 Aug 2023, 15:20:40*
-* ➡️ Pushed 2 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-pycyphal`
-  * [#ac6bac0](https://github.com/OroraTech/nixpkgs/commit/ac6bac0) python311Packages.pyuavcan: add deprecation warning
-  * [#652381a](https://github.com/OroraTech/nixpkgs/commit/652381a) python311Packages.pycyphal: init at 1.15.2
-  * *On 29 Aug 2023, 14:54:58*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 30 Aug 2023, 10:58:16 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 30 Aug 2023, 11:57:27 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,30 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 289 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#0837ab4](https://github.com/OroraTech/nixpkgs/commit/0837ab4) zrok: 0.4.2 -&gt; 0.4.5
+  * [#06366e8](https://github.com/OroraTech/nixpkgs/commit/06366e8) nwg-drawer: 0.3.8 -&gt; 0.3.9
+  * [#1e7ec47](https://github.com/OroraTech/nixpkgs/commit/1e7ec47) radarr: 4.6.4.7568 -&gt; 4.7.5.7809
+  * [#fb3601e](https://github.com/OroraTech/nixpkgs/commit/fb3601e) netmaker: 0.20.5 -&gt; 0.20.6
+  * [#8370543](https://github.com/OroraTech/nixpkgs/commit/8370543) fheroes2: 1.0.6 -&gt; 1.0.7
+  * [#ba787d2](https://github.com/OroraTech/nixpkgs/commit/ba787d2) python310Packages.ansible: 8.2.0 -&gt; 8.3.0
+  * [#78edd5b](https://github.com/OroraTech/nixpkgs/commit/78edd5b) mc: 4.8.29 -&gt; 4.8.30
+  * [#43475f1](https://github.com/OroraTech/nixpkgs/commit/43475f1) stress-ng: 0.15.10 -&gt; 0.16.04
+  * [#a8de2f0](https://github.com/OroraTech/nixpkgs/commit/a8de2f0) pgbackrest: 2.46 -&gt; 2.47
+  * [#667d019](https://github.com/OroraTech/nixpkgs/commit/667d019) vmagent: 1.91.3 -&gt; 1.93.0
+  * [#c92c960](https://github.com/OroraTech/nixpkgs/commit/c92c960) libdigidocpp: 3.15.0 -&gt; 3.16.0
+  * [#c34b58a](https://github.com/OroraTech/nixpkgs/commit/c34b58a) weave-gitops: 0.28.0 -&gt; 0.29.0
+  * [#dc1330d](https://github.com/OroraTech/nixpkgs/commit/dc1330d) libburn: 1.5.4 -&gt; 1.5.6
+  * [#be63df4](https://github.com/OroraTech/nixpkgs/commit/be63df4) ibus-engines.table-others: 1.3.16 -&gt; 1.3.17
+  * [#a5017e3](https://github.com/OroraTech/nixpkgs/commit/a5017e3) besu: 23.4.1 -&gt; 23.4.4
+  * [#25e0861](https://github.com/OroraTech/nixpkgs/commit/25e0861) utf8cpp: 3.2.3 -&gt; 3.2.4
+  * [#fbb3f82](https://github.com/OroraTech/nixpkgs/commit/fbb3f82) pkg: 1.20.4 -&gt; 1.20.5
+  * [#494196b](https://github.com/OroraTech/nixpkgs/commit/494196b) python311Packages.asyncpg: 0.27.0 -&gt; 0.28.0
+
+Changelog: https://github.com/MagicStack/asyncpg/releases/tag/v0.28.0
+  * [#0245990](https://github.com/OroraTech/nixpkgs/commit/0245990) mpd-mpris: 0.4.0-2 -&gt; 0.4.1
+  * [#b0dc3d2](https://github.com/OroraTech/nixpkgs/commit/b0dc3d2) doc/stdenv: Minor syntax fix.
+  * *On 30 Aug 2023, 07:56:37*
 * ➡️ Pushed 92 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#cc57329](https://github.com/OroraTech/nixpkgs/commit/cc57329) postgresqlPackages.pgvector: 0.4.4 -&gt; 0.5.0
 
@@ -173,17 +197,10 @@ home-assistant: 2023.8.3 -&gt; 2023.8.4
   * [#ac6bac0](https://github.com/OroraTech/nixpkgs/commit/ac6bac0) python311Packages.pyuavcan: add deprecation warning
   * [#652381a](https://github.com/OroraTech/nixpkgs/commit/652381a) python311Packages.pycyphal: init at 1.15.2
   * *On 29 Aug 2023, 14:54:58*
-* ➡️ Pushed 5 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-pycyphal`
-  * [#26cef89](https://github.com/OroraTech/nixpkgs/commit/26cef89) python311Packages.pyuavcan: add deprecation warning
-  * [#f12fe51](https://github.com/OroraTech/nixpkgs/commit/f12fe51) python311Packages.pycyphal: init at 1.15.2
-  * [#90aa68e](https://github.com/OroraTech/nixpkgs/commit/90aa68e) python311Packages.libpcap: init at 1.11.0b7
-  * [#9d19539](https://github.com/OroraTech/nixpkgs/commit/9d19539) python311Packages.libpcap: init at 1.11.0b7
-  * [#b47d5a0](https://github.com/OroraTech/nixpkgs/commit/b47d5a0) python311Packages.pkg-about: init at 1.0.8
-  * *On 29 Aug 2023, 14:53:05*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 30 Aug 2023, 07:59:03 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 30 Aug 2023, 08:57:11 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,73 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 461 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#05b53f8](https://github.com/OroraTech/nixpkgs/commit/05b53f8) mediainfo-gui: 23.06 -&gt; 23.07
+  * [#4ea7276](https://github.com/OroraTech/nixpkgs/commit/4ea7276) mediainfo: 23.06 -&gt; 23.07
+  * [#dad5a44](https://github.com/OroraTech/nixpkgs/commit/dad5a44) libmediainfo: 23.06 -&gt; 23.07
+  * [#40e8205](https://github.com/OroraTech/nixpkgs/commit/40e8205) flutter: 3.10.5 -&gt; 3.13.0
+
+flutter: Update remaining engine artifact hashes for v3.13.0
+
+Co-Authored-By: hacker1024 &lt;20849728+hacker1024@users.noreply.github.com&gt;
+  * [#a791f73](https://github.com/OroraTech/nixpkgs/commit/a791f73) qgis-ltr: disable building tests
+
+No tests are currently executed during the build process. Disable
+building them to save significant amount of time and resources.
+  * [#0e82f77](https://github.com/OroraTech/nixpkgs/commit/0e82f77) qgis-ltr: alphabetical sorting of dependencies
+  * [#09f9749](https://github.com/OroraTech/nixpkgs/commit/09f9749) qgis: alphabetical sorting of dependencies
+  * [#2cf9345](https://github.com/OroraTech/nixpkgs/commit/2cf9345) qgis-ltr: 3.28.7 -&gt; 3.28.10
+  * [#b2a14fc](https://github.com/OroraTech/nixpkgs/commit/b2a14fc) qgis: disable building tests
+
+No tests are currently executed during the build process. Disable
+building them to save significant amount of time and resources.
+  * [#446297f](https://github.com/OroraTech/nixpkgs/commit/446297f) python310Packages.unstructured: add optional-dependencies
+  * [#fc77028](https://github.com/OroraTech/nixpkgs/commit/fc77028) python310Packages.libtmux: 0.22.1 -&gt; 0.23.0post0
+  * [#3d5fdc9](https://github.com/OroraTech/nixpkgs/commit/3d5fdc9) net-snmp: 5.9.3 -&gt; 5.9.4
+  * [#55774d1](https://github.com/OroraTech/nixpkgs/commit/55774d1) qucs-s: 1.1.0 -&gt; 2.0.0
+  * [#59c8dfb](https://github.com/OroraTech/nixpkgs/commit/59c8dfb) samba: 4.18.5 -&gt; 4.18.6
+  * [#f58a607](https://github.com/OroraTech/nixpkgs/commit/f58a607) chickenPackages: turn into scope
+
+The purpose of this change is to allow the overriding of one egg, which in turn
+affects all dependents of that eggs.
+  * [#a3dd3cc](https://github.com/OroraTech/nixpkgs/commit/a3dd3cc) chickenPackages.chickenEggs: update
+  * [#2da0307](https://github.com/OroraTech/nixpkgs/commit/2da0307) buildFHSEnv: fix `NIX_LDFLAGS` propagation to `ld` wrapper
+
+Before the change the following command did not work:
+
+    $ nix develop -i --impure --expr &#39;with import &lt;nixpkgs&gt; { system = &#34;i686-linux&#34;; }; (buildFHSUserEnv { name = &#34;t&#34;; targetPkgs = ps: with ps; [ libmpc stdenv.cc ]; }).env&#39;
+    $ ld -lmpc -o a
+    ld: cannot find -lmpc: No such file or directory
+
+It is expected to work as `NIX_LDFLAGS` does contain valid values:
+
+    $ echo $NIX_LDFLAGS
+    -L/usr/lib -L/usr/lib32
+
+Note that for `gcc` it does work:
+
+    $ printf &#34;int main(){}&#34; |  gcc -x c - -lmpc -o a
+
+It happens because `HOST` role is enabled for `cc`:
+
+    $ echo $NIX_CC_WRAPPER_TARGET_HOST_i686_unknown_linux_gnu
+    1
+
+But not for `BINTOOLS`:
+
+    $ echo $NIX_BINTOOLS_WRAPPER_TARGET_HOST_i686_unknown_linux_gnu
+    &lt;empty&gt;
+
+The change adds BINTOOLS role and fixes linking:
+
+    $ nix develop -i --impure --expr &#39;with import ~/nm { system = &#34;i686-linux&#34;; }; (buildFHSUserEnv { name = &#34;t&#34;; targetPkgs = ps: with ps; [ libmpc stdenv.cc ]; }).env&#39;
+    $ printf &#34;int main(){}&#34; |  gcc -x c - -lmpc -o a
+    $ ld -lmpc -o a
+    ld: warning: cannot find entry symbol _start; not setting start address
+  * [#69c5328](https://github.com/OroraTech/nixpkgs/commit/69c5328) omegat: 4.3.0 -&gt; 6.0.0
+  * [#cc4bb23](https://github.com/OroraTech/nixpkgs/commit/cc4bb23) perf: enable `perf stat` evens supported by `libpfm`
+  * [#98741b7](https://github.com/OroraTech/nixpkgs/commit/98741b7) maui-shell: 0.5.6 -&gt; 0.6.6
+  * *On 31 Aug 2023, 17:02:55*
 * ➡️ Pushed 106 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#854e4a2](https://github.com/OroraTech/nixpkgs/commit/854e4a2) organicmaps: 2023.06.04-13 -&gt; 2023.08.18-8
   * [#4073d2c](https://github.com/OroraTech/nixpkgs/commit/4073d2c) Re-add broken Darwin
@@ -186,62 +253,10 @@ Changelog: https://github.com/bdraco/fnv-hash-fast/blob/v0.4.1/CHANGELOG.md
 https://github.com/dmcg310/Rust-Traverse
   * [#c7f827e](https://github.com/OroraTech/nixpkgs/commit/c7f827e) atlas: init at 0.13.3
   * *On 29 Aug 2023, 15:21:22*
-* ➡️ Pushed 2015 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-yakut`
-  * [#d712f8e](https://github.com/OroraTech/nixpkgs/commit/d712f8e) python311Packages.aioaseko: 0.0.2 -&gt; 0.1.0
-
-Diff: https://github.com/milanmeu/aioaseko/compare/refs/tags/v0.0.2...v0.1.0
-
-Changelog: https://github.com/milanmeu/aioaseko/releases/tag/v0.1.0
-  * [#a9f91cf](https://github.com/OroraTech/nixpkgs/commit/a9f91cf) python310Packages.djangorestframework-dataclasses: 1.2.0 -&gt; 1.3.0
-  * [#5a7c5d7](https://github.com/OroraTech/nixpkgs/commit/5a7c5d7) python311Packages.hahomematic: 2023.8.10 -&gt; 2023.8.11
-
-Diff: https://github.com/danielperna84/hahomematic/compare/refs/tags/2023.8.10...2023.8.11
-
-Changelog: https://github.com/danielperna84/hahomematic/releases/tag/2023.8.11
-  * [#94d494b](https://github.com/OroraTech/nixpkgs/commit/94d494b) Merge pull request #246851 from anund/noson-pulse
-
-noson: fix pulse audio streaming support
-  * [#fa5a83c](https://github.com/OroraTech/nixpkgs/commit/fa5a83c) Merge pull request #251417 from fabaff/adax-bump
-
-python311Packages.adax: 0.2.0 -&gt; 0.3.0
-  * [#fb6f193](https://github.com/OroraTech/nixpkgs/commit/fb6f193) Merge pull request #248040 from felschr/tor-browser-malloc
-
-tor-browser-bundle-bin: deprecate useHardenedMalloc
-  * [#487eb77](https://github.com/OroraTech/nixpkgs/commit/487eb77)  python311Packages.mdformat: add changelog to meta
-  * [#3d37de3](https://github.com/OroraTech/nixpkgs/commit/3d37de3) python311Packages.mdformat: 0.7.16 -&gt; 0.7.17
-
-Diff: https://github.com/executablebooks/mdformat/compare/0.7.16...0.7.17
-  * [#9bd52fd](https://github.com/OroraTech/nixpkgs/commit/9bd52fd) Merge pull request #250517 from aaronjheng/datadog-agent
-
-datadog-agent: unpin go1.18
-  * [#5fc4687](https://github.com/OroraTech/nixpkgs/commit/5fc4687) Merge pull request #229452 from Leixb/headsetcontrol27
-
-headsetcontrol: 2.6.1 -&gt; 2.7.0
-  * [#4df994d](https://github.com/OroraTech/nixpkgs/commit/4df994d) Merge pull request #248486 from S-NA/updates/deadd-notification-center
-
-deadd-notification-center: 2.0.4 -&gt; 2.1.1
-  * [#c096731](https://github.com/OroraTech/nixpkgs/commit/c096731) Merge pull request #249600 from anthonyroussel/nvtop_3_0_2
-
-nvtop: 3.0.1 -&gt; 3.0.2
-  * [#39e95f3](https://github.com/OroraTech/nixpkgs/commit/39e95f3) Merge pull request #251411 from SuperSandro2000/smenu
-
-smenu: 1.2.0 -&gt; 1.3.0
-  * [#e79f8fd](https://github.com/OroraTech/nixpkgs/commit/e79f8fd) Merge master into staging-next
-  * [#0f0f1d0](https://github.com/OroraTech/nixpkgs/commit/0f0f1d0) python310Packages.pycmarkgfm: 1.2.0 -&gt; 1.2.1
-  * [#5cf3fa6](https://github.com/OroraTech/nixpkgs/commit/5cf3fa6) Merge pull request #251266 from marsam/update-1password
-
-_1password: 2.19.0 -&gt; 2.20.0
-  * [#18c6696](https://github.com/OroraTech/nixpkgs/commit/18c6696) Merge pull request #251256 from NixOS/home-assistant
-
-home-assistant: 2023.8.3 -&gt; 2023.8.4
-  * [#29e72dc](https://github.com/OroraTech/nixpkgs/commit/29e72dc) metasploit: 6.3.30 -&gt; 6.3.31
-  * [#68eb957](https://github.com/OroraTech/nixpkgs/commit/68eb957) Merge #251367: revert &#34;python3Packages.pillow &amp; python3Packages.pillow-simd: Fix cross compilation&#34;
-  * [#19a689a](https://github.com/OroraTech/nixpkgs/commit/19a689a) python311Packages.adax: disable on unsupported Python releases
-  * *On 29 Aug 2023, 15:20:40*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 31 Aug 2023, 17:58:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 31 Aug 2023, 18:58:05 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

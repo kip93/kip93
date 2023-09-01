@@ -45,6 +45,83 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 226 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#46c7997](https://github.com/OroraTech/nixpkgs/commit/46c7997) ispc: 1.20.0 -&gt; 1.21.0
+  * [#b0e9686](https://github.com/OroraTech/nixpkgs/commit/b0e9686) python311Packages.pkg-about: init at 1.0.8
+  * [#4a14236](https://github.com/OroraTech/nixpkgs/commit/4a14236) multiviewer-for-f1: 1.26.2 -&gt; 1.26.4
+  * [#e8efc18](https://github.com/OroraTech/nixpkgs/commit/e8efc18) containerlab: 0.44.2 -&gt; 0.44.3
+
+Diff: https://github.com/srl-labs/containerlab/compare/v0.44.2...v0.44.3
+
+Changelog: https://github.com/srl-labs/containerlab/releases/tag/v0.44.3
+  * [#d07ebff](https://github.com/OroraTech/nixpkgs/commit/d07ebff) yash: 2.54 -&gt; 2.55
+  * [#d564dfa](https://github.com/OroraTech/nixpkgs/commit/d564dfa) sambamba: 1.0.0 -&gt; 1.0.1
+  * [#c7bb136](https://github.com/OroraTech/nixpkgs/commit/c7bb136) kubefirst: 2.2.7 -&gt; 2.2.9
+  * [#6c2f7bc](https://github.com/OroraTech/nixpkgs/commit/6c2f7bc) oneshot: 1.5.1 -&gt; 2.0.1
+  * [#4fce50f](https://github.com/OroraTech/nixpkgs/commit/4fce50f) rpi-imager: disable telemetry by default
+  * [#996dbb1](https://github.com/OroraTech/nixpkgs/commit/996dbb1) rpi-imager: add installCheck
+  * [#6db520b](https://github.com/OroraTech/nixpkgs/commit/6db520b) rpi-imager: add passthru.updateScript
+  * [#8fe2040](https://github.com/OroraTech/nixpkgs/commit/8fe2040) rpi-imager: add anthonyroussel to maintainers
+  * [#22f6f91](https://github.com/OroraTech/nixpkgs/commit/22f6f91) rpi-imager: 1.7.4 -&gt; 1.7.5
+
+See https://github.com/raspberrypi/rpi-imager/releases/tag/v1.7.5
+  * [#110ebe9](https://github.com/OroraTech/nixpkgs/commit/110ebe9) python310Packages.pytorch-lightning: 2.0.6 -&gt; 2.0.7
+  * [#ccffaec](https://github.com/OroraTech/nixpkgs/commit/ccffaec) nuclear: 0.6.27 -&gt; 0.6.30
+  * [#6c462a5](https://github.com/OroraTech/nixpkgs/commit/6c462a5) qtstyleplugin-kvantum: fix loading builtin themes on Qt 6
+
+Signed-off-by: Sefa Eyeoglu &lt;contact@scrumplex.net&gt;
+  * [#cd135d4](https://github.com/OroraTech/nixpkgs/commit/cd135d4) qtstyleplugin-kvantum: add suffix to Qt 6 variant
+
+Signed-off-by: Sefa Eyeoglu &lt;contact@scrumplex.net&gt;
+  * [#896b2b9](https://github.com/OroraTech/nixpkgs/commit/896b2b9) ArchiSteamFarm: 5.4.7.3 -&gt; 5.4.8.3
+  * [#d746f25](https://github.com/OroraTech/nixpkgs/commit/d746f25) curl: Fix cross-compilation to Windows by not forcing gssSupport
+
+E.g. `nix build .#pkgsCross.mingwW64.curl` would fail. The params for
+curl already have `gssSupport = !isStatic &amp;&amp; …`, so removing this
+doesn’t really have any effect since it’s already `true` when possible
+and `false` for static platforms.
+  * [#9f6dad5](https://github.com/OroraTech/nixpkgs/commit/9f6dad5) c-ares: ensure passthru.tests&#39; curl is built with c-ares support
+
+kinda pointless otherwise
+  * *On 1 Sept 2023, 09:31:12*
+* ➡️ Pushed 1125 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-libpcap`
+  * [#b945eca](https://github.com/OroraTech/nixpkgs/commit/b945eca) exiftool: 12.62 -&gt; 12.65
+
+https://github.com/exiftool/exiftool/compare/12.62...12.65
+  * [#65fe58d](https://github.com/OroraTech/nixpkgs/commit/65fe58d) commitizen: 3.5.2 -&gt; 3.7.0
+
+https://github.com/commitizen-tools/commitizen/compare/v3.5.2...3.7.0
+
+https://github.com/commitizen-tools/commitizen/releases/tag/3.7.0
+https://github.com/commitizen-tools/commitizen/releases/tag/3.6.0
+  * [#9745182](https://github.com/OroraTech/nixpkgs/commit/9745182) python310Packages.pyiqvia: 2022.10.0 -&gt; 2023.08.1
+  * [#ed59f79](https://github.com/OroraTech/nixpkgs/commit/ed59f79) kubeseal: 0.23.0 -&gt; 0.23.1
+  * [#e6f84c7](https://github.com/OroraTech/nixpkgs/commit/e6f84c7) grsync: 1.3.0 -&gt; 1.3.1
+  * [#5d914aa](https://github.com/OroraTech/nixpkgs/commit/5d914aa) ocamlPackages.arp: 3.0.0 → 3.1.0
+  * [#be3cdca](https://github.com/OroraTech/nixpkgs/commit/be3cdca) maintainers: add zaldnoay
+  * [#116480d](https://github.com/OroraTech/nixpkgs/commit/116480d) kstars: 3.6.4 -&gt; 3.6.6
+  * [#73243f1](https://github.com/OroraTech/nixpkgs/commit/73243f1) python310Packages.bpycv: 0.3.6 -&gt; 0.4.0
+  * [#8b80043](https://github.com/OroraTech/nixpkgs/commit/8b80043) python310Packages.pip-tools: 7.2.0 -&gt; 7.3.0
+  * [#4aa2931](https://github.com/OroraTech/nixpkgs/commit/4aa2931) libcef: 116.0.14 -&gt; 116.0.15
+  * [#e5193e1](https://github.com/OroraTech/nixpkgs/commit/e5193e1) kubernetes-controller-tools: 0.12.1 -&gt; 0.13.0
+  * [#3f68347](https://github.com/OroraTech/nixpkgs/commit/3f68347) faketty: 1.0.12 -&gt; 1.0.13
+
+Diff: https://diff.rs/faketty/1.0.12/1.0.13
+
+Changelog: https://github.com/dtolnay/faketty/releases/tag/1.0.13
+  * [#9824764](https://github.com/OroraTech/nixpkgs/commit/9824764) open-stage-control: 1.25.2 -&gt; 1.25.3
+  * [#1debaa9](https://github.com/OroraTech/nixpkgs/commit/1debaa9) brev-cli: 0.6.252 -&gt; 0.6.259
+  * [#6e7daaa](https://github.com/OroraTech/nixpkgs/commit/6e7daaa) risor: 0.15.0 -&gt; 0.17.0
+
+Diff: https://github.com/risor-io/risor/compare/v0.15.0...v0.17.0
+
+Changelog: https://github.com/risor-io/risor/releases/tag/v0.17.0
+  * [#744ceae](https://github.com/OroraTech/nixpkgs/commit/744ceae) tegola: 0.17.0 -&gt; 0.18.0
+  * [#7f90f3b](https://github.com/OroraTech/nixpkgs/commit/7f90f3b) nixpacks: 1.12.0 -&gt; 1.13.0
+  * [#6aea921](https://github.com/OroraTech/nixpkgs/commit/6aea921) napari: 0.4.17 -&gt; 0.4.18
+  * [#3d52741](https://github.com/OroraTech/nixpkgs/commit/3d52741) rsyslog: 8.2306.0 -&gt; 8.2308.0
+  * *On 1 Sept 2023, 09:03:35*
+  * *On 1 Sept 2023, 09:00:25*
 * ➡️ Pushed 461 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#05b53f8](https://github.com/OroraTech/nixpkgs/commit/05b53f8) mediainfo-gui: 23.06 -&gt; 23.07
   * [#4ea7276](https://github.com/OroraTech/nixpkgs/commit/4ea7276) mediainfo: 23.06 -&gt; 23.07
@@ -112,151 +189,10 @@ The change adds BINTOOLS role and fixes linking:
   * [#cc4bb23](https://github.com/OroraTech/nixpkgs/commit/cc4bb23) perf: enable `perf stat` evens supported by `libpfm`
   * [#98741b7](https://github.com/OroraTech/nixpkgs/commit/98741b7) maui-shell: 0.5.6 -&gt; 0.6.6
   * *On 31 Aug 2023, 17:02:55*
-* ➡️ Pushed 106 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#854e4a2](https://github.com/OroraTech/nixpkgs/commit/854e4a2) organicmaps: 2023.06.04-13 -&gt; 2023.08.18-8
-  * [#4073d2c](https://github.com/OroraTech/nixpkgs/commit/4073d2c) Re-add broken Darwin
-  * [#9d8520f](https://github.com/OroraTech/nixpkgs/commit/9d8520f) ccl: 1.12 -&gt; 1.12.2
-  * [#cbe6f4e](https://github.com/OroraTech/nixpkgs/commit/cbe6f4e) linux_xanmod_latest: 6.4.11 -&gt; 6.4.12
-  * [#ab51eca](https://github.com/OroraTech/nixpkgs/commit/ab51eca) linux_xanmod: 6.1.46 -&gt; 6.1.47
-  * [#b945eca](https://github.com/OroraTech/nixpkgs/commit/b945eca) exiftool: 12.62 -&gt; 12.65
-
-https://github.com/exiftool/exiftool/compare/12.62...12.65
-  * [#9745182](https://github.com/OroraTech/nixpkgs/commit/9745182) python310Packages.pyiqvia: 2022.10.0 -&gt; 2023.08.1
-  * [#73243f1](https://github.com/OroraTech/nixpkgs/commit/73243f1) python310Packages.bpycv: 0.3.6 -&gt; 0.4.0
-  * [#8b80043](https://github.com/OroraTech/nixpkgs/commit/8b80043) python310Packages.pip-tools: 7.2.0 -&gt; 7.3.0
-  * [#c033c47](https://github.com/OroraTech/nixpkgs/commit/c033c47) vips: 8.14.3 -&gt; 8.14.4
-  * [#9fb1308](https://github.com/OroraTech/nixpkgs/commit/9fb1308) python310Packages.stumpy: 1.11.1 -&gt; 1.12.0
-  * [#e196073](https://github.com/OroraTech/nixpkgs/commit/e196073) birdfont: 2.32.3 -&gt; 2.33.1
-  * [#aee8eed](https://github.com/OroraTech/nixpkgs/commit/aee8eed) libcouchbase: 3.3.7 -&gt; 3.3.8
-  * [#b2386a0](https://github.com/OroraTech/nixpkgs/commit/b2386a0) bluej: 5.1.0 -&gt; 5.2.0
-
-https://bluej.org/versions.html
-  * [#902814d](https://github.com/OroraTech/nixpkgs/commit/902814d) python311Packages.fastapi: 0.95.1 -&gt; 0.95.2
-  * [#18b2685](https://github.com/OroraTech/nixpkgs/commit/18b2685) python311Packages.starlette: 0.26.1 -&gt; 0.27.0
-
-Diff: https://github.com/encode/starlette/compare/refs/tags/0.26.1...0.27.0
-
-Changelog: https://github.com/encode/starlette/releases/tag/0.27.0
-  * [#b2788a6](https://github.com/OroraTech/nixpkgs/commit/b2788a6) ddccontrol: 0.6.1 -&gt; 0.6.2
-  * [#c2cd085](https://github.com/OroraTech/nixpkgs/commit/c2cd085) metabase: 0.46.6.1 -&gt; 0.46.7
-
-Fixes CVE-2023-37470.
-
-Changelogs:
-https://github.com/metabase/metabase/releases/tag/v0.46.7
-https://github.com/metabase/metabase/releases/tag/v0.46.6.4
-https://github.com/metabase/metabase/releases/tag/v0.46.6.3
-https://github.com/metabase/metabase/releases/tag/v0.46.6.2
-  * [#eeb19e9](https://github.com/OroraTech/nixpkgs/commit/eeb19e9) djvulibre: patch multiple CVEs
-
-Signed-off-by: Henri Rosten &lt;henri.rosten@unikie.com&gt;
-  * [#fdb8abb](https://github.com/OroraTech/nixpkgs/commit/fdb8abb) moodle: 4.1.3 -&gt; 4.1.4
-
-Fixes CVE-2023-35131, CVE-2023-35132 and CVE-2023-35133.
-
-Changelog:
-https://moodledev.io/general/releases/4.1/4.1.4
-  * *On 30 Aug 2023, 11:29:53*
-* ➡️ Pushed 289 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#0837ab4](https://github.com/OroraTech/nixpkgs/commit/0837ab4) zrok: 0.4.2 -&gt; 0.4.5
-  * [#06366e8](https://github.com/OroraTech/nixpkgs/commit/06366e8) nwg-drawer: 0.3.8 -&gt; 0.3.9
-  * [#1e7ec47](https://github.com/OroraTech/nixpkgs/commit/1e7ec47) radarr: 4.6.4.7568 -&gt; 4.7.5.7809
-  * [#fb3601e](https://github.com/OroraTech/nixpkgs/commit/fb3601e) netmaker: 0.20.5 -&gt; 0.20.6
-  * [#8370543](https://github.com/OroraTech/nixpkgs/commit/8370543) fheroes2: 1.0.6 -&gt; 1.0.7
-  * [#ba787d2](https://github.com/OroraTech/nixpkgs/commit/ba787d2) python310Packages.ansible: 8.2.0 -&gt; 8.3.0
-  * [#78edd5b](https://github.com/OroraTech/nixpkgs/commit/78edd5b) mc: 4.8.29 -&gt; 4.8.30
-  * [#43475f1](https://github.com/OroraTech/nixpkgs/commit/43475f1) stress-ng: 0.15.10 -&gt; 0.16.04
-  * [#a8de2f0](https://github.com/OroraTech/nixpkgs/commit/a8de2f0) pgbackrest: 2.46 -&gt; 2.47
-  * [#667d019](https://github.com/OroraTech/nixpkgs/commit/667d019) vmagent: 1.91.3 -&gt; 1.93.0
-  * [#c92c960](https://github.com/OroraTech/nixpkgs/commit/c92c960) libdigidocpp: 3.15.0 -&gt; 3.16.0
-  * [#c34b58a](https://github.com/OroraTech/nixpkgs/commit/c34b58a) weave-gitops: 0.28.0 -&gt; 0.29.0
-  * [#dc1330d](https://github.com/OroraTech/nixpkgs/commit/dc1330d) libburn: 1.5.4 -&gt; 1.5.6
-  * [#be63df4](https://github.com/OroraTech/nixpkgs/commit/be63df4) ibus-engines.table-others: 1.3.16 -&gt; 1.3.17
-  * [#a5017e3](https://github.com/OroraTech/nixpkgs/commit/a5017e3) besu: 23.4.1 -&gt; 23.4.4
-  * [#25e0861](https://github.com/OroraTech/nixpkgs/commit/25e0861) utf8cpp: 3.2.3 -&gt; 3.2.4
-  * [#fbb3f82](https://github.com/OroraTech/nixpkgs/commit/fbb3f82) pkg: 1.20.4 -&gt; 1.20.5
-  * [#494196b](https://github.com/OroraTech/nixpkgs/commit/494196b) python311Packages.asyncpg: 0.27.0 -&gt; 0.28.0
-
-Changelog: https://github.com/MagicStack/asyncpg/releases/tag/v0.28.0
-  * [#0245990](https://github.com/OroraTech/nixpkgs/commit/0245990) mpd-mpris: 0.4.0-2 -&gt; 0.4.1
-  * [#b0dc3d2](https://github.com/OroraTech/nixpkgs/commit/b0dc3d2) doc/stdenv: Minor syntax fix.
-  * *On 30 Aug 2023, 07:56:37*
-* ➡️ Pushed 92 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#cc57329](https://github.com/OroraTech/nixpkgs/commit/cc57329) postgresqlPackages.pgvector: 0.4.4 -&gt; 0.5.0
-
-Diff: https://github.com/pgvector/pgvector/compare/v0.4.4...v0.5.0
-
-Changelog: https://github.com/pgvector/pgvector/raw/v0.5.0/CHANGELOG.md
-  * [#f487088](https://github.com/OroraTech/nixpkgs/commit/f487088) git-branchless: 0.7.1 -&gt; 0.8.0
-
-Diff: https://github.com/arxanas/git-branchless/compare/v0.7.1...0.8.0
-  * [#acafc8e](https://github.com/OroraTech/nixpkgs/commit/acafc8e) flutter.buildFlutterApplication: fix passthru being ignored
-
-Signed-off-by: lucasew &lt;lucas59356@gmail.com&gt;
-  * [#bda4a66](https://github.com/OroraTech/nixpkgs/commit/bda4a66) ispc: 1.19.0 -&gt; 1.20.0
-  * [#3901f0c](https://github.com/OroraTech/nixpkgs/commit/3901f0c) libnvme: add withDocs
-
-The libnvme documentation fails to build when cross compiling, with:
-
- FAILED: doc/nvme_admin_opcode.2
- /nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/bin/meson --internal exe --capture doc/nvme_admin_opcode.2 -- /build/source/doc/kernel-doc -module libnvme -man -function nvme_admin_opcode ../doc/../src/nvme/types.h
- Traceback (most recent call last):
-   File &#34;/nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/bin/meson&#34;, line 6, in &lt;module&gt;
-   File &#34;/nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/lib/python3.10/site-packages/mesonbuild/mesonmain.py&#34;, line 30, in &lt;module&gt;
-     from . import mlog
- ImportError: cannot import name &#39;mlog&#39; from &#39;mesonbuild&#39; (/nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/lib/python3.10/site-packages/mesonbuild/__init__.py)
- [703/811] Generating doc/nvme_identify_cns_man with a custom command (wrapped by meson to capture output)
- FAILED: doc/nvme_identify_cns.2
- /nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/bin/meson --internal exe --capture doc/nvme_identify_cns.2 -- /build/source/doc/kernel-doc -module libnvme -man -function nvme_identify_cns ../doc/../src/nvme/types.h
- Traceback (most recent call last):
-   File &#34;/nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/bin/meson&#34;, line 6, in &lt;module&gt;
-   File &#34;/nix/store/qcvcsink30f4wh36jzg3rbvkshwzj38c-meson-1.1.1/lib/python3.10/site-packages/mesonbuild/mesonmain.py&#34;, line 30, in &lt;module&gt;
-     from . import mlog
-  * [#2872237](https://github.com/OroraTech/nixpkgs/commit/2872237) python3Packages.pytest-recording: 0.12.2 -&gt; 0.13.0
-  * [#4959264](https://github.com/OroraTech/nixpkgs/commit/4959264) cargo-shuttle: 0.24.0 -&gt; 0.25.1
-
-Diff: https://github.com/shuttle-hq/shuttle/compare/v0.24.0...v0.25.1
-
-Changelog: https://github.com/shuttle-hq/shuttle/releases/tag/v0.25.1
-  * [#9a18f86](https://github.com/OroraTech/nixpkgs/commit/9a18f86) heisenbridge 1.14.4 -&gt; 1.14.5
-  * [#77f65ff](https://github.com/OroraTech/nixpkgs/commit/77f65ff) gobble: init at 1.3
-
-https://github.com/EmperorPenguin18/gobble
-  * [#9836685](https://github.com/OroraTech/nixpkgs/commit/9836685) python310Packages.apkit: init at unstable 2022-08-23
-  * [#f949b36](https://github.com/OroraTech/nixpkgs/commit/f949b36) blackfire: 2.20.0 -&gt; 2.21.0
-  * [#65fe58d](https://github.com/OroraTech/nixpkgs/commit/65fe58d) commitizen: 3.5.2 -&gt; 3.7.0
-
-https://github.com/commitizen-tools/commitizen/compare/v3.5.2...3.7.0
-
-https://github.com/commitizen-tools/commitizen/releases/tag/3.7.0
-https://github.com/commitizen-tools/commitizen/releases/tag/3.6.0
-  * [#b86adcb](https://github.com/OroraTech/nixpkgs/commit/b86adcb) swaynotificationcenter: backport PR 296
-  * [#75919c9](https://github.com/OroraTech/nixpkgs/commit/75919c9) flyway: 9.21.1 -&gt; 9.21.2
-  * [#28d93b8](https://github.com/OroraTech/nixpkgs/commit/28d93b8) sioyek: fix build
-  * [#bb9a708](https://github.com/OroraTech/nixpkgs/commit/bb9a708) python311Packages.async-upnp-client: 0.34.1 -&gt; 0.35.0
-
-Diff: https://github.com/StevenLooman/async_upnp_client/compare/refs/tags/0.34.1...0.35.0
-
-Changelog: https://github.com/StevenLooman/async_upnp_client/blob/0.35.0/CHANGES.rst
-  * [#0e5622c](https://github.com/OroraTech/nixpkgs/commit/0e5622c) python311Packages.bluetooth-data-tools: 1.9.0 -&gt; 1.9.1
-
-Diff: https://github.com/Bluetooth-Devices/bluetooth-data-tools/compare/refs/tags/v1.9.0...v1.9.1
-
-Changelog: https://github.com/Bluetooth-Devices/bluetooth-data-tools/blob/v1.9.1/CHANGELOG.md
-  * [#748d749](https://github.com/OroraTech/nixpkgs/commit/748d749) python311Packages.fnv-hash-fast: 0.4.0 -&gt; 0.4.1
-
-Diff: https://github.com/bdraco/fnv-hash-fast/compare/v0.4.0...v0.4.1
-
-Changelog: https://github.com/bdraco/fnv-hash-fast/blob/v0.4.1/CHANGELOG.md
-  * [#1792924](https://github.com/OroraTech/nixpkgs/commit/1792924) rust-traverse: init at 2.0.0
-
-https://github.com/dmcg310/Rust-Traverse
-  * [#c7f827e](https://github.com/OroraTech/nixpkgs/commit/c7f827e) atlas: init at 0.13.3
-  * *On 29 Aug 2023, 15:21:22*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 1 Sept 2023, 08:59:15 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 1 Sept 2023, 09:58:28 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

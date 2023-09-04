@@ -45,6 +45,48 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 855 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#ea3df19](https://github.com/OroraTech/nixpkgs/commit/ea3df19) gatekeeper: 3.12.0 -&gt; 3.13.0
+  * [#f7289e6](https://github.com/OroraTech/nixpkgs/commit/f7289e6) calaos_installer: 3.5 -&gt; 3.11
+  * [#37c9f1c](https://github.com/OroraTech/nixpkgs/commit/37c9f1c) scaleft: added passthru tests
+  * [#0f2fff2](https://github.com/OroraTech/nixpkgs/commit/0f2fff2) scaleft: 1.45.4 -&gt; 1.67.4
+  * [#253a063](https://github.com/OroraTech/nixpkgs/commit/253a063) xdg-dbus-proxy: use `finalAttrs` pattern
+  * [#08ca4e0](https://github.com/OroraTech/nixpkgs/commit/08ca4e0) thonny: 4.1.1 -&gt; 4.1.2
+  * [#0a5c7c4](https://github.com/OroraTech/nixpkgs/commit/0a5c7c4) muse: 3.1.1 -&gt; 4.1.0
+  * [#c925bd9](https://github.com/OroraTech/nixpkgs/commit/c925bd9) xdg-dbus-proxy: 0.1.4 -&gt; 0.1.5
+  * [#005b254](https://github.com/OroraTech/nixpkgs/commit/005b254) calendar-cli: 0.14.1 -&gt; 1.0.1
+
+Diff: https://github.com/tobixen/calendar-cli/compare/v0.14.1...v1.0.1
+  * [#e428868](https://github.com/OroraTech/nixpkgs/commit/e428868) juju: 3.2.0 -&gt; 3.2.2
+  * [#1dc9ece](https://github.com/OroraTech/nixpkgs/commit/1dc9ece) spatialite_tools: 5.1.0 -&gt; 5.1.0a
+  * [#87c629f](https://github.com/OroraTech/nixpkgs/commit/87c629f) nimbo: 0.2.4 -&gt; 0.3.0
+  * [#7706f57](https://github.com/OroraTech/nixpkgs/commit/7706f57) dnscrypt-proxy: rename from dnscrypt-proxy2
+
+An alias is added for dnscrypt-proxy2
+  * [#05db2ff](https://github.com/OroraTech/nixpkgs/commit/05db2ff) albert: 0.20.14 -&gt; 0.22.0
+  * [#ee363c9](https://github.com/OroraTech/nixpkgs/commit/ee363c9) openmvs: 2.1.0 -&gt; 2.2.0
+  * [#103bb49](https://github.com/OroraTech/nixpkgs/commit/103bb49) nixos/stage-2-init: Change permission of /etc/nixos only if it exists
+
+When I boot there&#39;s a warning `stage-2-init: install: cannot change permissions of &#39;/etc/nixos&#39;: No such file or directory`
+because my /etc/nixos is a symlink to $HOME/dotfiles.
+
+```
+/etc/nixos -&gt; /home/artturin/dotfiles
+```
+
+These lines were added in 56b465390449926626d3378e05b8e507061cd828
+  * [#003a188](https://github.com/OroraTech/nixpkgs/commit/003a188) gitlab: 16.1.3 -&gt; 16.1.4
+
+https://gitlab.com/gitlab-org/gitlab/-/blob/v16.1.4-ee/CHANGELOG.md
+  * [#c5d1071](https://github.com/OroraTech/nixpkgs/commit/c5d1071) python310Packages.magic-filter: 1.0.10 -&gt; 1.0.11
+  * [#ed04798](https://github.com/OroraTech/nixpkgs/commit/ed04798) h2: 2.1.210 -&gt; 2.2.220
+
+Release notes:
+https://github.com/h2database/h2database/releases/tag/version-2.2.220
+https://github.com/h2database/h2database/releases/tag/version-2.1.214
+https://github.com/h2database/h2database/releases/tag/version-2.1.212
+  * [#c00e06a](https://github.com/OroraTech/nixpkgs/commit/c00e06a) sickgear: 0.25.60 -&gt; 3.29.3
+  * *On 4 Sept 2023, 11:00:26*
 * ➡️ Pushed 226 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#46c7997](https://github.com/OroraTech/nixpkgs/commit/46c7997) ispc: 1.20.0 -&gt; 1.21.0
   * [#b0e9686](https://github.com/OroraTech/nixpkgs/commit/b0e9686) python311Packages.pkg-about: init at 1.0.8
@@ -122,77 +164,10 @@ Changelog: https://github.com/risor-io/risor/releases/tag/v0.17.0
   * [#3d52741](https://github.com/OroraTech/nixpkgs/commit/3d52741) rsyslog: 8.2306.0 -&gt; 8.2308.0
   * *On 1 Sept 2023, 09:03:35*
   * *On 1 Sept 2023, 09:00:25*
-* ➡️ Pushed 461 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#05b53f8](https://github.com/OroraTech/nixpkgs/commit/05b53f8) mediainfo-gui: 23.06 -&gt; 23.07
-  * [#4ea7276](https://github.com/OroraTech/nixpkgs/commit/4ea7276) mediainfo: 23.06 -&gt; 23.07
-  * [#dad5a44](https://github.com/OroraTech/nixpkgs/commit/dad5a44) libmediainfo: 23.06 -&gt; 23.07
-  * [#40e8205](https://github.com/OroraTech/nixpkgs/commit/40e8205) flutter: 3.10.5 -&gt; 3.13.0
-
-flutter: Update remaining engine artifact hashes for v3.13.0
-
-Co-Authored-By: hacker1024 &lt;20849728+hacker1024@users.noreply.github.com&gt;
-  * [#a791f73](https://github.com/OroraTech/nixpkgs/commit/a791f73) qgis-ltr: disable building tests
-
-No tests are currently executed during the build process. Disable
-building them to save significant amount of time and resources.
-  * [#0e82f77](https://github.com/OroraTech/nixpkgs/commit/0e82f77) qgis-ltr: alphabetical sorting of dependencies
-  * [#09f9749](https://github.com/OroraTech/nixpkgs/commit/09f9749) qgis: alphabetical sorting of dependencies
-  * [#2cf9345](https://github.com/OroraTech/nixpkgs/commit/2cf9345) qgis-ltr: 3.28.7 -&gt; 3.28.10
-  * [#b2a14fc](https://github.com/OroraTech/nixpkgs/commit/b2a14fc) qgis: disable building tests
-
-No tests are currently executed during the build process. Disable
-building them to save significant amount of time and resources.
-  * [#446297f](https://github.com/OroraTech/nixpkgs/commit/446297f) python310Packages.unstructured: add optional-dependencies
-  * [#fc77028](https://github.com/OroraTech/nixpkgs/commit/fc77028) python310Packages.libtmux: 0.22.1 -&gt; 0.23.0post0
-  * [#3d5fdc9](https://github.com/OroraTech/nixpkgs/commit/3d5fdc9) net-snmp: 5.9.3 -&gt; 5.9.4
-  * [#55774d1](https://github.com/OroraTech/nixpkgs/commit/55774d1) qucs-s: 1.1.0 -&gt; 2.0.0
-  * [#59c8dfb](https://github.com/OroraTech/nixpkgs/commit/59c8dfb) samba: 4.18.5 -&gt; 4.18.6
-  * [#f58a607](https://github.com/OroraTech/nixpkgs/commit/f58a607) chickenPackages: turn into scope
-
-The purpose of this change is to allow the overriding of one egg, which in turn
-affects all dependents of that eggs.
-  * [#a3dd3cc](https://github.com/OroraTech/nixpkgs/commit/a3dd3cc) chickenPackages.chickenEggs: update
-  * [#2da0307](https://github.com/OroraTech/nixpkgs/commit/2da0307) buildFHSEnv: fix `NIX_LDFLAGS` propagation to `ld` wrapper
-
-Before the change the following command did not work:
-
-    $ nix develop -i --impure --expr &#39;with import &lt;nixpkgs&gt; { system = &#34;i686-linux&#34;; }; (buildFHSUserEnv { name = &#34;t&#34;; targetPkgs = ps: with ps; [ libmpc stdenv.cc ]; }).env&#39;
-    $ ld -lmpc -o a
-    ld: cannot find -lmpc: No such file or directory
-
-It is expected to work as `NIX_LDFLAGS` does contain valid values:
-
-    $ echo $NIX_LDFLAGS
-    -L/usr/lib -L/usr/lib32
-
-Note that for `gcc` it does work:
-
-    $ printf &#34;int main(){}&#34; |  gcc -x c - -lmpc -o a
-
-It happens because `HOST` role is enabled for `cc`:
-
-    $ echo $NIX_CC_WRAPPER_TARGET_HOST_i686_unknown_linux_gnu
-    1
-
-But not for `BINTOOLS`:
-
-    $ echo $NIX_BINTOOLS_WRAPPER_TARGET_HOST_i686_unknown_linux_gnu
-    &lt;empty&gt;
-
-The change adds BINTOOLS role and fixes linking:
-
-    $ nix develop -i --impure --expr &#39;with import ~/nm { system = &#34;i686-linux&#34;; }; (buildFHSUserEnv { name = &#34;t&#34;; targetPkgs = ps: with ps; [ libmpc stdenv.cc ]; }).env&#39;
-    $ printf &#34;int main(){}&#34; |  gcc -x c - -lmpc -o a
-    $ ld -lmpc -o a
-    ld: warning: cannot find entry symbol _start; not setting start address
-  * [#69c5328](https://github.com/OroraTech/nixpkgs/commit/69c5328) omegat: 4.3.0 -&gt; 6.0.0
-  * [#cc4bb23](https://github.com/OroraTech/nixpkgs/commit/cc4bb23) perf: enable `perf stat` evens supported by `libpfm`
-  * [#98741b7](https://github.com/OroraTech/nixpkgs/commit/98741b7) maui-shell: 0.5.6 -&gt; 0.6.6
-  * *On 31 Aug 2023, 17:02:55*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 4 Sept 2023, 10:57:51 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 4 Sept 2023, 11:57:42 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,52 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 44 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#54f9a6e](https://github.com/OroraTech/nixpkgs/commit/54f9a6e) ddccontrol: 0.6.2 -&gt; 0.6.3
+  * [#1875196](https://github.com/OroraTech/nixpkgs/commit/1875196) op-geth: 1.101106.0 -&gt; 1.101200.0
+  * [#77a450f](https://github.com/OroraTech/nixpkgs/commit/77a450f) Merge pull request #253359 from r-ryantm/auto-update/protonmail-bridge
+
+protonmail-bridge: 3.3.2 -&gt; 3.4.1
+  * [#4690c42](https://github.com/OroraTech/nixpkgs/commit/4690c42) pv-migrate: 1.2.0 -&gt; 1.3.0
+  * [#3c28508](https://github.com/OroraTech/nixpkgs/commit/3c28508) pluto: 5.18.2 -&gt; 5.18.3
+  * [#321f0e1](https://github.com/OroraTech/nixpkgs/commit/321f0e1) phpExtensions.opentelemetry: 1.0.0beta6 -&gt; 1.0.0beta7
+  * [#40daff2](https://github.com/OroraTech/nixpkgs/commit/40daff2) gitui: 0.24.1 -&gt; 0.24.2
+
+Changelog: https://github.com/extrawurst/gitui/blob/0.24.2/CHANGELOG.md
+  * [#b21ef1a](https://github.com/OroraTech/nixpkgs/commit/b21ef1a) codeql: 2.14.2 -&gt; 2.14.3
+  * [#d3e1909](https://github.com/OroraTech/nixpkgs/commit/d3e1909) protonmail-bridge: 3.3.2 -&gt; 3.4.1
+  * [#21d18dc](https://github.com/OroraTech/nixpkgs/commit/21d18dc) matrix-synapse: 1.91.0 -&gt; 1.91.1
+
+https://github.com/matrix-org/synapse/releases/tag/v1.91.1
+Signed-off-by: Sumner Evans &lt;me@sumnerevans.com&gt;
+  * [#0c40d64](https://github.com/OroraTech/nixpkgs/commit/0c40d64) cloudfoundry-cli: 8.7.1 -&gt; 8.7.2
+  * [#2fe9b16](https://github.com/OroraTech/nixpkgs/commit/2fe9b16) civo: 1.0.61 -&gt; 1.0.65
+  * [#91c779c](https://github.com/OroraTech/nixpkgs/commit/91c779c) checkov: 2.4.22 -&gt; 2.4.25
+
+Diff: https://github.com/bridgecrewio/checkov/compare/refs/tags/2.4.22...2.4.25
+
+Changelog: https://github.com/bridgecrewio/checkov/releases/tag/2.4.25
+  * [#a0463e8](https://github.com/OroraTech/nixpkgs/commit/a0463e8) zon2nix: 0.1.1 -&gt; 0.1.2
+
+Diff: https://github.com/nix-community/zon2nix/compare/v0.1.1...v0.1.2
+
+Changelog: https://github.com/nix-community/zon2nix/blob/v0.1.2/CHANGELOG.md
+  * [#4a65ac3](https://github.com/OroraTech/nixpkgs/commit/4a65ac3) python310Packages.sklearn-deap: refactor
+
+- add format
+- add unittestCheckHook to nativeCheckInputs
+- enable pythonImportsCheck
+- change the license to MIT from LGPL3
+  * [#69953bf](https://github.com/OroraTech/nixpkgs/commit/69953bf) python310Packages.sklearn-deap: 0.2.3 -&gt; 0.3.0
+
+Diff: https://github.com/rsteca/sklearn-deap/compare/0.2.3...0.3.0
+  * [#e66d494](https://github.com/OroraTech/nixpkgs/commit/e66d494) pysensation: init at 1.0.0
+
+https://github.com/mimseyedi/pysentation
+  * [#9c6b830](https://github.com/OroraTech/nixpkgs/commit/9c6b830) anytype: wayland support
+  * [#6c5d6e2](https://github.com/OroraTech/nixpkgs/commit/6c5d6e2) harmonia: 0.7.1 -&gt; 0.7.2
+  * [#b675aae](https://github.com/OroraTech/nixpkgs/commit/b675aae) exim: Fix exiwhat command
+  * *On 5 Sept 2023, 13:00:42*
 * ➡️ Pushed 77 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#caaf41e](https://github.com/OroraTech/nixpkgs/commit/caaf41e) python310Packages.appthreat-vulnerability-db: 5.2.5 -&gt; 5.4.1
   * [#a58c29c](https://github.com/OroraTech/nixpkgs/commit/a58c29c) python310Packages.idasen: 0.10.0 -&gt; 0.10.1
@@ -234,13 +280,10 @@ Without the change build fails on `gcc-13` as:
   * [#75e405c](https://github.com/OroraTech/nixpkgs/commit/75e405c) nixos/nftables: use environment.etc for redirects
   * [#9e51ec8](https://github.com/OroraTech/nixpkgs/commit/9e51ec8) nixos/nftables: add checkRulesetRedirects option
   * *On 5 Sept 2023, 07:42:17*
-* ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/pkgs-native`
-  * [#5dd00f1](https://github.com/OroraTech/nixpkgs/commit/5dd00f1) pkgsNative: init
-  * *On 4 Sept 2023, 15:13:20*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 5 Sept 2023, 11:57:15 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 5 Sept 2023, 13:01:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

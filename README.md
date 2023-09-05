@@ -45,6 +45,34 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 77 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#caaf41e](https://github.com/OroraTech/nixpkgs/commit/caaf41e) python310Packages.appthreat-vulnerability-db: 5.2.5 -&gt; 5.4.1
+  * [#a58c29c](https://github.com/OroraTech/nixpkgs/commit/a58c29c) python310Packages.idasen: 0.10.0 -&gt; 0.10.1
+  * [#94bfdb5](https://github.com/OroraTech/nixpkgs/commit/94bfdb5) python310Packages.pyaml: 23.7.0 -&gt; 23.9.1
+  * [#12962a9](https://github.com/OroraTech/nixpkgs/commit/12962a9) sbt-extras: 2023-07-25 -&gt; 2023-08-28
+  * [#f5c50d5](https://github.com/OroraTech/nixpkgs/commit/f5c50d5) python310Packages.s3fs: 2023.6.0 -&gt; 2023.9.0
+  * [#ed1a0ab](https://github.com/OroraTech/nixpkgs/commit/ed1a0ab) python310Packages.ansible-core: 2.15.2 -&gt; 2.15.3
+  * [#8012e0d](https://github.com/OroraTech/nixpkgs/commit/8012e0d) python310Packages.jupyter-console: 6.6.1 -&gt; 6.6.3
+
+Changelog: https://github.com/jupyter/jupyter_console/releases/tag/v6.6.3
+  * [#a960eac](https://github.com/OroraTech/nixpkgs/commit/a960eac) python310Packages.jupyter-console: add jupyter team as maintainers
+  * [#eb85576](https://github.com/OroraTech/nixpkgs/commit/eb85576) python310Packages.jupyter-console: rename from jupyter_console
+  * [#fd80879](https://github.com/OroraTech/nixpkgs/commit/fd80879) herbstluftwm: fix tests with recent X versions
+  * [#a481f7c](https://github.com/OroraTech/nixpkgs/commit/a481f7c) fwts: 23.05.00 -&gt; 23.07.00
+  * [#d0d2a84](https://github.com/OroraTech/nixpkgs/commit/d0d2a84) gama: 2.24 -&gt; 2.25
+  * [#6cfa5c5](https://github.com/OroraTech/nixpkgs/commit/6cfa5c5) inotify-tools: 3.22.6.0 -&gt; 4.23.8.0
+  * [#9ceb610](https://github.com/OroraTech/nixpkgs/commit/9ceb610) libblockdev: 3.0.2 -&gt; 3.0.3
+  * [#9a4f4fd](https://github.com/OroraTech/nixpkgs/commit/9a4f4fd) riemann_c_client: 1.10.5 -&gt; 2.1.1
+  * [#0874967](https://github.com/OroraTech/nixpkgs/commit/0874967) python310Packages.python-manilaclient: 4.5.1 -&gt; 4.6.0
+  * [#c4a9adf](https://github.com/OroraTech/nixpkgs/commit/c4a9adf) birdtray: 1.9.0 -&gt; 1.11.3
+  * [#7b42c82](https://github.com/OroraTech/nixpkgs/commit/7b42c82) python311Packages.gitpython: 3.1.32 -&gt; 3.1.33
+
+Diff: https://github.com/gitpython-developers/GitPython/compare/refs/tags/3.1.32...3.1.33
+
+Changelog: https://github.com/gitpython-developers/GitPython/blob/3.1.33/doc/source/changes.rst
+  * [#bbaa00d](https://github.com/OroraTech/nixpkgs/commit/bbaa00d) ocenaudio: 3.12.5 -&gt; 3.12.6
+  * [#40654da](https://github.com/OroraTech/nixpkgs/commit/40654da) fldigi: 4.1.26 -&gt; 4.1.27
+  * *On 5 Sept 2023, 10:57:56*
 * ➡️ Pushed 196 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `chore/fix-sphinx-hook`
   * [#1a8886c](https://github.com/OroraTech/nixpkgs/commit/1a8886c) code-maat: init at 1.0.3
 
@@ -209,12 +237,10 @@ Without the change build fails on `gcc-13` as:
 * ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/pkgs-native`
   * [#5dd00f1](https://github.com/OroraTech/nixpkgs/commit/5dd00f1) pkgsNative: init
   * *On 4 Sept 2023, 15:13:20*
-* 💬 Commented on [#253261 pkgsNative: init](https://github.com/NixOS/nixpkgs/pull/253261) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 4 Sept 2023, 15:09:04*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 5 Sept 2023, 10:58:30 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 5 Sept 2023, 11:57:15 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

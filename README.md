@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 💬 Commented on [#253261 pkgsNative: init](https://github.com/NixOS/nixpkgs/issues/253261) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 6 Sept 2023, 14:31:10*
 * ➡️ Pushed 20 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#4c87ec6](https://github.com/OroraTech/nixpkgs/commit/4c87ec6) Merge pull request #253576 from dotlambda/zammad-fetchYarnDeps
 
@@ -283,56 +285,10 @@ were only added to the kernel later.
   * [#8c7898a](https://github.com/OroraTech/nixpkgs/commit/8c7898a) stegsolve: more precise license
   * [#0984477](https://github.com/OroraTech/nixpkgs/commit/0984477) kodiPackages.certifi: 2022.9.24 -&gt; 2023.5.7
   * *On 6 Sept 2023, 12:00:52*
-* ➡️ Pushed 44 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#54f9a6e](https://github.com/OroraTech/nixpkgs/commit/54f9a6e) ddccontrol: 0.6.2 -&gt; 0.6.3
-  * [#1875196](https://github.com/OroraTech/nixpkgs/commit/1875196) op-geth: 1.101106.0 -&gt; 1.101200.0
-  * [#77a450f](https://github.com/OroraTech/nixpkgs/commit/77a450f) Merge pull request #253359 from r-ryantm/auto-update/protonmail-bridge
-
-protonmail-bridge: 3.3.2 -&gt; 3.4.1
-  * [#4690c42](https://github.com/OroraTech/nixpkgs/commit/4690c42) pv-migrate: 1.2.0 -&gt; 1.3.0
-  * [#3c28508](https://github.com/OroraTech/nixpkgs/commit/3c28508) pluto: 5.18.2 -&gt; 5.18.3
-  * [#321f0e1](https://github.com/OroraTech/nixpkgs/commit/321f0e1) phpExtensions.opentelemetry: 1.0.0beta6 -&gt; 1.0.0beta7
-  * [#40daff2](https://github.com/OroraTech/nixpkgs/commit/40daff2) gitui: 0.24.1 -&gt; 0.24.2
-
-Changelog: https://github.com/extrawurst/gitui/blob/0.24.2/CHANGELOG.md
-  * [#b21ef1a](https://github.com/OroraTech/nixpkgs/commit/b21ef1a) codeql: 2.14.2 -&gt; 2.14.3
-  * [#d3e1909](https://github.com/OroraTech/nixpkgs/commit/d3e1909) protonmail-bridge: 3.3.2 -&gt; 3.4.1
-  * [#21d18dc](https://github.com/OroraTech/nixpkgs/commit/21d18dc) matrix-synapse: 1.91.0 -&gt; 1.91.1
-
-https://github.com/matrix-org/synapse/releases/tag/v1.91.1
-Signed-off-by: Sumner Evans &lt;me@sumnerevans.com&gt;
-  * [#0c40d64](https://github.com/OroraTech/nixpkgs/commit/0c40d64) cloudfoundry-cli: 8.7.1 -&gt; 8.7.2
-  * [#2fe9b16](https://github.com/OroraTech/nixpkgs/commit/2fe9b16) civo: 1.0.61 -&gt; 1.0.65
-  * [#91c779c](https://github.com/OroraTech/nixpkgs/commit/91c779c) checkov: 2.4.22 -&gt; 2.4.25
-
-Diff: https://github.com/bridgecrewio/checkov/compare/refs/tags/2.4.22...2.4.25
-
-Changelog: https://github.com/bridgecrewio/checkov/releases/tag/2.4.25
-  * [#a0463e8](https://github.com/OroraTech/nixpkgs/commit/a0463e8) zon2nix: 0.1.1 -&gt; 0.1.2
-
-Diff: https://github.com/nix-community/zon2nix/compare/v0.1.1...v0.1.2
-
-Changelog: https://github.com/nix-community/zon2nix/blob/v0.1.2/CHANGELOG.md
-  * [#4a65ac3](https://github.com/OroraTech/nixpkgs/commit/4a65ac3) python310Packages.sklearn-deap: refactor
-
-- add format
-- add unittestCheckHook to nativeCheckInputs
-- enable pythonImportsCheck
-- change the license to MIT from LGPL3
-  * [#69953bf](https://github.com/OroraTech/nixpkgs/commit/69953bf) python310Packages.sklearn-deap: 0.2.3 -&gt; 0.3.0
-
-Diff: https://github.com/rsteca/sklearn-deap/compare/0.2.3...0.3.0
-  * [#e66d494](https://github.com/OroraTech/nixpkgs/commit/e66d494) pysensation: init at 1.0.0
-
-https://github.com/mimseyedi/pysentation
-  * [#9c6b830](https://github.com/OroraTech/nixpkgs/commit/9c6b830) anytype: wayland support
-  * [#6c5d6e2](https://github.com/OroraTech/nixpkgs/commit/6c5d6e2) harmonia: 0.7.1 -&gt; 0.7.2
-  * [#b675aae](https://github.com/OroraTech/nixpkgs/commit/b675aae) exim: Fix exiwhat command
-  * *On 5 Sept 2023, 13:00:42*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 6 Sept 2023, 14:58:16 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 6 Sept 2023, 15:57:19 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

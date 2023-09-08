@@ -25,16 +25,40 @@ h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="327.22066224074365" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="327.22066224074365" y="0" width="160.36853704250396" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="487.5891992832477" y="0" width="137.06172720844177" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="624.6509264916895" y="0" width="84.73509683708987" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="709.3860233287793" y="0" width="83.0707758638445" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="792.4567991926239" y="0" width="64.83903966167091" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="857.2958388542947" y="0" width="49.999107492259206" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="907.294946346554" y="0" width="12.70505365344611" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.85408435729215" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="330.85408435729215" y="0" width="230.34291444657896" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="561.196998803871" y="0" width="112.88943661120979" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="674.0864354150809" y="0" width="96.48289777326713" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="770.569333188348" y="0" width="59.64821728466659" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="830.2175504730146" y="0" width="45.6426353498375" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="875.860185822852" y="0" width="35.19624971304989" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="911.056435535902" y="0" width="8.94356446409801" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#7e7eff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Nix
+                            </div>
+                            <small>
+                                <div>35.96%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                C++
+                            </div>
+                            <small>
+                                <div>6.48%</div>
+                            </small>
+                        </div>
+                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -44,18 +68,18 @@ h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
                                 Python
                             </div>
                             <small>
-                                <div>35.57%</div>
+                                <div>25.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#7e7eff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Nix
+                                C
                             </div>
                             <small>
-                                <div>9.03%</div>
+                                <div>4.96%</div>
                             </small>
                         </div>
                     </section>
@@ -68,18 +92,18 @@ h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
                                 HTML
                             </div>
                             <small>
-                                <div>17.43%</div>
+                                <div>12.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C
+                                CSS
                             </div>
                             <small>
-                                <div>7.05%</div>
+                                <div>3.83%</div>
                             </small>
                         </div>
                     </section>
@@ -92,31 +116,7 @@ h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
                                 TeX
                             </div>
                             <small>
-                                <div>14.9%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                CSS
-                            </div>
-                            <small>
-                                <div>5.43%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                C++
-                            </div>
-                            <small>
-                                <div>9.21%</div>
+                                <div>10.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -127,7 +127,7 @@ h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
                                 Makefile
                             </div>
                             <small>
-                                <div>1.38%</div>
+                                <div>0.97%</div>
                             </small>
                         </div>
                     </section>

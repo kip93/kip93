@@ -45,37 +45,25 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
-* ➡️ Pushed 4 commits in [kip93/NixConContent](https://github.com/kip93/NixConContent) on branch `main`
-  * [#7b1246b](https://github.com/kip93/NixConContent/commit/7b1246b) Merge pull request #6 from lf-/jade/finding-stuff
+* ➡️ Pushed 3 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
+  * [#e0da935](https://github.com/nixcon/NixConContent/commit/e0da935) Merge pull request #10 from t184256/bootstrap-from-tcc
 
-Add finding stuff in nixpkgs
-  * [#24f3ef1](https://github.com/kip93/NixConContent/commit/24f3ef1) Add finding stuff in nixpkgs
-  * [#99509dd](https://github.com/kip93/NixConContent/commit/99509dd) Rebase #3 myself
-  * [#676a5fa](https://github.com/kip93/NixConContent/commit/676a5fa) Kickstart darmstadt nixcon folder (#5)
-
-* Kickstart darmstadt nixcon folder
-
-* Add basic structure for first day
-
----------
-
-Co-authored-by: Leandro Reina &lt;leandro.reina@ororatech.com&gt;
-  * *On 9 Sept 2023, 11:49:01*
-* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#7b1246b](https://github.com/nixcon/NixConContent/commit/7b1246b) Merge pull request #6 from lf-/jade/finding-stuff
-
-Add finding stuff in nixpkgs
-  * [#24f3ef1](https://github.com/nixcon/NixConContent/commit/24f3ef1) Add finding stuff in nixpkgs
-  * *On 9 Sept 2023, 11:43:03*
-* 🔃 Merged [#6 Add finding stuff in nixpkgs](https://github.com/nixcon/NixConContent/pull/6) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * 2 files changed `++14 --0`
-  * *On 9 Sept 2023, 11:43:02*
-* 💬 Commented on [#6 Add finding stuff in nixpkgs](https://github.com/nixcon/NixConContent/issues/6) from [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * *On 9 Sept 2023, 11:42:41*
+add Bootstrapping Nix and Linux from TinyCC
+  * [#91a18f8](https://github.com/nixcon/NixConContent/commit/91a18f8) Merge branch &#39;main&#39; into bootstrap-from-tcc
+  * [#c89e8ad](https://github.com/nixcon/NixConContent/commit/c89e8ad) add Bootstrapping Nix and Linux from TinyCC
+  * *On 9 Sept 2023, 14:47:17*
+* 🔃 Merged [#10 add Bootstrapping Nix and Linux from TinyCC](https://github.com/nixcon/NixConContent/pull/10) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+  * 1 file changed `++1 --1`
+  * *On 9 Sept 2023, 14:47:17*
+* ➡️ Pushed 4 commits in [t184256/NixConContent](https://github.com/t184256/NixConContent) on branch `bootstrap-from-tcc`
+  * [#91a18f8](https://github.com/t184256/NixConContent/commit/91a18f8) Merge branch &#39;main&#39; into bootstrap-from-tcc
+  * *On 9 Sept 2023, 14:46:38*
+* 🌟 Starred [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor)
+  * *On 9 Sept 2023, 14:38:15*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 9 Sept 2023, 13:57:02 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 9 Sept 2023, 14:56:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

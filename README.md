@@ -45,20 +45,37 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 4 commits in [kip93/NixConContent](https://github.com/kip93/NixConContent) on branch `main`
+  * [#7b1246b](https://github.com/kip93/NixConContent/commit/7b1246b) Merge pull request #6 from lf-/jade/finding-stuff
+
+Add finding stuff in nixpkgs
+  * [#24f3ef1](https://github.com/kip93/NixConContent/commit/24f3ef1) Add finding stuff in nixpkgs
+  * [#99509dd](https://github.com/kip93/NixConContent/commit/99509dd) Rebase #3 myself
+  * [#676a5fa](https://github.com/kip93/NixConContent/commit/676a5fa) Kickstart darmstadt nixcon folder (#5)
+
+* Kickstart darmstadt nixcon folder
+
+* Add basic structure for first day
+
+---------
+
+Co-authored-by: Leandro Reina &lt;leandro.reina@ororatech.com&gt;
+  * *On 9 Sept 2023, 11:49:01*
+* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
+  * [#7b1246b](https://github.com/nixcon/NixConContent/commit/7b1246b) Merge pull request #6 from lf-/jade/finding-stuff
+
+Add finding stuff in nixpkgs
+  * [#24f3ef1](https://github.com/nixcon/NixConContent/commit/24f3ef1) Add finding stuff in nixpkgs
+  * *On 9 Sept 2023, 11:43:03*
+* 🔃 Merged [#6 Add finding stuff in nixpkgs](https://github.com/nixcon/NixConContent/pull/6) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+  * 2 files changed `++14 --0`
+  * *On 9 Sept 2023, 11:43:02*
 * 💬 Commented on [#6 Add finding stuff in nixpkgs](https://github.com/nixcon/NixConContent/issues/6) from [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * *On 9 Sept 2023, 09:11:43*
-* 🔃 Closed [#3 Add Nix Board Fireside Chat](https://github.com/nixcon/NixConContent/pull/3) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * 23 files changed `++4 --0`
-  * *On 9 Sept 2023, 08:08:30*
-* 💬 Commented on [#3 Add Nix Board Fireside Chat](https://github.com/nixcon/NixConContent/issues/3) from [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * *On 9 Sept 2023, 08:08:30*
-* ➡️ Pushed 1 commit in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#99509dd](https://github.com/nixcon/NixConContent/commit/99509dd) Rebase #3 myself
-  * *On 9 Sept 2023, 08:01:51*
+  * *On 9 Sept 2023, 11:42:41*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 9 Sept 2023, 10:56:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 9 Sept 2023, 11:58:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

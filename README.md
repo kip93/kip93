@@ -45,25 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
-* ➡️ Pushed 3 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#e0da935](https://github.com/nixcon/NixConContent/commit/e0da935) Merge pull request #10 from t184256/bootstrap-from-tcc
-
-add Bootstrapping Nix and Linux from TinyCC
-  * [#91a18f8](https://github.com/nixcon/NixConContent/commit/91a18f8) Merge branch &#39;main&#39; into bootstrap-from-tcc
-  * [#c89e8ad](https://github.com/nixcon/NixConContent/commit/c89e8ad) add Bootstrapping Nix and Linux from TinyCC
-  * *On 9 Sept 2023, 14:47:17*
-* 🔃 Merged [#10 add Bootstrapping Nix and Linux from TinyCC](https://github.com/nixcon/NixConContent/pull/10) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * 1 file changed `++1 --1`
-  * *On 9 Sept 2023, 14:47:17*
-* ➡️ Pushed 4 commits in [t184256/NixConContent](https://github.com/t184256/NixConContent) on branch `bootstrap-from-tcc`
-  * [#91a18f8](https://github.com/t184256/NixConContent/commit/91a18f8) Merge branch &#39;main&#39; into bootstrap-from-tcc
-  * *On 9 Sept 2023, 14:46:38*
-* 🌟 Starred [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor)
-  * *On 9 Sept 2023, 14:38:15*
+* 🔍 Reviewed [#254271 fix: add mainProgram for nats-server](https://github.com/NixOS/nixpkgs/pull/254271) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 9 Sept 2023, 17:55:12*
+* 💬 Commented on [#239181 nixos/iperf3: add option to run multiple servers simultaneously](https://github.com/NixOS/nixpkgs/pull/239181) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 9 Sept 2023, 17:46:51*
+* 🔍 Reviewed [#239181 nixos/iperf3: add option to run multiple servers simultaneously](https://github.com/NixOS/nixpkgs/pull/239181) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 9 Sept 2023, 17:50:46*
+* 🔍 Reviewed [#239181 nixos/iperf3: add option to run multiple servers simultaneously](https://github.com/NixOS/nixpkgs/pull/239181) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 9 Sept 2023, 17:50:46*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 9 Sept 2023, 16:56:16 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 9 Sept 2023, 17:58:05 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

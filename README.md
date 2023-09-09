@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 💬 Commented on [#6 Add finding stuff in nixpkgs](https://github.com/nixcon/NixConContent/issues/6) from [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+  * *On 9 Sept 2023, 09:11:43*
 * 🔃 Closed [#3 Add Nix Board Fireside Chat](https://github.com/nixcon/NixConContent/pull/3) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
   * 23 files changed `++4 --0`
   * *On 9 Sept 2023, 08:08:30*
@@ -53,13 +55,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
   * [#99509dd](https://github.com/nixcon/NixConContent/commit/99509dd) Rebase #3 myself
   * *On 9 Sept 2023, 08:01:51*
-* ➡️ Pushed 3 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#4e2f860](https://github.com/nixcon/NixConContent/commit/4e2f860) Merge branch &#39;main&#39; of github.com:nixcon/NixConContent into main
-  * *On 9 Sept 2023, 08:00:58*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 9 Sept 2023, 08:56:58 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 9 Sept 2023, 09:55:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

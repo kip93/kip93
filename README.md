@@ -45,6 +45,29 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* 🌟 Starred [StevenBlack/hosts](https://github.com/StevenBlack/hosts)
+  * *On 10 Sept 2023, 22:24:41*
+* ➡️ Pushed 17 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#3c9658e](https://github.com/kip93/nixplusplus/commit/3c9658e) Fix config cross compilation&#39;s system args
+  * [#b1ae1fa](https://github.com/kip93/nixplusplus/commit/b1ae1fa) Add special arg for nix++ flake
+  * [#3d9a951](https://github.com/kip93/nixplusplus/commit/3d9a951) Improve memory defaults
+  * [#2378a77](https://github.com/kip93/nixplusplus/commit/2378a77) Add cross compiled config boilerplate
+  * [#294aca8](https://github.com/kip93/nixplusplus/commit/294aca8) Add expression for single config
+It&#39;s a common enough use case after all
+  * [#8536b15](https://github.com/kip93/nixplusplus/commit/8536b15) Fix config expression
+  * [#2bbe571](https://github.com/kip93/nixplusplus/commit/2bbe571) Add comment
+  * [#a51951b](https://github.com/kip93/nixplusplus/commit/a51951b) Use home-manager by default
+  * [#60626fa](https://github.com/kip93/nixplusplus/commit/60626fa) Improve nixos toplevel name
+  * [#c951c8a](https://github.com/kip93/nixplusplus/commit/c951c8a) Use newer version of nix
+  * [#bc6b383](https://github.com/kip93/nixplusplus/commit/bc6b383) Fix registry
+  * [#421074c](https://github.com/kip93/nixplusplus/commit/421074c) Fix typo on module packages expression
+  * [#3dd8e57](https://github.com/kip93/nixplusplus/commit/3dd8e57) Remove module docs
+Turns out, simple md files are not enough
+  * [#dc8dda2](https://github.com/kip93/nixplusplus/commit/dc8dda2) Add categorized supported systems
+  * [#1db7abb](https://github.com/kip93/nixplusplus/commit/1db7abb) Fix minor typo
+  * [#4b565a9](https://github.com/kip93/nixplusplus/commit/4b565a9) Fix format
+  * [#3426451](https://github.com/kip93/nixplusplus/commit/3426451) Update inputs
+  * *On 10 Sept 2023, 22:01:55*
 * 🌟 Starred [nixpak/nixpak](https://github.com/nixpak/nixpak)
   * *On 10 Sept 2023, 08:34:55*
 * ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
@@ -53,15 +76,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 Add &#34;Daily-driving NixOS on the Librem 5&#34;
   * [#2193336](https://github.com/nixcon/NixConContent/commit/2193336) Add &#34;Daily-driving NixOS on the Librem 5&#34;
   * *On 10 Sept 2023, 08:15:33*
-* 🔃 Merged [#11 Add &#34;Daily-driving NixOS on the Librem 5&#34;](https://github.com/nixcon/NixConContent/pull/11) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * 2 files changed `++1 --0`
-  * *On 10 Sept 2023, 08:15:33*
-* 💬 Commented on [#11 Add &#34;Daily-driving NixOS on the Librem 5&#34;](https://github.com/nixcon/NixConContent/issues/11) from [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * *On 10 Sept 2023, 08:08:52*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Sept 2023, 21:57:48 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Sept 2023, 22:57:01 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

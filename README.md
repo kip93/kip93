@@ -45,6 +45,12 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#ca1bcc2](https://github.com/kip93/nixplusplus/commit/ca1bcc2) Remove 1 level of depth in secrets module
+  * [#3ea2027](https://github.com/kip93/nixplusplus/commit/3ea2027) More user defaults
+  * [#0a22768](https://github.com/kip93/nixplusplus/commit/0a22768) Don&#39;t get stuck on kernel panic
+  * [#a6b84b3](https://github.com/kip93/nixplusplus/commit/a6b84b3) Set default bootloader as systemd
+  * *On 11 Sept 2023, 16:01:38*
 * 🌟 Starred [StevenBlack/hosts](https://github.com/StevenBlack/hosts)
   * *On 10 Sept 2023, 22:24:41*
 * ➡️ Pushed 17 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
@@ -70,16 +76,10 @@ Turns out, simple md files are not enough
   * *On 10 Sept 2023, 22:01:55*
 * 🌟 Starred [nixpak/nixpak](https://github.com/nixpak/nixpak)
   * *On 10 Sept 2023, 08:34:55*
-* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#3063247](https://github.com/nixcon/NixConContent/commit/3063247) Merge pull request #11 from 999eagle/main
-
-Add &#34;Daily-driving NixOS on the Librem 5&#34;
-  * [#2193336](https://github.com/nixcon/NixConContent/commit/2193336) Add &#34;Daily-driving NixOS on the Librem 5&#34;
-  * *On 10 Sept 2023, 08:15:33*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 11 Sept 2023, 16:57:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 11 Sept 2023, 17:57:33 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

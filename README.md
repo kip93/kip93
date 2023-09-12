@@ -45,6 +45,12 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 
 **[📰 Recent activity](https://github.com/kip93)**
+* ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#d8077e1](https://github.com/kip93/nixplusplus/commit/d8077e1) Shorten all options to npp
+  * [#5daf606](https://github.com/kip93/nixplusplus/commit/5daf606) Add shorter alias on registry
+  * [#b05c65a](https://github.com/kip93/nixplusplus/commit/b05c65a) Pass all flakes as special args
+  * [#50051cf](https://github.com/kip93/nixplusplus/commit/50051cf) Fix config check
+  * *On 12 Sept 2023, 20:01:27*
 * ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
   * [#92608df](https://github.com/nixcon/NixConContent/commit/92608df) Merge pull request #14 from benradf/slides
 
@@ -65,13 +71,10 @@ because I had to hoop through libreoffice to properly convert them from
 google slides to PDF, and that messed-up the layout a bit. But the
 content is exactly the same.
   * *On 12 Sept 2023, 13:01:50*
-* 🔃 Merged [#13 Nix, but with a different frontend: Add the slides](https://github.com/nixcon/NixConContent/pull/13) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * 2 files changed `++1 --0`
-  * *On 12 Sept 2023, 13:01:50*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 12 Sept 2023, 19:58:11 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 12 Sept 2023, 20:57:06 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

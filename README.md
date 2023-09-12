@@ -46,6 +46,15 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 **[📰 Recent activity](https://github.com/kip93)**
 * ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
+  * [#92608df](https://github.com/nixcon/NixConContent/commit/92608df) Merge pull request #14 from benradf/slides
+
+Add slides for Layered Nix Stores talk
+  * [#159b661](https://github.com/nixcon/NixConContent/commit/159b661) Add slides for Layered Nix Stores talk.
+  * *On 12 Sept 2023, 16:14:30*
+* 🔃 Merged [#14 Add slides for Layered Nix Stores talk](https://github.com/nixcon/NixConContent/pull/14) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+  * 2 files changed `++1 --0`
+  * *On 12 Sept 2023, 16:14:29*
+* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
   * [#c750274](https://github.com/nixcon/NixConContent/commit/c750274) Merge pull request #13 from thufschmitt/nixcon2023-organist
 
 Nix, but with a different frontend: Add the slides
@@ -59,22 +68,10 @@ content is exactly the same.
 * 🔃 Merged [#13 Nix, but with a different frontend: Add the slides](https://github.com/nixcon/NixConContent/pull/13) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
   * 2 files changed `++1 --0`
   * *On 12 Sept 2023, 13:01:50*
-* ➡️ Pushed 3 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#de5c037](https://github.com/nixcon/NixConContent/commit/de5c037) Merge pull request #12 from tweag/napa-extra
-
-Extra content for `not-all-packages-anymore.nix`
-  * [#f823bce](https://github.com/nixcon/NixConContent/commit/f823bce) not-all-packages-anymore.nix: Add code
-
-I got asked for it
-  * [#2042b3f](https://github.com/nixcon/NixConContent/commit/2042b3f) not-all-packages-anymore.nix: Minor slide fixes
-  * *On 12 Sept 2023, 13:00:23*
-* 🔃 Merged [#12 Extra content for `not-all-packages-anymore.nix`](https://github.com/nixcon/NixConContent/pull/12) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * 41 files changed `++1691 --0`
-  * *On 12 Sept 2023, 13:00:23*
  <!-- Last activity -->
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 12 Sept 2023, 15:57:51 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 12 Sept 2023, 16:57:22 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

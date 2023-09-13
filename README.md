@@ -41,40 +41,28 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 ![](./achievements.svg)
 
 
------------------------------------------------------------------------------------------------------------------------
-
-
-**[📰 Recent activity](https://github.com/kip93)**
-* ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#d8077e1](https://github.com/kip93/nixplusplus/commit/d8077e1) Shorten all options to npp
-  * [#5daf606](https://github.com/kip93/nixplusplus/commit/5daf606) Add shorter alias on registry
-  * [#b05c65a](https://github.com/kip93/nixplusplus/commit/b05c65a) Pass all flakes as special args
-  * [#50051cf](https://github.com/kip93/nixplusplus/commit/50051cf) Fix config check
-  * *On 12 Sept 2023, 20:01:27*
+<details> <!-- Last activity -->
+<!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
+<summary><h3>📰 Recent activity</h3></summary>
 * ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#92608df](https://github.com/nixcon/NixConContent/commit/92608df) Merge pull request #14 from benradf/slides
-
-Add slides for Layered Nix Stores talk
-  * [#159b661](https://github.com/nixcon/NixConContent/commit/159b661) Add slides for Layered Nix Stores talk.
-  * *On 12 Sept 2023, 16:14:30*
-* 🔃 Merged [#14 Add slides for Layered Nix Stores talk](https://github.com/nixcon/NixConContent/pull/14) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * 2 files changed `++1 --0`
-  * *On 12 Sept 2023, 16:14:29*
+  * [#afe7102](https://github.com/nixcon/NixConContent/commit/afe7102) Add slides for &#34;Nix state of the Union&#34;
+  * [#2d3a3c2](https://github.com/nixcon/NixConContent/commit/2d3a3c2) Add &#34;Nix at dial-up speeds&#34;
+  * *On 13 Sept 2023, 13:55:02*
 * ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#c750274](https://github.com/nixcon/NixConContent/commit/c750274) Merge pull request #13 from thufschmitt/nixcon2023-organist
+  * [#c4f72cb](https://github.com/nixcon/NixConContent/commit/c4f72cb) Merge pull request #17 from twitchy0/patch-1
 
-Nix, but with a different frontend: Add the slides
-  * [#c108547](https://github.com/nixcon/NixConContent/commit/c108547) Nix, but with a different frontend: Add the slides
-
-Note that these are very slightly different from the ones in the video
-because I had to hoop through libreoffice to properly convert them from
-google slides to PDF, and that messed-up the layout a bit. But the
-content is exactly the same.
-  * *On 12 Sept 2023, 13:01:50*
- <!-- Last activity -->
+Fix file links
+  * [#3cea66a](https://github.com/nixcon/NixConContent/commit/3cea66a) Fix file links
+  * *On 13 Sept 2023, 13:39:50*
+* 🔃 Merged [#17 Fix file links](https://github.com/nixcon/NixConContent/pull/17) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+  * 1 file changed `++2 --2`
+  * *On 13 Sept 2023, 13:39:50*
+* 💬 Commented on [#17 Fix file links](https://github.com/nixcon/NixConContent/issues/17) from [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+  * *On 13 Sept 2023, 13:39:41*
+</details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 13 Sept 2023, 13:48:07 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 13 Sept 2023, 14:48:23 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

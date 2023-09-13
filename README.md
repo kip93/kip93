@@ -44,6 +44,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <details> <!-- Last activity -->
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
+
+* 💬 Commented on [#1 Comment](https://github.com/kip93/kip93/issues/1) from [kip93/kip93](https://github.com/kip93/kip93)
+  * *On 13 Sept 2023, 14:13:30*
 * ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
   * [#afe7102](https://github.com/nixcon/NixConContent/commit/afe7102) Add slides for &#34;Nix state of the Union&#34;
   * [#2d3a3c2](https://github.com/nixcon/NixConContent/commit/2d3a3c2) Add &#34;Nix at dial-up speeds&#34;
@@ -55,14 +58,12 @@ Fix file links
   * [#3cea66a](https://github.com/nixcon/NixConContent/commit/3cea66a) Fix file links
   * *On 13 Sept 2023, 13:39:50*
 * 🔃 Merged [#17 Fix file links](https://github.com/nixcon/NixConContent/pull/17) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * 1 file changed `++2 --2`
+                * 1 file changed `++2 --2`
   * *On 13 Sept 2023, 13:39:50*
-* 💬 Commented on [#17 Fix file links](https://github.com/nixcon/NixConContent/issues/17) from [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * *On 13 Sept 2023, 13:39:41*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 13 Sept 2023, 14:51:09 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 13 Sept 2023, 15:46:31 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

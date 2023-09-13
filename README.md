@@ -75,6 +75,6 @@ content is exactly the same.
 
 
 <h6 align="right"><em>
-    Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.33.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 13 Sept 2023, 02:09:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
+    Last updated @ 13 Sept 2023, 02:47:54 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

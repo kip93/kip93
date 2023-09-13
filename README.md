@@ -45,25 +45,20 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
+  * [#c7a1664](https://github.com/kip93/kip93/commit/c7a1664) Convert details content to HTML to really fix #1
+  * *On 13 Sept 2023, 15:11:21*
+* ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
+  * [#4ca34ab](https://github.com/kip93/kip93/commit/4ca34ab) Hopefully fix #1
+  * *On 13 Sept 2023, 14:45:18*
+* #️⃣ Closed [#1 Comment](https://github.com/kip93/kip93/issues/1) in [kip93/kip93](https://github.com/kip93/kip93)
+  * *On 13 Sept 2023, 14:45:20*
 * 💬 Commented on [#1 Comment](https://github.com/kip93/kip93/issues/1) from [kip93/kip93](https://github.com/kip93/kip93)
   * *On 13 Sept 2023, 14:13:30*
-* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#afe7102](https://github.com/nixcon/NixConContent/commit/afe7102) Add slides for &#34;Nix state of the Union&#34;
-  * [#2d3a3c2](https://github.com/nixcon/NixConContent/commit/2d3a3c2) Add &#34;Nix at dial-up speeds&#34;
-  * *On 13 Sept 2023, 13:55:02*
-* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#c4f72cb](https://github.com/nixcon/NixConContent/commit/c4f72cb) Merge pull request #17 from twitchy0/patch-1
-
-Fix file links
-  * [#3cea66a](https://github.com/nixcon/NixConContent/commit/3cea66a) Fix file links
-  * *On 13 Sept 2023, 13:39:50*
-* 🔃 Merged [#17 Fix file links](https://github.com/nixcon/NixConContent/pull/17) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-                * 1 file changed `++2 --2`
-  * *On 13 Sept 2023, 13:39:50*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 13 Sept 2023, 15:49:15 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 13 Sept 2023, 16:48:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

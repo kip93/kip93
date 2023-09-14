@@ -45,21 +45,25 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
+  * [#55ae102](https://github.com/nixcon/NixConContent/commit/55ae102) Merge pull request #18 from twitchy0/main
+
+slides + code link for &#34;Single Website Firefox VMs&#34;
+  * [#17d3239](https://github.com/nixcon/NixConContent/commit/17d3239) slides + code link for &#34;Single Website Firefox VMs&#34;
+  * *On 14 Sept 2023, 12:25:01*
+* 🔃 Merged [#18 slides + code link for &#34;Single Website Firefox VMs&#34;](https://github.com/nixcon/NixConContent/pull/18) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+                * 2 files changed `++2 --0`
+  * *On 14 Sept 2023, 12:25:01*
 * ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
   * [#f3ffcf9](https://github.com/kip93/kip93/commit/f3ffcf9) Reformat again, hopefully really really fixing #1
   * *On 13 Sept 2023, 15:43:38*
 * ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
   * [#c7a1664](https://github.com/kip93/kip93/commit/c7a1664) Convert details content to HTML to really fix #1
   * *On 13 Sept 2023, 15:11:21*
-* ➡️ Pushed 1 commit in [kip93/kip93](https://github.com/kip93/kip93) on branch `main`
-  * [#4ca34ab](https://github.com/kip93/kip93/commit/4ca34ab) Hopefully fix #1
-  * *On 13 Sept 2023, 14:45:18*
-* #️⃣ Closed [#1 Comment](https://github.com/kip93/kip93/issues/1) in [kip93/kip93](https://github.com/kip93/kip93)
-  * *On 13 Sept 2023, 14:45:20*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 14 Sept 2023, 11:48:11 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 14 Sept 2023, 12:52:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,12 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#2503d6e](https://github.com/kip93/nixplusplus/commit/2503d6e) Hardcode the nix configs instead
+  * [#ac7d9e0](https://github.com/kip93/nixplusplus/commit/ac7d9e0) Update nixpkgs
+  * [#98f4cad](https://github.com/kip93/nixplusplus/commit/98f4cad) Add flake&#39;s nixConfig entries to default module
+  * [#dffdd24](https://github.com/kip93/nixplusplus/commit/dffdd24) Add my own signing key
+  * *On 16 Sept 2023, 18:01:40*
 * ➡️ Pushed 5 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#8bfe63e](https://github.com/kip93/nixplusplus/commit/8bfe63e) Fix relative flake input
   * [#3a31fe0](https://github.com/kip93/nixplusplus/commit/3a31fe0) Remove override for nix from flake
@@ -68,12 +74,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 16 Sept 2023, 10:01:44*
 * 🌟 Starred [nerdypepper/statix](https://github.com/nerdypepper/statix)
   * *On 16 Sept 2023, 08:23:17*
-* 💬 Commented on [#71 Argument `--config` ignores config if its in `/nix/store`.](https://github.com/nerdypepper/statix/issues/71) from [nerdypepper/statix](https://github.com/nerdypepper/statix)
-  * *On 16 Sept 2023, 08:13:13*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 16 Sept 2023, 17:47:48 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 16 Sept 2023, 18:48:29 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

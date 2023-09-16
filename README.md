@@ -45,6 +45,12 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [nerdypepper/statix](https://github.com/nerdypepper/statix)
+  * *On 16 Sept 2023, 08:23:17*
+* 💬 Commented on [#71 Argument `--config` ignores config if its in `/nix/store`.](https://github.com/nerdypepper/statix/issues/71) from [nerdypepper/statix](https://github.com/nerdypepper/statix)
+  * *On 16 Sept 2023, 08:13:13*
+* 💬 Commented on [#71 Argument `--config` ignores config if its in `/nix/store`.](https://github.com/nerdypepper/statix/issues/71) from [nerdypepper/statix](https://github.com/nerdypepper/statix)
+  * *On 16 Sept 2023, 08:10:53*
 * ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
   * [#11bcdaa](https://github.com/nixcon/NixConContent/commit/11bcdaa) Merge pull request #20 from rossturk/add-nitw-slides
 
@@ -53,22 +59,10 @@ Add slides for the nitw talk
 
 Signed-off-by: Ross Turk &lt;ross@floxdev.com&gt;
   * *On 15 Sept 2023, 17:41:10*
-* 🔃 Merged [#20 Add slides for the nitw talk](https://github.com/nixcon/NixConContent/pull/20) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-                * 2 files changed `++2 --0`
-  * *On 15 Sept 2023, 17:41:09*
-* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#43c1739](https://github.com/nixcon/NixConContent/commit/43c1739) Merge pull request #19 from lucperkins/nuenv-slides
-
-Add Nuenv talk slides
-  * [#330e8bf](https://github.com/nixcon/NixConContent/commit/330e8bf) Add Nuenv talk slides
-  * *On 15 Sept 2023, 17:40:05*
-* 🔃 Merged [#19 Add Nuenv talk slides](https://github.com/nixcon/NixConContent/pull/19) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-                * 1 file changed `++0 --0`
-  * *On 15 Sept 2023, 17:40:04*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 16 Sept 2023, 07:48:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 16 Sept 2023, 08:47:54 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

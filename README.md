@@ -45,24 +45,30 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 12 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#aaa8d93](https://github.com/kip93/nixplusplus/commit/aaa8d93) Fix integration with direnv
+  * [#8eb094f](https://github.com/kip93/nixplusplus/commit/8eb094f) Use latest version of nix
+  * [#1c12d21](https://github.com/kip93/nixplusplus/commit/1c12d21) Fix linting issues
+  * [#caf5aa7](https://github.com/kip93/nixplusplus/commit/caf5aa7) Fix lint script
+  * [#6e19662](https://github.com/kip93/nixplusplus/commit/6e19662) Make vim default editor in devenv shell
+  * [#1220fed](https://github.com/kip93/nixplusplus/commit/1220fed) Fix nix-gc cross compilation
+  * [#f13583a](https://github.com/kip93/nixplusplus/commit/f13583a) Reduce verbosity a bit by adding npppkgs
+  * [#be71c40](https://github.com/kip93/nixplusplus/commit/be71c40) Add nix cache config to flake
+  * [#b6f323e](https://github.com/kip93/nixplusplus/commit/b6f323e) Switch from hacky git hooks to devenv
+  * [#a2ef0c4](https://github.com/kip93/nixplusplus/commit/a2ef0c4) Add missing header
+  * [#cb33ea4](https://github.com/kip93/nixplusplus/commit/cb33ea4) Sort system list
+  * [#f6df540](https://github.com/kip93/nixplusplus/commit/f6df540) More inputs
+  * *On 16 Sept 2023, 10:01:44*
 * 🌟 Starred [nerdypepper/statix](https://github.com/nerdypepper/statix)
   * *On 16 Sept 2023, 08:23:17*
 * 💬 Commented on [#71 Argument `--config` ignores config if its in `/nix/store`.](https://github.com/nerdypepper/statix/issues/71) from [nerdypepper/statix](https://github.com/nerdypepper/statix)
   * *On 16 Sept 2023, 08:13:13*
 * 💬 Commented on [#71 Argument `--config` ignores config if its in `/nix/store`.](https://github.com/nerdypepper/statix/issues/71) from [nerdypepper/statix](https://github.com/nerdypepper/statix)
   * *On 16 Sept 2023, 08:10:53*
-* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#11bcdaa](https://github.com/nixcon/NixConContent/commit/11bcdaa) Merge pull request #20 from rossturk/add-nitw-slides
-
-Add slides for the nitw talk
-  * [#838a645](https://github.com/nixcon/NixConContent/commit/838a645) add slides for the nitw talk
-
-Signed-off-by: Ross Turk &lt;ross@floxdev.com&gt;
-  * *On 15 Sept 2023, 17:41:10*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 16 Sept 2023, 09:48:21 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 16 Sept 2023, 10:48:12 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

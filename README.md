@@ -45,6 +45,15 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 7 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#58e9b61](https://github.com/kip93/nixplusplus/commit/58e9b61) Trying random things
+  * [#cd4c968](https://github.com/kip93/nixplusplus/commit/cd4c968) Try using latest version of hydra
+  * [#6ae939c](https://github.com/kip93/nixplusplus/commit/6ae939c) Try with numbers instead
+  * [#6d22d77](https://github.com/kip93/nixplusplus/commit/6d22d77) Remove redundant entris
+  * [#b21634b](https://github.com/kip93/nixplusplus/commit/b21634b) Really try to make it static once more
+  * [#461f5d0](https://github.com/kip93/nixplusplus/commit/461f5d0) Fix typo
+  * [#ccfeffe](https://github.com/kip93/nixplusplus/commit/ccfeffe) Try https instead
+  * *On 17 Sept 2023, 22:01:47*
 * ➡️ Pushed 8 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#2d0c529](https://github.com/kip93/nixplusplus/commit/2d0c529) Try restructuring a bit
   * [#c2fe7cb](https://github.com/kip93/nixplusplus/commit/c2fe7cb) Getting there
@@ -69,24 +78,10 @@ Happy hydra, happy Leandro (:
   * [#27f06f3](https://github.com/kip93/nixplusplus/commit/27f06f3) Fix infinite recursion
   * [#e1813f6](https://github.com/kip93/nixplusplus/commit/e1813f6) Some fixes for containers
   * *On 16 Sept 2023, 14:01:44*
-* ➡️ Pushed 12 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#aaa8d93](https://github.com/kip93/nixplusplus/commit/aaa8d93) Fix integration with direnv
-  * [#8eb094f](https://github.com/kip93/nixplusplus/commit/8eb094f) Use latest version of nix
-  * [#1c12d21](https://github.com/kip93/nixplusplus/commit/1c12d21) Fix linting issues
-  * [#caf5aa7](https://github.com/kip93/nixplusplus/commit/caf5aa7) Fix lint script
-  * [#6e19662](https://github.com/kip93/nixplusplus/commit/6e19662) Make vim default editor in devenv shell
-  * [#1220fed](https://github.com/kip93/nixplusplus/commit/1220fed) Fix nix-gc cross compilation
-  * [#f13583a](https://github.com/kip93/nixplusplus/commit/f13583a) Reduce verbosity a bit by adding npppkgs
-  * [#be71c40](https://github.com/kip93/nixplusplus/commit/be71c40) Add nix cache config to flake
-  * [#b6f323e](https://github.com/kip93/nixplusplus/commit/b6f323e) Switch from hacky git hooks to devenv
-  * [#a2ef0c4](https://github.com/kip93/nixplusplus/commit/a2ef0c4) Add missing header
-  * [#cb33ea4](https://github.com/kip93/nixplusplus/commit/cb33ea4) Sort system list
-  * [#f6df540](https://github.com/kip93/nixplusplus/commit/f6df540) More inputs
-  * *On 16 Sept 2023, 10:01:44*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 17 Sept 2023, 21:48:03 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 17 Sept 2023, 22:48:14 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

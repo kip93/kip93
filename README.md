@@ -45,6 +45,17 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 8 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#2d0c529](https://github.com/kip93/nixplusplus/commit/2d0c529) Try restructuring a bit
+  * [#c2fe7cb](https://github.com/kip93/nixplusplus/commit/c2fe7cb) Getting there
+  * [#2a88e4a](https://github.com/kip93/nixplusplus/commit/2a88e4a) Change uri format to make hydra happy
+Happy hydra, happy Leandro (:
+  * [#e0b0efe](https://github.com/kip93/nixplusplus/commit/e0b0efe) Digging through code
+  * [#da85abd](https://github.com/kip93/nixplusplus/commit/da85abd) Change the nixexprpath?
+  * [#2e293c6](https://github.com/kip93/nixplusplus/commit/2e293c6) Undo that
+  * [#a87539f](https://github.com/kip93/nixplusplus/commit/a87539f) Stabbing hydra in the dark
+  * [#e33e527](https://github.com/kip93/nixplusplus/commit/e33e527) Try out this hydra thingy
+  * *On 17 Sept 2023, 20:01:46*
 * ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#2503d6e](https://github.com/kip93/nixplusplus/commit/2503d6e) Hardcode the nix configs instead
   * [#ac7d9e0](https://github.com/kip93/nixplusplus/commit/ac7d9e0) Update nixpkgs
@@ -72,12 +83,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#cb33ea4](https://github.com/kip93/nixplusplus/commit/cb33ea4) Sort system list
   * [#f6df540](https://github.com/kip93/nixplusplus/commit/f6df540) More inputs
   * *On 16 Sept 2023, 10:01:44*
-* 🌟 Starred [nerdypepper/statix](https://github.com/nerdypepper/statix)
-  * *On 16 Sept 2023, 08:23:17*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 17 Sept 2023, 19:47:54 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 17 Sept 2023, 20:48:23 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

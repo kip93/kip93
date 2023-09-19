@@ -45,136 +45,80 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
-* ➡️ Pushed 3657 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/pkgs-native`
-  * [#c9cc427](https://github.com/OroraTech/nixpkgs/commit/c9cc427) Merge pull request #254475 from figsoda/unimap
+* ➡️ Pushed 368 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#026179d](https://github.com/OroraTech/nixpkgs/commit/026179d) vtm: 0.9.9t -&gt; 0.9.9u
 
-unimap: init at 0.6.0
-  * [#e74d1c1](https://github.com/OroraTech/nixpkgs/commit/e74d1c1) Merge pull request #254468 from figsoda/esbuild-config
+Diff: https://github.com/netxs-group/vtm/compare/v0.9.9t...v0.9.9u
+  * [#b4a0a97](https://github.com/OroraTech/nixpkgs/commit/b4a0a97) ArchiSteamFarm: 5.4.8.3 -&gt; 5.4.9.3
+  * [#32371a3](https://github.com/OroraTech/nixpkgs/commit/32371a3) timoni: add update script
+  * [#3da98e6](https://github.com/OroraTech/nixpkgs/commit/3da98e6) pferd: 3.4.3 -&gt; 3.5.0
+  * [#43555b3](https://github.com/OroraTech/nixpkgs/commit/43555b3) mfoc-hardnested: unstable-2021-08-14 -&gt; unstable-2023-03-27
 
-esbuild-config: init at 1.0.1
-  * [#d0d4b80](https://github.com/OroraTech/nixpkgs/commit/d0d4b80) Merge pull request #254466 from figsoda/symbol
+- Migrate to by-name hierarchy
+- Use the finalAttrs pattern for easier overrides
+- Fix build on aarch64-darwin
+  * [#4f461f7](https://github.com/OroraTech/nixpkgs/commit/4f461f7) nixos/modules/system/resolved: disable DNSSEC validation by default
 
-symbolicator: init at 23.8.0
-  * [#b79cb79](https://github.com/OroraTech/nixpkgs/commit/b79cb79) telepresence2: 2.6.4 -&gt; 2.15.1
-  * [#87a9c68](https://github.com/OroraTech/nixpkgs/commit/87a9c68) Merge pull request #254933 from r-ryantm/auto-update/fluent-bit
-  * [#e4c9667](https://github.com/OroraTech/nixpkgs/commit/e4c9667) Merge pull request #254490 from Vtec234/master
+Historically, we allowed downgrade of DNSSEC, but some folks argue
+this may decrease actually the security posture to do opportunistic DNSSEC.
 
-drat-trim: 2020-06-05 -&gt; 2023-05-22
-  * [#ea36f70](https://github.com/OroraTech/nixpkgs/commit/ea36f70) Merge pull request #252499 from Lord-Valen/npm-terser
+In addition, the current implementation of (opportunistic) DNSSEC validation
+is broken against &#34;in the wild&#34; servers which are usually slightly non-compliant.
 
-nodePackages.terser: use buildNpmPackage
-  * [#3dea3fb](https://github.com/OroraTech/nixpkgs/commit/3dea3fb) Merge pull request #246336 from ORichterSec/libkcapi
+systemd upstream recommended to me (in personal communication surrounding
+the All Systems Go 2023 conference) to disable DNSSEC validation until
+they work on it in a significant capacity, ideally, by next year.
+  * [#d811965](https://github.com/OroraTech/nixpkgs/commit/d811965) musikcube: 3.0.1 -&gt; 3.0.2
 
-libkcapi: init at 1.4.0
-  * [#37ef14a](https://github.com/OroraTech/nixpkgs/commit/37ef14a) Merge pull request #254872 from nyanotech/asdf
+remove with lib
+  * [#8ff38d7](https://github.com/OroraTech/nixpkgs/commit/8ff38d7) scala_3: 3.3.0 -&gt; 3.3.1
+  * [#fa7ea4f](https://github.com/OroraTech/nixpkgs/commit/fa7ea4f) scala_2_13: 2.13.11 -&gt; 2.13.12
+  * [#babf61b](https://github.com/OroraTech/nixpkgs/commit/babf61b) wasmer: 4.1.2 -&gt; 4.2.0
 
-ansible-lint: 6.18.0 -&gt; 6.19.0
-  * [#02d381a](https://github.com/OroraTech/nixpkgs/commit/02d381a) Merge pull request #254881 from kashw2/scryer-prolog
+Diff: https://github.com/wasmerio/wasmer/compare/refs/tags/v4.1.2...v4.2.0
+  * [#66a5b62](https://github.com/OroraTech/nixpkgs/commit/66a5b62) wasmer: 4.1.1 -&gt; 4.1.2
 
-scryer-prolog: 0.9.1 -&gt; 0.9.2
-  * [#a61e23d](https://github.com/OroraTech/nixpkgs/commit/a61e23d) vimPlugins.sg-nvim: fix cargoHash
-  * [#5082f1b](https://github.com/OroraTech/nixpkgs/commit/5082f1b) vimPlugins.nvim-treesitter: update grammars
-  * [#1390654](https://github.com/OroraTech/nixpkgs/commit/1390654) Merge pull request #254691 from r-ryantm/auto-update/kubevpn
+Diff: https://github.com/wasmerio/wasmer/compare/refs/tags/v4.1.1...v4.1.2
+  * [#399f01d](https://github.com/OroraTech/nixpkgs/commit/399f01d) wasmer: 4.0.0 -&gt; 4.1.1
 
-kubevpn: 1.1.36 -&gt; 1.2.0
-  * [#cc8fbdf](https://github.com/OroraTech/nixpkgs/commit/cc8fbdf) Merge pull request #254857 from r-ryantm/auto-update/grafana-dash-n-grab
+Diff: https://github.com/wasmerio/wasmer/compare/refs/tags/v4.0.0...v4.1.1
+  * [#456ce8d](https://github.com/OroraTech/nixpkgs/commit/456ce8d) jetbrains: fix darwin errors on macOS 13
 
-grafana-dash-n-grab: 0.4.5 -&gt; 0.5.0
-  * [#7034f28](https://github.com/OroraTech/nixpkgs/commit/7034f28) vimPlugins: update
-  * [#db1fb76](https://github.com/OroraTech/nixpkgs/commit/db1fb76) Merge pull request #254907 from MoritzBoehme/add-nvim-plugins
+As the jetbrains products have notarized binaries no further post processing is required more about this can be found in https://github.com/NixOS/nixpkgs/commit/3ea22dab7d906f400cc5983874dbadeb8127c662
+  * [#227a75a](https://github.com/OroraTech/nixpkgs/commit/227a75a) python311Packages.aliyun-python-sdk-kms: 2.16.1 -&gt; 2.16.2
 
-vimPlugins: add several plugins
-  * [#a43c736](https://github.com/OroraTech/nixpkgs/commit/a43c736) path-of-building.data: 2.33.5 -&gt; 2.34.0
+Changelog: https://github.com/aliyun/aliyun-openapi-python-sdk/blob/master/aliyun-python-sdk-kms/ChangeLog.txt
+  * [#6be969d](https://github.com/OroraTech/nixpkgs/commit/6be969d) xorg: add meta.mainProgram to various utilities
 
-Diff: https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.33.5...v2.34.0
-  * [#5bfefdc](https://github.com/OroraTech/nixpkgs/commit/5bfefdc) yuzu: 1538 -&gt; 1557, yuzu-ea: 3838 -&gt; 3864
-  * [#2c18b21](https://github.com/OroraTech/nixpkgs/commit/2c18b21) Merge pull request #254771 from SuperSandro2000/vim-plugins-cross
+See #246386
+  * [#c44396d](https://github.com/OroraTech/nixpkgs/commit/c44396d) mergerfs: 2.36.0 -&gt; 2.37.0
+  * [#f453cea](https://github.com/OroraTech/nixpkgs/commit/f453cea) python311Packages.libpcap: init at 1.11.0b7
+  * [#930d246](https://github.com/OroraTech/nixpkgs/commit/930d246) optipng: Use libpng instead of libpng-1.2
+  * [#8985e49](https://github.com/OroraTech/nixpkgs/commit/8985e49) python311Packages.aws-sam-translator: 1.73.0 -&gt; 1.74.0
 
-vimPlugins.vim-utils: execute check and doc generation in cross compi…
-  * [#1940468](https://github.com/OroraTech/nixpkgs/commit/1940468) routinator: 0.12.1 -&gt; 0.12.2
-  * *On 18 Sept 2023, 08:13:41*
-* ➡️ Pushed 1826 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#7034f28](https://github.com/OroraTech/nixpkgs/commit/7034f28) vimPlugins: update
-  * [#db1fb76](https://github.com/OroraTech/nixpkgs/commit/db1fb76) Merge pull request #254907 from MoritzBoehme/add-nvim-plugins
+Diff: https://github.com/aws/serverless-application-model/compare/refs/tags/v1.73.0...v1.74.0
 
-vimPlugins: add several plugins
-  * [#a43c736](https://github.com/OroraTech/nixpkgs/commit/a43c736) path-of-building.data: 2.33.5 -&gt; 2.34.0
+Changelog: https://github.com/aws/serverless-application-model/releases/tag/v1.74.0
+  * [#2f57513](https://github.com/OroraTech/nixpkgs/commit/2f57513) pgrok: 1.3.4 -&gt; 1.4.0
 
-Diff: https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.33.5...v2.34.0
-  * [#5bfefdc](https://github.com/OroraTech/nixpkgs/commit/5bfefdc) yuzu: 1538 -&gt; 1557, yuzu-ea: 3838 -&gt; 3864
-  * [#2c18b21](https://github.com/OroraTech/nixpkgs/commit/2c18b21) Merge pull request #254771 from SuperSandro2000/vim-plugins-cross
+https://github.com/pgrok/pgrok/releases/tag/v1.4.0
+  * *On 19 Sept 2023, 08:39:39*
+* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
+  * [#d46873f](https://github.com/nixcon/NixConContent/commit/d46873f) Merge pull request #21 from zmitchell/zmitchell-nixcon-slides
 
-vimPlugins.vim-utils: execute check and doc generation in cross compi…
-  * [#1940468](https://github.com/OroraTech/nixpkgs/commit/1940468) routinator: 0.12.1 -&gt; 0.12.2
-  * [#31bcb71](https://github.com/OroraTech/nixpkgs/commit/31bcb71) Merge pull request #253769 from vinnymeller/init-nvim-remote-containers
-
-vimPlugins.nvim-remote-containers: init at 2023-08-01
-  * [#b789453](https://github.com/OroraTech/nixpkgs/commit/b789453) Merge pull request #254689 from Azd325/ruffvscode
-
-vscode-extensions.charliermarsh.ruff: 2023.34.0 -&gt; 2023.38.0
-  * [#636cd86](https://github.com/OroraTech/nixpkgs/commit/636cd86) Merge pull request #254841 from r-ryantm/auto-update/pulumictl
-
-pulumictl: 0.0.43 -&gt; 0.0.44
-  * [#325b534](https://github.com/OroraTech/nixpkgs/commit/325b534) Merge pull request #254850 from r-ryantm/auto-update/prometheus-redis-exporter
-
-prometheus-redis-exporter: 1.53.0 -&gt; 1.54.0
-  * [#00658bf](https://github.com/OroraTech/nixpkgs/commit/00658bf) Merge pull request #254887 from r-ryantm/auto-update/interactsh
-
-interactsh: 1.1.5 -&gt; 1.1.6
-  * [#88d3a57](https://github.com/OroraTech/nixpkgs/commit/88d3a57) snazy: 0.51.3 -&gt; 0.52.0
-
-Diff: https://github.com/chmouel/snazy/compare/0.51.3...0.52.0
-
-Changelog: https://github.com/chmouel/snazy/releases/tag/0.52.0
-  * [#3295a4b](https://github.com/OroraTech/nixpkgs/commit/3295a4b) Merge pull request #254889 from r-ryantm/auto-update/kora-icon-theme
-
-kora-icon-theme: 1.5.7 -&gt; 1.5.8
-  * [#542f5a4](https://github.com/OroraTech/nixpkgs/commit/542f5a4) Merge pull request #254748 from figsoda/snazy
-
-snazy: 0.51.2 -&gt; 0.51.3
-  * [#6f8d098](https://github.com/OroraTech/nixpkgs/commit/6f8d098) Merge pull request #254893 from r-ryantm/auto-update/ddccontrol-db
-
-ddccontrol-db: 20230727 -&gt; 20230821
-  * [#e01b87f](https://github.com/OroraTech/nixpkgs/commit/e01b87f) Merge pull request #254894 from r-ryantm/auto-update/sshocker
-
-sshocker: 0.3.2 -&gt; 0.3.3
-  * [#8d3f8cf](https://github.com/OroraTech/nixpkgs/commit/8d3f8cf) Merge pull request #254902 from r-ryantm/auto-update/wgcf
-
-wgcf: 2.2.18 -&gt; 2.2.19
-  * [#2ee6da6](https://github.com/OroraTech/nixpkgs/commit/2ee6da6) Merge pull request #254927 from r-ryantm/auto-update/birdtray
-
-birdtray: 1.11.3 -&gt; 1.11.4
-  * [#8d4a5ab](https://github.com/OroraTech/nixpkgs/commit/8d4a5ab) Merge pull request #254929 from r-ryantm/auto-update/speedtest-go
-
-speedtest-go: 1.6.5 -&gt; 1.6.6
-  * [#2b62b24](https://github.com/OroraTech/nixpkgs/commit/2b62b24) Merge pull request #254930 from Enzime/update/joplin-desktop
-
-joplin-desktop: 2.11.11 -&gt; 2.12.16
-  * *On 18 Sept 2023, 07:49:51*
-* ➡️ Pushed 7 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#58e9b61](https://github.com/kip93/nixplusplus/commit/58e9b61) Trying random things
-  * [#cd4c968](https://github.com/kip93/nixplusplus/commit/cd4c968) Try using latest version of hydra
-  * [#6ae939c](https://github.com/kip93/nixplusplus/commit/6ae939c) Try with numbers instead
-  * [#6d22d77](https://github.com/kip93/nixplusplus/commit/6d22d77) Remove redundant entris
-  * [#b21634b](https://github.com/kip93/nixplusplus/commit/b21634b) Really try to make it static once more
-  * [#461f5d0](https://github.com/kip93/nixplusplus/commit/461f5d0) Fix typo
-  * [#ccfeffe](https://github.com/kip93/nixplusplus/commit/ccfeffe) Try https instead
-  * *On 17 Sept 2023, 22:01:47*
-* ➡️ Pushed 8 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#2d0c529](https://github.com/kip93/nixplusplus/commit/2d0c529) Try restructuring a bit
-  * [#c2fe7cb](https://github.com/kip93/nixplusplus/commit/c2fe7cb) Getting there
-  * [#2a88e4a](https://github.com/kip93/nixplusplus/commit/2a88e4a) Change uri format to make hydra happy
-Happy hydra, happy Leandro (:
-  * [#e0b0efe](https://github.com/kip93/nixplusplus/commit/e0b0efe) Digging through code
-  * [#da85abd](https://github.com/kip93/nixplusplus/commit/da85abd) Change the nixexprpath?
-  * [#2e293c6](https://github.com/kip93/nixplusplus/commit/2e293c6) Undo that
-  * [#a87539f](https://github.com/kip93/nixplusplus/commit/a87539f) Stabbing hydra in the dark
-  * [#e33e527](https://github.com/kip93/nixplusplus/commit/e33e527) Try out this hydra thingy
-  * *On 17 Sept 2023, 20:01:46*
+Add zmitchell slides
+  * [#9fc9472](https://github.com/nixcon/NixConContent/commit/9fc9472) Add slides
+  * *On 19 Sept 2023, 08:22:36*
+* 🔃 Merged [#21 Add zmitchell slides](https://github.com/nixcon/NixConContent/pull/21) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+                * 1 file changed `++0 --0`
+  * *On 19 Sept 2023, 08:22:35*
+* ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-pycyphal`
+  * [#7b13a35](https://github.com/OroraTech/nixpkgs/commit/7b13a35) python311Packages.pyuavcan: add deprecation warning
+  * *On 19 Sept 2023, 08:01:09*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Sept 2023, 07:48:26 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 Sept 2023, 08:48:25 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

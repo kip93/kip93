@@ -45,6 +45,36 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 16 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#fa6cdce](https://github.com/OroraTech/nixpkgs/commit/fa6cdce) Merge pull request #256091 from erikarvstedt/bitcoin-shell-completions
+
+bitcoin: add shell completions
+  * [#85fd874](https://github.com/OroraTech/nixpkgs/commit/85fd874) compcert: add aarch64 support
+  * [#bd17fe3](https://github.com/OroraTech/nixpkgs/commit/bd17fe3) Merge pull request #256060 from r-ryantm/auto-update/python310Packages.metakernel
+
+python310Packages.metakernel: 0.30.0 -&gt; 0.30.1
+  * [#d963228](https://github.com/OroraTech/nixpkgs/commit/d963228) Merge pull request #256078 from r-ryantm/auto-update/python310Packages.nocaselist
+
+python310Packages.nocaselist: 1.1.1 -&gt; 2.0.0
+  * [#a5a087a](https://github.com/OroraTech/nixpkgs/commit/a5a087a) Merge pull request #255154 from SuperSandro2000/betterbird
+
+betterbird: 102.15.0-bb40 -&gt; 102.15.1-bb41
+  * [#5dacf3a](https://github.com/OroraTech/nixpkgs/commit/5dacf3a) bitcoin: add shell completions
+  * [#a49246a](https://github.com/OroraTech/nixpkgs/commit/a49246a) gitlab: 16.3.3 -&gt; 16.3.4
+  * [#2339c12](https://github.com/OroraTech/nixpkgs/commit/2339c12) python310Packages.nocaselist: 1.1.1 -&gt; 2.0.0
+  * [#5925c27](https://github.com/OroraTech/nixpkgs/commit/5925c27) Merge pull request #255878 from wegank/rectangle-bump
+
+rectangle: 0.70 -&gt; 0.71
+  * [#df7188c](https://github.com/OroraTech/nixpkgs/commit/df7188c) Merge pull request #255917 from SuperSandro2000/nextcloud-updates
+
+Nextcloud updates
+  * [#3eb91e9](https://github.com/OroraTech/nixpkgs/commit/3eb91e9) python310Packages.metakernel: 0.30.0 -&gt; 0.30.1
+  * [#ff404e6](https://github.com/OroraTech/nixpkgs/commit/ff404e6) nextcloud27: 27.0.2 -&gt; 27.1.0
+  * [#3f29298](https://github.com/OroraTech/nixpkgs/commit/3f29298) nextcloud26: 26.0.5 -&gt; 26.0.6
+  * [#d8f4c08](https://github.com/OroraTech/nixpkgs/commit/d8f4c08) nextcloud25: 25.0.10 -&gt; 25.0.11
+  * [#0850dcb](https://github.com/OroraTech/nixpkgs/commit/0850dcb) rectangle: 0.70 -&gt; 0.71
+  * [#6a36d42](https://github.com/OroraTech/nixpkgs/commit/6a36d42) betterbird: 102.15.0-bb40 -&gt; 102.15.1-bb41
+  * *On 19 Sept 2023, 12:26:56*
 * ➡️ Pushed 6953 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-yakut`
   * [#7cdd08f](https://github.com/OroraTech/nixpkgs/commit/7cdd08f) Merge #255221: thunderbird-bin: 115.2.1 -&gt; 115.2.2
   * [#38f3708](https://github.com/OroraTech/nixpkgs/commit/38f3708) nixos/lib/make-btrfs-fs: copy improvements from
@@ -159,13 +189,10 @@ https://github.com/pgrok/pgrok/releases/tag/v1.4.0
 Add zmitchell slides
   * [#9fc9472](https://github.com/nixcon/NixConContent/commit/9fc9472) Add slides
   * *On 19 Sept 2023, 08:22:36*
-* 🔃 Merged [#21 Add zmitchell slides](https://github.com/nixcon/NixConContent/pull/21) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-                * 1 file changed `++0 --0`
-  * *On 19 Sept 2023, 08:22:35*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Sept 2023, 11:48:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 Sept 2023, 12:53:35 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

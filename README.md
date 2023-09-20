@@ -45,6 +45,17 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 4 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
+  * [#14490d6](https://github.com/nixcon/NixConContent/commit/14490d6) Merge pull request #22 from farcaller/farcaller
+
+Add farcaller&#39;s slides &amp; notes
+  * [#2885047](https://github.com/nixcon/NixConContent/commit/2885047) Fix a typo
+  * [#426f576](https://github.com/nixcon/NixConContent/commit/426f576) Add the supporting links
+  * [#ece7206](https://github.com/nixcon/NixConContent/commit/ece7206) Add the slides
+  * *On 20 Sept 2023, 09:40:12*
+* 🔃 Merged [#22 Add farcaller&#39;s slides &amp; notes](https://github.com/nixcon/NixConContent/pull/22) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+                * 2 files changed `++2 --0`
+  * *On 20 Sept 2023, 09:40:11*
 * ➡️ Pushed 224 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#24849a1](https://github.com/OroraTech/nixpkgs/commit/24849a1) commit-mono: 1.136 -&gt; 1.138
   * [#fa25e84](https://github.com/OroraTech/nixpkgs/commit/fa25e84) trafficserver: 9.2.1 -&gt; 9.2.2
@@ -95,90 +106,10 @@ Changelog: https://github.com/Azure/azure-sdk-for-python/blob/azure-mgmt-recover
   * *On 20 Sept 2023, 07:07:20*
 * 💬 Commented on [#255810 python3 &#34;Found duplicated packages in closure&#34;](https://github.com/NixOS/nixpkgs/issues/255810) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 20 Sept 2023, 07:05:46*
-* ➡️ Pushed 16 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#fa6cdce](https://github.com/OroraTech/nixpkgs/commit/fa6cdce) Merge pull request #256091 from erikarvstedt/bitcoin-shell-completions
-
-bitcoin: add shell completions
-  * [#85fd874](https://github.com/OroraTech/nixpkgs/commit/85fd874) compcert: add aarch64 support
-  * [#bd17fe3](https://github.com/OroraTech/nixpkgs/commit/bd17fe3) Merge pull request #256060 from r-ryantm/auto-update/python310Packages.metakernel
-
-python310Packages.metakernel: 0.30.0 -&gt; 0.30.1
-  * [#d963228](https://github.com/OroraTech/nixpkgs/commit/d963228) Merge pull request #256078 from r-ryantm/auto-update/python310Packages.nocaselist
-
-python310Packages.nocaselist: 1.1.1 -&gt; 2.0.0
-  * [#a5a087a](https://github.com/OroraTech/nixpkgs/commit/a5a087a) Merge pull request #255154 from SuperSandro2000/betterbird
-
-betterbird: 102.15.0-bb40 -&gt; 102.15.1-bb41
-  * [#5dacf3a](https://github.com/OroraTech/nixpkgs/commit/5dacf3a) bitcoin: add shell completions
-  * [#a49246a](https://github.com/OroraTech/nixpkgs/commit/a49246a) gitlab: 16.3.3 -&gt; 16.3.4
-  * [#2339c12](https://github.com/OroraTech/nixpkgs/commit/2339c12) python310Packages.nocaselist: 1.1.1 -&gt; 2.0.0
-  * [#5925c27](https://github.com/OroraTech/nixpkgs/commit/5925c27) Merge pull request #255878 from wegank/rectangle-bump
-
-rectangle: 0.70 -&gt; 0.71
-  * [#df7188c](https://github.com/OroraTech/nixpkgs/commit/df7188c) Merge pull request #255917 from SuperSandro2000/nextcloud-updates
-
-Nextcloud updates
-  * [#3eb91e9](https://github.com/OroraTech/nixpkgs/commit/3eb91e9) python310Packages.metakernel: 0.30.0 -&gt; 0.30.1
-  * [#ff404e6](https://github.com/OroraTech/nixpkgs/commit/ff404e6) nextcloud27: 27.0.2 -&gt; 27.1.0
-  * [#3f29298](https://github.com/OroraTech/nixpkgs/commit/3f29298) nextcloud26: 26.0.5 -&gt; 26.0.6
-  * [#d8f4c08](https://github.com/OroraTech/nixpkgs/commit/d8f4c08) nextcloud25: 25.0.10 -&gt; 25.0.11
-  * [#0850dcb](https://github.com/OroraTech/nixpkgs/commit/0850dcb) rectangle: 0.70 -&gt; 0.71
-  * [#6a36d42](https://github.com/OroraTech/nixpkgs/commit/6a36d42) betterbird: 102.15.0-bb40 -&gt; 102.15.1-bb41
-  * *On 19 Sept 2023, 12:26:56*
-* ➡️ Pushed 6953 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `feature/add-yakut`
-  * [#7cdd08f](https://github.com/OroraTech/nixpkgs/commit/7cdd08f) Merge #255221: thunderbird-bin: 115.2.1 -&gt; 115.2.2
-  * [#38f3708](https://github.com/OroraTech/nixpkgs/commit/38f3708) nixos/lib/make-btrfs-fs: copy improvements from
-
-https://git.sr.ht/~c00w/nixpkgs/tree/sdimagebtrfs/item/nixos/lib/make-btrfs-fs.nix
-
-I made only one change which was to use `btrfs check` instead of
-`fsck.btrfs` because of this warning
-
-```
-btrfs-fs.img&gt; ++ fsck.btrfs /nix/store/6d46rc768c140asy6rjpc5rk568r36zq-btrfs-fs.img
-btrfs-fs.img&gt; If you wish to check the consistency of a BTRFS filesystem or
-btrfs-fs.img&gt; repair a damaged filesystem, see btrfs(8) subcommand &#39;check&#39;.
-```
-
-Co-authored-by: Colin L Rice &lt;colin@daedrum.net&gt;
-  * [#fc21cde](https://github.com/OroraTech/nixpkgs/commit/fc21cde) Merge pull request #91956 from c00w/makebtrfs
-  * [#1c77fbd](https://github.com/OroraTech/nixpkgs/commit/1c77fbd) thunderbird-bin: 115.2.1 -&gt; 115.2.2
-
-https://www.thunderbird.net/en-US/thunderbird/115.2.2/releasenotes/
-  * [#1f1268b](https://github.com/OroraTech/nixpkgs/commit/1f1268b) ruby_3_3: preview1 -&gt; preview2
-
-Changelog: https://www.ruby-lang.org/en/news/2023/09/14/ruby-3-3-0-preview2-released/
-  * [#6d598fe](https://github.com/OroraTech/nixpkgs/commit/6d598fe) llhttp: extract headers to dev output
-  * [#4e63d73](https://github.com/OroraTech/nixpkgs/commit/4e63d73) python310Packages.pydata-sphinx-theme: 0.13.3 -&gt; 0.14.0
-
-Changelog: https://github.com/pydata/pydata-sphinx-theme/releases/tag/v0.14.0
-  * [#019574e](https://github.com/OroraTech/nixpkgs/commit/019574e) python3Packages.bitsandbytes: remove unecessary `nativeCheckInputs`
-  * [#6e903b7](https://github.com/OroraTech/nixpkgs/commit/6e903b7) rPackages.pandoc: fix pandoc linking
-  * [#97b7ace](https://github.com/OroraTech/nixpkgs/commit/97b7ace) discord-ptb: 0.0.45 -&gt; 0.0.46
-  * [#014b0d9](https://github.com/OroraTech/nixpkgs/commit/014b0d9) Merge pull request #241340 from ErinvanderVeen/tree-sitter-emscripten-fix
-  * [#99283f4](https://github.com/OroraTech/nixpkgs/commit/99283f4) go: switch to finalAttrs
-
-also add version test
-
-Co-authored-by: Ivan Trubach &lt;mr.trubach@icloud.com&gt;
-  * [#3bc2843](https://github.com/OroraTech/nixpkgs/commit/3bc2843) python310Packages.softlayer: 6.1.7 -&gt; 6.1.8
-  * [#961c473](https://github.com/OroraTech/nixpkgs/commit/961c473) linux/hardened/patches/6.4: 6.4.14-hardened1 -&gt; 6.4.15-hardened1
-  * [#a63b359](https://github.com/OroraTech/nixpkgs/commit/a63b359) linux/hardened/patches/6.1: 6.1.51-hardened1 -&gt; 6.1.52-hardened1
-  * [#747cf0b](https://github.com/OroraTech/nixpkgs/commit/747cf0b) linux/hardened/patches/5.15: 5.15.130-hardened1 -&gt; 5.15.131-hardened1
-  * [#5d866fe](https://github.com/OroraTech/nixpkgs/commit/5d866fe) robotfindskitten: migrate to by-name
-  * [#f61a9fa](https://github.com/OroraTech/nixpkgs/commit/f61a9fa) robotfindskitten: refactor
-
-- Use finalAttrs
-- Change source to github
-- Split output
-- Add meta.mainProgram
-  * [#1871e1f](https://github.com/OroraTech/nixpkgs/commit/1871e1f) python310Packages.google-cloud-tasks: 2.14.1 -&gt; 2.14.2
-  * [#b11499a](https://github.com/OroraTech/nixpkgs/commit/b11499a) python310Packages.minikerberos: 0.4.1 -&gt; 0.4.2
-  * *On 19 Sept 2023, 08:53:40*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 20 Sept 2023, 08:48:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 20 Sept 2023, 09:48:12 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

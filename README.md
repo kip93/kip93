@@ -45,6 +45,56 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 224 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#24849a1](https://github.com/OroraTech/nixpkgs/commit/24849a1) commit-mono: 1.136 -&gt; 1.138
+  * [#fa25e84](https://github.com/OroraTech/nixpkgs/commit/fa25e84) trafficserver: 9.2.1 -&gt; 9.2.2
+  * [#771000e](https://github.com/OroraTech/nixpkgs/commit/771000e) bitwig-studio5: 5.0.4 -&gt; 5.0.7
+  * [#e645847](https://github.com/OroraTech/nixpkgs/commit/e645847) python310Packages.svg2tikz: 1.2.0 -&gt; 2.1.0
+
+Diff: https://github.com/xyz2tex/svg2tikz/compare/refs/tags/v1.2.0...v2.1.0
+
+Changelog: https://github.com/xyz2tex/svg2tikz/blob/refs/tags/v2.1.0/CHANGELOG.md
+  * [#0dc0b0f](https://github.com/OroraTech/nixpkgs/commit/0dc0b0f) python310Packages.pytube: 12.1.2 -&gt; 15.0.0
+
+Diff: https://github.com/pytube/pytube/compare/v12.1.2...v15.0.0
+  * [#8ea1377](https://github.com/OroraTech/nixpkgs/commit/8ea1377) abcmidi: 2023.06.25 -&gt; 2023.09.13
+  * [#f460c54](https://github.com/OroraTech/nixpkgs/commit/f460c54) metadata-cleaner: 2.5.0 -&gt; 2.5.4
+
+Diff: https://gitlab.com/rmnvgr/metadata-cleaner/-/compare/v2.5.0...v2.5.4
+
+Changelog: https://gitlab.com/rmnvgr/metadata-cleaner/-/blob/v2.5.4/CHANGELOG.md
+  * [#b452121](https://github.com/OroraTech/nixpkgs/commit/b452121) wordpress: 6.2.2 -&gt; 6.3.1
+  * [#818a751](https://github.com/OroraTech/nixpkgs/commit/818a751) biome: 1.2.1 -&gt; 1.2.2
+
+Diff: https://github.com/biomejs/biome/compare/cli/v1.2.1...cli/v1.2.2
+
+Changelog: https://github.com/biomejs/biome/blob/cli/v1.2.2/CHANGELOG.md
+  * [#a8da24a](https://github.com/OroraTech/nixpkgs/commit/a8da24a) drawio: 21.6.8 -&gt; 21.7.5
+  * [#7a11673](https://github.com/OroraTech/nixpkgs/commit/7a11673) python311Packages.azure-storage-file-share: 12.13.0 -&gt; 12.14.1
+
+Changelog: https://github.com/Azure/azure-sdk-for-python/blob/azure-storage-file-share_12.14.1/sdk/storage/azure-storage-file-share/CHANGELOG.md
+  * [#2d149d2](https://github.com/OroraTech/nixpkgs/commit/2d149d2) fastlane: 2.214.0 -&gt; 2.215.0
+
+Changelog: https://github.com/fastlane/fastlane/releases/tag/2.215.0
+  * [#52547eb](https://github.com/OroraTech/nixpkgs/commit/52547eb) google-cloud-sdk: 433.0.1 -&gt; 446.0.1
+  * [#6b61971](https://github.com/OroraTech/nixpkgs/commit/6b61971) hwloc: 2.9.2 -&gt; 2.9.3
+
+fixed CVE-2022-47022
+  * [#f52c368](https://github.com/OroraTech/nixpkgs/commit/f52c368) coreboot-toolchain: Unpin gnat
+
+Gnat11 is currently broken, but I cannot find anywhere in coreboot&#39;s
+build instructions that gnat should be pinned at 11, so switch the
+toolchain from using gnat11 to gnat, which is currently version 12.
+  * [#109596f](https://github.com/OroraTech/nixpkgs/commit/109596f) python311Packages.azure-mgmt-recoveryservices: 2.4.0 -&gt; 2.5.0
+
+Changelog: https://github.com/Azure/azure-sdk-for-python/blob/azure-mgmt-recoveryservices_2.5.0/sdk/recoveryservices/azure-mgmt-recoveryservices/CHANGELOG.md
+  * [#9e5aa81](https://github.com/OroraTech/nixpkgs/commit/9e5aa81) systemd-lib: add name to X-{Reloads,Restart}-Triggers to easily identify to which service/unit/... they belong
+  * [#1ae69c5](https://github.com/OroraTech/nixpkgs/commit/1ae69c5) nixos/environment: drop KDEDIRS as a leftover from KDE4
+  * [#c463b4f](https://github.com/OroraTech/nixpkgs/commit/c463b4f) nixos/environment: drop QT_PLUGIN_PATH for qt4 and kde4 as they has been removed
+  * [#af80152](https://github.com/OroraTech/nixpkgs/commit/af80152) jetbrains-toolbox: 2.0.2.16660 -&gt; 2.0.3.17006
+  * *On 20 Sept 2023, 07:07:20*
+* 💬 Commented on [#255810 python3 &#34;Found duplicated packages in closure&#34;](https://github.com/NixOS/nixpkgs/issues/255810) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 20 Sept 2023, 07:05:46*
 * ➡️ Pushed 16 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#fa6cdce](https://github.com/OroraTech/nixpkgs/commit/fa6cdce) Merge pull request #256091 from erikarvstedt/bitcoin-shell-completions
 
@@ -125,74 +175,10 @@ Co-authored-by: Ivan Trubach &lt;mr.trubach@icloud.com&gt;
   * [#1871e1f](https://github.com/OroraTech/nixpkgs/commit/1871e1f) python310Packages.google-cloud-tasks: 2.14.1 -&gt; 2.14.2
   * [#b11499a](https://github.com/OroraTech/nixpkgs/commit/b11499a) python310Packages.minikerberos: 0.4.1 -&gt; 0.4.2
   * *On 19 Sept 2023, 08:53:40*
-* ➡️ Pushed 368 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#026179d](https://github.com/OroraTech/nixpkgs/commit/026179d) vtm: 0.9.9t -&gt; 0.9.9u
-
-Diff: https://github.com/netxs-group/vtm/compare/v0.9.9t...v0.9.9u
-  * [#b4a0a97](https://github.com/OroraTech/nixpkgs/commit/b4a0a97) ArchiSteamFarm: 5.4.8.3 -&gt; 5.4.9.3
-  * [#32371a3](https://github.com/OroraTech/nixpkgs/commit/32371a3) timoni: add update script
-  * [#3da98e6](https://github.com/OroraTech/nixpkgs/commit/3da98e6) pferd: 3.4.3 -&gt; 3.5.0
-  * [#43555b3](https://github.com/OroraTech/nixpkgs/commit/43555b3) mfoc-hardnested: unstable-2021-08-14 -&gt; unstable-2023-03-27
-
-- Migrate to by-name hierarchy
-- Use the finalAttrs pattern for easier overrides
-- Fix build on aarch64-darwin
-  * [#4f461f7](https://github.com/OroraTech/nixpkgs/commit/4f461f7) nixos/modules/system/resolved: disable DNSSEC validation by default
-
-Historically, we allowed downgrade of DNSSEC, but some folks argue
-this may decrease actually the security posture to do opportunistic DNSSEC.
-
-In addition, the current implementation of (opportunistic) DNSSEC validation
-is broken against &#34;in the wild&#34; servers which are usually slightly non-compliant.
-
-systemd upstream recommended to me (in personal communication surrounding
-the All Systems Go 2023 conference) to disable DNSSEC validation until
-they work on it in a significant capacity, ideally, by next year.
-  * [#d811965](https://github.com/OroraTech/nixpkgs/commit/d811965) musikcube: 3.0.1 -&gt; 3.0.2
-
-remove with lib
-  * [#8ff38d7](https://github.com/OroraTech/nixpkgs/commit/8ff38d7) scala_3: 3.3.0 -&gt; 3.3.1
-  * [#fa7ea4f](https://github.com/OroraTech/nixpkgs/commit/fa7ea4f) scala_2_13: 2.13.11 -&gt; 2.13.12
-  * [#babf61b](https://github.com/OroraTech/nixpkgs/commit/babf61b) wasmer: 4.1.2 -&gt; 4.2.0
-
-Diff: https://github.com/wasmerio/wasmer/compare/refs/tags/v4.1.2...v4.2.0
-  * [#66a5b62](https://github.com/OroraTech/nixpkgs/commit/66a5b62) wasmer: 4.1.1 -&gt; 4.1.2
-
-Diff: https://github.com/wasmerio/wasmer/compare/refs/tags/v4.1.1...v4.1.2
-  * [#399f01d](https://github.com/OroraTech/nixpkgs/commit/399f01d) wasmer: 4.0.0 -&gt; 4.1.1
-
-Diff: https://github.com/wasmerio/wasmer/compare/refs/tags/v4.0.0...v4.1.1
-  * [#456ce8d](https://github.com/OroraTech/nixpkgs/commit/456ce8d) jetbrains: fix darwin errors on macOS 13
-
-As the jetbrains products have notarized binaries no further post processing is required more about this can be found in https://github.com/NixOS/nixpkgs/commit/3ea22dab7d906f400cc5983874dbadeb8127c662
-  * [#227a75a](https://github.com/OroraTech/nixpkgs/commit/227a75a) python311Packages.aliyun-python-sdk-kms: 2.16.1 -&gt; 2.16.2
-
-Changelog: https://github.com/aliyun/aliyun-openapi-python-sdk/blob/master/aliyun-python-sdk-kms/ChangeLog.txt
-  * [#6be969d](https://github.com/OroraTech/nixpkgs/commit/6be969d) xorg: add meta.mainProgram to various utilities
-
-See #246386
-  * [#c44396d](https://github.com/OroraTech/nixpkgs/commit/c44396d) mergerfs: 2.36.0 -&gt; 2.37.0
-  * [#f453cea](https://github.com/OroraTech/nixpkgs/commit/f453cea) python311Packages.libpcap: init at 1.11.0b7
-  * [#930d246](https://github.com/OroraTech/nixpkgs/commit/930d246) optipng: Use libpng instead of libpng-1.2
-  * [#8985e49](https://github.com/OroraTech/nixpkgs/commit/8985e49) python311Packages.aws-sam-translator: 1.73.0 -&gt; 1.74.0
-
-Diff: https://github.com/aws/serverless-application-model/compare/refs/tags/v1.73.0...v1.74.0
-
-Changelog: https://github.com/aws/serverless-application-model/releases/tag/v1.74.0
-  * [#2f57513](https://github.com/OroraTech/nixpkgs/commit/2f57513) pgrok: 1.3.4 -&gt; 1.4.0
-
-https://github.com/pgrok/pgrok/releases/tag/v1.4.0
-  * *On 19 Sept 2023, 08:39:39*
-* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#d46873f](https://github.com/nixcon/NixConContent/commit/d46873f) Merge pull request #21 from zmitchell/zmitchell-nixcon-slides
-
-Add zmitchell slides
-  * [#9fc9472](https://github.com/nixcon/NixConContent/commit/9fc9472) Add slides
-  * *On 19 Sept 2023, 08:22:36*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 20 Sept 2023, 06:48:17 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 20 Sept 2023, 07:48:14 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

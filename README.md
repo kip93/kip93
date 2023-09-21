@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#79 Non-github flakes?](https://github.com/DeterminateSystems/flakehub-push/issues/79) from [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
+  * *On 21 Sept 2023, 18:07:19*
 * 🌟 Starred [direnv/direnv](https://github.com/direnv/direnv)
   * *On 21 Sept 2023, 10:43:46*
 * 💬 Commented on [#253261 pkgsNative: init](https://github.com/NixOS/nixpkgs/issues/253261) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
@@ -106,17 +108,10 @@ Flutter&#39;s Linux desktop embedding uses GTK. wrapGAppsHook should be used.
 Qemu&#39;s name for mips64[el] using the n32 ABI is &#34;mipsn32[el]&#34;.
 That&#39;s the first time I&#39;ve seen that name for it.  Oh well.
   * *On 21 Sept 2023, 07:27:09*
-* ➡️ Pushed 5 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#df0e419](https://github.com/kip93/nixplusplus/commit/df0e419) Add a template for single NixOS config flake
-  * [#f2a5d94](https://github.com/kip93/nixplusplus/commit/f2a5d94) Update inputs
-  * [#e05b1d1](https://github.com/kip93/nixplusplus/commit/e05b1d1) Add a default.nix file
-  * [#e07517d](https://github.com/kip93/nixplusplus/commit/e07517d) Rework handling of armv6l-linux
-  * [#28112a1](https://github.com/kip93/nixplusplus/commit/28112a1) Add default package, if not explicitly added
-  * *On 21 Sept 2023, 00:02:14*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 21 Sept 2023, 17:48:12 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 21 Sept 2023, 18:48:15 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,13 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 5 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#df0e419](https://github.com/kip93/nixplusplus/commit/df0e419) Add a template for single NixOS config flake
+  * [#f2a5d94](https://github.com/kip93/nixplusplus/commit/f2a5d94) Update inputs
+  * [#e05b1d1](https://github.com/kip93/nixplusplus/commit/e05b1d1) Add a default.nix file
+  * [#e07517d](https://github.com/kip93/nixplusplus/commit/e07517d) Rework handling of armv6l-linux
+  * [#28112a1](https://github.com/kip93/nixplusplus/commit/28112a1) Add default package, if not explicitly added
+  * *On 21 Sept 2023, 00:02:14*
 * ➡️ Pushed 4 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
   * [#14490d6](https://github.com/nixcon/NixConContent/commit/14490d6) Merge pull request #22 from farcaller/farcaller
 
@@ -104,12 +111,10 @@ Changelog: https://github.com/Azure/azure-sdk-for-python/blob/azure-mgmt-recover
   * [#c463b4f](https://github.com/OroraTech/nixpkgs/commit/c463b4f) nixos/environment: drop QT_PLUGIN_PATH for qt4 and kde4 as they has been removed
   * [#af80152](https://github.com/OroraTech/nixpkgs/commit/af80152) jetbrains-toolbox: 2.0.2.16660 -&gt; 2.0.3.17006
   * *On 20 Sept 2023, 07:07:20*
-* 💬 Commented on [#255810 python3 &#34;Found duplicated packages in closure&#34;](https://github.com/NixOS/nixpkgs/issues/255810) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 20 Sept 2023, 07:05:46*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 20 Sept 2023, 23:47:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 21 Sept 2023, 01:07:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

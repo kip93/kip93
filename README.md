@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [direnv/direnv](https://github.com/direnv/direnv)
+  * *On 21 Sept 2023, 10:43:46*
 * 💬 Commented on [#253261 pkgsNative: init](https://github.com/NixOS/nixpkgs/issues/253261) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 21 Sept 2023, 07:30:16*
 * ➡️ Pushed 358 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
@@ -111,18 +113,10 @@ That&#39;s the first time I&#39;ve seen that name for it.  Oh well.
   * [#e07517d](https://github.com/kip93/nixplusplus/commit/e07517d) Rework handling of armv6l-linux
   * [#28112a1](https://github.com/kip93/nixplusplus/commit/28112a1) Add default package, if not explicitly added
   * *On 21 Sept 2023, 00:02:14*
-* ➡️ Pushed 4 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#14490d6](https://github.com/nixcon/NixConContent/commit/14490d6) Merge pull request #22 from farcaller/farcaller
-
-Add farcaller&#39;s slides &amp; notes
-  * [#2885047](https://github.com/nixcon/NixConContent/commit/2885047) Fix a typo
-  * [#426f576](https://github.com/nixcon/NixConContent/commit/426f576) Add the supporting links
-  * [#ece7206](https://github.com/nixcon/NixConContent/commit/ece7206) Add the slides
-  * *On 20 Sept 2023, 09:40:12*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 21 Sept 2023, 09:48:13 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 21 Sept 2023, 10:47:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

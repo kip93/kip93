@@ -45,18 +45,23 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 5 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#8e57d97](https://github.com/kip93/nixplusplus/commit/8e57d97) Reduce expectations
+  * [#1fd749f](https://github.com/kip93/nixplusplus/commit/1fd749f) Add SSH module
+  * [#9457a89](https://github.com/kip93/nixplusplus/commit/9457a89) Fix accidental removal
+  * [#1e1d3d2](https://github.com/kip93/nixplusplus/commit/1e1d3d2) Add even more strict overrides
+  * [#4d3c049](https://github.com/kip93/nixplusplus/commit/4d3c049) Better overrides
+  * *On 22 Sept 2023, 20:01:46*
 * 🌟 Starred [logseq/logseq](https://github.com/logseq/logseq)
   * *On 22 Sept 2023, 17:09:17*
 * 💬 Commented on [#79 Non-github flakes?](https://github.com/DeterminateSystems/flakehub-push/issues/79) from [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
   * *On 21 Sept 2023, 18:07:19*
 * 🌟 Starred [direnv/direnv](https://github.com/direnv/direnv)
   * *On 21 Sept 2023, 10:43:46*
-* 💬 Commented on [#253261 pkgsNative: init](https://github.com/NixOS/nixpkgs/issues/253261) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 21 Sept 2023, 07:30:16*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 22 Sept 2023, 19:48:22 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 22 Sept 2023, 20:48:18 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

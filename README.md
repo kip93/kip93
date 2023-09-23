@@ -45,6 +45,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 2 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#92ff7ed](https://github.com/kip93/nixplusplus/commit/92ff7ed) Fix format
+  * [#18732b5](https://github.com/kip93/nixplusplus/commit/18732b5) List out sources
+  * *On 23 Sept 2023, 12:01:52*
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#1b4374d](https://github.com/kip93/nixplusplus/commit/1b4374d) Use UTC
   * *On 23 Sept 2023, 11:36:11*
@@ -60,14 +64,10 @@ Will be removed once I can do this without github
   * [#bc36e1d](https://github.com/kip93/nixplusplus/commit/bc36e1d) Fix some linting
   * [#5ffe0f6](https://github.com/kip93/nixplusplus/commit/5ffe0f6) Fix typo
   * *On 23 Sept 2023, 11:22:34*
-* ➡️ Pushed 2 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#b5922fc](https://github.com/kip93/nixplusplus/commit/b5922fc) Add a &#34;server&#34; NixOS module
-  * [#724aed8](https://github.com/kip93/nixplusplus/commit/724aed8) Update flake-compat url
-  * *On 22 Sept 2023, 22:02:02*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 23 Sept 2023, 11:48:02 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 23 Sept 2023, 12:51:32 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

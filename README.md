@@ -45,6 +45,15 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#0c1cf58](https://github.com/kip93/nixplusplus/commit/0c1cf58) Fix hydra complaining about null field
+  * *On 23 Sept 2023, 12:58:30*
+* ➡️ Pushed 2 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#6eb1bad](https://github.com/kip93/nixplusplus/commit/6eb1bad) Remove reduntant entries?
+  * [#02f1ac9](https://github.com/kip93/nixplusplus/commit/02f1ac9) Adding a bit more flavour to the flake description
+
+How do you do, fellow kids?
+  * *On 23 Sept 2023, 12:52:30*
 * ➡️ Pushed 2 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#92ff7ed](https://github.com/kip93/nixplusplus/commit/92ff7ed) Fix format
   * [#18732b5](https://github.com/kip93/nixplusplus/commit/18732b5) List out sources
@@ -52,22 +61,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#1b4374d](https://github.com/kip93/nixplusplus/commit/1b4374d) Use UTC
   * *On 23 Sept 2023, 11:36:11*
-* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#9fa6f32](https://github.com/kip93/nixplusplus/commit/9fa6f32) Get the correct commit
-  * *On 23 Sept 2023, 11:26:53*
-* ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#652c255](https://github.com/kip93/nixplusplus/commit/652c255) Add a github action to publish to flakehub
-
-Will be removed once I can do this without github
-(https://github.com/DeterminateSystems/flakehub-push/issues/79)
-  * [#419b96c](https://github.com/kip93/nixplusplus/commit/419b96c) Make sure to not break hydra
-  * [#bc36e1d](https://github.com/kip93/nixplusplus/commit/bc36e1d) Fix some linting
-  * [#5ffe0f6](https://github.com/kip93/nixplusplus/commit/5ffe0f6) Fix typo
-  * *On 23 Sept 2023, 11:22:34*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 23 Sept 2023, 12:51:32 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 23 Sept 2023, 13:47:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

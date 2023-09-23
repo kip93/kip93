@@ -46,6 +46,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <summary><h3>📰 Recent activity</h3></summary>
 
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#8bae20e](https://github.com/kip93/nixplusplus/commit/8bae20e) The great linting
+  * *On 23 Sept 2023, 18:01:36*
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#0c1cf58](https://github.com/kip93/nixplusplus/commit/0c1cf58) Fix hydra complaining about null field
   * *On 23 Sept 2023, 12:58:30*
 * ➡️ Pushed 2 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
@@ -58,13 +61,10 @@ How do you do, fellow kids?
   * [#92ff7ed](https://github.com/kip93/nixplusplus/commit/92ff7ed) Fix format
   * [#18732b5](https://github.com/kip93/nixplusplus/commit/18732b5) List out sources
   * *On 23 Sept 2023, 12:01:52*
-* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#1b4374d](https://github.com/kip93/nixplusplus/commit/1b4374d) Use UTC
-  * *On 23 Sept 2023, 11:36:11*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 23 Sept 2023, 17:48:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 23 Sept 2023, 18:48:35 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

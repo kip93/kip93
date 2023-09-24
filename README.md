@@ -45,6 +45,13 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* #️⃣ Opened [#83 Setting `name` causes release links to be broken](https://github.com/DeterminateSystems/flakehub-push/issues/83) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
+  * *On 24 Sept 2023, 17:22:30*
+* ➡️ Pushed 3 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#ed7709f](https://github.com/kip93/nixplusplus/commit/ed7709f) Add logo and badges to README
+  * [#8259990](https://github.com/kip93/nixplusplus/commit/8259990) Purge html tags in markdown before linting
+  * [#3374ee2](https://github.com/kip93/nixplusplus/commit/3374ee2) Clean output of nixpkgs-fmt hook
+  * *On 24 Sept 2023, 16:58:56*
 * ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#85a6b0b](https://github.com/kip93/nixplusplus/commit/85a6b0b) Update inputs
   * [#e4e3484](https://github.com/kip93/nixplusplus/commit/e4e3484) Add &#34;small&#34; logo
@@ -59,15 +66,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#46a2f56](https://github.com/kip93/nixplusplus/commit/46a2f56) Add description
   * [#c717d37](https://github.com/kip93/nixplusplus/commit/c717d37) Add some flakehub inputs
   * *On 24 Sept 2023, 14:01:51*
-* #️⃣ Opened [#12 Handle home-manager versions like nixpkgs?](https://github.com/DeterminateSystems/flakehub-mirror/issues/12) in [DeterminateSystems/flakehub-mirror](https://github.com/DeterminateSystems/flakehub-mirror)
-  * *On 24 Sept 2023, 12:55:23*
-* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#4b549bd](https://github.com/kip93/nixplusplus/commit/4b549bd) Fix inherited schemas
-  * *On 24 Sept 2023, 11:57:51*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 24 Sept 2023, 16:48:37 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 24 Sept 2023, 17:47:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

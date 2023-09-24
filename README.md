@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* #️⃣ Opened [#12 Handle home-manager versions like nixpkgs?](https://github.com/DeterminateSystems/flakehub-mirror/issues/12) in [DeterminateSystems/flakehub-mirror](https://github.com/DeterminateSystems/flakehub-mirror)
+  * *On 24 Sept 2023, 12:55:23*
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#4b549bd](https://github.com/kip93/nixplusplus/commit/4b549bd) Fix inherited schemas
   * *On 24 Sept 2023, 11:57:51*
@@ -56,20 +58,10 @@ This reverts commit 4543e15bf09ec9365327ee0d32a55478cf66590e.
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#fbfbb05](https://github.com/kip93/nixplusplus/commit/fbfbb05) Fix lock
   * *On 24 Sept 2023, 11:47:18*
-* ➡️ Pushed 6 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#87b87b1](https://github.com/kip93/nixplusplus/commit/87b87b1) Start adding some schemas
-  * [#a431fda](https://github.com/kip93/nixplusplus/commit/a431fda) Fix license on flakehub
-  * [#d34994d](https://github.com/kip93/nixplusplus/commit/d34994d) Allow some checks on darwin
-  * [#4543e15](https://github.com/kip93/nixplusplus/commit/4543e15) Filter flake registry to only contain real flakes
-  * [#e973652](https://github.com/kip93/nixplusplus/commit/e973652) Use upstreamed maintainer
-  * [#48622f8](https://github.com/kip93/nixplusplus/commit/48622f8) Add a logo!
-
-Seriously tho, did I really stay up until 3am for this ugly ass-logo?
-  * *On 24 Sept 2023, 11:44:35*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 24 Sept 2023, 12:51:08 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 24 Sept 2023, 13:47:56 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

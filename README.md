@@ -45,6 +45,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#2008767](https://github.com/kip93/nixplusplus/commit/2008767) Show which registry entries are not flakes
+  * *On 24 Sept 2023, 18:01:44*
 * #️⃣ Opened [#83 Setting `name` causes release links to be broken](https://github.com/DeterminateSystems/flakehub-push/issues/83) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
   * *On 24 Sept 2023, 17:22:30*
 * ➡️ Pushed 3 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
@@ -58,18 +61,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#4d829ff](https://github.com/kip93/nixplusplus/commit/4d829ff) Remove lint script
   * [#9a4f214](https://github.com/kip93/nixplusplus/commit/9a4f214) Move format script into devenv
   * *On 24 Sept 2023, 16:17:48*
-* ➡️ Pushed 6 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#d180c6f](https://github.com/kip93/nixplusplus/commit/d180c6f) Filter &#34;default&#34; packages for hydra
-  * [#872d54f](https://github.com/kip93/nixplusplus/commit/872d54f) Also set build system
-  * [#96b1287](https://github.com/kip93/nixplusplus/commit/96b1287) Fix test
-  * [#7c786b4](https://github.com/kip93/nixplusplus/commit/7c786b4) Properly remove armv6l-linux build systems
-  * [#46a2f56](https://github.com/kip93/nixplusplus/commit/46a2f56) Add description
-  * [#c717d37](https://github.com/kip93/nixplusplus/commit/c717d37) Add some flakehub inputs
-  * *On 24 Sept 2023, 14:01:51*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 24 Sept 2023, 17:47:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 24 Sept 2023, 18:47:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

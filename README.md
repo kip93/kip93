@@ -45,6 +45,17 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#4b549bd](https://github.com/kip93/nixplusplus/commit/4b549bd) Fix inherited schemas
+  * *On 24 Sept 2023, 11:57:51*
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#5b35d15](https://github.com/kip93/nixplusplus/commit/5b35d15) Revert &#34;Filter flake registry to only contain real flakes&#34;
+
+This reverts commit 4543e15bf09ec9365327ee0d32a55478cf66590e.
+  * *On 24 Sept 2023, 11:55:24*
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#fbfbb05](https://github.com/kip93/nixplusplus/commit/fbfbb05) Fix lock
+  * *On 24 Sept 2023, 11:47:18*
 * ➡️ Pushed 6 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#87b87b1](https://github.com/kip93/nixplusplus/commit/87b87b1) Start adding some schemas
   * [#a431fda](https://github.com/kip93/nixplusplus/commit/a431fda) Fix license on flakehub
@@ -55,22 +66,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 Seriously tho, did I really stay up until 3am for this ugly ass-logo?
   * *On 24 Sept 2023, 11:44:35*
-* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#8bae20e](https://github.com/kip93/nixplusplus/commit/8bae20e) The great linting
-  * *On 23 Sept 2023, 18:01:36*
-* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#0c1cf58](https://github.com/kip93/nixplusplus/commit/0c1cf58) Fix hydra complaining about null field
-  * *On 23 Sept 2023, 12:58:30*
-* ➡️ Pushed 2 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#6eb1bad](https://github.com/kip93/nixplusplus/commit/6eb1bad) Remove reduntant entries?
-  * [#02f1ac9](https://github.com/kip93/nixplusplus/commit/02f1ac9) Adding a bit more flavour to the flake description
-
-How do you do, fellow kids?
-  * *On 23 Sept 2023, 12:52:30*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 24 Sept 2023, 11:48:08 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 24 Sept 2023, 12:51:08 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

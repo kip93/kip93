@@ -45,6 +45,12 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#85a6b0b](https://github.com/kip93/nixplusplus/commit/85a6b0b) Update inputs
+  * [#e4e3484](https://github.com/kip93/nixplusplus/commit/e4e3484) Add &#34;small&#34; logo
+  * [#4d829ff](https://github.com/kip93/nixplusplus/commit/4d829ff) Remove lint script
+  * [#9a4f214](https://github.com/kip93/nixplusplus/commit/9a4f214) Move format script into devenv
+  * *On 24 Sept 2023, 16:17:48*
 * ➡️ Pushed 6 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#d180c6f](https://github.com/kip93/nixplusplus/commit/d180c6f) Filter &#34;default&#34; packages for hydra
   * [#872d54f](https://github.com/kip93/nixplusplus/commit/872d54f) Also set build system
@@ -58,15 +64,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#4b549bd](https://github.com/kip93/nixplusplus/commit/4b549bd) Fix inherited schemas
   * *On 24 Sept 2023, 11:57:51*
-* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#5b35d15](https://github.com/kip93/nixplusplus/commit/5b35d15) Revert &#34;Filter flake registry to only contain real flakes&#34;
-
-This reverts commit 4543e15bf09ec9365327ee0d32a55478cf66590e.
-  * *On 24 Sept 2023, 11:55:24*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 24 Sept 2023, 15:48:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 24 Sept 2023, 16:48:37 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

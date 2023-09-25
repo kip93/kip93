@@ -46,6 +46,11 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <summary><h3>📰 Recent activity</h3></summary>
 
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#639e109](https://github.com/kip93/nixplusplus/commit/639e109) Filter flake registry to only contain real flakes
+
+Do it right this time
+  * *On 25 Sept 2023, 20:17:12*
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#c062cf3](https://github.com/kip93/nixplusplus/commit/c062cf3) Try to fix flakehub push
   * *On 25 Sept 2023, 19:32:59*
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
@@ -53,15 +58,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 24 Sept 2023, 18:01:44*
 * #️⃣ Opened [#83 Setting `name` causes release links to be broken](https://github.com/DeterminateSystems/flakehub-push/issues/83) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
   * *On 24 Sept 2023, 17:22:30*
-* ➡️ Pushed 3 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#ed7709f](https://github.com/kip93/nixplusplus/commit/ed7709f) Add logo and badges to README
-  * [#8259990](https://github.com/kip93/nixplusplus/commit/8259990) Purge html tags in markdown before linting
-  * [#3374ee2](https://github.com/kip93/nixplusplus/commit/3374ee2) Clean output of nixpkgs-fmt hook
-  * *On 24 Sept 2023, 16:58:56*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 25 Sept 2023, 19:48:29 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 25 Sept 2023, 20:48:28 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

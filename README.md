@@ -46,6 +46,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <summary><h3>📰 Recent activity</h3></summary>
 
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#c062cf3](https://github.com/kip93/nixplusplus/commit/c062cf3) Try to fix flakehub push
+  * *On 25 Sept 2023, 19:32:59*
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#2008767](https://github.com/kip93/nixplusplus/commit/2008767) Show which registry entries are not flakes
   * *On 24 Sept 2023, 18:01:44*
 * #️⃣ Opened [#83 Setting `name` causes release links to be broken](https://github.com/DeterminateSystems/flakehub-push/issues/83) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
@@ -55,16 +58,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#8259990](https://github.com/kip93/nixplusplus/commit/8259990) Purge html tags in markdown before linting
   * [#3374ee2](https://github.com/kip93/nixplusplus/commit/3374ee2) Clean output of nixpkgs-fmt hook
   * *On 24 Sept 2023, 16:58:56*
-* ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#85a6b0b](https://github.com/kip93/nixplusplus/commit/85a6b0b) Update inputs
-  * [#e4e3484](https://github.com/kip93/nixplusplus/commit/e4e3484) Add &#34;small&#34; logo
-  * [#4d829ff](https://github.com/kip93/nixplusplus/commit/4d829ff) Remove lint script
-  * [#9a4f214](https://github.com/kip93/nixplusplus/commit/9a4f214) Move format script into devenv
-  * *On 24 Sept 2023, 16:17:48*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 25 Sept 2023, 18:48:28 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 25 Sept 2023, 19:48:29 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

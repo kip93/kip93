@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#255810 python3 &#34;Found duplicated packages in closure&#34;](https://github.com/NixOS/nixpkgs/issues/255810) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 27 Sept 2023, 11:54:09*
 * 🍽️ Forked [vpsfreecz/vpsadminos](https://github.com/vpsfreecz/vpsadminos) to [kip93/vpsadminos](https://github.com/kip93/vpsadminos)
   * *On 25 Sept 2023, 23:20:29*
 * 🌟 Starred [vpsfreecz/vpsadminos](https://github.com/vpsfreecz/vpsadminos)
@@ -52,12 +54,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * 🔃 Closed [#253261 pkgsNative: init](https://github.com/NixOS/nixpkgs/pull/253261) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
                 * 2 files changed `++21 --0`
   * *On 25 Sept 2023, 21:38:07*
-* 💬 Commented on [#253261 pkgsNative: init](https://github.com/NixOS/nixpkgs/issues/253261) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 25 Sept 2023, 21:38:07*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 27 Sept 2023, 11:48:32 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 27 Sept 2023, 12:54:01 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

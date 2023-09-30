@@ -45,18 +45,16 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
-* 💬 Commented on [#255810 python3 &#34;Found duplicated packages in closure&#34;](https://github.com/NixOS/nixpkgs/issues/255810) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 30 Sept 2023, 15:42:00*
-* 💬 Commented on [#255810 python3 &#34;Found duplicated packages in closure&#34;](https://github.com/NixOS/nixpkgs/issues/255810) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 30 Sept 2023, 10:42:30*
-* 💬 Commented on [#255810 python3 &#34;Found duplicated packages in closure&#34;](https://github.com/NixOS/nixpkgs/issues/255810) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 28 Sept 2023, 07:20:35*
-* 💬 Commented on [#255810 python3 &#34;Found duplicated packages in closure&#34;](https://github.com/NixOS/nixpkgs/issues/255810) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 27 Sept 2023, 14:57:47*
+  * *On 30 Sept 2023, 16:24:45*
+  * *On 30 Sept 2023, 16:24:37*
+  * *On 30 Sept 2023, 16:23:44*
+* 🔃 Opened [#258223 python3Packages.sphinxHook: Avoid propagating sphinx](https://github.com/NixOS/nixpkgs/pull/258223) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+                * 2 files changed `++5 --2`
+  * *On 30 Sept 2023, 16:22:23*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 30 Sept 2023, 15:48:28 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 30 Sept 2023, 16:48:20 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

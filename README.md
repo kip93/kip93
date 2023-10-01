@@ -45,6 +45,12 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#d74ac64](https://github.com/kip93/nixplusplus/commit/d74ac64) Point to devenv shell source files
+  * [#2562959](https://github.com/kip93/nixplusplus/commit/2562959) Fix typo
+  * [#a6ddfdb](https://github.com/kip93/nixplusplus/commit/a6ddfdb) Add short instructions on using devenv
+  * [#81215c4](https://github.com/kip93/nixplusplus/commit/81215c4) More hydra documentation
+  * *On 1 Oct 2023, 16:01:47*
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#6555c02](https://github.com/kip93/nixplusplus/commit/6555c02) Go back to main version of devenv
   * *On 1 Oct 2023, 12:51:15*
@@ -54,12 +60,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#d42e4ed](https://github.com/kip93/nixplusplus/commit/d42e4ed) Workaround for flakehub-push#88
   * *On 1 Oct 2023, 12:02:02*
-* #️⃣ Opened [#88 Nix 2.18 lock issues](https://github.com/DeterminateSystems/flakehub-push/issues/88) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
-  * *On 1 Oct 2023, 11:59:09*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 1 Oct 2023, 15:48:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 1 Oct 2023, 16:48:15 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

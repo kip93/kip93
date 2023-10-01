@@ -45,16 +45,21 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
-  * *On 30 Sept 2023, 16:24:45*
-  * *On 30 Sept 2023, 16:24:37*
-  * *On 30 Sept 2023, 16:23:44*
-* 🔃 Opened [#258223 python3Packages.sphinxHook: Avoid propagating sphinx](https://github.com/NixOS/nixpkgs/pull/258223) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-                * 2 files changed `++5 --2`
-  * *On 30 Sept 2023, 16:22:23*
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#6555c02](https://github.com/kip93/nixplusplus/commit/6555c02) Go back to main version of devenv
+  * *On 1 Oct 2023, 12:51:15*
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#c93f955](https://github.com/kip93/nixplusplus/commit/c93f955) Workaround for nix#3978
+  * *On 1 Oct 2023, 12:27:21*
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#d42e4ed](https://github.com/kip93/nixplusplus/commit/d42e4ed) Workaround for flakehub-push#88
+  * *On 1 Oct 2023, 12:02:02*
+* #️⃣ Opened [#88 Nix 2.18 lock issues](https://github.com/DeterminateSystems/flakehub-push/issues/88) in [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
+  * *On 1 Oct 2023, 11:59:09*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 1 Oct 2023, 11:48:22 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 1 Oct 2023, 12:51:33 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

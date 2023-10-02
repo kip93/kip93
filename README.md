@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#258223 python3Packages.sphinxHook: Avoid propagating sphinx](https://github.com/NixOS/nixpkgs/issues/258223) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 2 Oct 2023, 07:18:04*
 * ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#d74ac64](https://github.com/kip93/nixplusplus/commit/d74ac64) Point to devenv shell source files
   * [#2562959](https://github.com/kip93/nixplusplus/commit/2562959) Fix typo
@@ -57,13 +59,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#c93f955](https://github.com/kip93/nixplusplus/commit/c93f955) Workaround for nix#3978
   * *On 1 Oct 2023, 12:27:21*
-* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#d42e4ed](https://github.com/kip93/nixplusplus/commit/d42e4ed) Workaround for flakehub-push#88
-  * *On 1 Oct 2023, 12:02:02*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 2 Oct 2023, 06:48:13 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 2 Oct 2023, 07:48:12 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

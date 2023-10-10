@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote)
+  * *On 10 Oct 2023, 13:43:43*
 * 💬 Commented on [#258223 python3Packages.sphinxHook: Avoid propagating sphinx](https://github.com/NixOS/nixpkgs/issues/258223) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 2 Oct 2023, 07:18:04*
 * ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
@@ -56,13 +58,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#6555c02](https://github.com/kip93/nixplusplus/commit/6555c02) Go back to main version of devenv
   * *On 1 Oct 2023, 12:51:15*
-* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#c93f955](https://github.com/kip93/nixplusplus/commit/c93f955) Workaround for nix#3978
-  * *On 1 Oct 2023, 12:27:21*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Oct 2023, 12:53:55 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Oct 2023, 13:48:30 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

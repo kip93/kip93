@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#12 Handle home-manager versions like nixpkgs?](https://github.com/DeterminateSystems/flakehub-mirror/issues/12) from [DeterminateSystems/flakehub-mirror](https://github.com/DeterminateSystems/flakehub-mirror)
+  * *On 18 Oct 2023, 17:54:19*
 * 🌟 Starred [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote)
   * *On 10 Oct 2023, 13:43:43*
 * 💬 Commented on [#258223 python3Packages.sphinxHook: Avoid propagating sphinx](https://github.com/NixOS/nixpkgs/issues/258223) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
@@ -55,13 +57,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#a6ddfdb](https://github.com/kip93/nixplusplus/commit/a6ddfdb) Add short instructions on using devenv
   * [#81215c4](https://github.com/kip93/nixplusplus/commit/81215c4) More hydra documentation
   * *On 1 Oct 2023, 16:01:47*
-* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#6555c02](https://github.com/kip93/nixplusplus/commit/6555c02) Go back to main version of devenv
-  * *On 1 Oct 2023, 12:51:15*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 18 Oct 2023, 18:48:07 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 18 Oct 2023, 19:48:43 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,27 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 14 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#2237d40](https://github.com/kip93/nixplusplus/commit/2237d40) Fix missing default
+  * [#59af208](https://github.com/kip93/nixplusplus/commit/59af208) Add &#34;command not found&#34;
+  * [#1de1994](https://github.com/kip93/nixplusplus/commit/1de1994) Try out &#34;pretty&#34; flakehub push logs
+  * [#fdf4240](https://github.com/kip93/nixplusplus/commit/fdf4240) Give ZFS kernel higher priority
+  * [#66d4802](https://github.com/kip93/nixplusplus/commit/66d4802) Make timezone setting overridable
+  * [#efe82b7](https://github.com/kip93/nixplusplus/commit/efe82b7) Add cross compile to x86_64 job
+  * [#e28ee55](https://github.com/kip93/nixplusplus/commit/e28ee55) Remove some hydra jobs due to missing kvm builders
+  * [#a9ab5e7](https://github.com/kip93/nixplusplus/commit/a9ab5e7) Use correct platform in test
+  * [#20bea86](https://github.com/kip93/nixplusplus/commit/20bea86) Some styling standardisation
+  * [#5f1ea86](https://github.com/kip93/nixplusplus/commit/5f1ea86) Switch nixpkgs &amp; home-manager to flakehub
+
+See flakehub-mirror#12
+  * [#36aa430](https://github.com/kip93/nixplusplus/commit/36aa430) Update lock
+  * [#7c8406a](https://github.com/kip93/nixplusplus/commit/7c8406a) Remove &#34;systems&#34; input
+
+Got tired with dealing with its issues, will add it back when relative
+paths support is added
+  * [#62c2070](https://github.com/kip93/nixplusplus/commit/62c2070) Add pkgsNative
+  * [#c0fe928](https://github.com/kip93/nixplusplus/commit/c0fe928) Add extraConfig to hydra module
+  * *On 28 Oct 2023, 08:38:15*
 * ➡️ Pushed 7 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#3c0b7f7](https://github.com/kip93/nixplusplus/commit/3c0b7f7) Slightly better default overlay declaration
   * [#e02e541](https://github.com/kip93/nixplusplus/commit/e02e541) Remove accidentally commited debug code
@@ -65,12 +86,10 @@ Missing some monitoring features, but otherwise it should just work
   * *On 21 Oct 2023, 13:24:18*
 * 💬 Commented on [#12 Handle home-manager versions like nixpkgs?](https://github.com/DeterminateSystems/flakehub-mirror/issues/12) from [DeterminateSystems/flakehub-mirror](https://github.com/DeterminateSystems/flakehub-mirror)
   * *On 18 Oct 2023, 17:54:19*
-* 🌟 Starred [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote)
-  * *On 10 Oct 2023, 13:43:43*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 28 Oct 2023, 07:47:53 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 28 Oct 2023, 08:48:02 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

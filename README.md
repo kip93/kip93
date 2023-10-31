@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [pine64/OpenPineBuds](https://github.com/pine64/OpenPineBuds)
+  * *On 31 Oct 2023, 16:00:09*
 * ➡️ Pushed 14 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#2237d40](https://github.com/kip93/nixplusplus/commit/2237d40) Fix missing default
   * [#59af208](https://github.com/kip93/nixplusplus/commit/59af208) Add &#34;command not found&#34;
@@ -84,12 +86,10 @@ Also added the nix patched with schema support to the shell
 Missing some monitoring features, but otherwise it should just work
   * [#24f8a59](https://github.com/kip93/nixplusplus/commit/24f8a59) Don&#39;t use legacy NixOS VM test driver
   * *On 21 Oct 2023, 13:24:18*
-* 💬 Commented on [#12 Handle home-manager versions like nixpkgs?](https://github.com/DeterminateSystems/flakehub-mirror/issues/12) from [DeterminateSystems/flakehub-mirror](https://github.com/DeterminateSystems/flakehub-mirror)
-  * *On 18 Oct 2023, 17:54:19*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 31 Oct 2023, 15:48:30 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 31 Oct 2023, 16:48:17 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

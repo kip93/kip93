@@ -45,44 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
+  * *On 3 Nov 2023, 11:07:08*
+* 💬 Commented on [#26 Rolling release support](https://github.com/flakestry/flakestry.dev/issues/26) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
+  * *On 3 Nov 2023, 11:03:00*
 * 🌟 Starred [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
   * *On 3 Nov 2023, 08:40:47*
 * 🌟 Starred [pine64/OpenPineBuds](https://github.com/pine64/OpenPineBuds)
   * *On 31 Oct 2023, 16:00:09*
-* ➡️ Pushed 14 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#2237d40](https://github.com/kip93/nixplusplus/commit/2237d40) Fix missing default
-  * [#59af208](https://github.com/kip93/nixplusplus/commit/59af208) Add &#34;command not found&#34;
-  * [#1de1994](https://github.com/kip93/nixplusplus/commit/1de1994) Try out &#34;pretty&#34; flakehub push logs
-  * [#fdf4240](https://github.com/kip93/nixplusplus/commit/fdf4240) Give ZFS kernel higher priority
-  * [#66d4802](https://github.com/kip93/nixplusplus/commit/66d4802) Make timezone setting overridable
-  * [#efe82b7](https://github.com/kip93/nixplusplus/commit/efe82b7) Add cross compile to x86_64 job
-  * [#e28ee55](https://github.com/kip93/nixplusplus/commit/e28ee55) Remove some hydra jobs due to missing kvm builders
-  * [#a9ab5e7](https://github.com/kip93/nixplusplus/commit/a9ab5e7) Use correct platform in test
-  * [#20bea86](https://github.com/kip93/nixplusplus/commit/20bea86) Some styling standardisation
-  * [#5f1ea86](https://github.com/kip93/nixplusplus/commit/5f1ea86) Switch nixpkgs &amp; home-manager to flakehub
-
-See flakehub-mirror#12
-  * [#36aa430](https://github.com/kip93/nixplusplus/commit/36aa430) Update lock
-  * [#7c8406a](https://github.com/kip93/nixplusplus/commit/7c8406a) Remove &#34;systems&#34; input
-
-Got tired with dealing with its issues, will add it back when relative
-paths support is added
-  * [#62c2070](https://github.com/kip93/nixplusplus/commit/62c2070) Add pkgsNative
-  * [#c0fe928](https://github.com/kip93/nixplusplus/commit/c0fe928) Add extraConfig to hydra module
-  * *On 28 Oct 2023, 08:38:15*
-* ➡️ Pushed 7 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#3c0b7f7](https://github.com/kip93/nixplusplus/commit/3c0b7f7) Slightly better default overlay declaration
-  * [#e02e541](https://github.com/kip93/nixplusplus/commit/e02e541) Remove accidentally commited debug code
-  * [#ac957c5](https://github.com/kip93/nixplusplus/commit/ac957c5) Add a function for handling multiple cross configs
-  * [#2ccf50d](https://github.com/kip93/nixplusplus/commit/2ccf50d) Fix typo
-  * [#71bc5a2](https://github.com/kip93/nixplusplus/commit/71bc5a2) Fix default system on cross compiled config
-  * [#9a6fe34](https://github.com/kip93/nixplusplus/commit/9a6fe34) Make snapshot schedule a bit smarter
-  * [#756b3bd](https://github.com/kip93/nixplusplus/commit/756b3bd) Fix lock
-  * *On 22 Oct 2023, 18:01:47*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 3 Nov 2023, 10:48:16 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 3 Nov 2023, 11:48:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
+  * *On 3 Nov 2023, 08:40:47*
 * 🌟 Starred [pine64/OpenPineBuds](https://github.com/pine64/OpenPineBuds)
   * *On 31 Oct 2023, 16:00:09*
 * ➡️ Pushed 14 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
@@ -77,19 +79,10 @@ paths support is added
   * [#9a6fe34](https://github.com/kip93/nixplusplus/commit/9a6fe34) Make snapshot schedule a bit smarter
   * [#756b3bd](https://github.com/kip93/nixplusplus/commit/756b3bd) Fix lock
   * *On 22 Oct 2023, 18:01:47*
-* ➡️ Pushed 3 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#d47675a](https://github.com/kip93/nixplusplus/commit/d47675a) More schemas
-
-Also added the nix patched with schema support to the shell
-  * [#47262af](https://github.com/kip93/nixplusplus/commit/47262af) Add new NAS module
-
-Missing some monitoring features, but otherwise it should just work
-  * [#24f8a59](https://github.com/kip93/nixplusplus/commit/24f8a59) Don&#39;t use legacy NixOS VM test driver
-  * *On 21 Oct 2023, 13:24:18*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 3 Nov 2023, 07:48:19 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 3 Nov 2023, 08:48:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

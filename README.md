@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🍽️ Forked [flakestry/flakestry-publish](https://github.com/flakestry/flakestry-publish) to [kip93/flakestry-publish](https://github.com/kip93/flakestry-publish)
+  * *On 4 Nov 2023, 14:11:36*
+* 🍽️ Forked [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) to [kip93/flakestry.dev](https://github.com/kip93/flakestry.dev)
+  * *On 4 Nov 2023, 14:04:43*
 * 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
   * *On 3 Nov 2023, 11:07:08*
 * 💬 Commented on [#26 Rolling release support](https://github.com/flakestry/flakestry.dev/issues/26) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
   * *On 3 Nov 2023, 11:03:00*
-* 🌟 Starred [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
-  * *On 3 Nov 2023, 08:40:47*
-* 🌟 Starred [pine64/OpenPineBuds](https://github.com/pine64/OpenPineBuds)
-  * *On 31 Oct 2023, 16:00:09*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 4 Nov 2023, 13:47:50 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 4 Nov 2023, 14:48:02 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

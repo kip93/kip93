@@ -45,20 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
-* 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
-  * *On 5 Nov 2023, 13:30:55*
-* 🔃 Opened [#36 Fix 2 typos](https://github.com/flakestry/flakestry.dev/pull/36) in [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
-                * 2 files changed `++2 --2`
-  * *On 5 Nov 2023, 12:52:22*
-* ⏺️ Created new branch chore/fix-typos in [kip93/flakestry.dev](https://github.com/kip93/flakestry.dev)
-  * *On 5 Nov 2023, 12:51:30*
-* 🔃 Opened [#2 Add support for non-tagged publishing](https://github.com/flakestry/flakestry-publish/pull/2) in [flakestry/flakestry-publish](https://github.com/flakestry/flakestry-publish)
-                * 2 files changed `++30 --6`
-  * *On 5 Nov 2023, 12:24:06*
+* 💬 Commented on [#35 Add support for non-tagged publishing](https://github.com/flakestry/flakestry.dev/pull/35) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
+  * *On 6 Nov 2023, 16:26:59*
+* 🔍 Reviewed [#35 Add support for non-tagged publishing](https://github.com/flakestry/flakestry.dev/pull/35) in [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
+  * *On 6 Nov 2023, 16:27:00*
+* 💬 Commented on [#35 Add support for non-tagged publishing](https://github.com/flakestry/flakestry.dev/pull/35) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
+  * *On 6 Nov 2023, 16:23:07*
+* 🔍 Reviewed [#35 Add support for non-tagged publishing](https://github.com/flakestry/flakestry.dev/pull/35) in [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
+  * *On 6 Nov 2023, 16:23:08*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 6 Nov 2023, 15:48:17 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 6 Nov 2023, 16:48:23 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,27 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
-* ➡️ Pushed 7 commits in [kip93/flakestry.dev](https://github.com/kip93/flakestry.dev) on branch `feature/non-tags`
-  * [#0f22bd6](https://github.com/kip93/flakestry.dev/commit/0f22bd6) Throw error if neither ref nor version are given
-  * [#1a3fe3f](https://github.com/kip93/flakestry.dev/commit/1a3fe3f) Update publish docs for non-tagged releases
-  * [#b099b78](https://github.com/kip93/flakestry.dev/commit/b099b78) Add support for non-tagged publishing
-  * [#b29e7c0](https://github.com/kip93/flakestry.dev/commit/b29e7c0) Merge pull request #37 from flakestry/dev/use-typescript
-
-frontend: replace javascript with typescript
-  * [#2682fe3](https://github.com/kip93/flakestry.dev/commit/2682fe3) Merge pull request #36 from kip93/chore/fix-typos
-  * [#323a673](https://github.com/kip93/flakestry.dev/commit/323a673) frontend: replace javascript with typescript
-  * [#86c837e](https://github.com/kip93/flakestry.dev/commit/86c837e) Fix 2 typos
-  * *On 11 Nov 2023, 11:20:46*
-* 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
-  * *On 6 Nov 2023, 22:31:10*
-* 🌟 Starred [Klowner/inkscape-applytransforms](https://github.com/Klowner/inkscape-applytransforms)
-  * *On 6 Nov 2023, 20:17:06*
 * 💬 Commented on [#35 Add support for non-tagged publishing](https://github.com/flakestry/flakestry.dev/pull/35) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
-  * *On 6 Nov 2023, 16:26:59*
+  * *On 11 Nov 2023, 12:37:54*
+* 🔍 Reviewed [#35 Add support for non-tagged publishing](https://github.com/flakestry/flakestry.dev/pull/35) in [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
+  * *On 11 Nov 2023, 12:37:55*
+* 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
+  * *On 11 Nov 2023, 12:28:44*
+* 💬 Commented on [#35 Add support for non-tagged publishing](https://github.com/flakestry/flakestry.dev/pull/35) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
+  * *On 11 Nov 2023, 12:08:49*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 11 Nov 2023, 11:48:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 11 Nov 2023, 12:51:13 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

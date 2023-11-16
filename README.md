@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [infinisil/sanix](https://github.com/infinisil/sanix)
+  * *On 16 Nov 2023, 12:56:55*
 * 💬 Commented on [#249535 python3Packages.pycyphal &amp; python3Packages.pyuavcan: init pycyphal at 1.15.2 &amp; deprecate pyuavcan](https://github.com/NixOS/nixpkgs/issues/249535) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 14 Nov 2023, 11:47:32*
 * 💬 Commented on [#249535 python3Packages.pycyphal &amp; python3Packages.pyuavcan: init pycyphal at 1.15.2 &amp; deprecate pyuavcan](https://github.com/NixOS/nixpkgs/issues/249535) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 14 Nov 2023, 11:28:37*
 * 💬 Commented on [#249535 python3Packages.pycyphal &amp; python3Packages.pyuavcan: init pycyphal at 1.15.2 &amp; deprecate pyuavcan](https://github.com/NixOS/nixpkgs/issues/249535) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 14 Nov 2023, 11:27:50*
-* 💬 Commented on [#35 Add support for non-tagged publishing](https://github.com/flakestry/flakestry.dev/pull/35) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
-  * *On 11 Nov 2023, 12:37:54*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 16 Nov 2023, 12:53:33 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 16 Nov 2023, 13:48:03 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

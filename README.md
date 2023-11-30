@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* #️⃣ Opened [#9501 Locking error on 2.19 with path:.](https://github.com/NixOS/nix/issues/9501) in [NixOS/nix](https://github.com/NixOS/nix)
+  * *On 30 Nov 2023, 20:28:49*
 * 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
   * *On 30 Nov 2023, 14:33:22*
 * 🌟 Starred [bahamas10/zfs-prune-snapshots](https://github.com/bahamas10/zfs-prune-snapshots)
   * *On 29 Nov 2023, 13:13:08*
 * 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
   * *On 20 Nov 2023, 17:09:43*
-* 🌟 Starred [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
-  * *On 16 Nov 2023, 20:41:33*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 30 Nov 2023, 19:48:07 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 30 Nov 2023, 20:47:49 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

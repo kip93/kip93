@@ -45,18 +45,20 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 2 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#3bc8ef9](https://github.com/kip93/nixplusplus/commit/3bc8ef9) Update to nixpkgs 23.11
+  * [#cc530e8](https://github.com/kip93/nixplusplus/commit/cc530e8) put nixTest inside of pkgs.testers
+  * *On 2 Dec 2023, 00:01:54*
 * #️⃣ Opened [#9501 Locking error on 2.19 with path:.](https://github.com/NixOS/nix/issues/9501) in [NixOS/nix](https://github.com/NixOS/nix)
   * *On 30 Nov 2023, 20:28:49*
 * 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
   * *On 30 Nov 2023, 14:33:22*
 * 🌟 Starred [bahamas10/zfs-prune-snapshots](https://github.com/bahamas10/zfs-prune-snapshots)
   * *On 29 Nov 2023, 13:13:08*
-* 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
-  * *On 20 Nov 2023, 17:09:43*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 1 Dec 2023, 23:47:38 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 2 Dec 2023, 01:07:20 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

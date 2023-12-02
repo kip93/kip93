@@ -45,6 +45,7 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+  * *On 2 Dec 2023, 11:29:49*
 * ➡️ Pushed 2 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#3bc8ef9](https://github.com/kip93/nixplusplus/commit/3bc8ef9) Update to nixpkgs 23.11
   * [#cc530e8](https://github.com/kip93/nixplusplus/commit/cc530e8) put nixTest inside of pkgs.testers
@@ -53,12 +54,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 30 Nov 2023, 20:28:49*
 * 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
   * *On 30 Nov 2023, 14:33:22*
-* 🌟 Starred [bahamas10/zfs-prune-snapshots](https://github.com/bahamas10/zfs-prune-snapshots)
-  * *On 29 Nov 2023, 13:13:08*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 2 Dec 2023, 10:47:58 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 2 Dec 2023, 11:48:01 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,11 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 3 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#af2660c](https://github.com/kip93/nixplusplus/commit/af2660c) Reboot servers on kernel panic
+  * [#61b0a76](https://github.com/kip93/nixplusplus/commit/61b0a76) Allow hydra to use self-signed certs
+  * [#395b71c](https://github.com/kip93/nixplusplus/commit/395b71c) Add RegEx for validating IPs
+  * *On 3 Dec 2023, 14:01:48*
 * ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#f753cc8](https://github.com/kip93/nixplusplus/commit/f753cc8) Fix fail2ban
   * [#5fd3478](https://github.com/kip93/nixplusplus/commit/5fd3478) Remove enigmatic TODO
@@ -56,12 +61,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#3bc8ef9](https://github.com/kip93/nixplusplus/commit/3bc8ef9) Update to nixpkgs 23.11
   * [#cc530e8](https://github.com/kip93/nixplusplus/commit/cc530e8) put nixTest inside of pkgs.testers
   * *On 2 Dec 2023, 00:01:54*
-* #️⃣ Opened [#9501 Locking error on 2.19 with path:.](https://github.com/NixOS/nix/issues/9501) in [NixOS/nix](https://github.com/NixOS/nix)
-  * *On 30 Nov 2023, 20:28:49*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 3 Dec 2023, 13:47:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 3 Dec 2023, 14:47:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

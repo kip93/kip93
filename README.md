@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+  * *On 8 Dec 2023, 13:51:46*
 * ➡️ Pushed 3 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#af2660c](https://github.com/kip93/nixplusplus/commit/af2660c) Reboot servers on kernel panic
   * [#61b0a76](https://github.com/kip93/nixplusplus/commit/61b0a76) Allow hydra to use self-signed certs
@@ -57,14 +59,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#77b72a7](https://github.com/kip93/nixplusplus/commit/77b72a7) Update hydra
   * *On 2 Dec 2023, 18:01:51*
   * *On 2 Dec 2023, 11:29:49*
-* ➡️ Pushed 2 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#3bc8ef9](https://github.com/kip93/nixplusplus/commit/3bc8ef9) Update to nixpkgs 23.11
-  * [#cc530e8](https://github.com/kip93/nixplusplus/commit/cc530e8) put nixTest inside of pkgs.testers
-  * *On 2 Dec 2023, 00:01:54*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 8 Dec 2023, 13:48:06 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 8 Dec 2023, 14:47:58 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

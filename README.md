@@ -45,6 +45,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 2 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#597c3b5](https://github.com/kip93/nixplusplus/commit/597c3b5) Add some missing packages
+  * [#22f9f35](https://github.com/kip93/nixplusplus/commit/22f9f35) Remove pixz/pigz
+  * *On 10 Dec 2023, 00:02:15*
 * 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
   * *On 9 Dec 2023, 22:34:07*
 * 🌟 Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
@@ -54,16 +58,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#61b0a76](https://github.com/kip93/nixplusplus/commit/61b0a76) Allow hydra to use self-signed certs
   * [#395b71c](https://github.com/kip93/nixplusplus/commit/395b71c) Add RegEx for validating IPs
   * *On 3 Dec 2023, 14:01:48*
-* ➡️ Pushed 4 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#f753cc8](https://github.com/kip93/nixplusplus/commit/f753cc8) Fix fail2ban
-  * [#5fd3478](https://github.com/kip93/nixplusplus/commit/5fd3478) Remove enigmatic TODO
-  * [#b1c1be3](https://github.com/kip93/nixplusplus/commit/b1c1be3) Update substituters
-  * [#77b72a7](https://github.com/kip93/nixplusplus/commit/77b72a7) Update hydra
-  * *On 2 Dec 2023, 18:01:51*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 9 Dec 2023, 23:47:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Dec 2023, 01:07:50 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

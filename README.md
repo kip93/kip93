@@ -45,23 +45,20 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#83 Setting `name` causes release links to be broken](https://github.com/DeterminateSystems/flakehub-push/issues/83) from [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
+  * *On 10 Dec 2023, 14:16:27*
+* 💬 Commented on [#83 Setting `name` causes release links to be broken](https://github.com/DeterminateSystems/flakehub-push/issues/83) from [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
+  * *On 10 Dec 2023, 14:15:59*
 * ➡️ Pushed 2 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#597c3b5](https://github.com/kip93/nixplusplus/commit/597c3b5) Add some missing packages
   * [#22f9f35](https://github.com/kip93/nixplusplus/commit/22f9f35) Remove pixz/pigz
   * *On 10 Dec 2023, 00:02:15*
 * 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
   * *On 9 Dec 2023, 22:34:07*
-* 🌟 Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
-  * *On 8 Dec 2023, 13:51:46*
-* ➡️ Pushed 3 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#af2660c](https://github.com/kip93/nixplusplus/commit/af2660c) Reboot servers on kernel panic
-  * [#61b0a76](https://github.com/kip93/nixplusplus/commit/61b0a76) Allow hydra to use self-signed certs
-  * [#395b71c](https://github.com/kip93/nixplusplus/commit/395b71c) Add RegEx for validating IPs
-  * *On 3 Dec 2023, 14:01:48*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Dec 2023, 13:47:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Dec 2023, 14:47:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

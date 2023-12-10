@@ -45,6 +45,14 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 3 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#9c9aedf](https://github.com/kip93/nixplusplus/commit/9c9aedf) Add dev shell to hydra
+  * [#3884ed8](https://github.com/kip93/nixplusplus/commit/3884ed8) Add nixos-rebuild-ish install script to toplevel
+
+Strips out any build or deploy releated fluff, only has &#34;activation&#34;
+related code
+  * [#527506a](https://github.com/kip93/nixplusplus/commit/527506a) Fix URL
+  * *On 10 Dec 2023, 18:02:14*
 * 💬 Commented on [#83 Setting `name` causes release links to be broken](https://github.com/DeterminateSystems/flakehub-push/issues/83) from [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
   * *On 10 Dec 2023, 14:16:27*
 * 💬 Commented on [#83 Setting `name` causes release links to be broken](https://github.com/DeterminateSystems/flakehub-push/issues/83) from [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
@@ -53,12 +61,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#597c3b5](https://github.com/kip93/nixplusplus/commit/597c3b5) Add some missing packages
   * [#22f9f35](https://github.com/kip93/nixplusplus/commit/22f9f35) Remove pixz/pigz
   * *On 10 Dec 2023, 00:02:15*
-* 💬 Commented on [#11 logo](https://github.com/flakestry/flakestry.dev/issues/11) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
-  * *On 9 Dec 2023, 22:34:07*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Dec 2023, 17:47:47 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Dec 2023, 18:47:36 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

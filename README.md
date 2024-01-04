@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [koreader/koreader](https://github.com/koreader/koreader)
+  * *On 4 Jan 2024, 09:09:18*
 * 🌟 Starred [Rahix/avr-hal](https://github.com/Rahix/avr-hal)
   * *On 25 Dec 2023, 20:27:35*
 * ➡️ Pushed 3 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
@@ -57,12 +59,10 @@ related code
   * *On 10 Dec 2023, 18:02:14*
 * 💬 Commented on [#83 Setting `name` causes release links to be broken](https://github.com/DeterminateSystems/flakehub-push/issues/83) from [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
   * *On 10 Dec 2023, 14:16:27*
-* 💬 Commented on [#83 Setting `name` causes release links to be broken](https://github.com/DeterminateSystems/flakehub-push/issues/83) from [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
-  * *On 10 Dec 2023, 14:15:59*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 4 Jan 2024, 08:47:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 4 Jan 2024, 09:47:45 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

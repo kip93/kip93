@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [Neamar/KISS](https://github.com/Neamar/KISS)
+  * *On 13 Jan 2024, 14:32:42*
 * 🌟 Starred [koreader/koreader](https://github.com/koreader/koreader)
   * *On 4 Jan 2024, 09:09:18*
 * 🌟 Starred [Rahix/avr-hal](https://github.com/Rahix/avr-hal)
@@ -57,12 +59,10 @@ Strips out any build or deploy releated fluff, only has &#34;activation&#34;
 related code
   * [#527506a](https://github.com/kip93/nixplusplus/commit/527506a) Fix URL
   * *On 10 Dec 2023, 18:02:14*
-* 💬 Commented on [#83 Setting `name` causes release links to be broken](https://github.com/DeterminateSystems/flakehub-push/issues/83) from [DeterminateSystems/flakehub-push](https://github.com/DeterminateSystems/flakehub-push)
-  * *On 10 Dec 2023, 14:16:27*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 13 Jan 2024, 13:47:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 13 Jan 2024, 14:47:43 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

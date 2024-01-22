@@ -45,24 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [NixOS/foundation](https://github.com/NixOS/foundation)
+  * *On 22 Jan 2024, 14:16:09*
 * 🌟 Starred [Neamar/KISS](https://github.com/Neamar/KISS)
   * *On 13 Jan 2024, 14:32:42*
 * 🌟 Starred [koreader/koreader](https://github.com/koreader/koreader)
   * *On 4 Jan 2024, 09:09:18*
 * 🌟 Starred [Rahix/avr-hal](https://github.com/Rahix/avr-hal)
   * *On 25 Dec 2023, 20:27:35*
-* ➡️ Pushed 3 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
-  * [#9c9aedf](https://github.com/kip93/nixplusplus/commit/9c9aedf) Add dev shell to hydra
-  * [#3884ed8](https://github.com/kip93/nixplusplus/commit/3884ed8) Add nixos-rebuild-ish install script to toplevel
-
-Strips out any build or deploy releated fluff, only has &#34;activation&#34;
-related code
-  * [#527506a](https://github.com/kip93/nixplusplus/commit/527506a) Fix URL
-  * *On 10 Dec 2023, 18:02:14*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 22 Jan 2024, 13:47:50 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 22 Jan 2024, 14:48:12 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

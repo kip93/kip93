@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy)
+  * *On 25 Jan 2024, 10:44:36*
 * 🌟 Starred [ryanccn/nixpkgs-dev](https://github.com/ryanccn/nixpkgs-dev)
   * *On 23 Jan 2024, 11:44:53*
 * 🌟 Starred [NixOS/foundation](https://github.com/NixOS/foundation)
   * *On 22 Jan 2024, 14:16:09*
 * 🌟 Starred [Neamar/KISS](https://github.com/Neamar/KISS)
   * *On 13 Jan 2024, 14:32:42*
-* 🌟 Starred [koreader/koreader](https://github.com/koreader/koreader)
-  * *On 4 Jan 2024, 09:09:18*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 25 Jan 2024, 10:47:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 25 Jan 2024, 11:47:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [Chocobozzz/PeerTube](https://github.com/Chocobozzz/PeerTube)
+  * *On 28 Jan 2024, 09:25:05*
 * 🌟 Starred [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm)
   * *On 27 Jan 2024, 17:44:23*
 * 💬 Commented on [#35 Add support for non-tagged publishing](https://github.com/flakestry/flakestry.dev/issues/35) from [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev)
   * *On 27 Jan 2024, 09:28:41*
 * 🌟 Starred [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy)
   * *On 25 Jan 2024, 10:44:36*
-* 🌟 Starred [ryanccn/nixpkgs-dev](https://github.com/ryanccn/nixpkgs-dev)
-  * *On 23 Jan 2024, 11:44:53*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 28 Jan 2024, 08:47:34 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 28 Jan 2024, 09:47:47 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

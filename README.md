@@ -45,15 +45,17 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🔃 Opened [#287543 python312Packages.pyuavcan: remove deprecated package](https://github.com/NixOS/nixpkgs/pull/287543) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+                * 3 files changed `++1 --62`
+  * *On 9 Feb 2024, 18:20:20*
+* ⏺️ Created new branch chore/remove-pyuavcan in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
+  * *On 9 Feb 2024, 17:46:13*
   * *On 9 Feb 2024, 17:14:23*
   * *On 9 Feb 2024, 17:13:58*
-  * *On 9 Feb 2024, 17:13:53*
-* 🌟 Starred [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
-  * *On 9 Feb 2024, 17:12:45*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 9 Feb 2024, 17:47:53 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 9 Feb 2024, 18:47:41 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

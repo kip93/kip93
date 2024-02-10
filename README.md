@@ -45,23 +45,43 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
-* 🔃 Opened [#287759 Chore/update libpcap](https://github.com/NixOS/nixpkgs/pull/287759) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-                * 2 files changed `++22 --12`
-  * *On 10 Feb 2024, 12:34:55*
-* ⏺️ Created new branch chore/update-libpcap in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
-  * *On 10 Feb 2024, 12:34:03*
-* 🔃 Opened [#287746 python312Packages.pkg-about: 1.0.8 -&gt; 1.1.5](https://github.com/NixOS/nixpkgs/pull/287746) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-                * 1 file changed `++8 --7`
-  * *On 10 Feb 2024, 11:53:36*
-* ➡️ Pushed 1 commit in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `chore/update-pkg-about`
-  * [#328cf00](https://github.com/OroraTech/nixpkgs/commit/328cf00) python312Packages.pkg-about: 1.0.8 -&gt; 1.1.5
+* 🔃 Opened [#287771 python312Packages.pycyphal: 1.15.4 -&gt; 1.18.0](https://github.com/NixOS/nixpkgs/pull/287771) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+                * 2 files changed `++63 --23`
+  * *On 10 Feb 2024, 13:27:09*
+* ⏺️ Created new branch chore/update-pycyphal in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
+  * *On 10 Feb 2024, 13:26:35*
+* ➡️ Pushed 78 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `chore/update-libpcap`
+  * [#931224b](https://github.com/OroraTech/nixpkgs/commit/931224b) flyctl: 0.1.147 -&gt; 0.1.148
+  * [#8603804](https://github.com/OroraTech/nixpkgs/commit/8603804) brev-cli: 0.6.267 -&gt; 0.6.273
+  * [#9a198dd](https://github.com/OroraTech/nixpkgs/commit/9a198dd) cliphist: 0.4.0 -&gt; 0.5.0
+  * [#f862639](https://github.com/OroraTech/nixpkgs/commit/f862639) wasm-tools: 1.0.57 -&gt; 1.0.58
+  * [#835d158](https://github.com/OroraTech/nixpkgs/commit/835d158) easyeffects: add deepfilternet plugin
+  * [#db815d5](https://github.com/OroraTech/nixpkgs/commit/db815d5) deepfilternet: init at 0.5.6
+  * [#564e748](https://github.com/OroraTech/nixpkgs/commit/564e748) iotas: 0.2.2 → 0.2.7
+  * [#f709a7a](https://github.com/OroraTech/nixpkgs/commit/f709a7a) percona-server_8_0: 8.0.34 -&gt; 8.0.35
+  * [#083c740](https://github.com/OroraTech/nixpkgs/commit/083c740) gradle_7: 7.6.3 -&gt; 7.6.4
+  * [#c64c45d](https://github.com/OroraTech/nixpkgs/commit/c64c45d) nixos/nextcloud: don&#39;t execute cron when in maintenace/upgrade, don&#39;t kill cgroup
 
-Also enable the new tests
-  * *On 10 Feb 2024, 11:53:06*
+Those are upstream recommendations taken from
+https://github.com/nextcloud/documentation/blob/22d2472b8f721f2022b9ac0db254950a285ab086/admin_manual/configuration_server/background_jobs_configuration.rst#systemd
+  * [#42daa00](https://github.com/OroraTech/nixpkgs/commit/42daa00) nixos/nextcloud: little formatting
+  * [#c04efae](https://github.com/OroraTech/nixpkgs/commit/c04efae) python311Packages.spatial-image: init at 1.0.0
+  * [#45027f5](https://github.com/OroraTech/nixpkgs/commit/45027f5) python311Packages.xarray-dataclasses: init at 1.7.0
+  * [#a3dd974](https://github.com/OroraTech/nixpkgs/commit/a3dd974) updatecli: init at 0.70.0
+  * [#6899a74](https://github.com/OroraTech/nixpkgs/commit/6899a74) maintainers: add croissong
+  * [#678eee3](https://github.com/OroraTech/nixpkgs/commit/678eee3) boatswain: 0.3.0 → 0.4.0
+  * [#2e2097c](https://github.com/OroraTech/nixpkgs/commit/2e2097c) update-melpa: use url lib to parse HTTP instead of custom code
+
+This improves compatiblity of parsing http header.
+  * [#e9a8b6e](https://github.com/OroraTech/nixpkgs/commit/e9a8b6e) update-melpa: use cl-lib instead of cl
+  * [#52a0f4a](https://github.com/OroraTech/nixpkgs/commit/52a0f4a) fcitx5-openbangla-keyboard: fix runtime crash
+  * [#3ca6967](https://github.com/OroraTech/nixpkgs/commit/3ca6967) cloudflared: fixed missing configuration options
+  * *On 10 Feb 2024, 13:13:31*
+  * *On 10 Feb 2024, 13:09:58*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Feb 2024, 12:50:03 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Feb 2024, 13:47:49 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

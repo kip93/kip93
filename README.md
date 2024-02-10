@@ -45,6 +45,59 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 179 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#c36acb6](https://github.com/OroraTech/nixpkgs/commit/c36acb6) sourcehut.hubsrht: 0.17.2 -&gt; 0.17.5
+
+Also refactor it to the same common structure as all other sourcehut
+packages, thus opening the possibility to even further simplify this in
+the future.
+
+Signed-off-by: Christoph Heiss &lt;christoph@c8h4.io&gt;
+  * [#50fa834](https://github.com/OroraTech/nixpkgs/commit/50fa834) sourcehut.gitsrht: 0.84.2 -&gt; 0.85.7
+
+Signed-off-by: Christoph Heiss &lt;christoph@c8h4.io&gt;
+  * [#e912fc1](https://github.com/OroraTech/nixpkgs/commit/e912fc1) sourcehut.buildsrht: 0.86.10 -&gt; 0.89.13
+
+Signed-off-by: Christoph Heiss &lt;christoph@c8h4.io&gt;
+  * [#a61f7b1](https://github.com/OroraTech/nixpkgs/commit/a61f7b1) sourcehut.srht: 0.69.15 -&gt; 0.71.5
+
+Signed-off-by: Christoph Heiss &lt;christoph@c8h4.io&gt;
+  * [#a59e08e](https://github.com/OroraTech/nixpkgs/commit/a59e08e) gtkcord4: 0.0.17 -&gt; 0.0.18
+  * [#29b534a](https://github.com/OroraTech/nixpkgs/commit/29b534a) restya-board: drop
+  * [#8c28836](https://github.com/OroraTech/nixpkgs/commit/8c28836) gittuf: init at 0.3.0
+
+Co-authored-by: Nikolay Korotkiy &lt;sikmir@disroot.org&gt;
+  * [#1acef57](https://github.com/OroraTech/nixpkgs/commit/1acef57) dua: 2.26.0 -&gt; 2.28.0
+
+Diff: https://github.com/Byron/dua-cli/compare/v2.26.0...v2.28.0
+Changelog: https://github.com/Byron/dua-cli/blob/v2.28.0/CHANGELOG.md
+Signed-off-by: Muhammad Falak R Wani &lt;falakreyaz@gmail.com&gt;
+  * [#b087e3d](https://github.com/OroraTech/nixpkgs/commit/b087e3d) maintainers: add flandweber
+  * [#d39d1b7](https://github.com/OroraTech/nixpkgs/commit/d39d1b7) python311Packages.pygltflib: init at 1.16.1
+  * [#0f0a6c5](https://github.com/OroraTech/nixpkgs/commit/0f0a6c5) nix: drop warning disabling on `gcc-13`
+
+All present `nix` versions should build as is against `gcc-13` without
+explicit warning clobbering.
+  * [#3e79150](https://github.com/OroraTech/nixpkgs/commit/3e79150) libmodsecurity: 3.0.11 -&gt; 3.0.12
+  * [#4698311](https://github.com/OroraTech/nixpkgs/commit/4698311) breeze-hacked-cursor-theme: init at unstable-2024-1-28
+  * [#9e73340](https://github.com/OroraTech/nixpkgs/commit/9e73340) pgadmin4: remove flask-babelex
+
+babelex has been dropped and can be removed.
+
+Signed-off-by: Florian Brandes &lt;florian.brandes@posteo.de&gt;
+  * [#4373622](https://github.com/OroraTech/nixpkgs/commit/4373622) raspberrypi-eeprom: 2023.12.06-2712 -&gt; 2024.01.05-2712
+
+https://github.com/raspberrypi/rpi-eeprom/releases/tag/v.2024.01.05-2712
+  * [#5a94735](https://github.com/OroraTech/nixpkgs/commit/5a94735) halftone: add meta.mainProgram and meta.platforms
+  * [#9e7bee8](https://github.com/OroraTech/nixpkgs/commit/9e7bee8) halftone: 0.5.0 -&gt; 0.6.0
+  * [#87e591d](https://github.com/OroraTech/nixpkgs/commit/87e591d) python311Packages.highdicom: init at 0.22.0
+  * [#09a0862](https://github.com/OroraTech/nixpkgs/commit/09a0862) python311Packages.pillow-jpls: init at 1.3.2
+  * [#6ed6953](https://github.com/OroraTech/nixpkgs/commit/6ed6953) nixos/oci-containers: stop container using backend
+
+Make systemd actually call `podman stop` when stopping a container unit.
+
+Fixes #249332
+  * *On 10 Feb 2024, 21:50:42*
 * 💬 Commented on [#3206 Add UGEE S1060](https://github.com/OpenTabletDriver/OpenTabletDriver/issues/3206) from [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)
   * *On 10 Feb 2024, 20:08:22*
 * ➡️ Pushed 2 commits in [kip93/OpenTabletDriver](https://github.com/kip93/OpenTabletDriver) on branch `chore/add-ugee-s1060`
@@ -54,12 +107,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * 🔃 Opened [#3206 Add UGEE S1060](https://github.com/OpenTabletDriver/OpenTabletDriver/pull/3206) in [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)
                 * 2 files changed `++41 --0`
   * *On 10 Feb 2024, 19:31:29*
-* ⏺️ Created new branch chore/add-ugee-s1060 in [kip93/OpenTabletDriver](https://github.com/kip93/OpenTabletDriver)
-  * *On 10 Feb 2024, 19:28:51*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Feb 2024, 21:47:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Feb 2024, 22:47:50 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

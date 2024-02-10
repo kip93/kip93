@@ -45,16 +45,14 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
-* 🔃 Opened [#287771 python312Packages.pycyphal: 1.15.4 -&gt; 1.18.0](https://github.com/NixOS/nixpkgs/pull/287771) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-                * 2 files changed `++63 --23`
-  * *On 10 Feb 2024, 13:27:09*
-* ⏺️ Created new branch chore/update-pycyphal in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
-  * *On 10 Feb 2024, 13:26:35*
-* ➡️ Pushed 78 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `chore/update-libpcap`
-  * [#931224b](https://github.com/OroraTech/nixpkgs/commit/931224b) flyctl: 0.1.147 -&gt; 0.1.148
-  * [#8603804](https://github.com/OroraTech/nixpkgs/commit/8603804) brev-cli: 0.6.267 -&gt; 0.6.273
-  * [#9a198dd](https://github.com/OroraTech/nixpkgs/commit/9a198dd) cliphist: 0.4.0 -&gt; 0.5.0
-  * [#f862639](https://github.com/OroraTech/nixpkgs/commit/f862639) wasm-tools: 1.0.57 -&gt; 1.0.58
+* 🔃 Opened [#287779 yakut: fix optional dependencies](https://github.com/NixOS/nixpkgs/pull/287779) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+                * 3 files changed `++79 --28`
+  * *On 10 Feb 2024, 14:06:13*
+* ⏺️ Created new branch fix/yakut-deps in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs)
+  * *On 10 Feb 2024, 14:04:53*
+* ➡️ Pushed 102 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
+  * [#18c858e](https://github.com/OroraTech/nixpkgs/commit/18c858e) graylog-5_1: 5.1.7 -&gt; 5.1.11
+  * [#40f47be](https://github.com/OroraTech/nixpkgs/commit/40f47be) jan: init at 0.4.6
   * [#835d158](https://github.com/OroraTech/nixpkgs/commit/835d158) easyeffects: add deepfilternet plugin
   * [#db815d5](https://github.com/OroraTech/nixpkgs/commit/db815d5) deepfilternet: init at 0.5.6
   * [#564e748](https://github.com/OroraTech/nixpkgs/commit/564e748) iotas: 0.2.2 → 0.2.7
@@ -67,6 +65,7 @@ https://github.com/nextcloud/documentation/blob/22d2472b8f721f2022b9ac0db254950a
   * [#42daa00](https://github.com/OroraTech/nixpkgs/commit/42daa00) nixos/nextcloud: little formatting
   * [#c04efae](https://github.com/OroraTech/nixpkgs/commit/c04efae) python311Packages.spatial-image: init at 1.0.0
   * [#45027f5](https://github.com/OroraTech/nixpkgs/commit/45027f5) python311Packages.xarray-dataclasses: init at 1.7.0
+  * [#e83e831](https://github.com/OroraTech/nixpkgs/commit/e83e831) parabolic: fix mainProgram
   * [#a3dd974](https://github.com/OroraTech/nixpkgs/commit/a3dd974) updatecli: init at 0.70.0
   * [#6899a74](https://github.com/OroraTech/nixpkgs/commit/6899a74) maintainers: add croissong
   * [#678eee3](https://github.com/OroraTech/nixpkgs/commit/678eee3) boatswain: 0.3.0 → 0.4.0
@@ -76,12 +75,15 @@ This improves compatiblity of parsing http header.
   * [#e9a8b6e](https://github.com/OroraTech/nixpkgs/commit/e9a8b6e) update-melpa: use cl-lib instead of cl
   * [#52a0f4a](https://github.com/OroraTech/nixpkgs/commit/52a0f4a) fcitx5-openbangla-keyboard: fix runtime crash
   * [#3ca6967](https://github.com/OroraTech/nixpkgs/commit/3ca6967) cloudflared: fixed missing configuration options
-  * *On 10 Feb 2024, 13:13:31*
-  * *On 10 Feb 2024, 13:09:58*
+  * [#a748f5c](https://github.com/OroraTech/nixpkgs/commit/a748f5c) rl_json: init at 0.14
+  * *On 10 Feb 2024, 13:59:32*
+* 🔃 Opened [#287771 python312Packages.pycyphal: 1.15.4 -&gt; 1.18.0](https://github.com/NixOS/nixpkgs/pull/287771) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+                * 2 files changed `++63 --23`
+  * *On 10 Feb 2024, 13:27:09*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Feb 2024, 13:47:49 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Feb 2024, 14:47:43 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

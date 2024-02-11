@@ -45,6 +45,36 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 406 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `fix/yakut-deps`
+  * [#d4e775b](https://github.com/OroraTech/nixpkgs/commit/d4e775b) makeInitrdNGTool: 0.1.0 -&gt; 0.1.0
+  * [#4373622](https://github.com/OroraTech/nixpkgs/commit/4373622) raspberrypi-eeprom: 2023.12.06-2712 -&gt; 2024.01.05-2712
+
+https://github.com/raspberrypi/rpi-eeprom/releases/tag/v.2024.01.05-2712
+  * [#39d481d](https://github.com/OroraTech/nixpkgs/commit/39d481d) libwpg: 0.3.3 -&gt; 0.3.4
+  * [#cf938b4](https://github.com/OroraTech/nixpkgs/commit/cf938b4) libwpd: 0.10.0 -&gt; 0.10.3
+  * [#aa776b2](https://github.com/OroraTech/nixpkgs/commit/aa776b2) libbsd: unstable-2023-04-29 -&gt; 0.11.8
+  * [#0520a00](https://github.com/OroraTech/nixpkgs/commit/0520a00) db62: 6.2.23 -&gt; 6.2.32
+  * [#b6933c9](https://github.com/OroraTech/nixpkgs/commit/b6933c9) db60: 6.0.20 -&gt; 6.0.30
+  * [#a3dd974](https://github.com/OroraTech/nixpkgs/commit/a3dd974) updatecli: init at 0.70.0
+  * [#6899a74](https://github.com/OroraTech/nixpkgs/commit/6899a74) maintainers: add croissong
+  * [#678eee3](https://github.com/OroraTech/nixpkgs/commit/678eee3) boatswain: 0.3.0 → 0.4.0
+  * [#5a94735](https://github.com/OroraTech/nixpkgs/commit/5a94735) halftone: add meta.mainProgram and meta.platforms
+  * [#9e7bee8](https://github.com/OroraTech/nixpkgs/commit/9e7bee8) halftone: 0.5.0 -&gt; 0.6.0
+  * [#87e591d](https://github.com/OroraTech/nixpkgs/commit/87e591d) python311Packages.highdicom: init at 0.22.0
+  * [#2e2097c](https://github.com/OroraTech/nixpkgs/commit/2e2097c) update-melpa: use url lib to parse HTTP instead of custom code
+
+This improves compatiblity of parsing http header.
+  * [#09a0862](https://github.com/OroraTech/nixpkgs/commit/09a0862) python311Packages.pillow-jpls: init at 1.3.2
+  * [#e9a8b6e](https://github.com/OroraTech/nixpkgs/commit/e9a8b6e) update-melpa: use cl-lib instead of cl
+  * [#52a0f4a](https://github.com/OroraTech/nixpkgs/commit/52a0f4a) fcitx5-openbangla-keyboard: fix runtime crash
+  * [#3ca6967](https://github.com/OroraTech/nixpkgs/commit/3ca6967) cloudflared: fixed missing configuration options
+  * [#a748f5c](https://github.com/OroraTech/nixpkgs/commit/a748f5c) rl_json: init at 0.14
+  * [#6ed6953](https://github.com/OroraTech/nixpkgs/commit/6ed6953) nixos/oci-containers: stop container using backend
+
+Make systemd actually call `podman stop` when stopping a container unit.
+
+Fixes #249332
+  * *On 11 Feb 2024, 09:59:23*
 * ➡️ Pushed 179 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#c36acb6](https://github.com/OroraTech/nixpkgs/commit/c36acb6) sourcehut.hubsrht: 0.17.2 -&gt; 0.17.5
 
@@ -104,13 +134,10 @@ Fixes #249332
   * [#5e01380](https://github.com/kip93/OpenTabletDriver/commit/5e01380) Add tablet to TABLETS.md
   * [#cd8ceff](https://github.com/kip93/OpenTabletDriver/commit/cd8ceff) Fix format
   * *On 10 Feb 2024, 20:02:28*
-* 🔃 Opened [#3206 Add UGEE S1060](https://github.com/OpenTabletDriver/OpenTabletDriver/pull/3206) in [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)
-                * 2 files changed `++41 --0`
-  * *On 10 Feb 2024, 19:31:29*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 11 Feb 2024, 09:47:55 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 11 Feb 2024, 10:47:51 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

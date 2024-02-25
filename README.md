@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [polygon/nix-buildproxy](https://github.com/polygon/nix-buildproxy)
+  * *On 25 Feb 2024, 13:52:44*
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `develop`
   * [#afe49be](https://github.com/kip93/nixplusplus/commit/afe49be) Add new example in hydra schema
   * *On 24 Feb 2024, 22:02:28*
@@ -56,12 +58,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 Add support for non-tagged publishing
   * [#94209b7](https://github.com/kip93/flakestry-publish/commit/94209b7) Add support for non-tagged publishing
   * *On 24 Feb 2024, 20:24:02*
-* ⏺️ Created new branch develop in [kip93/nixplusplus](https://github.com/kip93/nixplusplus)
-  * *On 24 Feb 2024, 20:02:29*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 25 Feb 2024, 13:47:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 25 Feb 2024, 14:47:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

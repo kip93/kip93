@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [nrabulinski/cursed-nix](https://github.com/nrabulinski/cursed-nix)
+  * *On 27 Feb 2024, 16:56:02*
 * 🌟 Starred [polygon/nix-buildproxy](https://github.com/polygon/nix-buildproxy)
   * *On 25 Feb 2024, 13:52:44*
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `develop`
@@ -52,16 +54,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 24 Feb 2024, 22:02:28*
 * ⏺️ Created new branch netdata in [kip93/nixplusplus](https://github.com/kip93/nixplusplus)
   * *On 24 Feb 2024, 22:02:27*
-* ➡️ Pushed 2 commits in [kip93/flakestry-publish](https://github.com/kip93/flakestry-publish) on branch `main`
-  * [#fd80e4c](https://github.com/kip93/flakestry-publish/commit/fd80e4c) Merge pull request #2 from kip93/feature/non-tags
-
-Add support for non-tagged publishing
-  * [#94209b7](https://github.com/kip93/flakestry-publish/commit/94209b7) Add support for non-tagged publishing
-  * *On 24 Feb 2024, 20:24:02*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 27 Feb 2024, 16:48:06 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 27 Feb 2024, 17:48:03 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

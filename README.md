@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [cwensley/pablodraw](https://github.com/cwensley/pablodraw)
+  * *On 3 Mar 2024, 18:39:37*
 * 🌟 Starred [susam/pcface](https://github.com/susam/pcface)
   * *On 3 Mar 2024, 14:05:54*
 * 🔃 Opened [#293018 calibre-web: Add LDAP dependency](https://github.com/NixOS/nixpkgs/pull/293018) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
@@ -52,13 +54,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 3 Mar 2024, 13:56:28*
 * ⏺️ Created new branch chore/calibre-web-ldap in [kip93/nixpkgs](https://github.com/kip93/nixpkgs)
   * *On 3 Mar 2024, 12:53:12*
-* 🔃 Opened [#293002 python311Packages.flask-simpleldap: init at 1.4.0](https://github.com/NixOS/nixpkgs/pull/293002) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-                * 2 files changed `++40 --0`
-  * *On 3 Mar 2024, 12:42:34*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 3 Mar 2024, 17:47:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 3 Mar 2024, 18:47:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

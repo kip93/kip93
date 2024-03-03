@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ⏺️ Created new branch chore/calibre-web-ldap in [kip93/nixpkgs](https://github.com/kip93/nixpkgs)
+  * *On 3 Mar 2024, 12:53:12*
 * 🔃 Opened [#293002 python311Packages.flask-simpleldap: init at 1.4.0](https://github.com/NixOS/nixpkgs/pull/293002) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
                 * 2 files changed `++40 --0`
   * *On 3 Mar 2024, 12:42:34*
@@ -104,46 +106,10 @@ https://github.com/chroma-core/chroma
 https://pypi.org/project/pulsar-client/
   * [#681d70b](https://github.com/kip93/nixpkgs/commit/681d70b) python311Packages.opentelemetry-instrumentation-fastapi: init at 0.43b0
   * *On 1 Mar 2024, 17:47:08*
-* ➡️ Pushed 1099 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#e4999e3](https://github.com/OroraTech/nixpkgs/commit/e4999e3) bitwarden: remove unused patch
-  * [#97c12ac](https://github.com/OroraTech/nixpkgs/commit/97c12ac) python312Packages.urwid-readline: 0.13 -&gt; 0.14
-
-Diff: https://github.com/rr-/urwid_readline/compare/refs/tags/0.13...0.14
-  * [#2e312bb](https://github.com/OroraTech/nixpkgs/commit/2e312bb) python312Packages.urwid-readline: refactor
-  * [#00be299](https://github.com/OroraTech/nixpkgs/commit/00be299) imagemagick: 7.1.1-28 -&gt; 7.1.1-29
-
-Diff: https://github.com/ImageMagick/ImageMagick/compare/7.1.1-28...7.1.1-29
-
-Changelog: https://github.com/ImageMagick/Website/blob/main/ChangeLog.md
-  * [#524a9ec](https://github.com/OroraTech/nixpkgs/commit/524a9ec) live555: 2024.02.15 -&gt; 2024.02.23
-  * [#5135272](https://github.com/OroraTech/nixpkgs/commit/5135272) live555: 2023.11.30 -&gt; 2024.02.15
-  * [#5a56dbf](https://github.com/OroraTech/nixpkgs/commit/5a56dbf) edbrowse: enable Unix ODBC support
-  * [#7659f7b](https://github.com/OroraTech/nixpkgs/commit/7659f7b) edbrowse: refactor
-
-- finalAttrs design pattern
-- get rid of nested with
-- substitute vrthra to AndersonTorres on meta.maintainers
-  * [#98802aa](https://github.com/OroraTech/nixpkgs/commit/98802aa) edbrowse: migrate to by-name
-  * [#043c254](https://github.com/OroraTech/nixpkgs/commit/043c254) gegl: 0.4.46 → 0.4.48
-  * [#3b0e6fc](https://github.com/OroraTech/nixpkgs/commit/3b0e6fc) fm-go: init at 0.16.0
-  * [#83e0914](https://github.com/OroraTech/nixpkgs/commit/83e0914) python311Packages.cachecontrol: add dotlambda to maintainers
-  * [#36cd3b4](https://github.com/OroraTech/nixpkgs/commit/36cd3b4) python311Packages.cachecontrol: 0.13.1 -&gt; 0.14.0
-
-Diff: https://github.com/ionrock/cachecontrol/compare/refs/tags/v0.13.1...v0.14.0
-
-Changelog: https://github.com/psf/cachecontrol/releases/tag/v0.14.0
-  * [#afaaaef](https://github.com/OroraTech/nixpkgs/commit/afaaaef) flottbot: 0.13.0 -&gt; 0.13.1
-  * [#b7db650](https://github.com/OroraTech/nixpkgs/commit/b7db650) python311Packages.llama-index-embeddings-openai: init at 0.10.12
-  * [#f691d8d](https://github.com/OroraTech/nixpkgs/commit/f691d8d) python311Packages.llama-index-multi-modal-llms-openai: init 0.10.12
-  * [#d2fb7e1](https://github.com/OroraTech/nixpkgs/commit/d2fb7e1) python311Packages.llama-index-program-openai: init at 0.10.12
-  * [#1332bc4](https://github.com/OroraTech/nixpkgs/commit/1332bc4) python311Packages.llama-index-agent-openai: init at 0.10.12
-  * [#9bf729a](https://github.com/OroraTech/nixpkgs/commit/9bf729a) python311Packages.llama-index-llms-openai: init at 0.10.12
-  * [#1ab2a11](https://github.com/OroraTech/nixpkgs/commit/1ab2a11) python311Packages.llama-index-readers-file: init at 0.10.12
-  * *On 1 Mar 2024, 15:54:18*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 3 Mar 2024, 12:49:55 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 3 Mar 2024, 13:47:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

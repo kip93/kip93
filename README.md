@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [jhvst/jhvst.github.io](https://github.com/jhvst/jhvst.github.io)
+  * *On 15 Mar 2024, 15:01:56*
 * ➡️ Pushed 1 commit in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
   * [#d387e16](https://github.com/nixcon/NixConContent/commit/d387e16) Kickstart NA nixcon folder
   * *On 14 Mar 2024, 16:57:31*
@@ -55,12 +57,10 @@ Co-authored-by: lolbinarycat &lt;dogedoge61+github@gmail.com&gt;
   * *On 6 Mar 2024, 23:01:07*
 * #️⃣ Opened [#1 Bad binary name](https://github.com/thefossguy/nixos-needsreboot/issues/1) in [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot)
   * *On 6 Mar 2024, 10:41:58*
-* 🌟 Starred [thefossguy/nixos-needsreboot](https://github.com/thefossguy/nixos-needsreboot)
-  * *On 5 Mar 2024, 11:14:06*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 15 Mar 2024, 14:48:18 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 15 Mar 2024, 15:47:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

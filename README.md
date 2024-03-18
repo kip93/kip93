@@ -45,22 +45,19 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#23 add my slides](https://github.com/nixcon/NixConContent/pull/23) from [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+  * *On 18 Mar 2024, 20:47:36*
+* 🔍 Reviewed [#23 add my slides](https://github.com/nixcon/NixConContent/pull/23) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+  * *On 18 Mar 2024, 20:47:37*
+* ➡️ Pushed 1 commit in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
+  * [#c857ff4](https://github.com/nixcon/NixConContent/commit/c857ff4) Ignore .DS_Store files
+  * *On 18 Mar 2024, 20:46:50*
 * 🔍 Reviewed [#296132 python312Packages.dronecan: 1.0.25 -&gt; 1.0.26](https://github.com/NixOS/nixpkgs/pull/296132) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 15 Mar 2024, 15:53:02*
-* 🌟 Starred [jhvst/jhvst.github.io](https://github.com/jhvst/jhvst.github.io)
-  * *On 15 Mar 2024, 15:01:56*
-* ➡️ Pushed 1 commit in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#d387e16](https://github.com/nixcon/NixConContent/commit/d387e16) Kickstart NA nixcon folder
-  * *On 14 Mar 2024, 16:57:31*
-* ➡️ Pushed 1 commit in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `chore/ansilove`
-  * [#fb81121](https://github.com/kip93/nixpkgs/commit/fb81121) Apply suggestions from code review
-
-Co-authored-by: lolbinarycat &lt;dogedoge61+github@gmail.com&gt;
-  * *On 6 Mar 2024, 23:01:07*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 18 Mar 2024, 19:47:52 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 18 Mar 2024, 20:47:47 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

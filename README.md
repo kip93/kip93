@@ -45,19 +45,28 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
-* 💬 Commented on [#23 add my slides](https://github.com/nixcon/NixConContent/pull/23) from [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * *On 18 Mar 2024, 20:47:36*
-* 🔍 Reviewed [#23 add my slides](https://github.com/nixcon/NixConContent/pull/23) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-  * *On 18 Mar 2024, 20:47:37*
-* ➡️ Pushed 1 commit in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#c857ff4](https://github.com/nixcon/NixConContent/commit/c857ff4) Ignore .DS_Store files
-  * *On 18 Mar 2024, 20:46:50*
-* 🔍 Reviewed [#296132 python312Packages.dronecan: 1.0.25 -&gt; 1.0.26](https://github.com/NixOS/nixpkgs/pull/296132) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 15 Mar 2024, 15:53:02*
+* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
+  * [#0dd1920](https://github.com/nixcon/NixConContent/commit/0dd1920) Merge pull request #25 from marijanp/add-home-manager
+
+NixCon NA 2023: add Managing your Userland with Home-Manager
+  * [#1b00728](https://github.com/nixcon/NixConContent/commit/1b00728) NixCon NA 2023: add Managing your Userland with Home-Manager
+  * *On 18 Mar 2024, 20:49:33*
+* 🔃 Merged [#25 NixCon NA 2023: add Managing your Userland with Home-Manager](https://github.com/nixcon/NixConContent/pull/25) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+                * 2 files changed `++6 --0`
+  * *On 18 Mar 2024, 20:49:32*
+* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
+  * [#e714c0d](https://github.com/nixcon/NixConContent/commit/e714c0d) Merge pull request #24 from obsidiansystems/add-continuous-integration-talk
+
+Add &#34;Continuous Integration Hands-On&#34; workshop
+  * [#e868f1c](https://github.com/nixcon/NixConContent/commit/e868f1c) Add &#34;Continuous Integration Hands-On&#34; workshop
+  * *On 18 Mar 2024, 20:48:44*
+* 🔃 Merged [#24 Add &#34;Continuous Integration Hands-On&#34; workshop](https://github.com/nixcon/NixConContent/pull/24) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+                * 1 file changed `++0 --0`
+  * *On 18 Mar 2024, 20:48:43*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 18 Mar 2024, 20:47:47 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 18 Mar 2024, 21:48:06 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

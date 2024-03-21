@@ -46,27 +46,27 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <summary><h3>📰 Recent activity</h3></summary>
 
 * ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#0dd1920](https://github.com/nixcon/NixConContent/commit/0dd1920) Merge pull request #25 from marijanp/add-home-manager
+  * [#d1299e5](https://github.com/nixcon/NixConContent/commit/d1299e5) Merge pull request #31 from ibizaman/ibizaman
 
-NixCon NA 2023: add Managing your Userland with Home-Manager
-  * [#1b00728](https://github.com/nixcon/NixConContent/commit/1b00728) NixCon NA 2023: add Managing your Userland with Home-Manager
-  * *On 18 Mar 2024, 20:49:33*
-* 🔃 Merged [#25 NixCon NA 2023: add Managing your Userland with Home-Manager](https://github.com/nixcon/NixConContent/pull/25) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
-                * 2 files changed `++6 --0`
-  * *On 18 Mar 2024, 20:49:32*
-* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#e714c0d](https://github.com/nixcon/NixConContent/commit/e714c0d) Merge pull request #24 from obsidiansystems/add-continuous-integration-talk
-
-Add &#34;Continuous Integration Hands-On&#34; workshop
-  * [#e868f1c](https://github.com/nixcon/NixConContent/commit/e868f1c) Add &#34;Continuous Integration Hands-On&#34; workshop
-  * *On 18 Mar 2024, 20:48:44*
-* 🔃 Merged [#24 Add &#34;Continuous Integration Hands-On&#34; workshop](https://github.com/nixcon/NixConContent/pull/24) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+Add self-hosting with modules contracts
+  * [#51018ee](https://github.com/nixcon/NixConContent/commit/51018ee) add self-hosting with modules contracts
+  * *On 21 Mar 2024, 17:26:56*
+* 🔃 Merged [#31 Add self-hosting with modules contracts](https://github.com/nixcon/NixConContent/pull/31) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
                 * 1 file changed `++0 --0`
-  * *On 18 Mar 2024, 20:48:43*
+  * *On 21 Mar 2024, 17:26:55*
+* 🔃 Merged [#30 add slides for talk &#34;Building Robots with Nix and Bazel&#34;](https://github.com/nixcon/NixConContent/pull/30) in [nixcon/NixConContent](https://github.com/nixcon/NixConContent)
+                * 1 file changed `++0 --0`
+  * *On 21 Mar 2024, 17:26:18*
+* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
+  * [#f683e14](https://github.com/nixcon/NixConContent/commit/f683e14) Merge pull request #30 from badmutex/add-talk-building-robots-with-nix-and-bazel
+
+add slides for talk &#34;Building Robots with Nix and Bazel&#34;
+  * [#e80c2d9](https://github.com/nixcon/NixConContent/commit/e80c2d9) add slides for talk &#34;Building Robots with Nix and Bazel&#34;
+  * *On 21 Mar 2024, 17:26:19*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 21 Mar 2024, 16:48:02 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 21 Mar 2024, 17:48:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

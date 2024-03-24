@@ -46,22 +46,23 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <summary><h3>📰 Recent activity</h3></summary>
 
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#5d7458f](https://github.com/kip93/cp437-tools/commit/5d7458f) More lint
+  * *On 24 Mar 2024, 20:10:53*
+* ➡️ Pushed 4 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#227526c](https://github.com/kip93/cp437-tools/commit/227526c) Release 0.3.3
+  * [#d877af5](https://github.com/kip93/cp437-tools/commit/d877af5) Add new command
+  * [#83c9c24](https://github.com/kip93/cp437-tools/commit/83c9c24) Change help text format
+  * [#3a9aac2](https://github.com/kip93/cp437-tools/commit/3a9aac2) Lint
+  * *On 24 Mar 2024, 19:56:41*
+* ⏺️ Created new tag v0.3.3 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
+  * *On 24 Mar 2024, 19:56:35*
+* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
   * [#093bd9b](https://github.com/kip93/cp437-tools/commit/093bd9b) Link to large image
   * *On 24 Mar 2024, 18:21:32*
-* ⏺️ Created new tag v0.3.2 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
-  * *On 24 Mar 2024, 18:15:44*
-* ➡️ Pushed 3 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#fd22ccf](https://github.com/kip93/cp437-tools/commit/fd22ccf) Release 0.3.2
-  * [#93023cd](https://github.com/kip93/cp437-tools/commit/93023cd) Add a logo
-  * [#84f2bdf](https://github.com/kip93/cp437-tools/commit/84f2bdf) Fix 0x0D, add B &amp; C cursor movement sequences
-  * *On 24 Mar 2024, 18:15:12*
-* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#c58386b](https://github.com/kip93/cp437-tools/commit/c58386b) Release 0.3.1
-  * *On 24 Mar 2024, 16:46:58*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 24 Mar 2024, 19:47:38 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 24 Mar 2024, 20:47:53 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,24 +45,21 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
-  * 🚀 Made [kip93/cp437-tools](https://github.com/kip93/cp437-tools) public
-  * *On 23 Mar 2024, 20:46:31*
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#c4b2d6c](https://github.com/kip93/cp437-tools/commit/c4b2d6c) Add another test file
-  * *On 23 Mar 2024, 20:11:39*
-* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#f009d51](https://github.com/kip93/cp437-tools/commit/f009d51) Add flake-compat
-  * *On 23 Mar 2024, 19:59:31*
-* ➡️ Pushed 2 commits in [nixcon/NixConContent](https://github.com/nixcon/NixConContent) on branch `main`
-  * [#d1299e5](https://github.com/nixcon/NixConContent/commit/d1299e5) Merge pull request #31 from ibizaman/ibizaman
-
-Add self-hosting with modules contracts
-  * [#51018ee](https://github.com/nixcon/NixConContent/commit/51018ee) add self-hosting with modules contracts
-  * *On 21 Mar 2024, 17:26:56*
+  * [#c6a96a2](https://github.com/kip93/cp437-tools/commit/c6a96a2) Add overlay
+  * *On 24 Mar 2024, 00:08:02*
+* ⏺️ Created new tag v0.2.0 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
+  * *On 23 Mar 2024, 23:53:10*
+* ⏺️ Created new tag v0.1.0 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
+  * *On 23 Mar 2024, 23:52:59*
+* ➡️ Pushed 2 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#995065c](https://github.com/kip93/cp437-tools/commit/995065c) Release 0.2.0
+  * [#d9f6009](https://github.com/kip93/cp437-tools/commit/d9f6009) Add a lot of proper documentation
+  * *On 23 Mar 2024, 23:49:21*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 23 Mar 2024, 23:47:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 24 Mar 2024, 01:07:43 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

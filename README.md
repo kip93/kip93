@@ -46,20 +46,21 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <summary><h3>📰 Recent activity</h3></summary>
 
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#c6a96a2](https://github.com/kip93/cp437-tools/commit/c6a96a2) Add overlay
-  * *On 24 Mar 2024, 00:08:02*
-* ⏺️ Created new tag v0.2.0 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
-  * *On 23 Mar 2024, 23:53:10*
-* ⏺️ Created new tag v0.1.0 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
-  * *On 23 Mar 2024, 23:52:59*
+  * [#c58386b](https://github.com/kip93/cp437-tools/commit/c58386b) Release 0.3.1
+  * *On 24 Mar 2024, 16:46:58*
+* ⏺️ Created new tag v0.3.1 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
+  * *On 24 Mar 2024, 16:46:40*
 * ➡️ Pushed 2 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#995065c](https://github.com/kip93/cp437-tools/commit/995065c) Release 0.2.0
-  * [#d9f6009](https://github.com/kip93/cp437-tools/commit/d9f6009) Add a lot of proper documentation
-  * *On 23 Mar 2024, 23:49:21*
+  * [#64cf0ea](https://github.com/kip93/cp437-tools/commit/64cf0ea) Fix format
+  * [#8d14a08](https://github.com/kip93/cp437-tools/commit/8d14a08) Remove vulnerable atty crate
+  * *On 24 Mar 2024, 16:46:35*
+* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#ef84490](https://github.com/kip93/cp437-tools/commit/ef84490) Release 0.3.0
+  * *On 24 Mar 2024, 16:39:27*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 24 Mar 2024, 15:47:50 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 24 Mar 2024, 16:48:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

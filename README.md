@@ -45,6 +45,11 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 3 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#84543c3](https://github.com/kip93/cp437-tools/commit/84543c3) Add first tests
+  * [#4460134](https://github.com/kip93/cp437-tools/commit/4460134) Move process function to its own file
+  * [#c914526](https://github.com/kip93/cp437-tools/commit/c914526) Fix format again
+  * *On 26 Mar 2024, 23:19:55*
 * ⏺️ Created new tag v0.4.1 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
   * *On 26 Mar 2024, 22:45:52*
 * ➡️ Pushed 2 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
@@ -53,13 +58,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 26 Mar 2024, 22:45:48*
 * ⏺️ Created new tag v0.4.0 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
   * *On 26 Mar 2024, 22:44:13*
-* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#5fde438](https://github.com/kip93/cp437-tools/commit/5fde438) Release 0.4.0
-  * *On 26 Mar 2024, 22:43:32*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 26 Mar 2024, 22:47:49 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 26 Mar 2024, 23:47:40 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

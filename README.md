@@ -46,21 +46,26 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <summary><h3>📰 Recent activity</h3></summary>
 
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#f0b5c93](https://github.com/kip93/cp437-tools/commit/f0b5c93) Fix `open_doc` shell function
-  * *On 25 Mar 2024, 23:34:35*
+  * [#88e3488](https://github.com/kip93/cp437-tools/commit/88e3488) Select minimum building versions of deps
+
+In case anyone wants to use this as a library, this might make things
+more compatible
+  * *On 26 Mar 2024, 20:38:20*
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#2df78e1](https://github.com/kip93/cp437-tools/commit/2df78e1) Handle bidirectional UTF8 &lt;-&gt; CP437
-  * *On 25 Mar 2024, 23:33:51*
+  * [#41a58ce](https://github.com/kip93/cp437-tools/commit/41a58ce) Move logo to subfolder
+  * *On 26 Mar 2024, 20:26:28*
+* ➡️ Pushed 3 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#5b55a45](https://github.com/kip93/cp437-tools/commit/5b55a45) Keep builds going for getting all errors
+  * [#6b414ba](https://github.com/kip93/cp437-tools/commit/6b414ba) Add `run_verbose` shell alias
+  * [#4ab09cf](https://github.com/kip93/cp437-tools/commit/4ab09cf) Check before publish
+  * *On 26 Mar 2024, 20:23:52*
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#1083fa8](https://github.com/kip93/cp437-tools/commit/1083fa8) Fix typo
-  * *On 25 Mar 2024, 18:04:13*
-* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#5d7458f](https://github.com/kip93/cp437-tools/commit/5d7458f) More lint
-  * *On 24 Mar 2024, 20:10:53*
+  * [#ad442b8](https://github.com/kip93/cp437-tools/commit/ad442b8) Bunch of meta handling improvements
+  * *On 26 Mar 2024, 20:22:36*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 26 Mar 2024, 19:48:12 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 26 Mar 2024, 20:48:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

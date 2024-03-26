@@ -45,27 +45,21 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ⏺️ Created new tag v0.4.1 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
+  * *On 26 Mar 2024, 22:45:52*
+* ➡️ Pushed 2 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#3ccd1cf](https://github.com/kip93/cp437-tools/commit/3ccd1cf) Release 0.4.1
+  * [#810e151](https://github.com/kip93/cp437-tools/commit/810e151) Show cp437-set-meta documentation
+  * *On 26 Mar 2024, 22:45:48*
+* ⏺️ Created new tag v0.4.0 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
+  * *On 26 Mar 2024, 22:44:13*
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#88e3488](https://github.com/kip93/cp437-tools/commit/88e3488) Select minimum building versions of deps
-
-In case anyone wants to use this as a library, this might make things
-more compatible
-  * *On 26 Mar 2024, 20:38:20*
-* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#41a58ce](https://github.com/kip93/cp437-tools/commit/41a58ce) Move logo to subfolder
-  * *On 26 Mar 2024, 20:26:28*
-* ➡️ Pushed 3 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#5b55a45](https://github.com/kip93/cp437-tools/commit/5b55a45) Keep builds going for getting all errors
-  * [#6b414ba](https://github.com/kip93/cp437-tools/commit/6b414ba) Add `run_verbose` shell alias
-  * [#4ab09cf](https://github.com/kip93/cp437-tools/commit/4ab09cf) Check before publish
-  * *On 26 Mar 2024, 20:23:52*
-* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#ad442b8](https://github.com/kip93/cp437-tools/commit/ad442b8) Bunch of meta handling improvements
-  * *On 26 Mar 2024, 20:22:36*
+  * [#5fde438](https://github.com/kip93/cp437-tools/commit/5fde438) Release 0.4.0
+  * *On 26 Mar 2024, 22:43:32*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 26 Mar 2024, 21:48:07 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 26 Mar 2024, 22:47:49 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

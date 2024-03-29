@@ -45,6 +45,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 2 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#13bd1c1](https://github.com/kip93/cp437-tools/commit/13bd1c1) More tests
+  * [#784286f](https://github.com/kip93/cp437-tools/commit/784286f) Standardize-ish exit codes
+  * *On 29 Mar 2024, 22:14:18*
 * ➡️ Pushed 6 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
   * [#eb51fc5](https://github.com/kip93/cp437-tools/commit/eb51fc5) Use meta default
   * [#4b74a72](https://github.com/kip93/cp437-tools/commit/4b74a72) Add meta tests
@@ -60,14 +64,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 26 Mar 2024, 23:19:55*
 * ⏺️ Created new tag v0.4.1 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
   * *On 26 Mar 2024, 22:45:52*
-* ➡️ Pushed 2 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#3ccd1cf](https://github.com/kip93/cp437-tools/commit/3ccd1cf) Release 0.4.1
-  * [#810e151](https://github.com/kip93/cp437-tools/commit/810e151) Show cp437-set-meta documentation
-  * *On 26 Mar 2024, 22:45:48*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 29 Mar 2024, 21:48:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 29 Mar 2024, 22:47:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,14 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 6 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#eb51fc5](https://github.com/kip93/cp437-tools/commit/eb51fc5) Use meta default
+  * [#4b74a72](https://github.com/kip93/cp437-tools/commit/4b74a72) Add meta tests
+  * [#0ef853a](https://github.com/kip93/cp437-tools/commit/0ef853a) Fix type check
+  * [#0d7a114](https://github.com/kip93/cp437-tools/commit/0d7a114) Fix date check
+  * [#8a816d8](https://github.com/kip93/cp437-tools/commit/8a816d8) Add meta defaults
+  * [#218537e](https://github.com/kip93/cp437-tools/commit/218537e) Add test coverage
+  * *On 28 Mar 2024, 23:54:28*
 * ➡️ Pushed 3 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
   * [#84543c3](https://github.com/kip93/cp437-tools/commit/84543c3) Add first tests
   * [#4460134](https://github.com/kip93/cp437-tools/commit/4460134) Move process function to its own file
@@ -56,12 +64,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#3ccd1cf](https://github.com/kip93/cp437-tools/commit/3ccd1cf) Release 0.4.1
   * [#810e151](https://github.com/kip93/cp437-tools/commit/810e151) Show cp437-set-meta documentation
   * *On 26 Mar 2024, 22:45:48*
-* ⏺️ Created new tag v0.4.0 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
-  * *On 26 Mar 2024, 22:44:13*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 28 Mar 2024, 23:47:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 29 Mar 2024, 01:07:14 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

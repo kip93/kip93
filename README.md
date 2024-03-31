@@ -46,6 +46,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <summary><h3>📰 Recent activity</h3></summary>
 
 * ➡️ Pushed 2 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#b66ee3c](https://github.com/kip93/cp437-tools/commit/b66ee3c) More tests &amp; fixes
+  * [#3ea5930](https://github.com/kip93/cp437-tools/commit/3ea5930) Add crates.io badge
+  * *On 31 Mar 2024, 14:27:53*
+* ➡️ Pushed 2 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
   * [#13bd1c1](https://github.com/kip93/cp437-tools/commit/13bd1c1) More tests
   * [#784286f](https://github.com/kip93/cp437-tools/commit/784286f) Standardize-ish exit codes
   * *On 29 Mar 2024, 22:14:18*
@@ -62,12 +66,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#4460134](https://github.com/kip93/cp437-tools/commit/4460134) Move process function to its own file
   * [#c914526](https://github.com/kip93/cp437-tools/commit/c914526) Fix format again
   * *On 26 Mar 2024, 23:19:55*
-* ⏺️ Created new tag v0.4.1 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
-  * *On 26 Mar 2024, 22:45:52*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 31 Mar 2024, 13:47:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 31 Mar 2024, 14:48:01 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

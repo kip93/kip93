@@ -45,19 +45,20 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ⏺️ Created new tag v0.5.3 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
+  * *On 22 Apr 2024, 17:55:44*
+* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#aa22885](https://github.com/kip93/cp437-tools/commit/aa22885) Release 0.5.3
+  * *On 22 Apr 2024, 17:55:20*
 * ⏺️ Created new tag v0.5.2 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
   * *On 20 Apr 2024, 01:43:04*
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
   * [#4ae0897](https://github.com/kip93/cp437-tools/commit/4ae0897) Release 0.5.2
   * *On 20 Apr 2024, 01:43:01*
-  * *On 20 Apr 2024, 00:32:18*
-* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#8d4016a](https://github.com/kip93/cp437-tools/commit/8d4016a) Release 0.5.2
-  * *On 20 Apr 2024, 00:30:02*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 22 Apr 2024, 17:47:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 22 Apr 2024, 18:48:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

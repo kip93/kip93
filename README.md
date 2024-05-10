@@ -45,6 +45,13 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 5 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#5fe33c2](https://github.com/kip93/cp437-tools/commit/5fe33c2) Fix nix build
+  * [#8a240d5](https://github.com/kip93/cp437-tools/commit/8a240d5) yaec (yet another exit code)
+  * [#cb918a6](https://github.com/kip93/cp437-tools/commit/cb918a6) Clean up README
+  * [#4b80005](https://github.com/kip93/cp437-tools/commit/4b80005) Update deps
+  * [#b317e2f](https://github.com/kip93/cp437-tools/commit/b317e2f) Match rustdoc to man page
+  * *On 10 May 2024, 17:53:40*
 * ➡️ Pushed 1208 commits in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `master`
   * [#adc0a6e](https://github.com/kip93/nixpkgs/commit/adc0a6e) python312Packages.bthome-ble: 3.8.1 -&gt; 3.9.0
 
@@ -185,67 +192,10 @@ fabric-installer: 1.0.0 -&gt; 1.0.1
 
 ironbar: 0.14.1 -&gt; 0.15.0; added feature checks
   * *On 7 May 2024, 20:27:30*
-* ➡️ Pushed 10000 commits in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `master`
-  * [#f88600a](https://github.com/kip93/nixpkgs/commit/f88600a) micronaut: 4.4.1 -&gt; 4.4.2
-  * [#7defb8d](https://github.com/kip93/nixpkgs/commit/7defb8d) Merge pull request #308893 from GaetanLepage/zed
-
-zed-editor: 0.133.5 -&gt; 0.133.7
-  * [#f9b456b](https://github.com/kip93/nixpkgs/commit/f9b456b) opcr-policy: 0.2.12 -&gt; 0.2.13
-  * [#6c67846](https://github.com/kip93/nixpkgs/commit/6c67846) Merge pull request #308718 from JohnRTitor/eww
-
-eww: 0.6.0 -&gt; 0.6.0-unstable-2024-04-26
-  * [#7a80902](https://github.com/kip93/nixpkgs/commit/7a80902) boxbuddy: 2.2.2 -&gt; 2.2.3
-  * [#7ad92de](https://github.com/kip93/nixpkgs/commit/7ad92de) mu: 1.12.4 -&gt; 1.12.5
-  * [#a9a27da](https://github.com/kip93/nixpkgs/commit/a9a27da) Merge pull request #308481 from RaySlash/yofi
-
-yofi: init at 0.2.2
-  * [#15b5d6f](https://github.com/kip93/nixpkgs/commit/15b5d6f) prometheus-gitlab-ci-pipelines-exporter: 0.5.7 -&gt; 0.5.8
-  * [#76de884](https://github.com/kip93/nixpkgs/commit/76de884) gnome.gnome-terminal: 3.52.0 → 3.52.1
-
-https://gitlab.gnome.org/GNOME/gnome-terminal/-/compare/3.52.0...3.52.1
-
-org.gnome.ShellSearchProvider2.xml is added in-tree via
-https://gitlab.gnome.org/GNOME/gnome-terminal/-/commit/63b43d7385cbb5369face0c27ae8a87bfc8acdfd
-  * [#fb8e506](https://github.com/kip93/nixpkgs/commit/fb8e506) vte: 0.76.0 → 0.76.1
-
-https://gitlab.gnome.org/GNOME/vte/-/compare/0.76.0...0.76.1
-
-box_drawing_generate.sh dropped via
-https://gitlab.gnome.org/GNOME/vte/-/commit/7666d4763be31ceb673136ed09bb6fb7ccdfd48a
-  * [#cc7b19b](https://github.com/kip93/nixpkgs/commit/cc7b19b) gnome.gnome-tweaks: 46.0 → 46.1
-
-https://gitlab.gnome.org/GNOME/gnome-tweaks/-/compare/46.0...46.1
-  * [#e8f6b2d](https://github.com/kip93/nixpkgs/commit/e8f6b2d) gnome.gnome-software: 46.0 → 46.1
-
-https://gitlab.gnome.org/GNOME/gnome-software/-/compare/46.0...46.1
-  * [#e7f6995](https://github.com/kip93/nixpkgs/commit/e7f6995) uhk-agent: 4.0.2 -&gt; 4.1.0
-  * [#c5c843e](https://github.com/kip93/nixpkgs/commit/c5c843e) evince: 46.0 → 46.1
-
-https://gitlab.gnome.org/GNOME/evince/-/compare/46.0...46.1
-
-The gio-unix-2.0 thing is there for https://gitlab.gnome.org/GNOME/evince/-/issues/950, I
-think with https://gitlab.gnome.org/GNOME/glib/-/commit/5efb84f24a83ba10f6e1ae0385fa0fbc68103ad1
-gio-unix-2.0.pc is no longer needed for gio/gunixfdlist.h.
-  * [#82bac23](https://github.com/kip93/nixpkgs/commit/82bac23) oranda: 0.6.2 -&gt; 0.6.3
-  * [#374e9f9](https://github.com/kip93/nixpkgs/commit/374e9f9) Merge pull request #308865 from r-ryantm/auto-update/wio
-
-wio: unstable-2024-03-23 -&gt; 0.17.3-unstable-2024-04-30
-  * [#dc6b85e](https://github.com/kip93/nixpkgs/commit/dc6b85e) linux_xanmod_latest: 6.8.8 -&gt; 6.8.9
-  * [#a013465](https://github.com/kip93/nixpkgs/commit/a013465) emilua: 0.6.0 -&gt; 0.7.2 (#308155)
-  * [#5f3e8db](https://github.com/kip93/nixpkgs/commit/5f3e8db) rosa: 1.2.36 -&gt; 1.2.38 (#308534)
-
-* rosa: 1.2.36 -&gt; 1.2.38
-
-* disable tests requiring network access
-
-- e2e tests require network access
-- TestRhRegionCommand require network access
-  * [#03efa21](https://github.com/kip93/nixpkgs/commit/03efa21) linux_xanmod: 6.6.29 -&gt; 6.6.30
-  * *On 6 May 2024, 19:50:59*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 May 2024, 17:47:54 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 May 2024, 18:48:13 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

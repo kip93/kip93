@@ -45,6 +45,56 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 1208 commits in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `master`
+  * [#adc0a6e](https://github.com/kip93/nixpkgs/commit/adc0a6e) python312Packages.bthome-ble: 3.8.1 -&gt; 3.9.0
+
+Diff: https://github.com/Bluetooth-Devices/bthome-ble/compare/refs/tags/v3.8.1...v3.9.0
+
+Changelog: https://github.com/bluetooth-devices/bthome-ble/blob/v3.9.0/CHANGELOG.md
+  * [#cf03299](https://github.com/kip93/nixpkgs/commit/cf03299) python312Packages.cle: 9.2.101 -&gt; 9.2.102
+
+Diff: https://github.com/angr/cle/compare/refs/tags/v9.2.101...v9.2.102
+  * [#c7b91fa](https://github.com/kip93/nixpkgs/commit/c7b91fa) python312Packages.angr: 9.2.101 -&gt; 9.2.102
+
+Diff: https://github.com/angr/angr/compare/refs/tags/v9.2.101...v9.2.102
+  * [#6f02237](https://github.com/kip93/nixpkgs/commit/6f02237) python312Packages.claripy: 9.2.101 -&gt; 9.2.102
+
+Diff: https://github.com/angr/claripy/compare/refs/tags/v9.2.101...v9.2.102
+  * [#9bd0936](https://github.com/kip93/nixpkgs/commit/9bd0936) python312Packages.pyvex: 9.2.101 -&gt; 9.2.102
+  * [#1009e46](https://github.com/kip93/nixpkgs/commit/1009e46) python312Packages.ailment: 9.2.101 -&gt; 9.2.102
+
+Diff: https://github.com/angr/ailment/compare/refs/tags/v9.2.101...v9.2.102
+  * [#34a9993](https://github.com/kip93/nixpkgs/commit/34a9993) python312Packages.archinfo: 9.2.101 -&gt; 9.2.102
+
+Diff: https://github.com/angr/archinfo/compare/refs/tags/v9.2.101...v9.2.102
+  * [#2156420](https://github.com/kip93/nixpkgs/commit/2156420) retool: 2.3.7 -&gt; 2.3.8
+  * [#81a0bc0](https://github.com/kip93/nixpkgs/commit/81a0bc0) python312Packages.aiomisc-pytest: format with nixfmt
+  * [#834e4ad](https://github.com/kip93/nixpkgs/commit/834e4ad) python312Packages.aiomisc-pytest: refactor
+  * [#71be4cc](https://github.com/kip93/nixpkgs/commit/71be4cc) python312Packages.aiomisc-pytest: 1.1.2 -&gt; 1.2.1
+  * [#525c07e](https://github.com/kip93/nixpkgs/commit/525c07e) cnspec: 11.2.0 -&gt; 11.3.0
+
+Diff: https://github.com/mondoohq/cnspec/compare/refs/tags/v11.2.0...v11.3.0
+
+Changelog: https://github.com/mondoohq/cnspec/releases/tag/v11.3.0
+  * [#2f6997f](https://github.com/kip93/nixpkgs/commit/2f6997f) python-m2crypto: fix cross-compilation
+  * [#3a3646d](https://github.com/kip93/nixpkgs/commit/3a3646d) python312Packages.llama-index-readers-file: 0.1.20 -&gt; 0.1.21
+  * [#b53d93d](https://github.com/kip93/nixpkgs/commit/b53d93d) python311Packages.torchrl: 0.3.1 -&gt; 0.4.0
+
+Diff: https://github.com/pytorch/rl/compare/refs/tags/v0.3.1...v0.4.0
+
+Changelog: https://github.com/pytorch/rl/releases/tag/v0.4.0
+  * [#a245bd2](https://github.com/kip93/nixpkgs/commit/a245bd2) signalbackup-tools: 20240504 -&gt; 20240506
+
+Diff: https://github.com/bepaald/signalbackup-tools/compare/20240504...20240506
+  * [#c7dfc2e](https://github.com/kip93/nixpkgs/commit/c7dfc2e) knowsmore: 0.1.37 -&gt; 0.1.38
+  * [#960558f](https://github.com/kip93/nixpkgs/commit/960558f) instawow: 4.1.1 -&gt; 4.2.0
+  * [#d083724](https://github.com/kip93/nixpkgs/commit/d083724) python311Packages.tensordict: 0.3.1 -&gt; 0.4.0
+
+Diff: https://github.com/pytorch/tensordict/compare/refs/tags/v0.3.1...v0.4.0
+
+Changelog: https://github.com/pytorch/tensordict/releases/tag/v0.4.0
+  * [#02b02c9](https://github.com/kip93/nixpkgs/commit/02b02c9) python312Packages.atsim-potentials: use pyproject = true, disable some tests for python312
+  * *On 10 May 2024, 17:06:43*
 * ➡️ Pushed 310 commits in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `master`
   * [#98d8d1e](https://github.com/kip93/nixpkgs/commit/98d8d1e) glib: enable introspection on cross
   * [#7f28490](https://github.com/kip93/nixpkgs/commit/7f28490) go-errorlint: 1.4.5 -&gt; 1.5.1
@@ -192,50 +242,10 @@ wio: unstable-2024-03-23 -&gt; 0.17.3-unstable-2024-04-30
 - TestRhRegionCommand require network access
   * [#03efa21](https://github.com/kip93/nixpkgs/commit/03efa21) linux_xanmod: 6.6.29 -&gt; 6.6.30
   * *On 6 May 2024, 19:50:59*
-* ➡️ Pushed 10000 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#bfa909a](https://github.com/OroraTech/nixpkgs/commit/bfa909a) kdePackages.qtkeychain: 0.14.2 -&gt; 0.14.3
-  * [#3a772a7](https://github.com/OroraTech/nixpkgs/commit/3a772a7) nwjs: 0.85.0 -&gt; 0.87.0
-  * [#d1e72c5](https://github.com/OroraTech/nixpkgs/commit/d1e72c5) Merge pull request #308843 from bobby285271/upd/goa-gtk
-
-gnome-online-accounts-gtk: 3.50.1 -&gt; 3.50.2
-  * [#94b8b02](https://github.com/OroraTech/nixpkgs/commit/94b8b02) fflogs: 8.3.42 -&gt; 8.4.0
-  * [#5a3e3f6](https://github.com/OroraTech/nixpkgs/commit/5a3e3f6) Merge pull request #308812 from NickCao/sing-box
-
-sing-box: 1.8.12 -&gt; 1.8.13
-  * [#84d0380](https://github.com/OroraTech/nixpkgs/commit/84d0380) Merge pull request #304673 from NickCao/tplay
-
-tplay: use rustPlatform.bindgenHook
-  * [#80f9c62](https://github.com/OroraTech/nixpkgs/commit/80f9c62) hunt: Fix homepage url
-  * [#65847cb](https://github.com/OroraTech/nixpkgs/commit/65847cb) pluto: 5.19.1 -&gt; 5.19.4
-  * [#ab02075](https://github.com/OroraTech/nixpkgs/commit/ab02075) agola: 0.8.0 -&gt; 0.9.1
-  * [#cbc0c4e](https://github.com/OroraTech/nixpkgs/commit/cbc0c4e) libretro.mame: unstable-2024-04-26 -&gt; unstable-2024-05-03
-  * [#4da0f53](https://github.com/OroraTech/nixpkgs/commit/4da0f53) Merge pull request #305966 from RafaelKr/doc/fix-common-config-example
-
-doc: remove discouraged enablePHP config from abstractions example
-  * [#2eed3a9](https://github.com/OroraTech/nixpkgs/commit/2eed3a9) Merge pull request #308592 from r-ryantm/auto-update/kodiPackages.pvr-hts
-
-kodiPackages.pvr-hts: 20.7.0 -&gt; 21.2.3
-  * [#736142a](https://github.com/OroraTech/nixpkgs/commit/736142a) Merge pull request #308783 from r-ryantm/auto-update/github-runner
-
-github-runner: 2.316.0 -&gt; 2.316.1
-  * [#e1c110e](https://github.com/OroraTech/nixpkgs/commit/e1c110e) golangci-lint: 1.57.2 -&gt; 1.58.0
-
-Diff: https://github.com/golangci/golangci-lint/compare/v1.57.2...v1.58.0
-
-Changelog: https://github.com/golangci/golangci-lint/blob/v1.58.0/CHANGELOG.md
-  * [#5942ac9](https://github.com/OroraTech/nixpkgs/commit/5942ac9) faac: cleanup null in inputs, don&#39;t set empty list, add meta.homepage
-  * [#8278c66](https://github.com/OroraTech/nixpkgs/commit/8278c66) libretro.fbneo: unstable-2024-04-20 -&gt; unstable-2024-05-03
-  * [#5eb0774](https://github.com/OroraTech/nixpkgs/commit/5eb0774) libretro.ppsspp: unstable-2024-04-20 -&gt; unstable-2024-05-03
-  * [#0f8e7b8](https://github.com/OroraTech/nixpkgs/commit/0f8e7b8) Merge pull request #307857 from TomaSajt/hieroglyphic
-
-hieroglyphic: init at 1.0.1
-  * [#ed074b6](https://github.com/OroraTech/nixpkgs/commit/ed074b6) libretro.mame2003-plus: unstable-2024-04-27 -&gt; unstable-2024-05-03
-  * [#304dce0](https://github.com/OroraTech/nixpkgs/commit/304dce0) libretro.beetle-supergrafx: unstable-2024-03-22 -&gt; unstable-2024-05-03
-  * *On 6 May 2024, 16:20:40*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 May 2024, 16:47:56 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 May 2024, 17:47:54 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

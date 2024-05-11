@@ -46,21 +46,24 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <summary><h3>📰 Recent activity</h3></summary>
 
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#efb49b8](https://github.com/kip93/cp437-tools/commit/efb49b8) Allow cargo build to access the nix cache
+  * *On 11 May 2024, 10:40:15*
+* ➡️ Pushed 2 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#62d685f](https://github.com/kip93/cp437-tools/commit/62d685f) Allow cargo build to use nix cache
+  * [#c4f7bc9](https://github.com/kip93/cp437-tools/commit/c4f7bc9) Ignore error
+
+(for now??)
+  * *On 11 May 2024, 10:34:39*
+* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
   * [#cec3253](https://github.com/kip93/cp437-tools/commit/cec3253) Add cargo build to CI
   * *On 11 May 2024, 02:32:20*
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
   * [#c2415d9](https://github.com/kip93/cp437-tools/commit/c2415d9) Add direnv shell
   * *On 11 May 2024, 02:15:27*
-* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#e1920e4](https://github.com/kip93/cp437-tools/commit/e1920e4) Add a nix cache
-  * *On 11 May 2024, 02:07:04*
-* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#4caae23](https://github.com/kip93/cp437-tools/commit/4caae23) Add a nix cache
-  * *On 11 May 2024, 02:02:31*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 11 May 2024, 09:47:37 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 11 May 2024, 10:47:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

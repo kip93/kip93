@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
+  * *On 30 May 2024, 17:06:13*
   * *On 29 May 2024, 15:30:47*
 * ➡️ Pushed 9444 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#1b45be7](https://github.com/OroraTech/nixpkgs/commit/1b45be7) kubebuilder: 3.15.0 -&gt; 3.15.1
@@ -87,12 +89,10 @@ secp256k1: 0.4.1 -&gt; 0.5.0
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
   * [#78aa1e9](https://github.com/kip93/cp437-tools/commit/78aa1e9) Fix direnv shell
   * *On 19 May 2024, 12:24:03*
-* ⏺️ Created new branch idea/thumbnailers in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
-  * *On 19 May 2024, 12:23:29*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 30 May 2024, 16:47:45 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 30 May 2024, 17:48:02 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

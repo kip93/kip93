@@ -45,54 +45,78 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+  * *On 31 May 2024, 10:23:37*
+* ➡️ Pushed 9069 commits in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `master`
+  * [#e864128](https://github.com/kip93/nixpkgs/commit/e864128) Merge pull request #314911 from fabaff/asyncwhois-bump
+
+python312Packages.asyncwhois: 1.1.2 -&gt; 1.1.3
+  * [#3527c0b](https://github.com/kip93/nixpkgs/commit/3527c0b) python312Packages.goodwe: 0.4.5 -&gt; 0.4.6
+
+Diff: https://github.com/marcelblijleven/goodwe/compare/refs/tags/v0.4.5...v0.4.6
+
+Changelog: https://github.com/marcelblijleven/goodwe/releases/tag/v0.4.6
+  * [#a79aadf](https://github.com/kip93/nixpkgs/commit/a79aadf) jailer: 16.1.4 -&gt; 16.2
+
+https://github.com/Wisser/Jailer/releases/tag/v16.2
+  * [#c553c2c](https://github.com/kip93/nixpkgs/commit/c553c2c) slumber: 1.3.1 -&gt; 1.3.2
+  * [#c6c6392](https://github.com/kip93/nixpkgs/commit/c6c6392) kitty: 0.34.1 -&gt; 0.35.0
+  * [#b162fe8](https://github.com/kip93/nixpkgs/commit/b162fe8) ast-grep: 0.22.3 -&gt; 0.22.4
+  * [#58e5573](https://github.com/kip93/nixpkgs/commit/58e5573) buildkite-agent-metrics: 5.9.4 -&gt; 5.9.5
+  * [#01dd67c](https://github.com/kip93/nixpkgs/commit/01dd67c) argo: 3.5.6 -&gt; 3.5.7
+  * [#1a86669](https://github.com/kip93/nixpkgs/commit/1a86669) gnome-monitor-config: init at 0-unstable-2023-09-26
+  * [#8ad2c84](https://github.com/kip93/nixpkgs/commit/8ad2c84) Merge pull request #315027 from luoiuan/master
+
+dbeaver-bin: add `wrapGAppsHook`
+  * [#f51f8dd](https://github.com/kip93/nixpkgs/commit/f51f8dd) Merge pull request #315028 from K900/you-wouldnt-lto-a-test
+
+kanidm: don&#39;t LTO tests
+  * [#32e810e](https://github.com/kip93/nixpkgs/commit/32e810e) kubeshark: 52.3.0 -&gt; 52.3.59
+  * [#353aa12](https://github.com/kip93/nixpkgs/commit/353aa12) nixos/hypridle: init
+  * [#77e9384](https://github.com/kip93/nixpkgs/commit/77e9384) Merge pull request #314428 from SuperSandro2000/nox-gst
+  * [#07a0b79](https://github.com/kip93/nixpkgs/commit/07a0b79) nixos/hyprlock: init module
+  * [#f37d2a2](https://github.com/kip93/nixpkgs/commit/f37d2a2) Merge pull request #314508 from aaronjheng/croc
+  * [#3bcb4dc](https://github.com/kip93/nixpkgs/commit/3bcb4dc) build(deps): bump cachix/cachix-action from 14 to 15
+
+Bumps [cachix/cachix-action](https://github.com/cachix/cachix-action) from 14 to 15.
+- [Release notes](https://github.com/cachix/cachix-action/releases)
+- [Commits](https://github.com/cachix/cachix-action/compare/18cf96c7c98e048e10a83abd92116114cd8504be...ad2ddac53f961de1989924296a1f236fcfbaa4fc)
+
+---
+updated-dependencies:
+- dependency-name: cachix/cachix-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+  * [#25755c0](https://github.com/kip93/nixpkgs/commit/25755c0) discourse: 3.1.0 -&gt; 3.2.2
+
+https://meta.discourse.org/t/3-1-1-security-and-bug-fix-release/278760
+https://meta.discourse.org/t/3-1-2-security-and-bug-fix-release/282427
+https://meta.discourse.org/t/3-1-3-security-and-bug-fix-release/284973
+https://meta.discourse.org/t/3-1-4-security-and-bug-fix-release/290939
+https://blog.discourse.org/2024/01/celebrating-discourse-3-2/
+https://meta.discourse.org/t/3-2-1-security-and-bug-fix-release/298237
+https://meta.discourse.org/t/3-2-2-bug-fix-release/307780
+
+Co-Authored-By: Christian Albrecht &lt;christian.albrecht@mayflower.de&gt;
+Fixes: CVE-2023-38706, CVE-2023-40588, CVE-2023-41043, CVE-2023-41042,
+       CVE-2023-44388, CVE-2023-43814, CVE-2023-45147, CVE-2023-43659,
+       CVE-2023-44391, CVE-2023-45131, CVE-2023-47120, CVE-2023-45816,
+       CVE-2023-46130, CVE-2023-47119, CVE-2023-47121, CVE-2023-45806,
+       CVE-2023-49099, CVE-2024-21655, CVE-2024-21655, CVE-2023-48297,
+       CVE-2024-24748, CVE-2024-24827, CVE-2024-27085, CVE-2024-27100,
+       CVE-2024-28242
+  * [#f27746b](https://github.com/kip93/nixpkgs/commit/f27746b) python312Packages.latex2pydata: init at 0.2.0
+  * [#4bbd073](https://github.com/kip93/nixpkgs/commit/4bbd073) python311Packages.publicsuffixlist: 0.10.0.20240515 -&gt; 0.10.0.20240525
+  * *On 31 May 2024, 10:21:47*
 * 🌟 Starred [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
   * *On 30 May 2024, 17:06:13*
   * *On 29 May 2024, 15:30:47*
-* ➡️ Pushed 9444 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#1b45be7](https://github.com/OroraTech/nixpkgs/commit/1b45be7) kubebuilder: 3.15.0 -&gt; 3.15.1
-  * [#e071849](https://github.com/OroraTech/nixpkgs/commit/e071849) kyverno: 1.12.1 -&gt; 1.12.2
-  * [#9c70938](https://github.com/OroraTech/nixpkgs/commit/9c70938) kubecolor: 0.3.2 -&gt; 0.3.3
-  * [#a96a637](https://github.com/OroraTech/nixpkgs/commit/a96a637) kubeseal: 0.26.2 -&gt; 0.26.3
-  * [#ca514fe](https://github.com/OroraTech/nixpkgs/commit/ca514fe) kubestroyer: 0.2 -&gt; 0.3.0
-  * [#c3931d8](https://github.com/OroraTech/nixpkgs/commit/c3931d8) jaq: 1.3.0 -&gt; 1.4.0
-  * [#fc37fd1](https://github.com/OroraTech/nixpkgs/commit/fc37fd1) chromium: 125.0.6422.76 -&gt; 125.0.6422.112
-
-https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_23.html
-
-This update includes 1 security fix. Google is aware that an exploit for
-CVE-2024-5274 exists in the wild.
-
-CVEs:
-CVE-2024-5274
-  * [#42ddc82](https://github.com/OroraTech/nixpkgs/commit/42ddc82) chromedriver: 125.0.6422.76 -&gt; 125.0.6422.112
-  * [#c39ac51](https://github.com/OroraTech/nixpkgs/commit/c39ac51) gfold: 4.4.1 -&gt; 4.5.0
-  * [#db44dc6](https://github.com/OroraTech/nixpkgs/commit/db44dc6) fooyin: 0.4.2 -&gt; 0.4.3
-  * [#ddde296](https://github.com/OroraTech/nixpkgs/commit/ddde296) ff2mpv-rust: 1.1.4 -&gt; 1.1.5
-  * [#9b7cb95](https://github.com/OroraTech/nixpkgs/commit/9b7cb95) coreth: 0.13.3 -&gt; 0.13.4
-  * [#203a48a](https://github.com/OroraTech/nixpkgs/commit/203a48a) pkgs/development: remove unused fetchpatch arguments
-  * [#cc8120d](https://github.com/OroraTech/nixpkgs/commit/cc8120d) pkgs/by-name: remove unuseed fetchpatch arguments
-  * [#d249d47](https://github.com/OroraTech/nixpkgs/commit/d249d47) cfspeedtest: 1.2.3 -&gt; 1.2.4
-  * [#b08ebe2](https://github.com/OroraTech/nixpkgs/commit/b08ebe2) Merge master into haskell-updates
-  * [#bfb7a88](https://github.com/OroraTech/nixpkgs/commit/bfb7a88) Merge pull request #314109 from trofi/githooks.tests-fix-eval
-
-githooks.tests: fix eval
-  * [#47bdef6](https://github.com/OroraTech/nixpkgs/commit/47bdef6) Merge pull request #311260 from purepani/update-svelte-language-tools
-
-svelte-language-server: Use buildNpmPackage
-  * [#fc165a0](https://github.com/OroraTech/nixpkgs/commit/fc165a0) Merge pull request #309524 from r-ryantm/auto-update/enet
-
-enet: 1.3.17 -&gt; 1.3.18
-  * [#3de810d](https://github.com/OroraTech/nixpkgs/commit/3de810d) Merge pull request #309724 from r-ryantm/auto-update/secp256k1
-
-secp256k1: 0.4.1 -&gt; 0.5.0
-  * *On 27 May 2024, 13:45:25*
-* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#78aa1e9](https://github.com/kip93/cp437-tools/commit/78aa1e9) Fix direnv shell
-  * *On 19 May 2024, 12:24:03*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 31 May 2024, 09:48:17 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 31 May 2024, 10:47:50 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

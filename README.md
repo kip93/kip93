@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [tstack/lnav](https://github.com/tstack/lnav)
+  * *On 16 Jun 2024, 13:15:45*
 * 🌟 Starred [MatthewCroughan/nixkvm](https://github.com/MatthewCroughan/nixkvm)
   * *On 9 Jun 2024, 09:55:23*
   * *On 31 May 2024, 10:23:37*
@@ -112,12 +114,10 @@ Fixes: CVE-2023-38706, CVE-2023-40588, CVE-2023-41043, CVE-2023-41042,
   * [#f27746b](https://github.com/kip93/nixpkgs/commit/f27746b) python312Packages.latex2pydata: init at 0.2.0
   * [#4bbd073](https://github.com/kip93/nixpkgs/commit/4bbd073) python311Packages.publicsuffixlist: 0.10.0.20240515 -&gt; 0.10.0.20240525
   * *On 31 May 2024, 10:21:47*
-* 🌟 Starred [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
-  * *On 30 May 2024, 17:06:13*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 16 Jun 2024, 12:52:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 16 Jun 2024, 13:47:38 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

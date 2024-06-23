@@ -45,17 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)
+  * *On 23 Jun 2024, 13:39:33*
 * 🌟 Starred [Grafcube/suedit.nvim](https://github.com/Grafcube/suedit.nvim)
   * *On 20 Jun 2024, 12:28:32*
 * 🌟 Starred [tstack/lnav](https://github.com/tstack/lnav)
   * *On 16 Jun 2024, 13:15:45*
 * 🌟 Starred [MatthewCroughan/nixkvm](https://github.com/MatthewCroughan/nixkvm)
   * *On 9 Jun 2024, 09:55:23*
-  * *On 31 May 2024, 10:23:37*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 23 Jun 2024, 12:52:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 23 Jun 2024, 13:47:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

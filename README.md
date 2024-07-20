@@ -45,18 +45,27 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#14ed3ff](https://github.com/kip93/nixplusplus/commit/14ed3ff) Remove some hydra jobs
+  * *On 20 Jul 2024, 20:46:41*
+* ➡️ Pushed 8 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#d84fd3f](https://github.com/kip93/nixplusplus/commit/d84fd3f) Temp github action to replace borked hydra setup
+  * [#63d0754](https://github.com/kip93/nixplusplus/commit/63d0754) Remove outdated patches
+  * [#839f148](https://github.com/kip93/nixplusplus/commit/839f148) Fix backup module test
+  * [#cee5d97](https://github.com/kip93/nixplusplus/commit/cee5d97) Fix nixSchemas
+  * [#be2cb56](https://github.com/kip93/nixplusplus/commit/be2cb56) Fix some warnings
+  * [#db8aa71](https://github.com/kip93/nixplusplus/commit/db8aa71) Revamp systems system
+  * [#191a1f5](https://github.com/kip93/nixplusplus/commit/191a1f5) Fix nix checks
+  * [#ad3d36b](https://github.com/kip93/nixplusplus/commit/ad3d36b) Update inputs
+  * *On 20 Jul 2024, 20:38:09*
 * 🌟 Starred [styx-static/styx](https://github.com/styx-static/styx)
   * *On 19 Jul 2024, 20:30:13*
 * 🌟 Starred [uutils/coreutils](https://github.com/uutils/coreutils)
   * *On 1 Jul 2024, 09:36:08*
-* 🌟 Starred [Born2Root/Fast-Font](https://github.com/Born2Root/Fast-Font)
-  * *On 29 Jun 2024, 09:45:08*
-* 🌟 Starred [rjmacarthy/twinny](https://github.com/rjmacarthy/twinny)
-  * *On 29 Jun 2024, 00:09:55*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 20 Jul 2024, 19:48:30 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 20 Jul 2024, 20:47:45 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

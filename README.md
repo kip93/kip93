@@ -46,6 +46,12 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <summary><h3>📰 Recent activity</h3></summary>
 
 * ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#b7cf341](https://github.com/kip93/nixplusplus/commit/b7cf341) Remove devenv impurity
+  * *On 20 Jul 2024, 21:06:44*
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
+  * [#49015f4](https://github.com/kip93/nixplusplus/commit/49015f4) Remove devenv impurity
+  * *On 20 Jul 2024, 20:59:09*
+* ➡️ Pushed 1 commit in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
   * [#14ed3ff](https://github.com/kip93/nixplusplus/commit/14ed3ff) Remove some hydra jobs
   * *On 20 Jul 2024, 20:46:41*
 * ➡️ Pushed 8 commits in [kip93/nixplusplus](https://github.com/kip93/nixplusplus) on branch `main`
@@ -58,14 +64,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#191a1f5](https://github.com/kip93/nixplusplus/commit/191a1f5) Fix nix checks
   * [#ad3d36b](https://github.com/kip93/nixplusplus/commit/ad3d36b) Update inputs
   * *On 20 Jul 2024, 20:38:09*
-* 🌟 Starred [styx-static/styx](https://github.com/styx-static/styx)
-  * *On 19 Jul 2024, 20:30:13*
-* 🌟 Starred [uutils/coreutils](https://github.com/uutils/coreutils)
-  * *On 1 Jul 2024, 09:36:08*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 20 Jul 2024, 20:47:45 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 20 Jul 2024, 21:48:58 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

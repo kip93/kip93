@@ -45,6 +45,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 1 commit in [kip93/qmk](https://github.com/kip93/qmk) on branch `chore/update-nixpkgs`
+  * [#8cc6ca0](https://github.com/kip93/qmk/commit/8cc6ca0) Fix minor typo
+  * *On 2 Aug 2024, 18:54:10*
 * 🔃 Opened [#24230 Update nixpkgs (2024-07-31)](https://github.com/qmk/qmk_firmware/pull/24230) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
                 * 3 files changed `++5 --5`
   * *On 2 Aug 2024, 17:26:42*
@@ -52,12 +55,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 2 Aug 2024, 16:54:06*
 * 🍽️ Forked [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) to [kip93/qmk](https://github.com/kip93/qmk)
   * *On 2 Aug 2024, 16:48:50*
-* 🌟 Starred [baerwolf/USBaspLoader](https://github.com/baerwolf/USBaspLoader)
-  * *On 2 Aug 2024, 04:39:48*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 2 Aug 2024, 18:47:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 2 Aug 2024, 19:47:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

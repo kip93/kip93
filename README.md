@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [openKolibri/halo-90](https://github.com/openKolibri/halo-90)
+  * *On 11 Sept 2024, 18:15:21*
 * 🌟 Starred [astro/deadnix](https://github.com/astro/deadnix)
   * *On 9 Sept 2024, 17:47:01*
 * 🌟 Starred [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS)
   * *On 31 Aug 2024, 16:53:35*
 * 🌟 Starred [Ttanasart-pt/Pixel-Composer](https://github.com/Ttanasart-pt/Pixel-Composer)
   * *On 31 Aug 2024, 10:40:18*
-* #️⃣ Opened [#377 Move libnixstore to independent repo](https://github.com/nix-community/harmonia/issues/377) in [nix-community/harmonia](https://github.com/nix-community/harmonia)
-  * *On 9 Aug 2024, 15:40:37*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 11 Sept 2024, 20:47:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 11 Sept 2024, 21:47:43 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

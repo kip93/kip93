@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [numtide/nixos-facter](https://github.com/numtide/nixos-facter)
+  * *On 19 Sept 2024, 17:16:43*
 * 🌟 Starred [openKolibri/halo-90](https://github.com/openKolibri/halo-90)
   * *On 11 Sept 2024, 18:15:21*
 * 🌟 Starred [astro/deadnix](https://github.com/astro/deadnix)
   * *On 9 Sept 2024, 17:47:01*
 * 🌟 Starred [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS)
   * *On 31 Aug 2024, 16:53:35*
-* 🌟 Starred [Ttanasart-pt/Pixel-Composer](https://github.com/Ttanasart-pt/Pixel-Composer)
-  * *On 31 Aug 2024, 10:40:18*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Sept 2024, 18:48:36 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 Sept 2024, 19:48:05 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

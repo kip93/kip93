@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
+  * *On 2 Oct 2024, 21:22:36*
 * ➡️ Pushed 10000 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
   * [#b040cbe](https://github.com/OroraTech/nixpkgs/commit/b040cbe) qq: 3.2.12-2024.9.2 -&gt; 3.2.12-2024.9.27 (#345041)
   * [#373008c](https://github.com/OroraTech/nixpkgs/commit/373008c) nixd: 2.3.2 -&gt; 2.4.0
@@ -75,12 +77,10 @@ Changelog: https://github.com/TencentCloud/tencentcloud-sdk-python/blob/3.0.1241
   * *On 19 Sept 2024, 17:16:43*
 * 🌟 Starred [openKolibri/halo-90](https://github.com/openKolibri/halo-90)
   * *On 11 Sept 2024, 18:15:21*
-* 🌟 Starred [astro/deadnix](https://github.com/astro/deadnix)
-  * *On 9 Sept 2024, 17:47:01*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 3 Oct 2024, 03:48:12 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 3 Oct 2024, 04:48:58 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

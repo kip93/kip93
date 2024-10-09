@@ -45,42 +45,39 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
-* 🌟 Starred [beeper/beepy](https://github.com/beeper/beepy)
-  * *On 7 Oct 2024, 00:23:38*
-* 🌟 Starred [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
-  * *On 2 Oct 2024, 21:22:36*
-* ➡️ Pushed 10000 commits in [OroraTech/nixpkgs](https://github.com/OroraTech/nixpkgs) on branch `master`
-  * [#b040cbe](https://github.com/OroraTech/nixpkgs/commit/b040cbe) qq: 3.2.12-2024.9.2 -&gt; 3.2.12-2024.9.27 (#345041)
-  * [#373008c](https://github.com/OroraTech/nixpkgs/commit/373008c) nixd: 2.3.2 -&gt; 2.4.0
-  * [#139ce71](https://github.com/OroraTech/nixpkgs/commit/139ce71) python312Packages.mypy-boto3-sesv2: 1.35.0 -&gt; 1.35.29
-  * [#c2f25ba](https://github.com/OroraTech/nixpkgs/commit/c2f25ba) python312Packages.mypy-boto3-securityhub: 1.35.16 -&gt; 1.35.29
-  * [#cf6e6a5](https://github.com/OroraTech/nixpkgs/commit/cf6e6a5) python312Packages.mypy-boto3-sagemaker: 1.35.26 -&gt; 1.35.28
-  * [#c135897](https://github.com/OroraTech/nixpkgs/commit/c135897) python312Packages.mypy-boto3-rds-data: 1.35.0 -&gt; 1.35.28
-  * [#d19a060](https://github.com/OroraTech/nixpkgs/commit/d19a060) python312Packages.mypy-boto3-quicksight: 1.35.23 -&gt; 1.35.29
-  * [#44066a3](https://github.com/OroraTech/nixpkgs/commit/44066a3) python312Packages.mypy-boto3-organizations: 1.35.20 -&gt; 1.35.28
-  * [#26c47c2](https://github.com/OroraTech/nixpkgs/commit/26c47c2) phraze: 0.3.14 -&gt; 0.3.15
-  * [#7ca1657](https://github.com/OroraTech/nixpkgs/commit/7ca1657) android-studio: 2024.1.2.12 -&gt; 2024.1.2.13
-  * [#b46e7ab](https://github.com/OroraTech/nixpkgs/commit/b46e7ab) androidStudioPackages.canary: 2024.2.2.2 -&gt; 2024.2.2.4
-  * [#028b7d2](https://github.com/OroraTech/nixpkgs/commit/028b7d2) growpart: shellcheck fixes (#340490)
-  * [#076f2f6](https://github.com/OroraTech/nixpkgs/commit/076f2f6) sshd: fix shellcheck warnings in prestart script (#340484)
-  * [#4f06ecd](https://github.com/OroraTech/nixpkgs/commit/4f06ecd) systemd/initrd: fix shellcheck issues (#340486)
-  * [#7b4bba9](https://github.com/OroraTech/nixpkgs/commit/7b4bba9) bartender: 5.1.5 -&gt; 5.1.8
-  * [#f7d490f](https://github.com/OroraTech/nixpkgs/commit/f7d490f) raspberrypi-eeprom: 2024.09.10-2712 -&gt; 2024.09.23-2712 (#345006)
-  * [#2e10fbb](https://github.com/OroraTech/nixpkgs/commit/2e10fbb) nodemon: 3.1.4 -&gt; 3.1.7
-  * [#b7d7bc3](https://github.com/OroraTech/nixpkgs/commit/b7d7bc3) qq: 3.2.12-2024.9.2 -&gt; 3.2.12-2024.9.27
-  * [#8291466](https://github.com/OroraTech/nixpkgs/commit/8291466) python312Packages.mypy-boto3-lambda: 1.35.23 -&gt; 1.35.28
-  * [#08b4a24](https://github.com/OroraTech/nixpkgs/commit/08b4a24) python312Packages.tencentcloud-sdk-python: 3.0.1240 -&gt; 3.0.1241
-
-Diff: https://github.com/TencentCloud/tencentcloud-sdk-python/compare/refs/tags/3.0.1240...3.0.1241
-
-Changelog: https://github.com/TencentCloud/tencentcloud-sdk-python/blob/3.0.1241/CHANGELOG.md
-  * *On 1 Oct 2024, 17:29:09*
-* 🌟 Starred [numtide/nixos-facter](https://github.com/numtide/nixos-facter)
-  * *On 19 Sept 2024, 17:16:43*
+* 💬 Commented on [#293002 python311Packages.flask-simpleldap: init at 2.0.0](https://github.com/NixOS/nixpkgs/pull/293002) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 8 Oct 2024, 22:53:25*
+* 🔍 Reviewed [#293002 python311Packages.flask-simpleldap: init at 2.0.0](https://github.com/NixOS/nixpkgs/pull/293002) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 8 Oct 2024, 22:53:25*
+* ➡️ Pushed 1 commit in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `chore/add-flask-simpleldap`
+  * [#34d4a3a](https://github.com/kip93/nixpkgs/commit/34d4a3a) python311Packages.flask-simpleldap: init at 2.0.0
+  * *On 8 Oct 2024, 22:53:10*
+* ➡️ Pushed 10000 commits in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `chore/add-flask-simpleldap`
+  * [#e769510](https://github.com/kip93/nixpkgs/commit/e769510) smbclient-ng: 2.1.5 -&gt; 2.1.6
+  * [#35b3400](https://github.com/kip93/nixpkgs/commit/35b3400) nu_scripts: 0-unstable-2024-09-26 -&gt; 0-unstable-2024-10-03 (#346644)
+  * [#bb1e5d8](https://github.com/kip93/nixpkgs/commit/bb1e5d8) rio: Restrict test execution inside nixosTests for Linux devices (#345722)
+  * [#e6413a4](https://github.com/kip93/nixpkgs/commit/e6413a4) s3ql: 5.2.1 -&gt; 5.2.2 (#346641)
+  * [#6e9b3cb](https://github.com/kip93/nixpkgs/commit/6e9b3cb) qownnotes: 24.9.7 -&gt; 24.9.8 (#346634)
+  * [#73bb6e0](https://github.com/kip93/nixpkgs/commit/73bb6e0) python312Packages.oelint-parser: 5.0.0 -&gt; 5.1.0 (#346597)
+  * [#da5f025](https://github.com/kip93/nixpkgs/commit/da5f025) python312Packages.nvidia-ml-py: 12.555.43 -&gt; 12.560.30
+  * [#630a79b](https://github.com/kip93/nixpkgs/commit/630a79b) lxgw-neoxihei: 1.206 -&gt; 1.207 (#346598)
+  * [#83129b8](https://github.com/kip93/nixpkgs/commit/83129b8) stc-cli: 1.5 -&gt; 1.5.3 (#346600)
+  * [#22e0ae0](https://github.com/kip93/nixpkgs/commit/22e0ae0) ngtcp2-gnutls: 1.7.0 -&gt; 1.8.0
+  * [#ff10d04](https://github.com/kip93/nixpkgs/commit/ff10d04) civo: 1.0.91 -&gt; 1.1.91 (#346606)
+  * [#c51750b](https://github.com/kip93/nixpkgs/commit/c51750b) nghttp3: 1.5.0 -&gt; 1.6.0
+  * [#576d3a9](https://github.com/kip93/nixpkgs/commit/576d3a9) cloudflare-dynamic-dns: 4.3.3 -&gt; 4.3.5 (#346607)
+  * [#754b521](https://github.com/kip93/nixpkgs/commit/754b521) minizinc: 2.8.6 -&gt; 2.8.7 (#346608)
+  * [#295d978](https://github.com/kip93/nixpkgs/commit/295d978) ngtcp2: 1.7.0 -&gt; 1.8.0
+  * [#7af92a2](https://github.com/kip93/nixpkgs/commit/7af92a2) gitleaks: 8.19.3 -&gt; 8.20.0 (#346612)
+  * [#4d970eb](https://github.com/kip93/nixpkgs/commit/4d970eb) gpredict: patches and cleanups (#345081)
+  * [#13931f2](https://github.com/kip93/nixpkgs/commit/13931f2) automatic-timezoned: 2.0.33 -&gt; 2.0.34 (#346619)
+  * [#7aabf94](https://github.com/kip93/nixpkgs/commit/7aabf94) portfolio: 0.71.1 -&gt; 0.71.2 (#346622)
+  * [#0c0a393](https://github.com/kip93/nixpkgs/commit/0c0a393) google-java-format: 1.23.0 -&gt; 1.24.0 (#346575)
+  * *On 8 Oct 2024, 22:48:03*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 9 Oct 2024, 07:47:56 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 9 Oct 2024, 08:49:36 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

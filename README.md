@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
+  * *On 5 Nov 2024, 14:52:05*
 * ⏺️ Created new tag v0.6.0 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
   * *On 18 Oct 2024, 23:33:09*
 * ➡️ Pushed 3 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
@@ -54,12 +56,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 18 Oct 2024, 23:32:28*
 * 🌟 Starred [coolapso/hugo-theme-terminalcv](https://github.com/coolapso/hugo-theme-terminalcv)
   * *On 18 Oct 2024, 18:14:04*
-* 🌟 Starred [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)
-  * *On 13 Oct 2024, 17:07:53*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 6 Nov 2024, 02:09:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 6 Nov 2024, 02:57:38 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

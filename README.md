@@ -45,19 +45,21 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 2 commits in [b-camacho/nix](https://github.com/b-camacho/nix) on branch `lfs`
+  * [#79d4106](https://github.com/b-camacho/nix/commit/79d4106) Fix some errors, and add tests for them
+  * [#b48dacd](https://github.com/b-camacho/nix/commit/b48dacd) Add docs
+  * *On 20 Nov 2024, 16:53:24*
+* ➡️ Pushed 1 commit in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
+  * [#79d4106](https://github.com/kip93/nix/commit/79d4106) Fix some errors, and add tests for them
+  * *On 20 Nov 2024, 16:53:15*
 * 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
   * *On 18 Nov 2024, 15:55:28*
 * 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
   * *On 18 Nov 2024, 12:42:50*
-* ➡️ Pushed 1 commit in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
-  * [#b48dacd](https://github.com/kip93/nix/commit/b48dacd) Add docs
-  * *On 18 Nov 2024, 12:39:02*
-* ⏺️ Created new branch lfs in [kip93/nix](https://github.com/kip93/nix)
-  * *On 18 Nov 2024, 12:38:01*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 21 Nov 2024, 05:47:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 21 Nov 2024, 06:50:36 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

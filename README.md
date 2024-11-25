@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
+  * *On 25 Nov 2024, 15:42:45*
 * ➡️ Pushed 1 commit in [b-camacho/nix](https://github.com/b-camacho/nix) on branch `lfs`
   * [#93e63f7](https://github.com/b-camacho/nix/commit/93e63f7) FIx MacOS build
   * *On 21 Nov 2024, 12:53:57*
@@ -54,13 +56,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [b-camacho/nix](https://github.com/b-camacho/nix) on branch `lfs`
   * [#70ffcc8](https://github.com/b-camacho/nix/commit/70ffcc8) Fix format
   * *On 20 Nov 2024, 17:24:36*
-* ➡️ Pushed 1 commit in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
-  * [#70ffcc8](https://github.com/kip93/nix/commit/70ffcc8) Fix format
-  * *On 20 Nov 2024, 17:24:24*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 25 Nov 2024, 18:50:20 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 25 Nov 2024, 19:47:48 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

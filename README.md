@@ -45,20 +45,24 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 3 commits in [b-camacho/nix](https://github.com/b-camacho/nix) on branch `lfs`
+  * [#38fb402](https://github.com/b-camacho/nix/commit/38fb402) Fix lfs toURL missing argument
+  * [#d201b28](https://github.com/b-camacho/nix/commit/d201b28) Pass lfs flag to submodules
+  * [#c9a8bd6](https://github.com/b-camacho/nix/commit/c9a8bd6) Work around https://github.com/libgit2/libgit2/issues/6946
+  * *On 25 Nov 2024, 21:11:38*
+* ➡️ Pushed 3 commits in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
+  * [#38fb402](https://github.com/kip93/nix/commit/38fb402) Fix lfs toURL missing argument
+  * [#d201b28](https://github.com/kip93/nix/commit/d201b28) Pass lfs flag to submodules
+  * [#c9a8bd6](https://github.com/kip93/nix/commit/c9a8bd6) Work around https://github.com/libgit2/libgit2/issues/6946
+  * *On 25 Nov 2024, 21:11:33*
 * #️⃣ Opened [#6946 `git_pathspec_matches_path` not working with leading `**/` on pattern](https://github.com/libgit2/libgit2/issues/6946) in [libgit2/libgit2](https://github.com/libgit2/libgit2)
   * *On 25 Nov 2024, 19:51:37*
 * 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
   * *On 25 Nov 2024, 15:42:45*
-* ➡️ Pushed 1 commit in [b-camacho/nix](https://github.com/b-camacho/nix) on branch `lfs`
-  * [#93e63f7](https://github.com/b-camacho/nix/commit/93e63f7) FIx MacOS build
-  * *On 21 Nov 2024, 12:53:57*
-* ➡️ Pushed 1 commit in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
-  * [#93e63f7](https://github.com/kip93/nix/commit/93e63f7) FIx MacOS build
-  * *On 21 Nov 2024, 12:53:52*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 26 Nov 2024, 02:15:45 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 26 Nov 2024, 03:04:43 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

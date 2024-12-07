@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [juspay/omnix](https://github.com/juspay/omnix)
+  * *On 7 Dec 2024, 01:06:25*
 * 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
   * *On 6 Dec 2024, 04:01:30*
 * 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
@@ -53,13 +55,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#65f78f7](https://github.com/b-camacho/nix/commit/65f78f7) Fix format
   * [#9a7b14c](https://github.com/b-camacho/nix/commit/9a7b14c) Fix flake path in test
   * *On 4 Dec 2024, 15:42:59*
-* ➡️ Pushed 1 commit in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
-  * [#65f78f7](https://github.com/kip93/nix/commit/65f78f7) Fix format
-  * *On 4 Dec 2024, 15:42:54*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 7 Dec 2024, 11:47:29 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 7 Dec 2024, 12:56:20 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

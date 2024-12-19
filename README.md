@@ -46,6 +46,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <summary><h3>📰 Recent activity</h3></summary>
 
 * 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
+  * *On 19 Dec 2024, 14:33:18*
+* 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
   * *On 18 Dec 2024, 17:31:01*
 * ➡️ Pushed 100 commits in [b-camacho/nix](https://github.com/b-camacho/nix) on branch `lfs`
   * [#3081e7c](https://github.com/b-camacho/nix/commit/3081e7c) Merge pull request #12025 from NaN-git/strlen
@@ -173,14 +175,10 @@ fix: Add missing manpages to meson.build and more
   * [#e83481f](https://github.com/kip93/nix/commit/e83481f) Allow `sudo` alternatives when installing from tarball
   * [#04975f7](https://github.com/kip93/nix/commit/04975f7) install: Allow to specify alternative `sudo` command
   * *On 18 Dec 2024, 17:19:01*
-* ➡️ Pushed 2 commits in [b-camacho/nix](https://github.com/b-camacho/nix) on branch `lfs`
-  * [#726f8fd](https://github.com/b-camacho/nix/commit/726f8fd) Rework tests
-  * [#b1663fa](https://github.com/b-camacho/nix/commit/b1663fa) Re-introduce `git_attr_get_ext`
-  * *On 18 Dec 2024, 17:02:07*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Dec 2024, 15:47:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 Dec 2024, 16:49:45 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

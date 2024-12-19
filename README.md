@@ -45,6 +45,14 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 2 commits in [b-camacho/nix](https://github.com/b-camacho/nix) on branch `lfs`
+  * [#726f8fd](https://github.com/b-camacho/nix/commit/726f8fd) Rework tests
+  * [#b1663fa](https://github.com/b-camacho/nix/commit/b1663fa) Re-introduce `git_attr_get_ext`
+  * *On 18 Dec 2024, 17:02:07*
+* ➡️ Pushed 2 commits in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
+  * [#726f8fd](https://github.com/kip93/nix/commit/726f8fd) Rework tests
+  * [#b1663fa](https://github.com/kip93/nix/commit/b1663fa) Re-introduce `git_attr_get_ext`
+  * *On 18 Dec 2024, 17:02:03*
 * 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
   * *On 16 Dec 2024, 15:03:05*
 * ➡️ Pushed 1 commit in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
@@ -52,14 +60,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 Co-authored-by: Robert Hensing &lt;roberth@users.noreply.github.com&gt;
   * *On 16 Dec 2024, 14:51:09*
-* 💬 Commented on [#6946 `git_pathspec_matches_path` not working with leading `**/` on pattern](https://github.com/libgit2/libgit2/issues/6946) from [libgit2/libgit2](https://github.com/libgit2/libgit2)
-  * *On 11 Dec 2024, 13:26:13*
-* 💬 Commented on [#6946 `git_pathspec_matches_path` not working with leading `**/` on pattern](https://github.com/libgit2/libgit2/issues/6946) from [libgit2/libgit2](https://github.com/libgit2/libgit2)
-  * *On 11 Dec 2024, 12:57:27*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Dec 2024, 09:48:01 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 Dec 2024, 10:48:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

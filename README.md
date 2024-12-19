@@ -45,25 +45,142 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
+  * *On 18 Dec 2024, 17:31:01*
+* ➡️ Pushed 100 commits in [b-camacho/nix](https://github.com/b-camacho/nix) on branch `lfs`
+  * [#3081e7c](https://github.com/b-camacho/nix/commit/3081e7c) Merge pull request #12025 from NaN-git/strlen
+
+optimize string concat
+  * [#ad3a67a](https://github.com/b-camacho/nix/commit/ad3a67a) optimize string concat
+  * [#ad296ea](https://github.com/b-camacho/nix/commit/ad296ea) Test: more specific error message for `head`
+
+Sorry, I&#39;m not sure how to implement this. So just a test change.
+And hopefully will be picked up by someone who is paying attention.
+A hero.
+  * [#ab5a9cf](https://github.com/b-camacho/nix/commit/ab5a9cf) Merge pull request #12016 from grahamc/patch-2
+
+Disable suid and atime on the /nix mount point on Darwin
+  * [#a7cdb55](https://github.com/b-camacho/nix/commit/a7cdb55) Merge pull request #12013 from DeterminateSystems/fix-11996
+
+nix hash convert: Support SRI hashes that lack trailing &#39;=&#39; characters
+  * [#49fa31f](https://github.com/b-camacho/nix/commit/49fa31f) Fix typo (#12015)
+  * [#4137ead](https://github.com/b-camacho/nix/commit/4137ead) Disable suid and atime on the /nix mount point on Darwin
+
+The Determinate Nix Installer has set nosuid and noatime in https://github.com/DeterminateSystems/nix-installer/pull/1338, and figured this perf and security improvement is worthy of upstreaming.
+
+The /nix volume shouldn&#39;t have setuid binaries anyway, and filesystems seem to generally be noatime on macOS.
+Further, the garbage collector doesn&#39;t use atime.
+  * [#408c2fa](https://github.com/b-camacho/nix/commit/408c2fa) nix hash: Don&#39;t print &#39;nix hash&#39; deprecation message
+
+Fixes #11997.
+  * [#33b645c](https://github.com/b-camacho/nix/commit/33b645c) nix hash convert: Don&#39;t fail on uppercase base-16 hashes
+  * [#52f1cd0](https://github.com/b-camacho/nix/commit/52f1cd0) nix hash convert: Support SRI hashes that lack trailing &#39;=&#39; characters
+
+Fixes #11996.
+  * [#d1894f3](https://github.com/b-camacho/nix/commit/d1894f3) tests: derivation-advanced-attributes unset NIX_STORE
+
+when built by nix, NIX_STORE is set, which breaks $got when it
+is not the default /nix/store
+  * [#3b21ea4](https://github.com/b-camacho/nix/commit/3b21ea4) HttpBinaryCacheStore: Improve error message for unauthorized caches
+
+Instead of the unhelpful
+
+  warning: &#39;https://cache.flakehub.com&#39; does not appear to be a binary cache
+
+you now get
+
+  warning: unable to download &#39;https://cache.flakehub.com/nix-cache-info&#39;: HTTP error 401
+
+           response body:
+
+           {&#34;code&#34;:401,&#34;error&#34;:&#34;Unauthorized&#34;,&#34;message&#34;:&#34;Unauthorized.&#34;}
+  * [#a8a572b](https://github.com/b-camacho/nix/commit/a8a572b) Merge pull request #12007 from mupdt/s3-binary-cache-error-request-id
+
+s3-binary-cache: show the error&#39;s request ID
+  * [#abcfdb4](https://github.com/b-camacho/nix/commit/abcfdb4) s3-binary-cache: show the error&#39;s request ID
+
+The request ID is essential for traceability and debugging purposes.
+It allows us to connect client-side to server-side events.
+  * [#ff00eeb](https://github.com/b-camacho/nix/commit/ff00eeb) Merge pull request #12000 from NixOS/fix-men
+
+fix: Add missing manpages to meson.build and more
+  * [#63c0f0d](https://github.com/b-camacho/nix/commit/63c0f0d) Install init system configs only when relevant
+  * [#038ab46](https://github.com/b-camacho/nix/commit/038ab46) Restore org.nixos.nix-daemon.plist installation
+  * [#d67e24a](https://github.com/b-camacho/nix/commit/d67e24a) fix: Add missing manpages to meson.build
+  * [#e83481f](https://github.com/b-camacho/nix/commit/e83481f) Allow `sudo` alternatives when installing from tarball
+  * [#04975f7](https://github.com/b-camacho/nix/commit/04975f7) install: Allow to specify alternative `sudo` command
+  * *On 18 Dec 2024, 17:19:10*
+* ➡️ Pushed 100 commits in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
+  * [#3081e7c](https://github.com/kip93/nix/commit/3081e7c) Merge pull request #12025 from NaN-git/strlen
+
+optimize string concat
+  * [#ad3a67a](https://github.com/kip93/nix/commit/ad3a67a) optimize string concat
+  * [#ad296ea](https://github.com/kip93/nix/commit/ad296ea) Test: more specific error message for `head`
+
+Sorry, I&#39;m not sure how to implement this. So just a test change.
+And hopefully will be picked up by someone who is paying attention.
+A hero.
+  * [#ab5a9cf](https://github.com/kip93/nix/commit/ab5a9cf) Merge pull request #12016 from grahamc/patch-2
+
+Disable suid and atime on the /nix mount point on Darwin
+  * [#a7cdb55](https://github.com/kip93/nix/commit/a7cdb55) Merge pull request #12013 from DeterminateSystems/fix-11996
+
+nix hash convert: Support SRI hashes that lack trailing &#39;=&#39; characters
+  * [#49fa31f](https://github.com/kip93/nix/commit/49fa31f) Fix typo (#12015)
+  * [#4137ead](https://github.com/kip93/nix/commit/4137ead) Disable suid and atime on the /nix mount point on Darwin
+
+The Determinate Nix Installer has set nosuid and noatime in https://github.com/DeterminateSystems/nix-installer/pull/1338, and figured this perf and security improvement is worthy of upstreaming.
+
+The /nix volume shouldn&#39;t have setuid binaries anyway, and filesystems seem to generally be noatime on macOS.
+Further, the garbage collector doesn&#39;t use atime.
+  * [#408c2fa](https://github.com/kip93/nix/commit/408c2fa) nix hash: Don&#39;t print &#39;nix hash&#39; deprecation message
+
+Fixes #11997.
+  * [#33b645c](https://github.com/kip93/nix/commit/33b645c) nix hash convert: Don&#39;t fail on uppercase base-16 hashes
+  * [#52f1cd0](https://github.com/kip93/nix/commit/52f1cd0) nix hash convert: Support SRI hashes that lack trailing &#39;=&#39; characters
+
+Fixes #11996.
+  * [#d1894f3](https://github.com/kip93/nix/commit/d1894f3) tests: derivation-advanced-attributes unset NIX_STORE
+
+when built by nix, NIX_STORE is set, which breaks $got when it
+is not the default /nix/store
+  * [#3b21ea4](https://github.com/kip93/nix/commit/3b21ea4) HttpBinaryCacheStore: Improve error message for unauthorized caches
+
+Instead of the unhelpful
+
+  warning: &#39;https://cache.flakehub.com&#39; does not appear to be a binary cache
+
+you now get
+
+  warning: unable to download &#39;https://cache.flakehub.com/nix-cache-info&#39;: HTTP error 401
+
+           response body:
+
+           {&#34;code&#34;:401,&#34;error&#34;:&#34;Unauthorized&#34;,&#34;message&#34;:&#34;Unauthorized.&#34;}
+  * [#a8a572b](https://github.com/kip93/nix/commit/a8a572b) Merge pull request #12007 from mupdt/s3-binary-cache-error-request-id
+
+s3-binary-cache: show the error&#39;s request ID
+  * [#abcfdb4](https://github.com/kip93/nix/commit/abcfdb4) s3-binary-cache: show the error&#39;s request ID
+
+The request ID is essential for traceability and debugging purposes.
+It allows us to connect client-side to server-side events.
+  * [#ff00eeb](https://github.com/kip93/nix/commit/ff00eeb) Merge pull request #12000 from NixOS/fix-men
+
+fix: Add missing manpages to meson.build and more
+  * [#63c0f0d](https://github.com/kip93/nix/commit/63c0f0d) Install init system configs only when relevant
+  * [#038ab46](https://github.com/kip93/nix/commit/038ab46) Restore org.nixos.nix-daemon.plist installation
+  * [#d67e24a](https://github.com/kip93/nix/commit/d67e24a) fix: Add missing manpages to meson.build
+  * [#e83481f](https://github.com/kip93/nix/commit/e83481f) Allow `sudo` alternatives when installing from tarball
+  * [#04975f7](https://github.com/kip93/nix/commit/04975f7) install: Allow to specify alternative `sudo` command
+  * *On 18 Dec 2024, 17:19:01*
 * ➡️ Pushed 2 commits in [b-camacho/nix](https://github.com/b-camacho/nix) on branch `lfs`
   * [#726f8fd](https://github.com/b-camacho/nix/commit/726f8fd) Rework tests
   * [#b1663fa](https://github.com/b-camacho/nix/commit/b1663fa) Re-introduce `git_attr_get_ext`
   * *On 18 Dec 2024, 17:02:07*
-* ➡️ Pushed 2 commits in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
-  * [#726f8fd](https://github.com/kip93/nix/commit/726f8fd) Rework tests
-  * [#b1663fa](https://github.com/kip93/nix/commit/b1663fa) Re-introduce `git_attr_get_ext`
-  * *On 18 Dec 2024, 17:02:03*
-* 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
-  * *On 16 Dec 2024, 15:03:05*
-* ➡️ Pushed 1 commit in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
-  * [#140b34b](https://github.com/kip93/nix/commit/140b34b) Apply suggestions from code review
-
-Co-authored-by: Robert Hensing &lt;roberth@users.noreply.github.com&gt;
-  * *On 16 Dec 2024, 14:51:09*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Dec 2024, 10:48:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 Dec 2024, 11:48:11 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

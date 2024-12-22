@@ -45,18 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [saschagrunert/kubernix](https://github.com/saschagrunert/kubernix)
+  * *On 22 Dec 2024, 23:22:21*
 * 🌟 Starred [m4tt72/terminal](https://github.com/m4tt72/terminal)
   * *On 22 Dec 2024, 14:24:33*
 * 🌟 Starred [DBCDK/morph](https://github.com/DBCDK/morph)
   * *On 19 Dec 2024, 23:52:53*
 * 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
   * *On 19 Dec 2024, 14:33:18*
-* 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
-  * *On 18 Dec 2024, 17:31:01*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 22 Dec 2024, 22:47:42 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 22 Dec 2024, 23:47:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,12 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 2 commits in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
+  * [#2a2518b](https://github.com/kip93/nix/commit/2a2518b) LFS code review
+  * [#4c42b1c](https://github.com/kip93/nix/commit/4c42b1c) Add ability to POST to FileTransfer
+
+Plus, switched CURLOPT_PROGRESSFUNCTION to CURLOPT_XFERINFOFUNCTION since docs say it&#39;s deprecated
+  * *On 10 Jan 2025, 17:32:32*
 * 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
   * *On 10 Jan 2025, 12:09:54*
 * ➡️ Pushed 2 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
@@ -52,12 +58,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#7481ec4](https://github.com/kip93/cp437-tools/commit/7481ec4) Release 0.7.0
   * *On 5 Jan 2025, 18:18:00*
   * *On 5 Jan 2025, 18:17:59*
-* 🌟 Starred [saschagrunert/kubernix](https://github.com/saschagrunert/kubernix)
-  * *On 22 Dec 2024, 23:22:21*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 11 Jan 2025, 09:47:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 11 Jan 2025, 10:47:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
+  * *On 10 Jan 2025, 12:09:54*
 * ➡️ Pushed 2 commits in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
   * [#573c4f6](https://github.com/kip93/cp437-tools/commit/573c4f6) Release 0.7.1
   * [#7481ec4](https://github.com/kip93/cp437-tools/commit/7481ec4) Release 0.7.0
@@ -52,12 +54,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 5 Jan 2025, 18:17:59*
 * 🌟 Starred [saschagrunert/kubernix](https://github.com/saschagrunert/kubernix)
   * *On 22 Dec 2024, 23:22:21*
-* 🌟 Starred [m4tt72/terminal](https://github.com/m4tt72/terminal)
-  * *On 22 Dec 2024, 14:24:33*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 11 Jan 2025, 03:47:46 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 11 Jan 2025, 04:47:36 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

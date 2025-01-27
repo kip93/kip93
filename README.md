@@ -45,6 +45,120 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 44 commits in [b-camacho/nix](https://github.com/b-camacho/nix) on branch `lfs`
+  * [#64a3899](https://github.com/b-camacho/nix/commit/64a3899) Merge pull request #12331 from DeterminateSystems/git-dir
+
+GitRepo::fetch(): Ignore $GIT_DIR
+  * [#e0c6ed1](https://github.com/b-camacho/nix/commit/e0c6ed1) Fix help test in dev shell
+
+Not sure what the intent was expecting help.sh to fail in the main suite, but it caused `meson test` to fail inside a `nix develop` shell:
+
+  $ meson test help --print-errorlogs
+  ninja: Entering directory `/home/eelco/Dev/nix-master/build&#39;
+  1/1 nix-functional-tests:main / help        UNEXPECTEDPASS   4.02s
+  * [#41983db](https://github.com/b-camacho/nix/commit/41983db) GitRepo::fetch(): Ignore $GIT_DIR
+
+Fixes #12325.
+  * [#bd10b85](https://github.com/b-camacho/nix/commit/bd10b85) GitRepo::fetch(): Cleanup
+  * [#2975c2c](https://github.com/b-camacho/nix/commit/2975c2c) Merge pull request #12329 from NixOS/backport
+
+Add mergify backport rule for 2.26
+  * [#c5dc749](https://github.com/b-camacho/nix/commit/c5dc749) Add mergify backport rule for 2.26
+  * [#a28195d](https://github.com/b-camacho/nix/commit/a28195d) Merge pull request #12328 from NixOS/bump-2.27.0
+
+Bump version
+  * [#2d507ff](https://github.com/b-camacho/nix/commit/2d507ff) Merge pull request #12327 from NixOS/update-release-script
+
+Update the release script
+  * [#65f95c5](https://github.com/b-camacho/nix/commit/65f95c5) Bump version
+  * [#f472be2](https://github.com/b-camacho/nix/commit/f472be2) Update the release script
+  * [#7af6329](https://github.com/b-camacho/nix/commit/7af6329) Merge pull request #12326 from NixOS/release-notes
+
+Nix 2.26 release notes
+  * [#21f2e29](https://github.com/b-camacho/nix/commit/21f2e29) Add release credits
+  * [#617bf84](https://github.com/b-camacho/nix/commit/617bf84) Add a few more release notes
+  * [#d8dbb71](https://github.com/b-camacho/nix/commit/d8dbb71) release notes: 2.26.0
+  * [#069ca2a](https://github.com/b-camacho/nix/commit/069ca2a) Merge pull request #12324 from NixOS/disable-lto
+
+x86_64-darwin: Disable LTO
+  * [#b09b4dc](https://github.com/b-camacho/nix/commit/b09b4dc) x86_64-darwin: Disable LTO
+
+LTO on x86_64-darwin appears to break the ability to catch exceptions
+correctly (maybe just for exception types defined in different
+libraries). This leads to many weird test failures,
+e.g. https://hydra.nixos.org/build/286312387 and
+https://hydra.nixos.org/build/286312341.
+  * [#b8c296f](https://github.com/b-camacho/nix/commit/b8c296f) Merge pull request #12322 from DeterminateSystems/fix-fetchurl-test
+
+Fix fetchurl test
+  * [#9e324df](https://github.com/b-camacho/nix/commit/9e324df) Fix fetchurl test
+
+https://hydra.nixos.org/build/286311974
+  * [#27c9f7e](https://github.com/b-camacho/nix/commit/27c9f7e) Fix name
+  * [#69fde53](https://github.com/b-camacho/nix/commit/69fde53) Clean up packaging a bit
+
+- Multiple choices of stdenv are handled more consistently, especially for the dev
+  shells which were previously not done correctly.
+
+- Some stray nix code was moving into the `packaging` directory
+  * *On 27 Jan 2025, 14:46:45*
+* ➡️ Pushed 44 commits in [kip93/nix](https://github.com/kip93/nix) on branch `lfs`
+  * [#64a3899](https://github.com/kip93/nix/commit/64a3899) Merge pull request #12331 from DeterminateSystems/git-dir
+
+GitRepo::fetch(): Ignore $GIT_DIR
+  * [#e0c6ed1](https://github.com/kip93/nix/commit/e0c6ed1) Fix help test in dev shell
+
+Not sure what the intent was expecting help.sh to fail in the main suite, but it caused `meson test` to fail inside a `nix develop` shell:
+
+  $ meson test help --print-errorlogs
+  ninja: Entering directory `/home/eelco/Dev/nix-master/build&#39;
+  1/1 nix-functional-tests:main / help        UNEXPECTEDPASS   4.02s
+  * [#41983db](https://github.com/kip93/nix/commit/41983db) GitRepo::fetch(): Ignore $GIT_DIR
+
+Fixes #12325.
+  * [#bd10b85](https://github.com/kip93/nix/commit/bd10b85) GitRepo::fetch(): Cleanup
+  * [#2975c2c](https://github.com/kip93/nix/commit/2975c2c) Merge pull request #12329 from NixOS/backport
+
+Add mergify backport rule for 2.26
+  * [#c5dc749](https://github.com/kip93/nix/commit/c5dc749) Add mergify backport rule for 2.26
+  * [#a28195d](https://github.com/kip93/nix/commit/a28195d) Merge pull request #12328 from NixOS/bump-2.27.0
+
+Bump version
+  * [#2d507ff](https://github.com/kip93/nix/commit/2d507ff) Merge pull request #12327 from NixOS/update-release-script
+
+Update the release script
+  * [#65f95c5](https://github.com/kip93/nix/commit/65f95c5) Bump version
+  * [#f472be2](https://github.com/kip93/nix/commit/f472be2) Update the release script
+  * [#7af6329](https://github.com/kip93/nix/commit/7af6329) Merge pull request #12326 from NixOS/release-notes
+
+Nix 2.26 release notes
+  * [#21f2e29](https://github.com/kip93/nix/commit/21f2e29) Add release credits
+  * [#617bf84](https://github.com/kip93/nix/commit/617bf84) Add a few more release notes
+  * [#d8dbb71](https://github.com/kip93/nix/commit/d8dbb71) release notes: 2.26.0
+  * [#069ca2a](https://github.com/kip93/nix/commit/069ca2a) Merge pull request #12324 from NixOS/disable-lto
+
+x86_64-darwin: Disable LTO
+  * [#b09b4dc](https://github.com/kip93/nix/commit/b09b4dc) x86_64-darwin: Disable LTO
+
+LTO on x86_64-darwin appears to break the ability to catch exceptions
+correctly (maybe just for exception types defined in different
+libraries). This leads to many weird test failures,
+e.g. https://hydra.nixos.org/build/286312387 and
+https://hydra.nixos.org/build/286312341.
+  * [#b8c296f](https://github.com/kip93/nix/commit/b8c296f) Merge pull request #12322 from DeterminateSystems/fix-fetchurl-test
+
+Fix fetchurl test
+  * [#9e324df](https://github.com/kip93/nix/commit/9e324df) Fix fetchurl test
+
+https://hydra.nixos.org/build/286311974
+  * [#27c9f7e](https://github.com/kip93/nix/commit/27c9f7e) Fix name
+  * [#69fde53](https://github.com/kip93/nix/commit/69fde53) Clean up packaging a bit
+
+- Multiple choices of stdenv are handled more consistently, especially for the dev
+  shells which were previously not done correctly.
+
+- Some stray nix code was moving into the `packaging` directory
+  * *On 27 Jan 2025, 14:46:40*
 * ➡️ Pushed 394 commits in [kip93/nix](https://github.com/kip93/nix) on branch `master`
   * [#a2e4a4c](https://github.com/kip93/nix/commit/a2e4a4c) callFunction: Use std::span
 
@@ -134,14 +248,10 @@ Extracted from the lazy-trees branch.
   * *On 21 Jan 2025, 17:28:48*
 * 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/pull/10153) from [NixOS/nix](https://github.com/NixOS/nix)
   * *On 21 Jan 2025, 16:09:59*
-* 🔍 Reviewed [#10153 git-lfs support](https://github.com/NixOS/nix/pull/10153) in [NixOS/nix](https://github.com/NixOS/nix)
-  * *On 21 Jan 2025, 16:09:59*
-* 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/pull/10153) from [NixOS/nix](https://github.com/NixOS/nix)
-  * *On 21 Jan 2025, 16:02:14*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 27 Jan 2025, 15:48:42 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 27 Jan 2025, 16:48:52 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

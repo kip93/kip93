@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [qmk/qmk_userspace](https://github.com/qmk/qmk_userspace)
+  * *On 28 Jan 2025, 23:57:25*
 * ➡️ Pushed 44 commits in [b-camacho/nix](https://github.com/b-camacho/nix) on branch `lfs`
   * [#64a3899](https://github.com/b-camacho/nix/commit/64a3899) Merge pull request #12331 from DeterminateSystems/git-dir
 
@@ -246,12 +248,10 @@ directory of the `bar` input of the `foo` input of the root flake.
 
 Extracted from the lazy-trees branch.
   * *On 21 Jan 2025, 17:28:48*
-* 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/pull/10153) from [NixOS/nix](https://github.com/NixOS/nix)
-  * *On 21 Jan 2025, 16:09:59*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 29 Jan 2025, 10:47:57 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 29 Jan 2025, 11:48:07 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

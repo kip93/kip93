@@ -46,6 +46,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <summary><h3>📰 Recent activity</h3></summary>
 
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#906d7c3](https://github.com/kip93/cp437-tools/commit/906d7c3) Clean up README
+  * *On 3 Feb 2025, 03:27:41*
+* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
   * [#b3e126d](https://github.com/kip93/cp437-tools/commit/b3e126d) Fix tests + lint scripts
   * *On 3 Feb 2025, 02:50:21*
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
@@ -53,12 +56,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 31 Jan 2025, 22:32:38*
 * ⏺️ Created new tag v0.8.0 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
   * *On 31 Jan 2025, 22:32:37*
-* 🌟 Starred [qmk/qmk_userspace](https://github.com/qmk/qmk_userspace)
-  * *On 28 Jan 2025, 23:57:25*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 3 Feb 2025, 02:58:19 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 3 Feb 2025, 03:47:34 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

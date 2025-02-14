@@ -45,6 +45,28 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 198 commits in [kip93/nix](https://github.com/kip93/nix) on branch `master`
+  * [#24453b7](https://github.com/kip93/nix/commit/24453b7) pass path.rel instead of path.abs to gitattr matcher
+  * [#0878e8f](https://github.com/kip93/nix/commit/0878e8f) use libgit2 pathspec matching instead of reimpl
+  * [#9a6388d](https://github.com/kip93/nix/commit/9a6388d) logs around getFingerprint
+  * [#b69fb15](https://github.com/kip93/nix/commit/b69fb15) better url handling; unit tests
+  * [#1939711](https://github.com/kip93/nix/commit/1939711) remove cruft
+  * [#741a54d](https://github.com/kip93/nix/commit/741a54d) tweak url parsing; add test case
+  * [#4bdfeab](https://github.com/kip93/nix/commit/4bdfeab) add lfs test, enable lfs on gitea in nixos test
+  * [#ef6fa54](https://github.com/kip93/nix/commit/ef6fa54) add libcurl to libfetchers deps
+  * [#99705c6](https://github.com/kip93/nix/commit/99705c6) Merge remote-tracking branch &#39;origin/master&#39; into lfs
+  * [#75a1ba3](https://github.com/kip93/nix/commit/75a1ba3) e2e test for gitlfs
+  * [#d2d6f20](https://github.com/kip93/nix/commit/d2d6f20) Sink readFile impl for GitSourceAccessor
+  * [#f4962fe](https://github.com/kip93/nix/commit/f4962fe) working smudge for GitSourceAccessor
+  * [#87e0bc9](https://github.com/kip93/nix/commit/87e0bc9) add libcurl to deps, builds now
+  * [#ba417a2](https://github.com/kip93/nix/commit/ba417a2) wip
+  * [#787cc04](https://github.com/kip93/nix/commit/787cc04) Merge branch &#39;master&#39; into lfs
+  * [#cec370e](https://github.com/kip93/nix/commit/cec370e) Merge branch &#39;master&#39; into lfs
+  * [#8c6641e](https://github.com/kip93/nix/commit/8c6641e) todo: fix git_attr_foreach
+  * [#f8bc96a](https://github.com/kip93/nix/commit/f8bc96a) todo: actual smudge
+  * [#9ef1c28](https://github.com/kip93/nix/commit/9ef1c28) parse out lfs url attr correctly
+  * [#8fb36a9](https://github.com/kip93/nix/commit/8fb36a9) naive lfs support
+  * *On 13 Feb 2025, 15:03:53*
 * 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
   * *On 13 Feb 2025, 13:32:12*
 * ➡️ Pushed 10000 commits in [kip93/nixpkgs](https://github.com/kip93/nixpkgs) on branch `master`
@@ -102,12 +124,10 @@ CVE-2025-0444 CVE-2025-0445 CVE-2025-0451
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
   * [#38b6782](https://github.com/kip93/cp437-tools/commit/38b6782) Clean up nix
   * *On 11 Feb 2025, 03:08:39*
-* 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
-  * *On 10 Feb 2025, 16:08:03*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 14 Feb 2025, 06:48:52 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 14 Feb 2025, 07:48:07 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

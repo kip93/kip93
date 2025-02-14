@@ -45,6 +45,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 1 commit in [kip93/nix](https://github.com/kip93/nix) on branch `self-input-attrs-lfs`
+  * [#8b89c45](https://github.com/kip93/nix/commit/8b89c45) Merge release notes
+  * *On 14 Feb 2025, 12:54:24*
 * ➡️ Pushed 198 commits in [kip93/nix](https://github.com/kip93/nix) on branch `master`
   * [#24453b7](https://github.com/kip93/nix/commit/24453b7) pass path.rel instead of path.abs to gitattr matcher
   * [#0878e8f](https://github.com/kip93/nix/commit/0878e8f) use libgit2 pathspec matching instead of reimpl
@@ -121,13 +124,10 @@ This update includes 12 security fixes.
 CVEs:
 CVE-2025-0444 CVE-2025-0445 CVE-2025-0451
   * *On 11 Feb 2025, 03:31:14*
-* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
-  * [#38b6782](https://github.com/kip93/cp437-tools/commit/38b6782) Clean up nix
-  * *On 11 Feb 2025, 03:08:39*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 14 Feb 2025, 15:48:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 14 Feb 2025, 16:49:15 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

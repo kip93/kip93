@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🍽️ Forked [nix-community/home-manager](https://github.com/nix-community/home-manager) to [kip93/home-manager](https://github.com/kip93/home-manager)
+  * *On 19 Feb 2025, 12:38:12*
   * *On 17 Feb 2025, 13:43:58*
 * ➡️ Pushed 1 commit in [kip93/nix](https://github.com/kip93/nix) on branch `self-input-attrs-lfs`
   * [#8b89c45](https://github.com/kip93/nix/commit/8b89c45) Merge release notes
@@ -71,12 +73,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * [#9ef1c28](https://github.com/kip93/nix/commit/9ef1c28) parse out lfs url attr correctly
   * [#8fb36a9](https://github.com/kip93/nix/commit/8fb36a9) naive lfs support
   * *On 13 Feb 2025, 15:03:53*
-* 💬 Commented on [#10153 git-lfs support](https://github.com/NixOS/nix/issues/10153) from [NixOS/nix](https://github.com/NixOS/nix)
-  * *On 13 Feb 2025, 13:32:12*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Feb 2025, 12:55:55 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 Feb 2025, 13:48:03 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

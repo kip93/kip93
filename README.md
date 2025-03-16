@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [szlend/nix-pkgset](https://github.com/szlend/nix-pkgset)
+  * *On 16 Mar 2025, 12:03:53*
 * ➡️ Pushed 1 commit in [kip93/attic](https://github.com/kip93/attic) on branch `pins`
   * [#d1e8817](https://github.com/kip93/attic/commit/d1e8817) Fix typo
   * *On 27 Feb 2025, 16:14:32*
@@ -54,12 +56,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * 🔃 Opened [#227 Pinning paths to avoid garbage collection](https://github.com/zhaofengli/attic/pull/227) in [zhaofengli/attic](https://github.com/zhaofengli/attic)
                 * 15 files changed `++715 --4`
   * *On 20 Feb 2025, 17:11:57*
-* ⏺️ Created new branch pins in [kip93/attic](https://github.com/kip93/attic)
-  * *On 20 Feb 2025, 17:06:39*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 16 Mar 2025, 11:47:55 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 16 Mar 2025, 12:55:33 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

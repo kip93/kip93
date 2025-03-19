@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🔍 Reviewed [#389338 dotnet: march 2025 updates](https://github.com/NixOS/nixpkgs/pull/389338) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 18 Mar 2025, 20:06:51*
 * 🔍 Reviewed [#390735 pablodraw: 3.3.13-beta -&gt; 3.1.14-beta, .NET 7 -&gt; .NET 9](https://github.com/NixOS/nixpkgs/pull/390735) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 17 Mar 2025, 20:36:44*
 * 🌟 Starred [szlend/nix-pkgset](https://github.com/szlend/nix-pkgset)
@@ -52,13 +54,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * ➡️ Pushed 1 commit in [kip93/attic](https://github.com/kip93/attic) on branch `pins`
   * [#d1e8817](https://github.com/kip93/attic/commit/d1e8817) Fix typo
   * *On 27 Feb 2025, 16:14:32*
-* ➡️ Pushed 1 commit in [kip93/attic](https://github.com/kip93/attic) on branch `pins`
-  * [#db9ed18](https://github.com/kip93/attic/commit/db9ed18) Fix everything
-  * *On 27 Feb 2025, 16:11:54*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Mar 2025, 10:49:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 Mar 2025, 11:48:07 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

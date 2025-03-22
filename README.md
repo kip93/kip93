@@ -45,19 +45,49 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+  * *On 22 Mar 2025, 14:16:04*
+* 🔃 Opened [#6678 [24.11 backport] xdg-mime: Fix cross compilation](https://github.com/nix-community/home-manager/pull/6678) in [nix-community/home-manager](https://github.com/nix-community/home-manager)
+                * 1 file changed `++9 --5`
+  * *On 22 Mar 2025, 14:15:49*
+* ➡️ Pushed 3 commits in [kip93/home-manager](https://github.com/kip93/home-manager) on branch `fix/xdg-mime-cross-compile-24.11`
+  * [#920b747](https://github.com/kip93/home-manager/commit/920b747) xdg-mime: Fix cross compilation
+  * [#f6af728](https://github.com/kip93/home-manager/commit/f6af728) ci: bump cachix/cachix-action from 15 to 16 (#6646)
+
+Bumps [cachix/cachix-action](https://github.com/cachix/cachix-action) from 15 to 16.
+- [Release notes](https://github.com/cachix/cachix-action/releases)
+- [Commits](https://github.com/cachix/cachix-action/compare/v15...v16)
+
+---
+updated-dependencies:
+- dependency-name: cachix/cachix-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+  * [#7fbde08](https://github.com/kip93/home-manager/commit/7fbde08) ci: bump cachix/install-nix-action from 30 to 31 (#6645)
+
+Bumps [cachix/install-nix-action](https://github.com/cachix/install-nix-action) from 30 to 31.
+- [Release notes](https://github.com/cachix/install-nix-action/releases)
+- [Commits](https://github.com/cachix/install-nix-action/compare/v30...v31)
+
+---
+updated-dependencies:
+- dependency-name: cachix/install-nix-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
+  * *On 22 Mar 2025, 14:13:29*
 * 🔍 Reviewed [#389338 dotnet: march 2025 updates](https://github.com/NixOS/nixpkgs/pull/389338) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 18 Mar 2025, 20:06:51*
-* 🔍 Reviewed [#390735 pablodraw: 3.3.13-beta -&gt; 3.1.14-beta, .NET 7 -&gt; .NET 9](https://github.com/NixOS/nixpkgs/pull/390735) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 17 Mar 2025, 20:36:44*
-* 🌟 Starred [szlend/nix-pkgset](https://github.com/szlend/nix-pkgset)
-  * *On 16 Mar 2025, 12:03:53*
-* ➡️ Pushed 1 commit in [kip93/attic](https://github.com/kip93/attic) on branch `pins`
-  * [#d1e8817](https://github.com/kip93/attic/commit/d1e8817) Fix typo
-  * *On 27 Feb 2025, 16:14:32*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 22 Mar 2025, 13:47:49 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 22 Mar 2025, 14:47:43 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

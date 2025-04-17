@@ -82,12 +82,10 @@ updated-dependencies:
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
 Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;
   * *On 22 Mar 2025, 14:13:29*
-* 🔍 Reviewed [#389338 dotnet: march 2025 updates](https://github.com/NixOS/nixpkgs/pull/389338) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 18 Mar 2025, 20:06:51*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 17 Apr 2025, 19:48:19 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 17 Apr 2025, 20:48:55 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

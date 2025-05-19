@@ -45,16 +45,18 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🔍 Reviewed [#408010 yakut: 0.13.0 -&gt; 0.14.0](https://github.com/NixOS/nixpkgs/pull/408010) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 19 May 2025, 16:17:58*
+* 💬 Commented on [#408010 yakut: 0.13.0 -&gt; 0.14.0](https://github.com/NixOS/nixpkgs/issues/408010) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 19 May 2025, 16:17:13*
 * 💬 Commented on [#227 Pinning paths to avoid garbage collection](https://github.com/zhaofengli/attic/issues/227) from [zhaofengli/attic](https://github.com/zhaofengli/attic)
   * *On 14 May 2025, 12:41:24*
 * 🔍 Reviewed [#403712 python3Packages.pycyphal: fixes](https://github.com/NixOS/nixpkgs/pull/403712) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 3 May 2025, 12:51:34*
-* 🌟 Starred [elkowar/eww](https://github.com/elkowar/eww)
-  * *On 27 Apr 2025, 22:40:26*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 May 2025, 18:52:16 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 May 2025, 19:47:51 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

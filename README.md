@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#13016 Allow specifying settings like lfs.fetchexclude for LFS submodules](https://github.com/NixOS/nix/issues/13016) from [NixOS/nix](https://github.com/NixOS/nix)
+  * *On 5 Jun 2025, 13:45:12*
 * 🔍 Reviewed [#408010 yakut: 0.13.0 -&gt; 0.14.0](https://github.com/NixOS/nixpkgs/pull/408010) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 19 May 2025, 16:17:58*
 * 💬 Commented on [#408010 yakut: 0.13.0 -&gt; 0.14.0](https://github.com/NixOS/nixpkgs/issues/408010) from [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
@@ -56,5 +58,5 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 5 Jun 2025, 16:51:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 5 Jun 2025, 17:48:13 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

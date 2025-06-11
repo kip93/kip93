@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* #️⃣ Opened [#730 email: Undeliverable message report](https://github.com/NixOS/infra/issues/730) in [NixOS/infra](https://github.com/NixOS/infra)
+  * *On 11 Jun 2025, 19:12:18*
 * ➡️ Pushed 1 commit in [kip93/nixos-hardware](https://github.com/kip93/nixos-hardware) on branch `infinitybook-gen9-amd`
   * [#ddd49b3](https://github.com/kip93/nixos-hardware/commit/ddd49b3) Forgot README
   * *On 6 Jun 2025, 18:03:19*
@@ -53,12 +55,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 6 Jun 2025, 17:43:40*
 * ⏺️ Created new branch infinitybook-gen9-amd in [kip93/nixos-hardware](https://github.com/kip93/nixos-hardware)
   * *On 6 Jun 2025, 17:38:23*
-* 🍽️ Forked [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) to [kip93/nixos-hardware](https://github.com/kip93/nixos-hardware)
-  * *On 6 Jun 2025, 17:35:57*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 11 Jun 2025, 21:48:38 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 11 Jun 2025, 22:49:15 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

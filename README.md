@@ -45,20 +45,20 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
+  * [#e1a5f61](https://github.com/kip93/cp437-tools/commit/e1a5f61) Release 0.9.0
+  * *On 29 Jun 2025, 01:12:39*
+* ⏺️ Created new tag v0.9.0 in [kip93/cp437-tools](https://github.com/kip93/cp437-tools)
+  * *On 29 Jun 2025, 01:12:38*
 * #️⃣ Opened [#730 email: Undeliverable message report](https://github.com/NixOS/infra/issues/730) in [NixOS/infra](https://github.com/NixOS/infra)
   * *On 11 Jun 2025, 19:12:18*
 * ➡️ Pushed 1 commit in [kip93/nixos-hardware](https://github.com/kip93/nixos-hardware) on branch `infinitybook-gen9-amd`
   * [#ddd49b3](https://github.com/kip93/nixos-hardware/commit/ddd49b3) Forgot README
   * *On 6 Jun 2025, 18:03:19*
-* 🔃 Opened [#1498 Add support for TUXEDO InfinityBook Pro AMD Gen9](https://github.com/NixOS/nixos-hardware/pull/1498) in [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware)
-                * 4 files changed `++8 --0`
-  * *On 6 Jun 2025, 17:43:40*
-* ⏺️ Created new branch infinitybook-gen9-amd in [kip93/nixos-hardware](https://github.com/kip93/nixos-hardware)
-  * *On 6 Jun 2025, 17:38:23*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 29 Jun 2025, 01:09:30 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 29 Jun 2025, 02:33:00 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

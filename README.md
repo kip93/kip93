@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette)
+  * *On 7 Jul 2025, 22:24:06*
 * ➡️ Pushed 1 commit in [kip93/cp437-tools](https://github.com/kip93/cp437-tools) on branch `main`
   * [#e1a5f61](https://github.com/kip93/cp437-tools/commit/e1a5f61) Release 0.9.0
   * *On 29 Jun 2025, 01:12:39*
@@ -57,5 +59,5 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 8 Jul 2025, 08:52:54 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 8 Jul 2025, 09:50:13 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

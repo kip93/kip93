@@ -47,12 +47,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 
 * 🌟 Starred [Koenkk/zigbee-OTA](https://github.com/Koenkk/zigbee-OTA)
   * *On 22 Jul 2025, 16:06:33*
-* 🌟 Starred [fablabnbg/inkscape-silhouette](https://github.com/fablabnbg/inkscape-silhouette)
-  * *On 7 Jul 2025, 22:24:06*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 7 Aug 2025, 08:54:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 7 Aug 2025, 09:51:53 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🌟 Starred [brybrant/lava-lamp](https://github.com/brybrant/lava-lamp)
+  * *On 18 Aug 2025, 20:03:45*
 * ➡️ Pushed 61 commits in [kip93/nix](https://github.com/kip93/nix) on branch `master`
   * [#4e776a5](https://github.com/kip93/nix/commit/4e776a5) Merge pull request #13753 from obsidiansystems/simplify-derivation-goal
 
@@ -152,12 +154,10 @@ for now, but we&#39;ll be cleaning that up soon.
   * *On 14 Aug 2025, 16:20:35*
 * 💬 Commented on [#13743 Fix Git LFS SSH issues](https://github.com/NixOS/nix/pull/13743) from [NixOS/nix](https://github.com/NixOS/nix)
   * *On 13 Aug 2025, 16:03:14*
-* 🔍 Reviewed [#13743 Fix Git LFS SSH issues](https://github.com/NixOS/nix/pull/13743) in [NixOS/nix](https://github.com/NixOS/nix)
-  * *On 13 Aug 2025, 16:03:15*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Aug 2025, 08:51:31 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 Aug 2025, 09:48:59 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

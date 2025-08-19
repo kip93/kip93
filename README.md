@@ -45,6 +45,82 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 17 commits in [kip93/nix](https://github.com/kip93/nix) on branch `master`
+  * [#a92a996](https://github.com/kip93/nix/commit/a92a996) Merge pull request #13793 from xokdvium/c++23
+
+treewide: Bump C++ standard version to C++23
+  * [#5c0eff2](https://github.com/kip93/nix/commit/5c0eff2) Merge pull request #13784 from NixOS/queryPathInfo-dont-disconnect
+
+Fix client disconnect when queryPathInfo() returns a negative result
+  * [#03101cc](https://github.com/kip93/nix/commit/03101cc) treewide: Bump C++ standard version to C++23
+
+Compilers in nixpkgs have caught up and major distros
+should also have recent enough compilers. It would be
+nice to have newer features like more full featured
+ranges and deducing this.
+  * [#f3bd18f](https://github.com/kip93/nix/commit/f3bd18f) Merge pull request #13790 from xokdvium/fix-ci
+
+libstore: Fix formatting
+  * [#62018b3](https://github.com/kip93/nix/commit/62018b3) libstore: Fix formatting
+
+Wasn&#39;t caught by CI because the PR wasn&#39;t fresh enough
+and didn&#39;t have formatting checks enabled.
+  * [#dc2478f](https://github.com/kip93/nix/commit/dc2478f) Merge pull request #13340 from mkenigs/better-error
+
+Improve error when can&#39;t acquire db lock
+  * [#8283a20](https://github.com/kip93/nix/commit/8283a20) Merge pull request #13789 from xokdvium/nix-2.3-insecure-fix
+
+hydra: Fix otherNixes.nix_2_3
+  * [#051290b](https://github.com/kip93/nix/commit/051290b) hydra: Fix otherNixes.nix_2_3
+
+25.05 has it marked as insecure, but we don&#39;t care about it
+for testing purposes.
+  * [#b263bfc](https://github.com/kip93/nix/commit/b263bfc) Merge pull request #13785 from xokdvium/25.05-nixpkgs
+
+flake: nixpkgs: nixos-unstable -&gt; nixos-25.05-small
+  * [#73f6729](https://github.com/kip93/nix/commit/73f6729) git-blame-ignore-revs: Add nixfmt 1.0.0 reformat
+  * [#1d943f5](https://github.com/kip93/nix/commit/1d943f5) flake: Apply nixfmt 1.0.0
+  * [#aa0dc0d](https://github.com/kip93/nix/commit/aa0dc0d) Merge pull request #13757 from fzakaria/issue-13215
+
+libfetchers/git: add support for &#39;.&#39; in gitmodules
+  * [#fc33681](https://github.com/kip93/nix/commit/fc33681) flake: nixpkgs: nixos-unstable -&gt; nixos-25.05-small
+
+About time we upgraded our nixpkgs flake input. Ideally
+we&#39;d have automation to do this.
+
+Flake lock file updates:
+
+• Updated input &#39;nixpkgs&#39;:
+    &#39;github:NixOS/nixpkgs/adaa24fbf46737f3f1b5497bf64bae750f82942e?narHash=sha256-qhFMmDkeJX9KJwr5H32f1r7Prs7XbQWtO0h3V0a0rFY%3D&#39; (2025-05-13)
+  → &#39;github:NixOS/nixpkgs/cd32a774ac52caaa03bcfc9e7591ac8c18617ced?narHash=sha256-VtMQg02B3kt1oejwwrGn50U9Xbjgzfbb5TV5Wtx8dKI%3D&#39; (2025-08-17)
+  * [#f51779e](https://github.com/kip93/nix/commit/f51779e) RemoteStore::addToStoreFromDump(): Invalidate cache entry for added path
+  * [#c82b67f](https://github.com/kip93/nix/commit/c82b67f) BasicClientConnection::queryPathInfo(): Don&#39;t throw exception for invalid paths
+
+This caused RemoteStore::queryPathInfoUncached() to mark the
+connection as invalid (see
+RemoteStore::ConnectionHandle::~ConnectionHandle()), causing it to
+disconnect and reconnect after every lookup of an invalid path. This
+caused huge slowdowns in conjunction with
+19f89eb6842747570f262c003d977f02cb155968 and lazy-trees.
+  * [#b21304f](https://github.com/kip93/nix/commit/b21304f) libfetchers/git: Add support for &#39;.&#39; in gitsubmodules
+
+Period &#39;.&#39; is a special branch name in the gitsubmodule file which
+represents the branch of the parent repository [1].
+
+We add support for this by registering the ref of the InputAccessor to
+be that of the parent input if &#39;.&#39; is encountered.
+
+Fixes #13215
+
+[1]: man gitmodules
+  * [#d60a8ee](https://github.com/kip93/nix/commit/d60a8ee) Improve database lock permission error context
+
+Add helpful context when opening the Nix database lock fails due to
+permission errors. Instead of just showing &#34;Permission denied&#34;, now
+provides guidance about possible causes:
+- Running as non-root in a single-user Nix installation
+- Nix daemon may have crashed
+  * *On 19 Aug 2025, 18:19:46*
 * 🌟 Starred [brybrant/lava-lamp](https://github.com/brybrant/lava-lamp)
   * *On 18 Aug 2025, 20:03:45*
 * ➡️ Pushed 61 commits in [kip93/nix](https://github.com/kip93/nix) on branch `master`
@@ -152,12 +228,10 @@ See the comment in the code for details. Some of the code is duplicated
 for now, but we&#39;ll be cleaning that up soon.
   * *On 18 Aug 2025, 14:37:31*
   * *On 14 Aug 2025, 16:20:35*
-* 💬 Commented on [#13743 Fix Git LFS SSH issues](https://github.com/NixOS/nix/pull/13743) from [NixOS/nix](https://github.com/NixOS/nix)
-  * *On 13 Aug 2025, 16:03:14*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 19 Aug 2025, 21:47:34 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 19 Aug 2025, 22:48:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

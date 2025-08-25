@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🔍 Reviewed [#436199 python3Packages.pkg-about: 1.3.7 -&gt; 1.4.0](https://github.com/NixOS/nixpkgs/pull/436199) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 25 Aug 2025, 14:30:29*
 * ➡️ Pushed 17 commits in [kip93/nix](https://github.com/kip93/nix) on branch `master`
   * [#a92a996](https://github.com/kip93/nix/commit/a92a996) Merge pull request #13793 from xokdvium/c++23
 
@@ -227,11 +229,10 @@ of this.
 See the comment in the code for details. Some of the code is duplicated
 for now, but we&#39;ll be cleaning that up soon.
   * *On 18 Aug 2025, 14:37:31*
-  * *On 14 Aug 2025, 16:20:35*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 25 Aug 2025, 21:47:50 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 25 Aug 2025, 22:48:03 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

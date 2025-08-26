@@ -45,6 +45,9 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🔃 Opened [#13832 Handle empty ports with new URL parsing](https://github.com/NixOS/nix/pull/13832) in [NixOS/nix](https://github.com/NixOS/nix)
+                * 2 files changed `++18 --1`
+  * *On 26 Aug 2025, 15:56:49*
 * ⏺️ Created new branch fix/empty-ports in [kip93/nix](https://github.com/kip93/nix)
   * *On 26 Aug 2025, 15:41:45*
 * 🔃 Opened [#13831 Make self attrs overridable](https://github.com/NixOS/nix/pull/13831) in [NixOS/nix](https://github.com/NixOS/nix)
@@ -52,32 +55,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
   * *On 26 Aug 2025, 14:46:36*
 * ⏺️ Created new branch fix/self-override in [kip93/nix](https://github.com/kip93/nix)
   * *On 26 Aug 2025, 14:40:26*
-* ➡️ Pushed 6 commits in [kip93/nix](https://github.com/kip93/nix) on branch `master`
-  * [#1e16a54](https://github.com/kip93/nix/commit/1e16a54) Merge pull request #13828 from NixOS/readme-meeting-times
-
-Update work meeting time in README
-  * [#afade27](https://github.com/kip93/nix/commit/afade27) Update work meeting time in README
-  * [#c1e2396](https://github.com/kip93/nix/commit/c1e2396) Merge pull request #13826 from xokdvium/sqlite-zfs-hack
-
-SQLite: fsync db.sqlite-shm before opening the database
-  * [#ca94905](https://github.com/kip93/nix/commit/ca94905) Merge pull request #13825 from obsidiansystems/slight-optimize-s3ToHttpsURL
-
-`ParsedS3URL::toHttpsUrl` Slight optimize
-  * [#e492c64](https://github.com/kip93/nix/commit/e492c64) SQLite: fsync db.sqlite-shm before opening the database
-
-This is a workaround for https://github.com/NixOS/nix/issues/13515
-(opening the SQLite DB randomly taking a couple of seconds on ZFS).
-
-(cherry picked from commit a7fceb5eec404eabf461d4f1281bf4163c5d8ad0)
-  * [#e4e8a61](https://github.com/kip93/nix/commit/e4e8a61) `ParsedS3URL::toHttpsUrl` Slight optimize
-
-I didn&#39;t want to block that PR on further code review while I figured
-out these new (to us) C++23 goodies.
-  * *On 26 Aug 2025, 14:37:59*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 26 Aug 2025, 17:48:04 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 26 Aug 2025, 18:51:21 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 💬 Commented on [#13832 Handle empty ports with new URL parsing](https://github.com/NixOS/nix/issues/13832) from [NixOS/nix](https://github.com/NixOS/nix)
+  * *On 26 Aug 2025, 16:19:36*
 * 🔃 Opened [#13832 Handle empty ports with new URL parsing](https://github.com/NixOS/nix/pull/13832) in [NixOS/nix](https://github.com/NixOS/nix)
                 * 2 files changed `++18 --1`
   * *On 26 Aug 2025, 15:56:49*
@@ -53,12 +55,10 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 * 🔃 Opened [#13831 Make self attrs overridable](https://github.com/NixOS/nix/pull/13831) in [NixOS/nix](https://github.com/NixOS/nix)
                 * 3 files changed `++33 --8`
   * *On 26 Aug 2025, 14:46:36*
-* ⏺️ Created new branch fix/self-override in [kip93/nix](https://github.com/kip93/nix)
-  * *On 26 Aug 2025, 14:40:26*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 26 Aug 2025, 18:51:21 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 26 Aug 2025, 19:47:44 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

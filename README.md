@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🔍 Reviewed [#440581 python3Packages.pycyphal: 1.24.3 -&gt; 1.24.5](https://github.com/NixOS/nixpkgs/pull/440581) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 9 Sept 2025, 14:29:24*
 * 🔍 Reviewed [#439966 python3Packages.pkg-about: 1.4.0 -&gt; 1.5.0](https://github.com/NixOS/nixpkgs/pull/439966) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 4 Sept 2025, 13:37:13*
 * ➡️ Pushed 27 commits in [kip93/nix](https://github.com/kip93/nix) on branch `master`
@@ -143,12 +145,10 @@ code motion to be correct.
   * [#f0c7fbc](https://github.com/kip93/nix/commit/f0c7fbc) Add /etc/ssl/certs/ca-certificates.crt in docker.nix
   * *On 28 Aug 2025, 22:24:09*
   * *On 26 Aug 2025, 17:56:17*
-* 💬 Commented on [#13832 Handle empty ports with new URL parsing](https://github.com/NixOS/nix/issues/13832) from [NixOS/nix](https://github.com/NixOS/nix)
-  * *On 26 Aug 2025, 16:19:36*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 9 Sept 2025, 19:47:32 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 9 Sept 2025, 20:47:45 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

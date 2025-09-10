@@ -45,6 +45,137 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 66 commits in [kip93/nix](https://github.com/kip93/nix) on branch `fix/self-override`
+  * [#44d096f](https://github.com/kip93/nix/commit/44d096f) `nix_store_is_valid_path` param `path` should be `const`
+  * [#7e4608a](https://github.com/kip93/nix/commit/7e4608a) More `extern &#34;C&#34;` for FFI
+
+This allows us to catch the header and file getting out of sync, because
+we are not doing overloading by mistake.
+  * [#eb56b18](https://github.com/kip93/nix/commit/eb56b18) DerivationBuildingGoal: Make almost everything private
+  * [#c6ba120](https://github.com/kip93/nix/commit/c6ba120) `DerivationBuildingGoal::started` make local (lambda) variable
+  * [#3b9c510](https://github.com/kip93/nix/commit/3b9c510) `DerivationBuildingGoal::outputLocks` make local variable
+  * [#a63ac8d](https://github.com/kip93/nix/commit/a63ac8d) Inline `DerivationBuildingGoal::hookDone`
+  * [#51dadad](https://github.com/kip93/nix/commit/51dadad) Move up `assert(!hook);`
+
+We don&#39;t need to keep doing this every loop iteration, hook stuff it is only set
+above.
+  * [#7c1e5b3](https://github.com/kip93/nix/commit/7c1e5b3) In `DerivationBuildingGoal` Demote `actLock` to local variable
+
+It doesn&#39;t need to be a field any more, because we just use it with two
+loops.
+  * [#4c44a21](https://github.com/kip93/nix/commit/4c44a21) Get rid of a `tryToBuild` tail recursive call with loop
+
+This will make it easier to convert somethings to RAII.
+  * [#95c5779](https://github.com/kip93/nix/commit/95c5779) `DerivationBuildingGoal::tryToBuild` pull hook waiting out of switch
+
+Do this with a new `useHook` boolean we carefully make sure is set in
+all cases. This change isn&#39;t really worthwhile by itself, but it allows
+us to make further refactors (see later commits) which are
+well-motivated.
+  * [#c7603c6](https://github.com/kip93/nix/commit/c7603c6) Mark tmpDir as const
+  * [#2fe629c](https://github.com/kip93/nix/commit/2fe629c) Fix deadlock in SSHMaster::addCommonSSHOpts()
+
+When useMaster is true, startMaster() acquires the state lock, then
+calls isMasterRunning(), which calls addCommonSSHOpts(), which tries
+to acquire the state lock again, causing a deadlock.
+
+The solution is to move tmpDir out of the state. It doesn&#39;t need to be
+there in the first place because it never changes.
+  * [#1286d5d](https://github.com/kip93/nix/commit/1286d5d) Fix macOS HUP detection using kqueue instead of poll
+
+On macOS, poll() is fundamentally broken for HUP detection. It loses event
+subscriptions when EVFILT_READ fires without matching the requested events
+in the pollfd. This causes daemon processes to linger after client disconnect.
+
+This commit replaces poll() with kqueue on macOS, which is what poll()
+uses internally but without the bugs. The kqueue implementation uses
+EVFILT_READ which works for both sockets and pipes, avoiding EVFILT_SOCK
+which only works for sockets.
+
+On Linux and other platforms, we continue using poll() with the standard
+POSIX behavior where POLLHUP is always reported regardless of requested events.
+
+Based on work from the Lix project (https://git.lix.systems/lix-project/lix)
+commit 69ba3c92db3ecca468bcd5ff7849fa8e8e0fc6c0
+
+Fixes: https://github.com/NixOS/nix/issues/13847
+Related: https://git.lix.systems/lix-project/lix/issues/729
+Apple bugs: rdar://37537852 (poll), FB17447257 (poll)
+
+Co-authored-by: Jade Lovelace &lt;jadel@mercury.com&gt;
+  * [#cbcb434](https://github.com/kip93/nix/commit/cbcb434) libexpr: Convert Symbol comparisons to switch statements
+
+Now that Symbols are statically allocated at compile time with known IDs,
+we can use switch statements instead of if-else chains for Symbol comparisons.
+This provides better performance through compiler optimizations like jump tables.
+
+Changes:
+- Add public getId() method to Symbol class to access the internal ID
+- Convert if-else chains comparing Symbol values to switch statements
+  in primops.cc&#39;s derivationStrictInternal function
+- Simplify control flow by removing the &#39;handled&#39; flag and moving the
+  default attribute handling into the switch&#39;s default case
+
+The static and runtime Symbol IDs are guaranteed to match by the
+copyIntoSymbolTable implementation which asserts this invariant.
+
+Co-authored-by: John Ericson &lt;git@JohnEricson.me&gt;
+  * [#1935c19](https://github.com/kip93/nix/commit/1935c19) Merge pull request #13890 from xokdvium/mkstring-no-copy
+
+Re-introduce mkStringNoCopy (revised)
+  * [#6bdb5e8](https://github.com/kip93/nix/commit/6bdb5e8) Fix downstream MinGW build by not looking for Boost Regex
+  * [#34181af](https://github.com/kip93/nix/commit/34181af) libexpr: Use mkStringNoCopy in prim_typeOf
+
+This would lead to an unnecessary allocation. Not
+a significant issue by any means, but it doesn&#39;t
+have to allocate for most cases.
+  * [#d62cfc1](https://github.com/kip93/nix/commit/d62cfc1) Re-introduce mkStringNoCopy (revised)
+
+In b70d22b `mkStringNoCopy()` was renamed to
+`mkString()`, but this is a bit risky since in code like
+
+    vStringRegular.mkString(&#34;regular&#34;);
+
+we want to be sure that the right overload is picked. (This is
+especially problematic since the overload that takes an
+`std::string_view` *does* allocate.)  So let&#39;s be explicit.
+
+(Rebased from https://github.com/NixOS/nix/pull/11551)
+  * [#725a2f3](https://github.com/kip93/nix/commit/725a2f3) don&#39;t include derivation name in temporary build directories
+
+With the migration to /nix/var/nix/builds we now have failing builds
+when the derivation name is too long.
+This change removes the derivation name from the temporary build to have
+a predictable prefix length:
+
+Also see: https://github.com/NixOS/infra/pull/764
+for context.
+  * [#7b8ceb5](https://github.com/kip93/nix/commit/7b8ceb5) libutil, libexpr: #10542 abstract over getrusage for getting cpuTime stat and implement windows version
+
+Update src/libutil/windows/current-process.cc
+
+Prefer `nullptr` over `NULL`
+
+Co-authored-by: Sergei Zimmerman &lt;sergei@zimmerman.foo&gt;
+
+Update src/libutil/unix/current-process.cc
+
+Prefer C++ type casts
+
+Co-authored-by: Sergei Zimmerman &lt;sergei@zimmerman.foo&gt;
+
+Update src/libutil/windows/current-process.cc
+
+Prefer C++ type casts
+
+Co-authored-by: Sergei Zimmerman &lt;sergei@zimmerman.foo&gt;
+
+Update src/libutil/unix/current-process.cc
+
+Don&#39;t allocate exception
+
+Co-authored-by: Sergei Zimmerman &lt;sergei@zimmerman.foo&gt;
+  * *On 9 Sept 2025, 18:06:13*
 * 🔍 Reviewed [#440581 python3Packages.pycyphal: 1.24.3 -&gt; 1.24.5](https://github.com/NixOS/nixpkgs/pull/440581) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 9 Sept 2025, 14:29:24*
 * 🔍 Reviewed [#439966 python3Packages.pkg-about: 1.4.0 -&gt; 1.5.0](https://github.com/NixOS/nixpkgs/pull/439966) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
@@ -144,11 +275,10 @@ impossible for it to throw `BuildError`, which is sufficient for this
 code motion to be correct.
   * [#f0c7fbc](https://github.com/kip93/nix/commit/f0c7fbc) Add /etc/ssl/certs/ca-certificates.crt in docker.nix
   * *On 28 Aug 2025, 22:24:09*
-  * *On 26 Aug 2025, 17:56:17*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Sept 2025, 02:13:08 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Sept 2025, 03:03:03 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

@@ -45,6 +45,8 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* 🔍 Reviewed [#442957 python3Packages.pkg-about: 1.5.0 -&gt; 2.0.1](https://github.com/NixOS/nixpkgs/pull/442957) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  * *On 15 Sept 2025, 21:24:50*
 * ➡️ Pushed 74 commits in [kip93/nix](https://github.com/kip93/nix) on branch `fix/self-override`
   * [#5e46df9](https://github.com/kip93/nix/commit/5e46df9) Merge pull request #13957 from NixOS/drop-old-serve-protocol
 
@@ -249,12 +251,10 @@ Co-authored-by: Sergei Zimmerman &lt;sergei@zimmerman.foo&gt;
   * *On 9 Sept 2025, 18:06:13*
 * 🔍 Reviewed [#440581 python3Packages.pycyphal: 1.24.3 -&gt; 1.24.5](https://github.com/NixOS/nixpkgs/pull/440581) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 9 Sept 2025, 14:29:24*
-* 🔍 Reviewed [#439966 python3Packages.pkg-about: 1.4.0 -&gt; 1.5.0](https://github.com/NixOS/nixpkgs/pull/439966) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 4 Sept 2025, 13:37:13*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 16 Sept 2025, 03:49:45 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 16 Sept 2025, 04:48:03 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

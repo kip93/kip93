@@ -45,6 +45,77 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
+* ➡️ Pushed 74 commits in [kip93/nix](https://github.com/kip93/nix) on branch `fix/self-override`
+  * [#5e46df9](https://github.com/kip93/nix/commit/5e46df9) Merge pull request #13957 from NixOS/drop-old-serve-protocol
+
+ Remove support for serve protocol version &lt; 5
+  * [#9df99e0](https://github.com/kip93/nix/commit/9df99e0) Remove ServeProto::Command::ExportPaths
+
+This seems to have been unused since the build-remote.pl removal in February 2017 (27dc76c1a5dbe654465245ff5f6bc22e2c8902da).
+  * [#fa048e4](https://github.com/kip93/nix/commit/fa048e4) Remove support for serve protocol &lt; 5
+
+This was introduced in August 2018 (2825e05d21ecabc8b8524836baf0b9b05da993c6).
+  * [#8c789db](https://github.com/kip93/nix/commit/8c789db) Merge pull request #13956 from NixOS/drop-unused-addMultipleToStoreLegacy
+
+Drop unused LegacySSHStore::addMultipleToStoreLegacy()
+  * [#f8b15bf](https://github.com/kip93/nix/commit/f8b15bf) Merge pull request #13951 from NixOS/drop-old-daemon-protocol
+
+Remove support for worker protocol version &lt; 18
+  * [#5013b38](https://github.com/kip93/nix/commit/5013b38) Drop unused LegacySSHStore::addMultipleToStoreLegacy()
+  * [#247d16a](https://github.com/kip93/nix/commit/247d16a) Merge pull request #13954 from xokdvium/empty-list-elems-fix
+
+libexpr: Fix Value::mkList for empty lists
+  * [#d1d3ed6](https://github.com/kip93/nix/commit/d1d3ed6) Add release note
+  * [#7d26bf8](https://github.com/kip93/nix/commit/7d26bf8) Merge pull request #13906 from obsidiansystems/derivation-builder-simpler
+
+More `DerivationBuilder` simplifications
+  * [#9c186c3](https://github.com/kip93/nix/commit/9c186c3) Merge pull request #13932 from NixOS/move-pathInfoCache
+
+Reduce false sharing between pathInfoCache and Store
+  * [#2ed2c79](https://github.com/kip93/nix/commit/2ed2c79) libexpr: Fix Value::mkList for empty lists
+
+This code used to save the pointer to a small
+list allocated on the stack to the Value, which
+is unintended.
+  * [#3c331b7](https://github.com/kip93/nix/commit/3c331b7) Merge pull request #13953 from xokdvium/value-alignment
+
+libexpr: Overalign Value to 16 bytes
+  * [#4524235](https://github.com/kip93/nix/commit/4524235) libexpr: Overalign Value to 16 bytes
+
+This is necessary to make use of 128 bit atomics on x86_64 [1],
+since MOVAPD, MOVAPS, and MOVDQA need memory operands to be 16-byte
+aligned. We are not losing anything here, because Value is already 16-byte
+wide and Boehm allocates memory in granules that are 16 bytes by default
+on 64 bit systems [2].
+
+[1]: https://patchwork.sourceware.org/project/gcc/patch/YhxkfzGEEQ9KHbBC@tucnak/
+[2]: https://github.com/bdwgc/bdwgc/blob/54ac18ccbc5a833dd7edaff94a10ab9b65044d61/include/gc/gc_tiny_fl.h#L31-L33
+  * [#86d1995](https://github.com/kip93/nix/commit/86d1995) Remove WorkerProto::Op::ImportPaths
+
+This was obsoleted in May 2016 (538a64e8c314f23ba0c5d76201f1c20e71884a21).
+  * [#4fb61bc](https://github.com/kip93/nix/commit/4fb61bc) Remove WorkerProto::Op::ExportPath
+
+This was obsoleted in May 2016 (538a64e8c314f23ba0c5d76201f1c20e71884a21).
+  * [#137a551](https://github.com/kip93/nix/commit/137a551) Remove support for daemon protocol version &lt; 18
+
+Version 18 was introduced in November 2016 (4b8f1b0ec066a5b994747b1afd050f5f62d857f6).
+  * [#a73cf44](https://github.com/kip93/nix/commit/a73cf44) Reduce false sharing between pathInfoCache and Store
+
+`perf c2c` shows a lot of cacheline conflicts between purely read-only
+Store methods (like `parseStorePath()`) and the Sync classes. So
+allocate pathInfoCache separately to avoid that.
+  * [#2acb955](https://github.com/kip93/nix/commit/2acb955) Combine `DerivationBuilder::{prepareBuild,startBuilder}`
+
+After many other cleanups, it turns out there is no reason for these to
+be separate methods. We can combine them to simplify things.
+  * [#14c206f](https://github.com/kip93/nix/commit/14c206f) `DerivationBuilder` no more callback soup for logging
+
+`startBuilder` just returns the descriptor for the pipe now.
+  * [#7f3314a](https://github.com/kip93/nix/commit/7f3314a) `DerivationBuilder::initialOutputs` make `const`
+
+At one point I remember it did mutatate `initialOutputs`, but not
+anymore!
+  * *On 15 Sept 2025, 20:50:18*
 * ➡️ Pushed 66 commits in [kip93/nix](https://github.com/kip93/nix) on branch `fix/self-override`
   * [#44d096f](https://github.com/kip93/nix/commit/44d096f) `nix_store_is_valid_path` param `path` should be `const`
   * [#7e4608a](https://github.com/kip93/nix/commit/7e4608a) More `extern &#34;C&#34;` for FFI
@@ -180,105 +251,10 @@ Co-authored-by: Sergei Zimmerman &lt;sergei@zimmerman.foo&gt;
   * *On 9 Sept 2025, 14:29:24*
 * 🔍 Reviewed [#439966 python3Packages.pkg-about: 1.4.0 -&gt; 1.5.0](https://github.com/NixOS/nixpkgs/pull/439966) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   * *On 4 Sept 2025, 13:37:13*
-* ➡️ Pushed 27 commits in [kip93/nix](https://github.com/kip93/nix) on branch `master`
-  * [#2eacb3c](https://github.com/kip93/nix/commit/2eacb3c) Merge pull request #13851 from lovesegfault/http-binary-cache-store-once
-
-refactor(libstore/http-binary-cache-store): pragma once
-  * [#0590b13](https://github.com/kip93/nix/commit/0590b13) Revert &#34;Add a crude tracing mechansim for the build results&#34;
-
-The commit says it was added for CA testing --- manual I assume, since
-there is no use of this in the test suite. I don&#39;t think we need it any
-more, and I am not sure whether it was ever supposed to have made it to
-`master` either.
-
-This reverts commit 2eec2f765a86b8954f3a74ff148bc70a2d32be27.
-  * [#241abcc](https://github.com/kip93/nix/commit/241abcc) refactor(libstore/http-binary-cache-store): pragma once
-  * [#35978ca](https://github.com/kip93/nix/commit/35978ca) Merge pull request #13848 from obsidiansystems/factor-out-drv-check
-
-Factor out `checkOutputs`
-  * [#d1bdaef](https://github.com/kip93/nix/commit/d1bdaef) Factor out `checkOutputs`
-
-We currently just use this during the build of a derivation, but there is no
-reason we wouldn&#39;t want to use it elsewhere, e.g. to check the outputs
-of someone else&#39;s build after the fact.
-
-Moreover, I like pulling things out of `DerivationBuilder` that are
-simple and don&#39;t need access to all that state. While
-`DerivationBuilder` is unix-only, this refactor also make the code more
-portable &#34;for free&#34;.
-
-The header is private, at Eelco&#39;s request.
-  * [#6c8f5ef](https://github.com/kip93/nix/commit/6c8f5ef) Merge pull request #13802 from obsidiansystems/post-build-hook-later
-
-Move `runPostBuildHook` out of `DerivationBuilder`
-  * [#193ad73](https://github.com/kip93/nix/commit/193ad73) Merge pull request #13808 from obsidiansystems/derivation-builder-kvm
-
-Create `StringSet DerivationBuilderParams::systemFeatures`
-  * [#f4a0161](https://github.com/kip93/nix/commit/f4a0161) Create `StringSet DerivationBuilderParams::systemFeatures`
-
-Do this to avoid checking &#34;system features&#34; from the store config
-directly, because we rather not have `DerivationBuilder` depend on
-`Store`.
-  * [#79211b6](https://github.com/kip93/nix/commit/79211b6) Merge pull request #13846 from obsidiansystems/derivation-builder-params-aggregate-initialize
-
-No more `DerivationBuilderParams:` constructor!
-  * [#f5f9e32](https://github.com/kip93/nix/commit/f5f9e32) No more `DerivationBuilderParams:` constructor!
-
-I am not sure how/why this started working. C++23?
-  * [#564593b](https://github.com/kip93/nix/commit/564593b) Merge pull request #13837 from xokdvium/bump-nixpkgs
-
-flake: Update nixpkgs
-  * [#8ee7479](https://github.com/kip93/nix/commit/8ee7479) Merge pull request #13819 from obsidiansystems/relative-url
-
-Implement `parseURLRelative`, use in `HttpBinaryCacheStore`
-  * [#e82210b](https://github.com/kip93/nix/commit/e82210b) Implement `parseURLRelative`, use in `HttpBinaryCacheStore`
-
-This allows us to replace some very hacky and not correct string
-concatentation in `HttpBinaryCacheStore`. It will especially be useful
-with #13752, when today&#39;s hacks started to cause problems in practice,
-not just theory.
-
-Also make `fixGitURL` returned a `ParsedURL`.
-  * [#625477a](https://github.com/kip93/nix/commit/625477a) flake: Update nixpkgs
-
-• Updated input &#39;nixpkgs&#39;:
-    &#39;github:NixOS/nixpkgs/cd32a774ac52caaa03bcfc9e7591ac8c18617ced?narHash=sha256-VtMQg02B3kt1oejwwrGn50U9Xbjgzfbb5TV5Wtx8dKI%3D&#39; (2025-08-17)
-  → &#39;github:NixOS/nixpkgs/d98ce345cdab58477ca61855540999c86577d19d?narHash=sha256-O2CIn7HjZwEGqBrwu9EU76zlmA5dbmna7jL1XUmAId8%3D&#39; (2025-08-26)
-
-This update contains d1266642a8722f2a05e311fa151c1413d2b9653c, which
-is necessary for the TOML timestamps to get tested via nixpkgsLibTests job.
-  * [#231f3af](https://github.com/kip93/nix/commit/231f3af) Merge pull request #13835 from obsidiansystems/better-string-split
-
-Better `stringSplit`
-  * [#cc4aa70](https://github.com/kip93/nix/commit/cc4aa70) Better `stringSplit`
-
-I need this for some `ParseURL` improvements, but I figure this is
-better to send as its own PR.
-
-I changed the tests willy-nilly to sometimes use
-`std::list&lt;std::string_view&gt;` instead of `Strings` (which is
-`std::list&lt;std::string&gt;`).
-
-Co-Authored-By: Sergei Zimmerman &lt;sergei@zimmerman.foo&gt;
-  * [#0bd9d6a](https://github.com/kip93/nix/commit/0bd9d6a) Merge pull request #13832 from kip93/fix/empty-ports
-
-Handle empty ports with new URL parsing
-  * [#7989e31](https://github.com/kip93/nix/commit/7989e31) Handle empty ports
-  * [#0250d50](https://github.com/kip93/nix/commit/0250d50) Move `runPostBuildHook` out of `DerivationBuilder`
-
-It is suppposed to be &#34;post build&#34; not &#34;during the build&#34; after all. Its
-location now matches that for the hook case (see elsewhere in
-`DerivationdBuildingGoal`).
-
-It was in a try-catch before, and now it isn&#39;t, but I believe that it is
-impossible for it to throw `BuildError`, which is sufficient for this
-code motion to be correct.
-  * [#f0c7fbc](https://github.com/kip93/nix/commit/f0c7fbc) Add /etc/ssl/certs/ca-certificates.crt in docker.nix
-  * *On 28 Aug 2025, 22:24:09*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 16 Sept 2025, 02:13:39 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 16 Sept 2025, 03:03:41 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

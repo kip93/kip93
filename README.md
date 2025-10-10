@@ -249,12 +249,10 @@ Don&#39;t allocate exception
 
 Co-authored-by: Sergei Zimmerman &lt;sergei@zimmerman.foo&gt;
   * *On 9 Sept 2025, 18:06:13*
-* 🔍 Reviewed [#440581 python3Packages.pycyphal: 1.24.3 -&gt; 1.24.5](https://github.com/NixOS/nixpkgs/pull/440581) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-  * *On 9 Sept 2025, 14:29:24*
 </details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 10 Oct 2025, 03:51:08 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 10 Oct 2025, 04:48:24 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>

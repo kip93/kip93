@@ -45,10 +45,14 @@ I am a passionate self-taught backend software developer, and a strong advocate 
 <!-- Almost verbatim copy of https://github.com/lowlighter/metrics/blob/latest/source/templates/markdown/partials/activity.ejs, but restructured to be foldable. -->
 <summary><h3>📰 Recent activity</h3></summary>
 
-    Unexpected error</details>
+* 🌟 Starred [lm0ss/loomis-head-krita](https://github.com/lm0ss/loomis-head-krita)
+  * *On 8 Nov 2025, 17:15:19*
+* 🌟 Starred [josepablo-espinoza/krita-brush-size-docker](https://github.com/josepablo-espinoza/krita-brush-size-docker)
+  * *On 8 Nov 2025, 17:15:16*
+</details>
 
 
 <h6 align="right"><em>
     Generated with <a href="https://github.com/lowlighter/metrics/tree/latest/">lowlighter/metrics v3.34.0</a> 🛠️<br> <!-- VERSION => MAJOR.minor.patch -->
-    Last updated @ 4 Dec 2025, 05:48:50 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
+    Last updated @ 4 Dec 2025, 06:54:10 / All times UTC ⌚ <!-- meta.generated => DD/MM/YYYY, hh:mm -->
 </em></h6>
